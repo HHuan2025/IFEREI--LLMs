@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "entity": "一串红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "鼠尾草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打",
+      "type": "疾病"
+    },
+    {
+      "entity": "脱臼肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一串红",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "一串红",
+      "predicate": "属于属",
+      "tail": "鼠尾草属"
+    },
+    {
+      "head": "一串红",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "一串红",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "一串红",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "一串红",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "一串红",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "一串红",
+      "predicate": "具有功能",
+      "tail": "凉血"
+    },
+    {
+      "head": "一串红",
+      "predicate": "治疗",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "一串红",
+      "predicate": "治疗",
+      "tail": "跌打"
+    },
+    {
+      "head": "一串红",
+      "predicate": "治疗",
+      "tail": "脱臼肿痛"
+    },
+    {
+      "head": "一串红",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

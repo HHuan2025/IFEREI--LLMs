@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "entity": "苍朮",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "苍朮属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "明目",
+      "type": "功能"
+    },
+    {
+      "entity": "湿困脾胃",
+      "type": "疾病"
+    },
+    {
+      "entity": "倦怠嗜卧",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸痞腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "表证夹湿",
+      "type": "疾病"
+    },
+    {
+      "entity": "头身重痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痹证湿胜",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢节酸痛重着",
+      "type": "疾病"
+    },
+    {
+      "entity": "痿躄",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜盲",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "苍朮",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "属于属",
+      "tail": "苍朮属"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有功能",
+      "tail": "燥湿健脾"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "具有功能",
+      "tail": "明目"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "湿困脾胃"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "倦怠嗜卧"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "胸痞腹胀"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "痰饮"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "湿肿"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "表证夹湿"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "头身重痛"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "痹证湿胜"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "肢节酸痛重着"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "痿躄"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "治疗",
+      "tail": "夜盲"
+    }
+  ]
+}

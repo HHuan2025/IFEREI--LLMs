@@ -1,0 +1,122 @@
+{
+  "entities": [
+    {
+      "entity": "南方红豆杉",
+      "type": "药用植物"
+    },
+    {
+      "entity": "红豆杉科",
+      "type": "科"
+    },
+    {
+      "entity": "红豆杉属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南方红豆杉",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "3-6钱",
+      "type": "器官"
+    },
+    {
+      "entity": "炒热",
+      "type": "用法"
+    },
+    {
+      "entity": "水煎服",
+      "type": "剂型"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南方红豆杉",
+      "predicate": "属于科",
+      "tail": "红豆杉科"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "属于属",
+      "tail": "红豆杉属"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "秋季",
+      "predicate": "采收时间",
+      "tail": "南方红豆杉"
+    },
+    {
+      "head": "晒干",
+      "predicate": "采收加工",
+      "tail": "南方红豆杉"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "治疗",
+      "tail": "蛔虫病"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "内服",
+      "tail": "内服"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "用法用量",
+      "tail": "3-6钱"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "用法",
+      "tail": "炒热"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "剂型",
+      "tail": "水煎服"
+    }
+  ]
+}

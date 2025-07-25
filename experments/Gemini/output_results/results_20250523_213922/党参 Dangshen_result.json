@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "entity": "党参",
+      "type": "中药名"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "党参属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "东党",
+      "type": "中药名"
+    },
+    {
+      "entity": "潞党",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿自汗症",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄芪",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄柏",
+      "type": "中药名"
+    },
+    {
+      "entity": "脱肛",
+      "type": "疾病"
+    },
+    {
+      "entity": "升麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "党参",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "党参",
+      "predicate": "属于属",
+      "tail": "党参属"
+    },
+    {
+      "head": "党参",
+      "predicate": "药用部位",
+      "tail": "干燥根"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿自汗症"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿口疮"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "脱肛"
+    }
+  ]
+}

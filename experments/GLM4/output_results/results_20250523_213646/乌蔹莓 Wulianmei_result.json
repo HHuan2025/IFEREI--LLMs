@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "entity": "乌蔹莓",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葡萄科",
+      "type": "科"
+    },
+    {
+      "entity": "乌蔹莓属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "项下热肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "虾蟆瘟",
+      "type": "疾病"
+    },
+    {
+      "entity": "五叶藤",
+      "type": "药材"
+    },
+    {
+      "entity": "臁疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌蔹莓",
+      "predicate": "属于科",
+      "tail": "葡萄科"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "属于属",
+      "tail": "乌蔹莓属"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "五叶藤",
+      "predicate": "治疗",
+      "tail": "项下热肿"
+    },
+    {
+      "head": "五叶藤",
+      "predicate": "治疗",
+      "tail": "虾蟆瘟"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "治疗",
+      "tail": "臁疮"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位",
+      "tail": "叶"
+    }
+  ]
+}

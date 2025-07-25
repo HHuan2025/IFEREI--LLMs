@@ -1,0 +1,46 @@
+{
+  "entities": [
+    {
+      "entity": "刺梨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蔷薇科",
+      "type": "科"
+    },
+    {
+      "entity": "蔷薇属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺梨",
+      "predicate": "属于科",
+      "tail": "蔷薇科"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "属于属",
+      "tail": "蔷薇属"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    }
+  ]
+}

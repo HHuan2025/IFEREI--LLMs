@@ -1,0 +1,486 @@
+{
+  "entities": [
+    {
+      "entity": "丁香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桃金娘科",
+      "type": "科"
+    },
+    {
+      "entity": "番樱桃属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名:丁香",
+      "type": "中药名"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名:母丁香",
+      "type": "中药名"
+    },
+    {
+      "entity": "9月至次年3月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "性味"
+    },
+    {
+      "entity": "温中",
+      "type": "功能"
+    },
+    {
+      "entity": "暖肾",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆",
+      "type": "功能"
+    },
+    {
+      "entity": "祛寒疗疝",
+      "type": "功能"
+    },
+    {
+      "entity": "呃逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "反胃",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "心腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痃癖",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "癣症",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "0.3-1钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "暴心气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃寒呕逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "风冷齿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙宣",
+      "type": "疾病"
+    },
+    {
+      "entity": "口臭",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇人阴冷",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "栓剂",
+      "type": "用法"
+    },
+    {
+      "entity": "伤寒咳噫不止",
+      "type": "疾病"
+    },
+    {
+      "entity": "哕逆不定",
+      "type": "疾病"
+    },
+    {
+      "entity": "丁香一两",
+      "type": "中药名"
+    },
+    {
+      "entity": "干柿蒂一两",
+      "type": "中药名"
+    },
+    {
+      "entity": "人参汤",
+      "type": "中药名"
+    },
+    {
+      "entity": "简要济众方",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿吐逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "半夏",
+      "type": "中药名"
+    },
+    {
+      "entity": "百一选方",
+      "type": "文献"
+    },
+    {
+      "entity": "朝食暮吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘蔗汁",
+      "type": "中药名"
+    },
+    {
+      "entity": "姜汁",
+      "type": "中药名"
+    },
+    {
+      "entity": "摘元方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丁香",
+      "predicate": "属于科",
+      "tail": "桃金娘科"
+    },
+    {
+      "head": "丁香",
+      "predicate": "属于属",
+      "tail": "番樱桃属"
+    },
+    {
+      "head": "丁香",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有功能",
+      "tail": "温中"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有功能",
+      "tail": "暖肾"
+    },
+    {
+      "head": "丁香",
+      "predicate": "具有功能",
+      "tail": "降逆"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "呃逆"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "呕吐"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "反胃"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "心腹冷痛"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "痃癖"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "疝气"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "癣症"
+    },
+    {
+      "head": "丁香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "丁香",
+      "predicate": "用法用量",
+      "tail": "0.3-1钱"
+    },
+    {
+      "head": "丁香",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "丁香",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "丁香",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有功能",
+      "tail": "温中"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有功能",
+      "tail": "降逆"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "具有功能",
+      "tail": "祛寒疗疝"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "暴心气痛"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "胃寒呕逆"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "风冷齿痛"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "牙宣"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "口臭"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "妇人阴冷"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "主治疾病",
+      "tail": "小儿疝气"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "用法用量",
+      "tail": "0.3-1钱"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "用法",
+      "tail": "栓剂"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "伤寒咳噫不止"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "哕逆不定"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "丁香一两"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "干柿蒂一两"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "人参汤"
+    },
+    {
+      "head": "丁香",
+      "predicate": "记载于文献",
+      "tail": "简要济众方"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "小儿吐逆"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "半夏"
+    },
+    {
+      "head": "丁香",
+      "predicate": "记载于文献",
+      "tail": "百一选方"
+    },
+    {
+      "head": "丁香",
+      "predicate": "主治疾病",
+      "tail": "朝食暮吐"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "甘蔗汁"
+    },
+    {
+      "head": "丁香",
+      "predicate": "包含中药",
+      "tail": "姜汁"
+    },
+    {
+      "head": "丁香",
+      "predicate": "记载于文献",
+      "tail": "摘元方"
+    },
+    {
+      "head": "丁香",
+      "predicate": "采收时间",
+      "tail": "9月至次年3月"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "母丁香",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    }
+  ]
+}

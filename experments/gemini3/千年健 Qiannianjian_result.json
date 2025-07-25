@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "entity": "千年健",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "疾病"
+    },
+    {
+      "entity": "千年健属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "千年健",
+      "type": "药材"
+    },
+    {
+      "entity": "秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "壮筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢节酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "器官"
+    },
+    {
+      "entity": "煎汤",
+      "type": "疾病"
+    },
+    {
+      "entity": "1.5-3钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "柑园小识",
+      "type": "文献"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "本草再新",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千年健",
+      "predicate": "具有颜色",
+      "tail": "天南星科"
+    },
+    {
+      "head": "千年健",
+      "predicate": "属于属",
+      "tail": "千年健属"
+    },
+    {
+      "head": "千年健",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "秋",
+      "predicate": "采收时间",
+      "tail": "千年健"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性味",
+      "tail": "伪尾实体491"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性味",
+      "tail": "伪尾实体962"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "伪尾实体503"
+    },
+    {
+      "head": "千年健",
+      "predicate": "位于",
+      "tail": "伪尾实体667"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "肢节酸痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "筋骨痿软"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "痈疽疮肿"
+    },
+    {
+      "head": "千年健",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "千年健",
+      "predicate": "用法用量",
+      "tail": "1.5-3钱"
+    },
+    {
+      "head": "千年健",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "千年健",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "千年健",
+      "predicate": "位于",
+      "tail": "柑园小识"
+    },
+    {
+      "head": "千年健",
+      "predicate": "记载于文献",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "千年健",
+      "predicate": "记载于文献",
+      "tail": "本草再新"
+    }
+  ]
+}

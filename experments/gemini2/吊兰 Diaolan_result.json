@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "entity": "吊兰",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "吊兰属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "痰热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "文山中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吊兰",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "属于属",
+      "tail": "吊兰属"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "痰热咳嗽"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "吊兰",
+      "predicate": "治疗",
+      "tail": "烧伤"
+    },
+    {
+      "head": "骨折",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "烧伤",
+      "predicate": "记载于文献",
+      "tail": "文山中草药"
+    }
+  ]
+}

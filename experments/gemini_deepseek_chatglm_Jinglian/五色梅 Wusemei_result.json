@@ -1,0 +1,1302 @@
+{
+  "entities": [
+    {
+      "entity": "五色梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "马缨丹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五色梅根",
+      "type": "药材"
+    },
+    {
+      "entity": "五色梅叶",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒散结",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤暑头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬痰核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿毒疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "广州部队常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "肺结核咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "马缨丹花",
+      "type": "药材"
+    },
+    {
+      "entity": "海南岛常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "高热不退",
+      "type": "疾病"
+    },
+    {
+      "entity": "石膏",
+      "type": "药材"
+    },
+    {
+      "entity": "风火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "嫩枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "五色梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "马缨丹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五色梅根",
+      "type": "药材"
+    },
+    {
+      "entity": "五色梅叶",
+      "type": "药材"
+    },
+    {
+      "entity": "五色梅",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "禁忌"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒散结",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤暑头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬痰核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿毒疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水含濑",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁冲酒",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "绞汁涂",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水含漱",
+      "type": "用法"
+    },
+    {
+      "entity": "广州部队常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "海南岛常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "广西中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "全年均可采",
+      "type": "采收时间"
+    },
+    {
+      "entity": "5-8月采收",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "五色梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "马缨丹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五色梅根",
+      "type": "药材"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五色梅叶",
+      "type": "药材"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五色梅花",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒散结",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤暑头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬痰核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿毒疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "广州部队常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "海南岛常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "广西中药志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五色梅",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于属",
+      "tail": "马缨丹属"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "解毒散结"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "胃火牙痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "咽喉炎"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "瘰疬痰核"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "祛风止痒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "痈肿毒疮"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "肺痨吐血"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "腹痛吐泻"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "阴痒"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "药用部位为",
+      "tail": "嫩枝叶"
+    },
+    {
+      "head": "皮炎",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "湿疹",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "瘙痒",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "肺结核咯血",
+      "predicate": "记载于文献",
+      "tail": "海南岛常用中草药手册"
+    },
+    {
+      "head": "感冒",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "流感",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "高热不退",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "风火牙痛",
+      "predicate": "记载于文献",
+      "tail": "广西中药志"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于属",
+      "tail": "马缨丹属"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "解毒散结"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "祛风止痒"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "胃火牙痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "咽喉炎"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "瘰疬痰核"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "痈肿毒疮"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "肺痨吐血"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "腹痛吐泻"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "阴痒"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "煎水含濑"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "捣汁冲酒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "捣敷"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "绞汁涂"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "风火牙痛"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "肺结核咯血"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "高热不退"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "记载于文献",
+      "tail": "广西中药志"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "记载于文献",
+      "tail": "海南岛常用中草药手册"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "采收时间",
+      "tail": "5-8月采收"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于属",
+      "tail": "马缨丹属"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "具有功能",
+      "tail": "解毒散结"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "胃火牙痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "咽喉炎"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "五色梅根",
+      "predicate": "治疗",
+      "tail": "瘰疬痰核"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "具有功能",
+      "tail": "祛风止痒"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "痈肿毒疮"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "五色梅叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "肺痨吐血"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "伤暑头痛"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "腹痛吐泻"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "阴痒"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "记载于文献",
+      "tail": "广州部队常用中草药手册"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "记载于文献",
+      "tail": "海南岛常用中草药手册"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "记载于文献",
+      "tail": "广西中药志"
+    }
+  ]
+}

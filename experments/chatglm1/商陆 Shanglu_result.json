@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "entity": "商陆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "商陆科",
+      "type": "科"
+    },
+    {
+      "entity": "商陆属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "抗菌",
+      "type": "功能"
+    },
+    {
+      "entity": "抗炎",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶疮",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "商陆",
+      "predicate": "属于科",
+      "tail": "商陆科"
+    },
+    {
+      "head": "商陆",
+      "predicate": "属于属",
+      "tail": "商陆属"
+    },
+    {
+      "head": "商陆",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "祛痰"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "平喘"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "抗菌"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "抗炎"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "胀满"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "喉痹"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "治疗",
+      "tail": "恶疮"
+    }
+  ]
+}

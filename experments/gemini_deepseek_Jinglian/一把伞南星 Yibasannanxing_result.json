@@ -1,0 +1,876 @@
+{
+  "entities": [
+    {
+      "entity": "一把伞南星",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "天南星属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "天南星",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风定惊",
+      "type": "化学物质"
+    },
+    {
+      "entity": "消肿散结",
+      "type": "功能"
+    },
+    {
+      "entity": "中风痰壅",
+      "type": "化学物质"
+    },
+    {
+      "entity": "口眼喎斜",
+      "type": "疾病"
+    },
+    {
+      "entity": "半身不遂",
+      "type": "疾病"
+    },
+    {
+      "entity": "癫癎",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "破伤风",
+      "type": "疾病"
+    },
+    {
+      "entity": "风痰眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑折伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "0.8-1.5钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "疾病"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "研末撒",
+      "type": "用法"
+    },
+    {
+      "entity": "调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "医学启源",
+      "type": "文献"
+    },
+    {
+      "entity": "本草汇言",
+      "type": "文献"
+    },
+    {
+      "entity": "药性论",
+      "type": "文献"
+    },
+    {
+      "entity": "一把伞南星",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "天南星属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "天南星",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季叶黄",
+      "type": "采收时间"
+    },
+    {
+      "entity": "搓洗去皮",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "硫磺熏成白色",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿散结",
+      "type": "功能"
+    },
+    {
+      "entity": "中风痰壅",
+      "type": "疾病"
+    },
+    {
+      "entity": "口眼喎斜",
+      "type": "疾病"
+    },
+    {
+      "entity": "半身不遂",
+      "type": "疾病"
+    },
+    {
+      "entity": "癫癎",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "破伤风",
+      "type": "疾病"
+    },
+    {
+      "entity": "风痰眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑折伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "入丸、散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末撒或调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "医学启源",
+      "type": "文献"
+    },
+    {
+      "entity": "本草汇言",
+      "type": "文献"
+    },
+    {
+      "entity": "药性论",
+      "type": "文献"
+    },
+    {
+      "entity": "一把伞南星",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "天南星属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "天南星",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿散结",
+      "type": "功能"
+    },
+    {
+      "entity": "中风痰壅",
+      "type": "疾病"
+    },
+    {
+      "entity": "口眼喎斜",
+      "type": "疾病"
+    },
+    {
+      "entity": "半身不遂",
+      "type": "疾病"
+    },
+    {
+      "entity": "癫癎",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "破伤风",
+      "type": "疾病"
+    },
+    {
+      "entity": "风痰眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑折伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "医学启源",
+      "type": "文献"
+    },
+    {
+      "entity": "本草汇言",
+      "type": "文献"
+    },
+    {
+      "entity": "风眩目转",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝瘕肠痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤寒时疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "强阴",
+      "type": "功能"
+    },
+    {
+      "entity": "药性论",
+      "type": "文献"
+    },
+    {
+      "entity": "有毒",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一把伞南星",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于属",
+      "tail": "天南星属"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "块茎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "包含中药",
+      "tail": "天南星"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "采收时间",
+      "tail": "伪尾实体907"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "伪尾实体627"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "燥湿化痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "祛风定惊"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "中风痰壅"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "口眼喎斜"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "伪尾实体573"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "癫癎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "惊风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "破伤风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风痰眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "喉痹"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "跌扑折伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "0.8-1.5钱"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "研末撒"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "外用",
+      "tail": "调敷"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于属",
+      "tail": "天南星属"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "中药名",
+      "tail": "天南星"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "采收时间",
+      "tail": "秋季叶黄"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "采收加工",
+      "tail": "搓洗去皮"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "采收加工",
+      "tail": "硫磺熏成白色"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "燥湿化痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "祛风定惊"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "中风痰壅"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "口眼喎斜"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "半身不遂"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "癫癎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "惊风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "破伤风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风痰眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "喉痹"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "跌扑折伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "入丸、散"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "外用",
+      "tail": "研末撒或调敷"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "应用实例",
+      "tail": "医学启源"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "应用实例",
+      "tail": "本草汇言"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "应用实例",
+      "tail": "药性论"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于属",
+      "tail": "天南星属"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "天南星",
+      "predicate": "具有性味",
+      "tail": "一把伞南星"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "燥湿化痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "祛风定惊"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "中风痰壅"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "口眼喎斜"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "半身不遂"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "癫癎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "惊风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "破伤风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风痰眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "喉痹"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "跌扑折伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "上焦痰及头眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "记载于文献",
+      "tail": "医学启源"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "记载于文献",
+      "tail": "本草汇言"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风眩目转"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "疝瘕肠痛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "伤寒时疾"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "强阴"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "记载于文献",
+      "tail": "药性论"
+    }
+  ]
+}

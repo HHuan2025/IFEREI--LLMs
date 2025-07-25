@@ -1,0 +1,70 @@
+{
+  "entities": [
+    {
+      "entity": "一品红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科属归类"
+    },
+    {
+      "entity": "大戟属",
+      "type": "生境分布"
+    },
+    {
+      "entity": "墨西哥",
+      "type": "原产地"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一品红",
+      "predicate": "科属归类",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一品红",
+      "predicate": "生境分布",
+      "tail": "大戟属"
+    },
+    {
+      "head": "一品红",
+      "predicate": "原产地",
+      "tail": "墨西哥"
+    },
+    {
+      "head": "一品红",
+      "predicate": "药用部位",
+      "tail": "全株"
+    },
+    {
+      "head": "一品红",
+      "predicate": "中药名",
+      "tail": "一品红"
+    },
+    {
+      "head": "一品红",
+      "predicate": "性味功能",
+      "tail": "苦、涩，凉，有毒"
+    },
+    {
+      "head": "一品红",
+      "predicate": "主治用法",
+      "tail": "月经过多，跌打肿痛，骨折，外伤出血"
+    },
+    {
+      "head": "一品红",
+      "predicate": "采收加工",
+      "tail": "夏、秋季割取地上部分，鲜用或晒干"
+    }
+  ]
+}

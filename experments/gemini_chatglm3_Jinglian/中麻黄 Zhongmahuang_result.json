@@ -1,0 +1,938 @@
+{
+  "entities": [
+    {
+      "entity": "中麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麻黄科",
+      "type": "科"
+    },
+    {
+      "entity": "麻黄属",
+      "type": "属"
+    },
+    {
+      "entity": "草质茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "麻黄根",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "发汗解表",
+      "type": "疾病"
+    },
+    {
+      "entity": "宣肺平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "止汗",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸闷喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "风水浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "体虚自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚阳亢者",
+      "type": "疾病"
+    },
+    {
+      "entity": "有表邪者",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "身疼腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶风无汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤寒论",
+      "type": "文献"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "药材"
+    },
+    {
+      "entity": "黄芪",
+      "type": "药材"
+    },
+    {
+      "entity": "虚劳盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "圣济总录",
+      "type": "文献"
+    },
+    {
+      "entity": "假植物347",
+      "type": "疾病"
+    },
+    {
+      "entity": "中麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麻黄科",
+      "type": "科"
+    },
+    {
+      "entity": "麻黄属",
+      "type": "属"
+    },
+    {
+      "entity": "草质茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "麻黄根",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "功能"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "功能"
+    },
+    {
+      "entity": "发汗解表",
+      "type": "功能"
+    },
+    {
+      "entity": "宣肺平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "止汗",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸闷喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "风水浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "身疼腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶风无汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄芪",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麻黄科",
+      "type": "科"
+    },
+    {
+      "entity": "麻黄属",
+      "type": "属"
+    },
+    {
+      "entity": "草质茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "发汗解表",
+      "type": "功能"
+    },
+    {
+      "entity": "宣肺平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "止汗",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸闷喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "风水浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "抽鼻",
+      "type": "用法"
+    },
+    {
+      "entity": "调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "体虚自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚阳亢",
+      "type": "疾病"
+    },
+    {
+      "entity": "表邪",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桂枝",
+      "type": "药用植物"
+    },
+    {
+      "entity": "甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "杏仁",
+      "type": "药用植物"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "药用植物"
+    },
+    {
+      "entity": "黄芪",
+      "type": "药用植物"
+    },
+    {
+      "entity": "伤寒论",
+      "type": "文献"
+    },
+    {
+      "entity": "圣济总录",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中麻黄",
+      "predicate": "具有性味",
+      "tail": "麻黄科"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于属",
+      "tail": "伪尾实体945"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "草质茎"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "药用部位为",
+      "tail": "麻黄"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "药用部位为",
+      "tail": "麻黄根"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "发汗解表"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "宣肺平喘"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "止汗"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "胸闷喘咳"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风水浮肿"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "伪尾实体696"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "伪尾实体756"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "丸"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "散"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法用量",
+      "tail": "2-9克"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "研末抽鼻"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "调敷"
+    },
+    {
+      "head": "体虚自汗",
+      "predicate": "具有性味",
+      "tail": "伪尾实体159"
+    },
+    {
+      "head": "盗汗",
+      "predicate": "具有性味",
+      "tail": "草质茎"
+    },
+    {
+      "head": "虚喘",
+      "predicate": "具有性味",
+      "tail": "草质茎"
+    },
+    {
+      "head": "阴虚阳亢者",
+      "predicate": "治疗",
+      "tail": "草质茎"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "丸"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "散"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法用量",
+      "tail": "5-10克"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "研粉撒扑"
+    },
+    {
+      "head": "有表邪者",
+      "predicate": "具有性味",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "头痛发热",
+      "predicate": "应用举例",
+      "tail": "草质茎"
+    },
+    {
+      "head": "身疼腰痛",
+      "predicate": "应用举例",
+      "tail": "草质茎"
+    },
+    {
+      "head": "骨节疼痛",
+      "predicate": "应用举例",
+      "tail": "草质茎"
+    },
+    {
+      "head": "恶风无汗",
+      "predicate": "应用举例",
+      "tail": "草质茎"
+    },
+    {
+      "head": "伤寒论",
+      "predicate": "应用举例",
+      "tail": "草质茎"
+    },
+    {
+      "head": "虚劳盗汗",
+      "predicate": "应用举例",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "圣济总录",
+      "predicate": "应用举例",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于科",
+      "tail": "麻黄科"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于属",
+      "tail": "麻黄属"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "草质茎"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "麻黄"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "麻黄根"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "发汗解表"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "宣肺平喘"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "止汗"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "胸闷喘咳"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风水浮肿"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "支气管哮喘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "麻黄根",
+      "predicate": "具有性味",
+      "tail": "牡蛎"
+    },
+    {
+      "head": "麻黄根",
+      "predicate": "具有性味",
+      "tail": "黄芪"
+    },
+    {
+      "head": "麻黄根",
+      "predicate": "治疗",
+      "tail": "虚劳盗汗"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于科",
+      "tail": "麻黄科"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于属",
+      "tail": "麻黄属"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "草质茎"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位为",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "发汗解表"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "宣肺平喘"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "止汗"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "胸闷喘咳"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "风水浮肿"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "治疗",
+      "tail": "支气管哮喘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法",
+      "tail": "抽鼻"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "用法",
+      "tail": "调敷"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法",
+      "tail": "研粉撒扑"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "记载于文献",
+      "tail": "伤寒论"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "记载于文献",
+      "tail": "圣济总录"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "entity": "何首乌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蓼科",
+      "type": "科"
+    },
+    {
+      "entity": "蓼属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大肠风毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻血",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨软风",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝疼",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "腋疽",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜交藤",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "何首乌",
+      "predicate": "属于科",
+      "tail": "蓼科"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "属于属",
+      "tail": "蓼属"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位",
+      "tail": "块根"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位",
+      "tail": "藤茎"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "治疗",
+      "tail": "大肠风毒"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "治疗",
+      "tail": "泻血"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "治疗",
+      "tail": "骨软风"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "治疗",
+      "tail": "腰膝疼"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "治疗",
+      "tail": "瘙痒"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "治疗",
+      "tail": "腋疽"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "entity": "凉粉草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "凉粉草属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部份",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名:凉粉草",
+      "type": "中药名"
+    },
+    {
+      "entity": "暑热",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "糖尿病",
+      "type": "疾病"
+    },
+    {
+      "entity": "败酱草",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凉粉草",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "属于属",
+      "tail": "凉粉草属"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "药用部位",
+      "tail": "地上部份"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "暑热"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "糖尿病"
+    },
+    {
+      "head": "中药名:凉粉草",
+      "predicate": "属于",
+      "tail": "凉粉草"
+    }
+  ]
+}

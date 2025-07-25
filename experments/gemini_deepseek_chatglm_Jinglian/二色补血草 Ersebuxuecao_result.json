@@ -1,0 +1,978 @@
+{
+  "entities": [
+    {
+      "entity": "二色补血草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药材"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气血",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "病后体弱",
+      "type": "器官"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "药材"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "补血草",
+      "type": "器官"
+    },
+    {
+      "entity": "子宫功能型出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "50％注射液",
+      "type": "药材"
+    },
+    {
+      "entity": "每次2毫升",
+      "type": "用法用量"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根或全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药材"
+    },
+    {
+      "entity": "春、秋、冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘、微苦，微温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气血，散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "病后体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "子宫功能型出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "补血草30克，水煎服；或制成50％注射液，每次2毫升",
+      "type": "应用实例"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气血",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "病后体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气血",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "病后体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "二色补血草",
+      "type": "药材"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气血",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "病后体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法"
+    },
+    {
+      "entity": "子宫功能型出血",
+      "type": "应用实例"
+    },
+    {
+      "entity": "补血草",
+      "type": "应用实例"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "采收加工",
+      "tail": "春"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "采收加工",
+      "tail": "秋"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "采收加工",
+      "tail": "冬季"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "益气血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "病后体弱"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "伪尾实体742"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "补血草",
+      "predicate": "治疗",
+      "tail": "子宫功能型出血"
+    },
+    {
+      "head": "补血草",
+      "predicate": "用法用量",
+      "tail": "30克"
+    },
+    {
+      "head": "补血草",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "补血草",
+      "predicate": "剂型",
+      "tail": "伪尾实体617"
+    },
+    {
+      "head": "补血草",
+      "predicate": "用法用量",
+      "tail": "每次2毫升"
+    },
+    {
+      "head": "补血草",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于属",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "根或全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "采收时间",
+      "tail": "春、秋、冬季"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "采收加工",
+      "tail": "洗净，晒干"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "甘、微苦，微温"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "益气血，散瘀止血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "病后体弱"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "用法",
+      "tail": "内服:煎汤，15-30克"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "子宫功能型出血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "应用实例",
+      "tail": "补血草30克，水煎服；或制成50％注射液，每次2毫升"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于属",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "益气血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "病后体弱"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于属",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "益气血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "病后体弱"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于属",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "益气血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "病后体弱"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "用法",
+      "tail": "15-30克"
+    },
+    {
+      "head": "子宫功能型出血",
+      "predicate": "应用实例",
+      "tail": "补血草"
+    },
+    {
+      "head": "子宫功能型出血",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一枝黄花属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药物类型"
+    },
+    {
+      "entity": "野黄菊",
+      "type": "药物类型"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "一点红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性扁桃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "蟛蜞菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "土牛膝",
+      "type": "药用植物"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪肺",
+      "type": "药物类型"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一枝黄花",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于属",
+      "tail": "一枝黄花属"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "中药名",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "中药名",
+      "tail": "野黄菊"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "忍冬藤"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "一点红"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "急性扁桃炎"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "蟛蜞菊"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "土牛膝"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "江西草药",
+      "predicate": "文献记载",
+      "tail": "一枝黄花"
+    }
+  ]
+}

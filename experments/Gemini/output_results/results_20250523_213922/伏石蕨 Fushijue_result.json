@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "entity": "伏石蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "水龙骨科",
+      "type": "科"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "螺厣草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "劳伤咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "石耳坠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "肺热咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪肺",
+      "type": "药用部位"
+    },
+    {
+      "entity": "小便出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "镜面草",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伏石蕨",
+      "predicate": "属于科",
+      "tail": "水龙骨科"
+    },
+    {
+      "head": "伏石蕨",
+      "predicate": "药用部位",
+      "tail": "全株"
+    },
+    {
+      "head": "螺厣草",
+      "predicate": "治疗",
+      "tail": "劳伤咳嗽"
+    },
+    {
+      "head": "石耳坠",
+      "predicate": "治疗",
+      "tail": "劳伤咳嗽"
+    },
+    {
+      "head": "螺厣草",
+      "predicate": "治疗",
+      "tail": "肺热咳血"
+    },
+    {
+      "head": "猪肺",
+      "predicate": "治疗",
+      "tail": "肺热咳血"
+    },
+    {
+      "head": "镜面草",
+      "predicate": "治疗",
+      "tail": "小便出血"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "entities": [
+    {
+      "entity": "华南远志",
+      "type": "药用植物"
+    },
+    {
+      "entity": "远志科",
+      "type": "科"
+    },
+    {
+      "entity": "远志属",
+      "type": "属"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大金牛草",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "紫背金牛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "金不换",
+      "type": "药用植物"
+    },
+    {
+      "entity": "癫痫",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "华南远志",
+      "type": "药用植物"
+    },
+    {
+      "entity": "远志科",
+      "type": "科"
+    },
+    {
+      "entity": "远志属",
+      "type": "属"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大金牛草",
+      "type": "药材"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽咽痛",
+      "type": "功能"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "功能"
+    },
+    {
+      "entity": "痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "功能"
+    },
+    {
+      "entity": "紫背金牛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "研粉",
+      "type": "应用实例"
+    },
+    {
+      "entity": "调热粥",
+      "type": "应用实例"
+    },
+    {
+      "entity": "蒸猪肝服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "金不换",
+      "type": "应用实例"
+    },
+    {
+      "entity": "水煎",
+      "type": "应用实例"
+    },
+    {
+      "entity": "酒",
+      "type": "应用实例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南远志",
+      "predicate": "属于科",
+      "tail": "远志科"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "属于属",
+      "tail": "远志属"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "药用部位为",
+      "tail": "带根全草"
+    },
+    {
+      "head": "带根全草",
+      "predicate": "具有性味",
+      "tail": "大金牛草"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "祛痰"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "咳嗽咽痛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "紫背金牛",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "紫背金牛",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "金不换",
+      "predicate": "治疗",
+      "tail": "癫痫"
+    },
+    {
+      "head": "金不换",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "属于科",
+      "tail": "远志科"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "属于属",
+      "tail": "远志属"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "药用部位为",
+      "tail": "带根全草"
+    },
+    {
+      "head": "带根全草",
+      "predicate": "治疗",
+      "tail": "大金牛草"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "采收加工",
+      "tail": "春、夏季采收，切段晒干"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "辛、甘，平。祛痰，消积，散瘀，解毒"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "咳嗽咽痛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "用法",
+      "tail": "煎汤，15-30克"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "紫背金牛",
+      "predicate": "应用实例",
+      "tail": "小儿疳积:紫背金牛，研粉。每用3克，调热粥或蒸猪肝服。(广西本草选编)"
+    },
+    {
+      "head": "金不换",
+      "predicate": "应用实例",
+      "tail": "癫痫:金不换9克。水煎，加酒1汤匙服。(福建药物志)"
+    }
+  ]
+}

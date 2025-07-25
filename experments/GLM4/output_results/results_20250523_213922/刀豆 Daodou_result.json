@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "entity": "刀豆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刀豆属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药",
+      "type": "其他"
+    },
+    {
+      "entity": "小儿疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "刀豆子",
+      "type": "中药名"
+    },
+    {
+      "entity": "猪腰子",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刀豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于属",
+      "tail": "刀豆属"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "小儿疝气"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    }
+  ]
+}

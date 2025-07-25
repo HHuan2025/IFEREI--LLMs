@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "entity": "反枝苋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "苋属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "清肝明目",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蜂螫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热目赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "风热目痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "苋菜菜子",
+      "type": "药材"
+    },
+    {
+      "entity": "菊花",
+      "type": "药材"
+    },
+    {
+      "entity": "龙胆草",
+      "type": "药材"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "痔疮肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜野苋根",
+      "type": "药材"
+    },
+    {
+      "entity": "猪大肠",
+      "type": "药材"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "反枝苋",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "属于属",
+      "tail": "苋属"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "野苋菜",
+      "predicate": "别名",
+      "tail": "反枝苋"
+    },
+    {
+      "head": "野苋子",
+      "predicate": "别名",
+      "tail": "反枝苋"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "清肝明目"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "蜂螫伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "肝热目赤"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "翳障"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "风热目痛",
+      "predicate": "药方",
+      "tail": "苋菜菜子"
+    },
+    {
+      "head": "风热目痛",
+      "predicate": "药方",
+      "tail": "菊花"
+    },
+    {
+      "head": "风热目痛",
+      "predicate": "药方",
+      "tail": "龙胆草"
+    },
+    {
+      "head": "苋菜菜子",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "菊花",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "龙胆草",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "痔疮肿痛",
+      "predicate": "药方",
+      "tail": "鲜野苋根"
+    },
+    {
+      "head": "痔疮肿痛",
+      "predicate": "药方",
+      "tail": "猪大肠"
+    },
+    {
+      "head": "鲜野苋根",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "猪大肠",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    }
+  ]
+}

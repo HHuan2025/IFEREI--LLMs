@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "entity": "匙羹藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "萝藦科",
+      "type": "科"
+    },
+    {
+      "entity": "匙羹藤属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "嫩枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "武靴藤",
+      "type": "药材"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "无名肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "匙羹藤",
+      "predicate": "属于科",
+      "tail": "萝藦科"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "属于属",
+      "tail": "匙羹藤属"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "药用部位为",
+      "tail": "嫩枝叶"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "中药名",
+      "tail": "武靴藤"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "具有功能",
+      "tail": "祛风止痛"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "无名肿毒"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "entities": [
+    {
+      "entity": "参薯",
+      "type": "药用植物"
+    },
+    {
+      "entity": "薯蓣科",
+      "type": "科"
+    },
+    {
+      "entity": "薯蓣属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "益肺滋肾",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒敛疮",
+      "type": "功能"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便频数",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡溃烂",
+      "type": "疾病"
+    },
+    {
+      "entity": "汤火伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "参薯",
+      "predicate": "属于科",
+      "tail": "薯蓣科"
+    },
+    {
+      "head": "参薯",
+      "predicate": "属于属",
+      "tail": "薯蓣属"
+    },
+    {
+      "head": "参薯",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "参薯",
+      "predicate": "别名",
+      "tail": "毛薯"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "微涩"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "健脾止泻"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "益肺滋肾"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "解毒敛疮"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "肾虚遗精"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "小便频数"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "虚劳咳嗽"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "消渴"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "疮疡溃烂"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "汤火伤"
+    }
+  ]
+}

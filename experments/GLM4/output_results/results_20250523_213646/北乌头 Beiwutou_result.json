@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "entity": "北乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "乌头属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "草乌叶",
+      "type": "药材"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瞿麦",
+      "type": "药材"
+    },
+    {
+      "entity": "鸡翎草",
+      "type": "药材"
+    },
+    {
+      "entity": "发烧头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁蕾",
+      "type": "药材"
+    },
+    {
+      "entity": "龙骨",
+      "type": "药材"
+    },
+    {
+      "entity": "薄荷汤",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北乌头",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "北乌头",
+      "predicate": "属于属",
+      "tail": "乌头属"
+    },
+    {
+      "head": "北乌头",
+      "predicate": "药用部位",
+      "tail": "干燥叶"
+    },
+    {
+      "head": "草乌叶",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "草乌叶",
+      "predicate": "治疗",
+      "tail": "发烧头痛"
+    }
+  ]
+}

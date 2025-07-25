@@ -1,0 +1,158 @@
+{
+  "entities": [
+    {
+      "entity": "单叶新月蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "金星蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "新月蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "草鞋青",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "草鞋青",
+      "type": "药用植物"
+    },
+    {
+      "entity": "全国中药草汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "单叶新月蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "续随子草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "中国药用孢子植物",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "单叶新月蕨",
+      "predicate": "属于科",
+      "tail": "金星蕨科"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "属于属",
+      "tail": "新月蕨属"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "别名",
+      "tail": "草鞋青"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "具有性",
+      "tail": "凉"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "草鞋青",
+      "predicate": "治疗",
+      "tail": "急性扁桃体炎"
+    },
+    {
+      "head": "草鞋青",
+      "predicate": "记载于文献",
+      "tail": "全国中药草汇编"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "与",
+      "tail": "续随子草"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "单叶新月蕨",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    }
+  ]
+}

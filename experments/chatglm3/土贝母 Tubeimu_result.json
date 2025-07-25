@@ -1,0 +1,373 @@
+{
+  "entities": [
+    {
+      "entity": "土贝母",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "假贝母属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "散结毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "颈淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性淋巴结炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肥厚性鼻炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "白芷",
+      "type": "药材"
+    },
+    {
+      "entity": "陈酒",
+      "type": "药用部位"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "陕西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "醋",
+      "type": "药用部位"
+    },
+    {
+      "entity": "土贝母",
+      "type": "药材"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "假贝母属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "散结毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "乳痈",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "功能"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "功能"
+    },
+    {
+      "entity": "颈淋巴结结核",
+      "type": "功能"
+    },
+    {
+      "entity": "慢性淋巴结炎",
+      "type": "功能"
+    },
+    {
+      "entity": "肥厚性鼻炎",
+      "type": "功能"
+    },
+    {
+      "entity": "乳痈初起",
+      "type": "应用实例"
+    },
+    {
+      "entity": "淋巴结核未破者",
+      "type": "应用实例"
+    },
+    {
+      "entity": "白芷",
+      "type": "应用实例"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "陕西中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土贝母",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "属于属",
+      "tail": "假贝母属"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "散结毒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "消痈肿"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "颈淋巴结结核"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "慢性淋巴结炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "肥厚性鼻炎"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "具有性味",
+      "tail": "白芷"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "具有性味",
+      "tail": "土贝母"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "具有功能",
+      "tail": "陈酒"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "记载于文献",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "淋巴结核",
+      "predicate": "具有性味",
+      "tail": "土贝母"
+    },
+    {
+      "head": "淋巴结核",
+      "predicate": "具有功能",
+      "tail": "醋"
+    },
+    {
+      "head": "淋巴结核",
+      "predicate": "记载于文献",
+      "tail": "陕西中草药"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "属于属",
+      "tail": "假贝母属"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "散结毒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "消痈肿"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "颈淋巴结结核"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "慢性淋巴结炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "肥厚性鼻炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法",
+      "tail": "熬膏贴敷"
+    },
+    {
+      "head": "乳痈初起",
+      "predicate": "应用实例",
+      "tail": "土贝母"
+    },
+    {
+      "head": "淋巴结核未破者",
+      "predicate": "应用实例",
+      "tail": "土贝母"
+    },
+    {
+      "head": "乳痈初起",
+      "predicate": "应用实例",
+      "tail": "白芷"
+    },
+    {
+      "head": "乳痈初起",
+      "predicate": "应用实例",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "淋巴结核未破者",
+      "predicate": "应用实例",
+      "tail": "陕西中草药"
+    }
+  ]
+}

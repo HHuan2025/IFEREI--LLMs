@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "entity": "五爪金龙",
+      "type": "药用植物"
+    },
+    {
+      "entity": "旋花科",
+      "type": "科"
+    },
+    {
+      "entity": "番薯属",
+      "type": "属"
+    },
+    {
+      "entity": "茎叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳除蒸",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋病",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疗毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨蒸劳热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽溢血",
+      "type": "疾病"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "中药大辞典",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位为",
+      "tail": "茎叶"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "五叶藤",
+      "predicate": "别名",
+      "tail": "五爪金龙"
+    },
+    {
+      "head": "五爪金龙花",
+      "predicate": "别名",
+      "tail": "花"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "具有功能",
+      "tail": "利水通淋"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "止咳除蒸"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "治疗",
+      "tail": "淋病"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "茎叶",
+      "predicate": "治疗",
+      "tail": "痈肿疗毒"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "骨蒸劳热"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "咳嗽溢血"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "记载于文献",
+      "tail": "中药大辞典"
+    }
+  ]
+}

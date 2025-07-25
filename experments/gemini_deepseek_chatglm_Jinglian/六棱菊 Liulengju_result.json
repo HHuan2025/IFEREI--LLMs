@@ -1,0 +1,1002 @@
+{
+  "entities": [
+    {
+      "entity": "六棱菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "六棱菊属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝硬化",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "风寒咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "六棱菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "六棱菊属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "鹿耳翎",
+      "type": "药材"
+    },
+    {
+      "entity": "鹿耳翎根",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用或切段晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "洗净，鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "味辛、苦，性微温",
+      "type": "性味"
+    },
+    {
+      "entity": "味辛，性凉",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿，散瘀，解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝硬化",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "六棱菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "六棱菊属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "鹿耳翎",
+      "type": "药材"
+    },
+    {
+      "entity": "鹿耳翎根",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "切段晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "洗净",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "味辛",
+      "type": "性味"
+    },
+    {
+      "entity": "味苦",
+      "type": "性味"
+    },
+    {
+      "entity": "性微温",
+      "type": "性味"
+    },
+    {
+      "entity": "性凉",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝硬化",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "六棱菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于属",
+      "tail": "六棱菊属"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "鹿耳翎",
+      "predicate": "别名",
+      "tail": "六棱菊"
+    },
+    {
+      "head": "鹿耳翎根",
+      "predicate": "别名",
+      "tail": "根"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风湿关节炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "湿疹瘙痒"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肝硬化"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "妇女闭经"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于属",
+      "tail": "六棱菊属"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "鹿耳翎"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "鹿耳翎根"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收加工",
+      "tail": "鲜用或切段晒干"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "洗净，鲜用或晒干"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "味辛、苦，性微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "味辛，性凉"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "祛风除湿，散瘀，解毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风湿关节炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "湿疹瘙痒"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肝硬化"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "妇女闭经"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽:六棱菊干花序15-18克。蜜炒。水煎服。(福建中草药)"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "久年头痛，产后风痛:六棱菊鲜根60克。水煎服，或炖羊脑1个，加酒少许服。(福建药物志)"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "青竹蛇咬伤:六棱菊根60克，磨水内服；另用六棱菊茎叶(鲜)适量，捣烂外敷。(江西草药)"
+    },
+    {
+      "head": "全草",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "根",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "根",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于属",
+      "tail": "六棱菊属"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "鹿耳翎"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "鹿耳翎根"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收加工",
+      "tail": "切段晒干"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "洗净"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "味辛"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "性微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "味辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "性凉"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风湿关节炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "湿疹瘙痒"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肝硬化"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "妇女闭经"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "捣汁"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "9-15克"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "鲜者30-60克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "15-30克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "鲜品可用60克"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "久年头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "产后风痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "青竹蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "根",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "根",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    }
+  ]
+}

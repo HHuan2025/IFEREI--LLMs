@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "entity": "圆叶牵牛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "旋花科",
+      "type": "科"
+    },
+    {
+      "entity": "牵牛属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "牵牛子",
+      "type": "中药名"
+    },
+    {
+      "entity": "7-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "泻水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "泻下通便",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫攻积",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘满",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积食滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "大便秘结",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "1-3分",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "1.5-3钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "千金方",
+      "type": "文献"
+    },
+    {
+      "entity": "停饮肿满",
+      "type": "疾病"
+    },
+    {
+      "entity": "茴香",
+      "type": "其他"
+    },
+    {
+      "entity": "木香",
+      "type": "中药名"
+    },
+    {
+      "entity": "生姜自然汁",
+      "type": "其他"
+    },
+    {
+      "entity": "儒门事亲",
+      "type": "文献"
+    },
+    {
+      "entity": "水气蛊胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "白牵牛",
+      "type": "中药名"
+    },
+    {
+      "entity": "黑牵牛",
+      "type": "中药名"
+    },
+    {
+      "entity": "大麦面",
+      "type": "其他"
+    },
+    {
+      "entity": "茶汤",
+      "type": "其他"
+    },
+    {
+      "entity": "宣明论方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "圆叶牵牛",
+      "predicate": "属于科",
+      "tail": "旋花科"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "属于属",
+      "tail": "牵牛属"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "种子",
+      "predicate": "包含中药",
+      "tail": "牵牛子"
+    },
+    {
+      "head": "7-10月",
+      "predicate": "采收时间",
+      "tail": "果实成熟时"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "泻水消肿"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "泻下通便"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "杀虫攻积"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "喘满"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "痰饮"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "脚气"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "虫积食滞"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "主治疾病",
+      "tail": "大便秘结"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "内服",
+      "tail": "内服"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "丸"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "散"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "1-3分"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "1.5-3钱"
+    },
+    {
+      "head": "水肿",
+      "predicate": "应用举例",
+      "tail": "千金方"
+    },
+    {
+      "head": "停饮肿满",
+      "predicate": "应用举例",
+      "tail": "儒门事亲"
+    },
+    {
+      "head": "水气蛊胀满",
+      "predicate": "应用举例",
+      "tail": "宣明论方"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "entity": "假蒟",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡椒科",
+      "type": "科"
+    },
+    {
+      "entity": "胡椒属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果",
+      "type": "药用部位"
+    },
+    {
+      "entity": "假蒟根",
+      "type": "中药名"
+    },
+    {
+      "entity": "假蒟子",
+      "type": "中药名"
+    },
+    {
+      "entity": "哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "柠檬叶",
+      "type": "其他"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打劳伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "钻骨风根",
+      "type": "中药名"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "钻骨风果",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假蒟",
+      "predicate": "属于科",
+      "tail": "胡椒科"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "属于属",
+      "tail": "胡椒属"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位",
+      "tail": "果"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "治疗",
+      "tail": "哮喘"
+    },
+    {
+      "head": "假蒟根",
+      "predicate": "治疗",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "假蒟根",
+      "predicate": "治疗",
+      "tail": "跌打劳伤"
+    },
+    {
+      "head": "钻骨风果",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "钻骨风果",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "钻骨风果",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    }
+  ]
+}

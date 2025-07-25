@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "entity": "咖啡黄葵",
+      "type": "药用植物"
+    },
+    {
+      "entity": "锦葵科",
+      "type": "科"
+    },
+    {
+      "entity": "秋葵属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋葵",
+      "type": "药材"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "利咽",
+      "type": "功能"
+    },
+    {
+      "entity": "通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "调经",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便淋涩",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后乳汁稀少",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "咖啡黄葵",
+      "predicate": "属于科",
+      "tail": "锦葵科"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "属于属",
+      "tail": "秋葵属"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "秋葵",
+      "predicate": "别名",
+      "tail": "咖啡黄葵"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有功能",
+      "tail": "利咽"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有功能",
+      "tail": "通淋"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有功能",
+      "tail": "下乳"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "具有功能",
+      "tail": "调经"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "治疗",
+      "tail": "小便淋涩"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "治疗",
+      "tail": "产后乳汁稀少"
+    },
+    {
+      "head": "咖啡黄葵",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    }
+  ]
+}

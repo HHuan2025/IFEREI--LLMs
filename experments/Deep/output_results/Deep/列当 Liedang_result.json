@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "列当",
+      "type": "药用植物"
+    },
+    {
+      "entity": "列当科",
+      "type": "科"
+    },
+    {
+      "entity": "列当属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "列当",
+      "type": "中药名"
+    },
+    {
+      "entity": "阳事不兴",
+      "type": "疾病"
+    },
+    {
+      "entity": "食医心镜",
+      "type": "文献"
+    },
+    {
+      "entity": "肾寒腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "吉林中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "列当",
+      "predicate": "属于科",
+      "tail": "列当科"
+    },
+    {
+      "head": "列当",
+      "predicate": "属于属",
+      "tail": "列当属"
+    },
+    {
+      "head": "列当",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "列当",
+      "predicate": "中药名",
+      "tail": "列当"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "阳事不兴"
+    },
+    {
+      "head": "食医心镜",
+      "predicate": "文献记载",
+      "tail": "列当"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "肾寒腰痛"
+    },
+    {
+      "head": "吉林中草药",
+      "predicate": "文献记载",
+      "tail": "列当"
+    }
+  ]
+}

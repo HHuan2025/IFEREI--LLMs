@@ -1,0 +1,242 @@
+{
+  "entities": [
+    {
+      "entity": "华南忍冬",
+      "type": "药用植物"
+    },
+    {
+      "entity": "忍冬科",
+      "type": "科"
+    },
+    {
+      "entity": "忍冬属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "金银花",
+      "type": "药材"
+    },
+    {
+      "entity": "金银花子",
+      "type": "药材"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "药材"
+    },
+    {
+      "entity": "金银花露",
+      "type": "药材"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "清肠化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "通络",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "清暑",
+      "type": "功能"
+    },
+    {
+      "entity": "温病发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒血痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "多种感染性疾病",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠风泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南忍冬",
+      "predicate": "属于科",
+      "tail": "忍冬科"
+    },
+    {
+      "head": "华南忍冬",
+      "predicate": "属于属",
+      "tail": "忍冬属"
+    },
+    {
+      "head": "华南忍冬",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "华南忍冬",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "华南忍冬",
+      "predicate": "药用部位为",
+      "tail": "茎枝"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "中药名",
+      "tail": "金银花"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "金银花子"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "中药名",
+      "tail": "忍冬藤"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "中药名",
+      "tail": "金银花露"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "具有性味",
+      "tail": "甘，寒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "苦、涩、微甘，凉"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有性味",
+      "tail": "甘，寒"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有性味",
+      "tail": "甘，寒"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肠化湿"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有功能",
+      "tail": "清热解毒，通络"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有功能",
+      "tail": "清热，清暑，解毒"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "温病发热"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "热毒血痢"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "喉痹"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "多种感染性疾病"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "肠风泄泻"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "赤痢"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "治疗",
+      "tail": "温病发热"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "治疗",
+      "tail": "疮痈肿毒"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "治疗",
+      "tail": "热毒血痢"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    }
+  ]
+}

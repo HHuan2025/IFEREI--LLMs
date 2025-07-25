@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "entity": "八角茴香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "八角属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温阳散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃寒呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角茴香",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于属",
+      "tail": "八角属"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "温阳散寒"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "胃寒呕吐"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    }
+  ]
+}

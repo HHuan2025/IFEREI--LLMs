@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "entity": "凤尾草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤尾蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "凤尾蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤尾草",
+      "type": "中药名"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "地锦草",
+      "type": "中药名"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "尿路结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "白花蛇舌草",
+      "type": "中药名"
+    },
+    {
+      "entity": "车前草",
+      "type": "中药名"
+    },
+    {
+      "entity": "金钱草",
+      "type": "中药名"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤尾草",
+      "predicate": "属于科",
+      "tail": "凤尾蕨科"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "属于属",
+      "tail": "凤尾蕨属"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "中药名",
+      "tail": "凤尾草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "江西草药手册",
+      "predicate": "文献记载",
+      "tail": "凤尾草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "尿路结石"
+    },
+    {
+      "head": "安徽中草药",
+      "predicate": "文献记载",
+      "tail": "凤尾草"
+    }
+  ]
+}

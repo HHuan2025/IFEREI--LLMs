@@ -1,0 +1,50 @@
+{
+  "entities": [
+    {
+      "entity": "云木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "腹痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "entities": [
+    {
+      "entity": "八角金盘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "八角金盘属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角金盘",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "散风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "化瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛风",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "气管炎咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "鸡屎藤",
+      "type": "药材"
+    },
+    {
+      "entity": "孕妇",
+      "type": "疾病"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    },
+    {
+      "entity": "八角金盘",
+      "type": "药材"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "八角金盘属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "散风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "化瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛风",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇慎服",
+      "type": "用法"
+    },
+    {
+      "entity": "气管炎咳嗽",
+      "type": "功能"
+    },
+    {
+      "entity": "咯痰不松",
+      "type": "功能"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "功能"
+    },
+    {
+      "entity": "鲜八角金盘叶",
+      "type": "功能"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "功能"
+    },
+    {
+      "entity": "鲜八角金盘",
+      "type": "功能"
+    },
+    {
+      "entity": "鲜鸡屎藤",
+      "type": "功能"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角金盘",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "属于属",
+      "tail": "八角金盘属"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "散风除湿"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化瘀止痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "咳嗽痰多"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "痛风"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "与",
+      "tail": "甘草"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "气管炎咳嗽"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "记载于文献",
+      "tail": "青岛中草药手册"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "与",
+      "tail": "鸡屎藤"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "属于属",
+      "tail": "八角金盘属"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "散风除湿"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化瘀止痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "咳嗽痰多"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "痛风"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "用法",
+      "tail": "煎汤熏洗"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "用法",
+      "tail": "孕妇慎服"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "应用实例",
+      "tail": "气管炎咳嗽"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "应用实例",
+      "tail": "咯痰不松"
+    },
+    {
+      "head": "气管炎咳嗽",
+      "predicate": "应用实例",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "应用实例",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "风湿性关节炎",
+      "predicate": "应用实例",
+      "tail": "青岛中草药手册"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "应用实例",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "应用实例",
+      "tail": "鲜八角金盘"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "应用实例",
+      "tail": "鲜鸡屎藤"
+    }
+  ]
+}

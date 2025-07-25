@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "entity": "吴茱萸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "吴茱萸属",
+      "type": "属"
+    },
+    {
+      "entity": "近成熟的果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "禁忌"
+    },
+    {
+      "entity": "散寒止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "助阳止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "厥阴头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒湿脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "经行腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐吞酸",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吴茱萸",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于属",
+      "tail": "吴茱萸属"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "药用部位为",
+      "tail": "近成熟的果实"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "散寒止痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "降逆止呕"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "助阳止泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "厥阴头痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒湿脚气"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "经行腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "呕吐吞酸"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "五更泄泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "高血压"
+    }
+  ]
+}

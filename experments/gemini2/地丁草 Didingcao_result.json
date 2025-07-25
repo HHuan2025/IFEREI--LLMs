@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "entity": "地丁草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "罂粟科",
+      "type": "科"
+    },
+    {
+      "entity": "紫堇属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "流行性感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "上呼吸道感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "传染性肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性阑尾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "地丁",
+      "type": "药材"
+    },
+    {
+      "entity": "河北中药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "火线草",
+      "type": "药材"
+    },
+    {
+      "entity": "地榆",
+      "type": "药材"
+    },
+    {
+      "entity": "高原中草药治疗手册",
+      "type": "文献"
+    },
+    {
+      "entity": "葱白",
+      "type": "药材"
+    },
+    {
+      "entity": "生蜂蜜",
+      "type": "药材"
+    },
+    {
+      "entity": "辽宁常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "疔肿",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "地丁草",
+      "predicate": "属于科",
+      "tail": "罂粟科"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "属于属",
+      "tail": "紫堇属"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "苦地丁",
+      "predicate": "别名",
+      "tail": "地丁草"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "具有功能",
+      "tail": "消痈肿"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "流行性感冒"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "扁桃体炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "传染性肝炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "肾炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "结膜炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "急性阑尾炎"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "地丁",
+      "predicate": "治疗",
+      "tail": "急性传染性肝炎"
+    },
+    {
+      "head": "地丁",
+      "predicate": "记载于文献",
+      "tail": "河北中药手册"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "与",
+      "tail": "火线草"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "与",
+      "tail": "地榆"
+    },
+    {
+      "head": "地丁草",
+      "predicate": "记载于文献",
+      "tail": "高原中草药治疗手册"
+    },
+    {
+      "head": "地丁",
+      "predicate": "与",
+      "tail": "葱白"
+    },
+    {
+      "head": "地丁",
+      "predicate": "与",
+      "tail": "生蜂蜜"
+    },
+    {
+      "head": "地丁",
+      "predicate": "治疗",
+      "tail": "疔肿"
+    },
+    {
+      "head": "地丁",
+      "predicate": "记载于文献",
+      "tail": "辽宁常用中草药手册"
+    }
+  ]
+}

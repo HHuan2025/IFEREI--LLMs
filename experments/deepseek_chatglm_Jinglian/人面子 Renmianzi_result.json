@@ -1,0 +1,697 @@
+{
+  "entities": [
+    {
+      "entity": "人面子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "漆树科",
+      "type": "科"
+    },
+    {
+      "entity": "人面子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "人面子",
+      "type": "药材"
+    },
+    {
+      "entity": "人面子根皮",
+      "type": "药材"
+    },
+    {
+      "entity": "人面子叶",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "渍盐",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "全年均可采",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "剥取根皮",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "味甘",
+      "type": "性味"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "性凉",
+      "type": "性味"
+    },
+    {
+      "entity": "味苦",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "生津",
+      "type": "功能"
+    },
+    {
+      "entity": "醒酒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒敛疮",
+      "type": "功能"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "醉酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风毒疮痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "烂疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "褥疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "生食",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "果核烧炭",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "加酒适量煎",
+      "type": "用法"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "岭南采药录",
+      "type": "文献"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "人面子",
+      "type": "药材"
+    },
+    {
+      "entity": "漆树科",
+      "type": "科"
+    },
+    {
+      "entity": "人面子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "生津",
+      "type": "功能"
+    },
+    {
+      "entity": "醒酒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒敛疮",
+      "type": "功能"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "醉酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风毒疮痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "烂疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "褥疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "岭南采药录",
+      "type": "文献"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "人面子",
+      "predicate": "属于科",
+      "tail": "漆树科"
+    },
+    {
+      "head": "人面子",
+      "predicate": "属于属",
+      "tail": "人面子属"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "人面子"
+    },
+    {
+      "head": "根皮",
+      "predicate": "中药名",
+      "tail": "人面子根皮"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "人面子叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "渍盐"
+    },
+    {
+      "head": "根皮",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "根皮",
+      "predicate": "采收加工",
+      "tail": "洗净"
+    },
+    {
+      "head": "根皮",
+      "predicate": "采收加工",
+      "tail": "剥取根皮"
+    },
+    {
+      "head": "根皮",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "味甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "性凉"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "性凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "性凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "生津"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "醒酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒消痈"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒敛疮"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "醉酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "风毒疮痒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "烂疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "褥疮"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "生食"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "果核烧炭"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "加酒适量煎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "果实",
+      "predicate": "应用实例",
+      "tail": "岭南采药录"
+    },
+    {
+      "head": "叶",
+      "predicate": "应用实例",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "人面子",
+      "predicate": "属于科",
+      "tail": "漆树科"
+    },
+    {
+      "head": "人面子",
+      "predicate": "属于属",
+      "tail": "人面子属"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "生津"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "醒酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒消痈"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒敛疮"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "醉酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "风毒疮痒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "烂疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "褥疮"
+    },
+    {
+      "head": "人面子",
+      "predicate": "记载于文献",
+      "tail": "岭南采药录"
+    },
+    {
+      "head": "叶",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    }
+  ]
+}

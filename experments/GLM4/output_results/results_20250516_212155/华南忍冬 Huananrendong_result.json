@@ -1,0 +1,569 @@
+{
+  "entities": [
+    {
+      "entity": "华南忍冬",
+      "type": "药用植物"
+    },
+    {
+      "entity": "忍冬科",
+      "type": "科"
+    },
+    {
+      "entity": "忍冬属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "蒸馏液",
+      "type": "剂型"
+    },
+    {
+      "entity": "金银花",
+      "type": "中药名"
+    },
+    {
+      "entity": "金银花子",
+      "type": "中药名"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "金银花露",
+      "type": "中药名"
+    },
+    {
+      "entity": "5月中、下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "6月中、下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋末冬初",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "清肠化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "通络",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "清暑",
+      "type": "功能"
+    },
+    {
+      "entity": "温病发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒血痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "多种感染性疾病",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠风泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮痈肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "10-20克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃虚寒",
+      "type": "其他"
+    },
+    {
+      "entity": "阴证",
+      "type": "其他"
+    },
+    {
+      "entity": "慎服",
+      "type": "其他"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "10-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "熬膏贴",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品",
+      "type": "其他"
+    },
+    {
+      "entity": "连翘",
+      "type": "中药名"
+    },
+    {
+      "entity": "牛蒡子",
+      "type": "中药名"
+    },
+    {
+      "entity": "银花",
+      "type": "中药名"
+    },
+    {
+      "entity": "射干",
+      "type": "中药名"
+    },
+    {
+      "entity": "马勃",
+      "type": "中药名"
+    },
+    {
+      "entity": "一两",
+      "type": "用法用量"
+    },
+    {
+      "entity": "六钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "五钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "三钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "二钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "《温病条例》",
+      "type": "文献"
+    },
+    {
+      "entity": "银翘马勃散",
+      "type": "中药名"
+    },
+    {
+      "entity": "咽喉不利疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南忍冬",
+      "predicate": "属于科",
+      "tail": "忍冬科"
+    },
+    {
+      "head": "华南忍冬",
+      "predicate": "属于属",
+      "tail": "忍冬属"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "包含于",
+      "tail": "华南忍冬"
+    },
+    {
+      "head": "果实",
+      "predicate": "包含于",
+      "tail": "华南忍冬"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "包含于",
+      "tail": "华南忍冬"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "包含于",
+      "tail": "华南忍冬"
+    },
+    {
+      "head": "金银花",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "金银花子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "忍冬藤",
+      "predicate": "药用部位为",
+      "tail": "茎枝"
+    },
+    {
+      "head": "金银花露",
+      "predicate": "药用部位为",
+      "tail": "蒸馏液"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肠化湿"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "具有功能",
+      "tail": "通络"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有功能",
+      "tail": "清暑"
+    },
+    {
+      "head": "蒸馏液",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "主治疾病",
+      "tail": "温病发热"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "主治疾病",
+      "tail": "热毒血痢"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "主治疾病",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "主治疾病",
+      "tail": "喉痹"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "主治疾病",
+      "tail": "多种感染性疾病"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "肠风泄泻"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "赤痢"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "主治疾病",
+      "tail": "温病发热"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "主治疾病",
+      "tail": "疮痈肿毒"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "主治疾病",
+      "tail": "热毒血痢"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "用法用量",
+      "tail": "10-20克"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "果实",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "用法用量",
+      "tail": "10-30克"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "外用",
+      "tail": "熬膏贴"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "茎枝",
+      "predicate": "外用",
+      "tail": "鲜品"
+    },
+    {
+      "head": "脾胃虚寒",
+      "predicate": "不宜与",
+      "tail": "花蕾"
+    },
+    {
+      "head": "阴证",
+      "predicate": "不宜与",
+      "tail": "花蕾"
+    },
+    {
+      "head": "银花",
+      "predicate": "包含于",
+      "tail": "银翘马勃散"
+    },
+    {
+      "head": "连翘",
+      "predicate": "包含于",
+      "tail": "银翘马勃散"
+    },
+    {
+      "head": "牛蒡子",
+      "predicate": "包含于",
+      "tail": "银翘马勃散"
+    },
+    {
+      "head": "射干",
+      "predicate": "包含于",
+      "tail": "银翘马勃散"
+    },
+    {
+      "head": "马勃",
+      "predicate": "包含于",
+      "tail": "银翘马勃散"
+    },
+    {
+      "head": "银翘马勃散",
+      "predicate": "主治疾病",
+      "tail": "咽喉不利疼痛"
+    },
+    {
+      "head": "银翘马勃散",
+      "predicate": "记载于文献",
+      "tail": "《温病条例》"
+    }
+  ]
+}

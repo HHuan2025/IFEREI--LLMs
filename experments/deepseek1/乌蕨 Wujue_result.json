@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "entity": "乌蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "鳞始蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "乌蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大叶金花草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿止血",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "中暑发痧",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "白浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙疳",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "乌韭",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌蕨",
+      "predicate": "属于科",
+      "tail": "鳞始蕨科"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "属于属",
+      "tail": "乌蕨属"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "大叶金花草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "具有功能",
+      "tail": "利湿止血"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "中暑发痧"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "白浊"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "牙疳"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "乌蕨",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "乌韭",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    }
+  ]
+}

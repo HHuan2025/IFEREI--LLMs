@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "entity": "南瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "南瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "哮症",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蜂螯伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "壮族民间用药选编",
+      "type": "文献"
+    },
+    {
+      "entity": "南瓜",
+      "type": "药材"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "南瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "哮症",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蜂螯伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "夏、秋两季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "老南瓜",
+      "type": "应用实例"
+    },
+    {
+      "entity": "黄醋",
+      "type": "应用实例"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "壮族民间用药选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "属于属",
+      "tail": "南瓜属"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "哮症"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "毒蜂螯伤"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "记载于文献",
+      "tail": "壮族民间用药选编"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "属于属",
+      "tail": "南瓜属"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "哮症"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "治疗",
+      "tail": "毒蜂螯伤"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "采收时间",
+      "tail": "夏、秋两季"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "采收加工",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "用法",
+      "tail": "蒸煮"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "用法",
+      "tail": "生捣汁"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "应用实例",
+      "tail": "老南瓜"
+    },
+    {
+      "head": "老南瓜",
+      "predicate": "应用实例",
+      "tail": "黄醋"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "南瓜",
+      "predicate": "记载于文献",
+      "tail": "壮族民间用药选编"
+    }
+  ]
+}

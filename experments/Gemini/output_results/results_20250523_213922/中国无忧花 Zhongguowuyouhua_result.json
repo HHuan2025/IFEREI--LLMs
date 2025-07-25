@@ -1,0 +1,531 @@
+{
+  "entities": [
+    {
+      "entity": "无忧花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "无忧花属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "四方木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "骨质增生症",
+      "type": "疾病"
+    },
+    {
+      "entity": "四方木皮",
+      "type": "药用植物"
+    },
+    {
+      "entity": "战骨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "红花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "坐骨神经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肩周炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "草乌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "一支蒿",
+      "type": "药用植物"
+    },
+    {
+      "entity": "独蒜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "川芎",
+      "type": "药用植物"
+    },
+    {
+      "entity": "血藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桂枝",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三角枫",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八角枫",
+      "type": "药用植物"
+    },
+    {
+      "entity": "威灵仙",
+      "type": "药用植物"
+    },
+    {
+      "entity": "叶上花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "叶下花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "千年健",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "杜仲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "过江花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "四块瓦",
+      "type": "药用植物"
+    },
+    {
+      "entity": "花椒",
+      "type": "药用植物"
+    },
+    {
+      "entity": "没药",
+      "type": "药用植物"
+    },
+    {
+      "entity": "乳香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "狗骨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蜂房",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毒蛇",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "无忧花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "无忧花",
+      "predicate": "属于属",
+      "tail": "无忧花属"
+    },
+    {
+      "head": "无忧花",
+      "predicate": "药用部位",
+      "tail": "树皮"
+    },
+    {
+      "head": "无忧花",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "四方木皮",
+      "predicate": "治疗",
+      "tail": "骨质增生症"
+    },
+    {
+      "head": "草乌",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "一支蒿",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "独蒜",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "川芎",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "红花",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "血藤",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "桂枝",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "三角枫",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "威灵仙",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "叶上花",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "叶下花",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "杜仲",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "过江花",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "四块瓦",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "花椒",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "没药",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "乳香",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "狗骨",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "蜂房",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "毒蛇",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "草乌",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "一支蒿",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "独蒜",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "川芎",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "红花",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "血藤",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "桂枝",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "三角枫",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "威灵仙",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "叶上花",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "叶下花",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "杜仲",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "过江花",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "四块瓦",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "花椒",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "没药",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "乳香",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "狗骨",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "蜂房",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "毒蛇",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "草乌",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "一支蒿",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "独蒜",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "川芎",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "红花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "血藤",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "桂枝",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "三角枫",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "威灵仙",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶上花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶下花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "杜仲",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "过江花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "四块瓦",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花椒",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "没药",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "乳香",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "狗骨",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "蜂房",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "毒蛇",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    }
+  ]
+}

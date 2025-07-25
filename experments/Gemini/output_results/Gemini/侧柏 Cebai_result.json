@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "entity": "侧柏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "柏科",
+      "type": "科"
+    },
+    {
+      "entity": "侧柏属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟种仁",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝梢",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "柏子仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "侧柏叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "老人虚秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "火麻仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "松子仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "黄丹汤",
+      "type": "中药名"
+    },
+    {
+      "entity": "小便尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "侧柏",
+      "predicate": "属于科",
+      "tail": "柏科"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "属于属",
+      "tail": "侧柏属"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位",
+      "tail": "成熟种仁"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位",
+      "tail": "枝梢"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "成熟种仁",
+      "predicate": "中药名",
+      "tail": "柏子仁"
+    },
+    {
+      "head": "枝梢及叶",
+      "predicate": "中药名",
+      "tail": "侧柏叶"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "治疗",
+      "tail": "老人虚秘"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "小便尿血"
+    }
+  ]
+}

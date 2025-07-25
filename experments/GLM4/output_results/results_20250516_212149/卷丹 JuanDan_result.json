@@ -1,0 +1,449 @@
+{
+  "entities": [
+    {
+      "entity": "卷丹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "百合属",
+      "type": "属"
+    },
+    {
+      "entity": "鳞茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "百合",
+      "type": "中药名"
+    },
+    {
+      "entity": "百合花",
+      "type": "中药名"
+    },
+    {
+      "entity": "9-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "6-7月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "养阴润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "清心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "清热润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "宁心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "阴虚久嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰中带血",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病后期",
+      "type": "疾病"
+    },
+    {
+      "entity": "余热未清",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚烦惊悸",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "精神恍惚",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽痰少",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜寐不安",
+      "type": "疾病"
+    },
+    {
+      "entity": "天疱湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "医方集解",
+      "type": "文献"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "干咳久咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "生地",
+      "type": "中药名"
+    },
+    {
+      "entity": "熟地",
+      "type": "中药名"
+    },
+    {
+      "entity": "玄参",
+      "type": "中药名"
+    },
+    {
+      "entity": "川贝",
+      "type": "中药名"
+    },
+    {
+      "entity": "桔梗",
+      "type": "中药名"
+    },
+    {
+      "entity": "麦冬",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芍",
+      "type": "中药名"
+    },
+    {
+      "entity": "当归",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "卷丹",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "属于属",
+      "tail": "百合属"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "药用部位为",
+      "tail": "鳞茎"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "采收时间",
+      "tail": "9-10月"
+    },
+    {
+      "head": "花",
+      "predicate": "采收时间",
+      "tail": "6-7月"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有功能",
+      "tail": "养阴润肺"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有功能",
+      "tail": "清心安神"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "清热润肺"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "宁心安神"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "阴虚久嗽"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "痰中带血"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "热病后期"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "余热未清"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "虚烦惊悸"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "精神恍惚"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "主治疾病",
+      "tail": "湿疮"
+    },
+    {
+      "head": "花",
+      "predicate": "主治疾病",
+      "tail": "咳嗽痰少"
+    },
+    {
+      "head": "花",
+      "predicate": "主治疾病",
+      "tail": "眩晕"
+    },
+    {
+      "head": "花",
+      "predicate": "主治疾病",
+      "tail": "夜寐不安"
+    },
+    {
+      "head": "花",
+      "predicate": "主治疾病",
+      "tail": "天疱湿疮"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "用法用量",
+      "tail": "6-12克"
+    },
+    {
+      "head": "花",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "花",
+      "predicate": "用法用量",
+      "tail": "6-12克"
+    },
+    {
+      "head": "百合",
+      "predicate": "包含于",
+      "tail": "鳞茎"
+    },
+    {
+      "head": "百合花",
+      "predicate": "包含于",
+      "tail": "花"
+    },
+    {
+      "head": "干咳久咳",
+      "predicate": "应用举例",
+      "tail": "水煎服"
+    },
+    {
+      "head": "肺热咳嗽",
+      "predicate": "应用举例",
+      "tail": "水煎服"
+    },
+    {
+      "head": "阴虚咳血",
+      "predicate": "应用举例",
+      "tail": "水煎服"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "记载于文献",
+      "tail": "医方集解"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "百合"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "生地"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "熟地"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "玄参"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "川贝"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "桔梗"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "麦冬"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "白芍"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "当归"
+    },
+    {
+      "head": "水煎服",
+      "predicate": "包含中药",
+      "tail": "甘草"
+    }
+  ]
+}

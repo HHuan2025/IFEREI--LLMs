@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "entity": "两面针",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "花椒属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "成熟果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名",
+      "type": "药物类型"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "陆川本草",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "两面针",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "两面针",
+      "predicate": "属于属",
+      "tail": "花椒属"
+    },
+    {
+      "head": "两面针",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "两面针",
+      "predicate": "药用部位",
+      "tail": "成熟果皮"
+    },
+    {
+      "head": "两面针",
+      "predicate": "中药名",
+      "tail": "成熟果皮"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "常用中草药手册",
+      "predicate": "文献记载",
+      "tail": "两面针"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "陆川本草",
+      "predicate": "文献记载",
+      "tail": "两面针"
+    }
+  ]
+}

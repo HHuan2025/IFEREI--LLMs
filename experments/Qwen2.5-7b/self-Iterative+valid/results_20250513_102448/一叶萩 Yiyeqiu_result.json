@@ -1,0 +1,40 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "风湿腰痛"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "四肢麻木"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "面神经麻痹"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "小儿麻痹后遗症"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "阳痿"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "小儿疳积"
+    }
+  ]
+}

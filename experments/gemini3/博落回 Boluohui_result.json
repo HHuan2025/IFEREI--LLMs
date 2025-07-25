@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "entity": "博落回",
+      "type": "药用植物"
+    },
+    {
+      "entity": "罂粟科",
+      "type": "科"
+    },
+    {
+      "entity": "博落回属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋冬二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "动物"
+    },
+    {
+      "entity": "苦",
+      "type": "化学物质"
+    },
+    {
+      "entity": "寒",
+      "type": "化学物质"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "顽癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "滴虫性阴道炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛疮疔肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "臁疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "动物"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "龋齿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "酒渣鼻",
+      "type": "疾病"
+    },
+    {
+      "entity": "外用",
+      "type": "动物"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "江西民间草药验方",
+      "type": "文献"
+    },
+    {
+      "entity": "大毒",
+      "type": "具有毒性"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "博落回",
+      "predicate": "属于科",
+      "tail": "罂粟科"
+    },
+    {
+      "head": "博落回",
+      "predicate": "属于属",
+      "tail": "博落回属"
+    },
+    {
+      "head": "博落回",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "博落回",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "博落回",
+      "predicate": "采收时间",
+      "tail": "秋冬二季"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有性味",
+      "tail": "伪尾实体129"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有功能",
+      "tail": "祛风"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "顽癣"
+    },
+    {
+      "head": "博落回",
+      "predicate": "位于",
+      "tail": "滴虫性阴道炎"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "痛疮疔肿"
+    },
+    {
+      "head": "博落回",
+      "predicate": "相关基因",
+      "tail": "臁疮"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "伪尾实体275"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "伪尾实体765"
+    },
+    {
+      "head": "博落回",
+      "predicate": "治疗",
+      "tail": "伪尾实体374"
+    },
+    {
+      "head": "博落回",
+      "predicate": "外用",
+      "tail": "外用"
+    },
+    {
+      "head": "博落回",
+      "predicate": "不宜与",
+      "tail": "内服"
+    },
+    {
+      "head": "博落回",
+      "predicate": "具有毒性",
+      "tail": "大毒"
+    },
+    {
+      "head": "臁疮",
+      "predicate": "应用举例",
+      "tail": "伪尾实体773"
+    },
+    {
+      "head": "博落回",
+      "predicate": "记载于文献",
+      "tail": "江西民间草药验方"
+    }
+  ]
+}

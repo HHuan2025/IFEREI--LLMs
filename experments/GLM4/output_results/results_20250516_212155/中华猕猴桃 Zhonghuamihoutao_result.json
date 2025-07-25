@@ -1,0 +1,559 @@
+{
+  "entities": [
+    {
+      "entity": "中华猕猴桃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃科",
+      "type": "科"
+    },
+    {
+      "entity": "猕猴桃属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藤",
+      "type": "药用部位"
+    },
+    {
+      "entity": "汁液",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "猕猴桃根",
+      "type": "中药名"
+    },
+    {
+      "entity": "猕猴桃藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "猕猴桃枝叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "猕猴桃",
+      "type": "中药名"
+    },
+    {
+      "entity": "微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "其他"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "止渴",
+      "type": "功能"
+    },
+    {
+      "entity": "和胃",
+      "type": "功能"
+    },
+    {
+      "entity": "通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦热",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "石淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "9月中、下旬至10月上旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苎麻根",
+      "type": "其他"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "石灰",
+      "type": "其他"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "天花粉",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中华猕猴桃",
+      "predicate": "属于科",
+      "tail": "猕猴桃科"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "属于属",
+      "tail": "猕猴桃属"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位为",
+      "tail": "藤"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位为",
+      "tail": "汁液"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位为",
+      "tail": "枝叶"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "属于药用植物",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃藤",
+      "predicate": "属于药用植物",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃枝叶",
+      "predicate": "属于药用植物",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "属于药用植物",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "根",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "止渴"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "和胃"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "通淋"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "肝炎"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "消化不良"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "淋浊"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "带下"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "结核"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "主治疾病",
+      "tail": "乳痈"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "主治疾病",
+      "tail": "烫伤"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "主治疾病",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "主治疾病",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "烦热"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "消渴"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "消化不良"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "黄疸"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "石淋"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "痔疮"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "30-60克"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "枝叶",
+      "predicate": "外用",
+      "tail": "研末或捣敷"
+    },
+    {
+      "head": "果实",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "30-60克"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "采收时间",
+      "tail": "9月中、下旬至10月上旬"
+    },
+    {
+      "head": "猕猴桃果",
+      "predicate": "主治疾病",
+      "tail": "消渴"
+    },
+    {
+      "head": "猕猴桃果",
+      "predicate": "用法用量",
+      "tail": "60克"
+    },
+    {
+      "head": "猕猴桃果",
+      "predicate": "记载于文献",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "主治疾病",
+      "tail": "淋浊"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "主治疾病",
+      "tail": "带下"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "用法用量",
+      "tail": "30-60克"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "猕猴桃叶",
+      "predicate": "主治疾病",
+      "tail": "烫伤"
+    },
+    {
+      "head": "猕猴桃叶",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "entities": [
+    {
+      "entity": "含羞草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "含羞草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "含羞草(全草)",
+      "type": "中药名"
+    },
+    {
+      "entity": "含羞草根(根)",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘涩微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "涩微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "清热利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "安神镇静",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿通络",
+      "type": "功能"
+    },
+    {
+      "entity": "明目镇静",
+      "type": "功能"
+    },
+    {
+      "entity": "和胃消积",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "带状疱疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "劳伤咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "血尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "泌尿系结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "神经衰弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "眼花",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣烂敷患处",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇",
+      "type": "其他"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "5克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "酒泡服",
+      "type": "用法"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "15-60克",
+      "type": "用法用量"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "含羞草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "属于属",
+      "tail": "含羞草属"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "含羞草(全草)",
+      "predicate": "包含于",
+      "tail": "含羞草"
+    },
+    {
+      "head": "含羞草根(根)",
+      "predicate": "包含于",
+      "tail": "含羞草"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "夏季"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "甘涩微苦"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "涩微苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "清热利尿"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "安神镇静"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "止咳化痰"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "利湿通络"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "明目镇静"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "和胃消积"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "感冒"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "小儿高热"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "急性结膜炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "肠炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "肝炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "胃炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "失眠"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "结膜炎"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "带状疱疹"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "劳伤咳血"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "鼻衄"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "血尿"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "泌尿系结石"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "疟疾"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "神经衰弱"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "慢性气管炎"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "风湿疼痛"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "闭经"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "头痛失眠"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "眼花"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "小儿消化不良"
+    },
+    {
+      "head": "全草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法用量",
+      "tail": "鲜品30-60克"
+    },
+    {
+      "head": "全草",
+      "predicate": "外用",
+      "tail": "捣烂敷患处"
+    },
+    {
+      "head": "孕妇",
+      "predicate": "不宜与",
+      "tail": "全草"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "鲜品30-60克"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "风湿痛",
+      "predicate": "应用举例",
+      "tail": "含羞草"
+    },
+    {
+      "head": "风湿痛",
+      "predicate": "用法用量",
+      "tail": "5克"
+    },
+    {
+      "head": "风湿痛",
+      "predicate": "用法",
+      "tail": "酒泡服"
+    },
+    {
+      "head": "风湿痛",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    },
+    {
+      "head": "小儿高热",
+      "predicate": "应用举例",
+      "tail": "含羞草"
+    },
+    {
+      "head": "小儿高热",
+      "predicate": "用法用量",
+      "tail": "9克"
+    },
+    {
+      "head": "小儿高热",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "小儿高热",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "急性肝炎",
+      "predicate": "应用举例",
+      "tail": "含羞草"
+    },
+    {
+      "head": "急性肝炎",
+      "predicate": "用法用量",
+      "tail": "15-60克"
+    },
+    {
+      "head": "急性肝炎",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "急性肝炎",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    }
+  ]
+}

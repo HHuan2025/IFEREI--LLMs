@@ -1,0 +1,324 @@
+{
+  "entities": [
+    {
+      "entity": "三叶木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木通科",
+      "type": "科"
+    },
+    {
+      "entity": "木通属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥根藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "干燥近成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "预知子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八月札",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八月瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "秋季",
+      "type": "功能"
+    },
+    {
+      "entity": "夏、秋二季",
+      "type": "功能"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清心火",
+      "type": "功能"
+    },
+    {
+      "entity": "利小便",
+      "type": "功能"
+    },
+    {
+      "entity": "通经下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "舒肝理气",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "胸中烦热",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "五淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "周身挛痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭乳少",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘胁胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "医宗必读",
+      "type": "文献"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "中药志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三叶木通",
+      "predicate": "属于科",
+      "tail": "木通科"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "属于属",
+      "tail": "木通属"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "药用部位为",
+      "tail": "干燥根藤茎"
+    },
+    {
+      "head": "木通",
+      "predicate": "属于属",
+      "tail": "三叶木通"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "药用部位为",
+      "tail": "预知子"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "药用部位为",
+      "tail": "八月札"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "药用部位为",
+      "tail": "八月瓜"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有功能",
+      "tail": "清心火"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有功能",
+      "tail": "利小便"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有功能",
+      "tail": "通经下乳"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有功能",
+      "tail": "舒肝理气"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "胸中烦热"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "喉痹咽痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "尿赤"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "五淋"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "周身挛痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "经闭乳少"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "脘胁胀痛"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "经闭痛经"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "木通",
+      "predicate": "记载于文献",
+      "tail": "医宗必读"
+    },
+    {
+      "head": "木通",
+      "predicate": "记载于文献",
+      "tail": "普济方"
+    },
+    {
+      "head": "木通",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "预知子",
+      "predicate": "记载于文献",
+      "tail": "四川中药志"
+    },
+    {
+      "head": "八月札",
+      "predicate": "记载于文献",
+      "tail": "中药志"
+    }
+  ]
+}

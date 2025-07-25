@@ -1,0 +1,563 @@
+{
+  "entities": [
+    {
+      "entity": "南天竹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "小檗科",
+      "type": "科"
+    },
+    {
+      "entity": "南天竹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南天竹根",
+      "type": "药材"
+    },
+    {
+      "entity": "南天竹梗",
+      "type": "药材"
+    },
+    {
+      "entity": "南天竹叶",
+      "type": "药材"
+    },
+    {
+      "entity": "南天竹子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "禁忌"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "清湿热",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆气",
+      "type": "功能"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "泻火解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "敛肺止咳平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "久咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘息",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "中枢神经系统兴奋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痉挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呼吸中枢麻痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿睡觉磨牙",
+      "type": "疾病"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "风火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "万县中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "外感咳嗽初起",
+      "type": "疾病"
+    },
+    {
+      "entity": "冰糖",
+      "type": "药材"
+    },
+    {
+      "entity": "枇杷叶",
+      "type": "药材"
+    },
+    {
+      "entity": "蟋蟀草",
+      "type": "药材"
+    },
+    {
+      "entity": "铁马鞭",
+      "type": "药材"
+    },
+    {
+      "entity": "南天竹茎叶",
+      "type": "药材"
+    },
+    {
+      "entity": "鲜南天竹根",
+      "type": "药材"
+    },
+    {
+      "entity": "鲜枇杷叶",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南天竹",
+      "predicate": "属于科",
+      "tail": "小檗科"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "属于属",
+      "tail": "南天竹属"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "茎枝"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "祛风化痰"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "具有功能",
+      "tail": "清湿热"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "具有功能",
+      "tail": "降逆气"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "泻火解毒"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "具有功能",
+      "tail": "敛肺止咳平喘"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "湿热黄疸"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "治疗",
+      "tail": "湿热黄疸"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "治疗",
+      "tail": "泻痢"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "南天竹梗",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "治疗",
+      "tail": "久咳"
+    },
+    {
+      "head": "南天竹子",
+      "predicate": "治疗",
+      "tail": "喘息"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "治疗",
+      "tail": "疮痈"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "导致",
+      "tail": "中枢神经系统兴奋"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "导致",
+      "tail": "痉挛"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "导致",
+      "tail": "呼吸中枢麻痹"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "导致",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "肺热咳嗽",
+      "predicate": "药方",
+      "tail": "鲜南天竹根"
+    },
+    {
+      "head": "肺热咳嗽",
+      "predicate": "药方",
+      "tail": "鲜枇杷叶"
+    },
+    {
+      "head": "肺热咳嗽",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "小儿睡觉磨牙",
+      "predicate": "药方",
+      "tail": "南天竹茎叶"
+    },
+    {
+      "head": "小儿睡觉磨牙",
+      "predicate": "记载于文献",
+      "tail": "青岛中草药手册"
+    },
+    {
+      "head": "风火牙痛",
+      "predicate": "药方",
+      "tail": "南天竹叶"
+    },
+    {
+      "head": "风火牙痛",
+      "predicate": "药方",
+      "tail": "蟋蟀草"
+    },
+    {
+      "head": "风火牙痛",
+      "predicate": "药方",
+      "tail": "铁马鞭"
+    },
+    {
+      "head": "风火牙痛",
+      "predicate": "记载于文献",
+      "tail": "万县中草药"
+    },
+    {
+      "head": "百日咳",
+      "predicate": "药方",
+      "tail": "南天竹子"
+    },
+    {
+      "head": "百日咳",
+      "predicate": "药方",
+      "tail": "冰糖"
+    },
+    {
+      "head": "百日咳",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    }
+  ]
+}

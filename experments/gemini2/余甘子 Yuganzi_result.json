@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "entity": "余甘子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "叶下珠属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘酸涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "消食健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "生津止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "血热血瘀",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "口干",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾胃处寒者",
+      "type": "人群"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "口干烦渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "维生素C缺乏症",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "余甘子",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "属于属",
+      "tail": "叶下珠属"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "药用部位为",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有性味",
+      "tail": "甘酸涩"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "清热凉血"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "消食健脾"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "生津止咳"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "血热血瘀"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "喉痛"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "口干"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "咽喉痛"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "口干烦渴"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "维生素C缺乏症"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "高血压"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "记载于文献",
+      "tail": "常用中草药手册"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

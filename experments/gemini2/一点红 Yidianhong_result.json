@@ -1,0 +1,192 @@
+{
+  "entities": [
+    {
+      "entity": "一点红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一点红属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "上呼吸道感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "口腔溃疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "菌痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿路感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "桂皮",
+      "type": "药用植物"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "灯心草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "瘀血肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "酢浆草",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一点红",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "一点红",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一点红",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "一点红",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "一点红",
+      "predicate": "具有功能",
+      "tail": "散瘀消肿"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "口腔溃疡"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "肺炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "菌痢"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "尿路感染"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "疮疖痈肿"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "慢性胃肠炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "瘀血肿痛"
+    }
+  ]
+}

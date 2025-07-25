@@ -1,0 +1,439 @@
+{
+  "entities": [
+    {
+      "entity": "刺芫荽",
+      "type": "药材"
+    },
+    {
+      "entity": "伞形科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芫荽属",
+      "type": "属"
+    },
+    {
+      "entity": "带根的全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "野芫荽",
+      "type": "药材"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "发表止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "透疹解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻疹不透",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胞痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "6-15克",
+      "type": "用量"
+    },
+    {
+      "entity": "适量",
+      "type": "用量"
+    },
+    {
+      "entity": "煎汤洗",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "应用实例"
+    },
+    {
+      "entity": "山芫荽",
+      "type": "药材"
+    },
+    {
+      "entity": "葱头",
+      "type": "药材"
+    },
+    {
+      "entity": "生姜",
+      "type": "药材"
+    },
+    {
+      "entity": "扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "惠阳地区中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "红河中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺芫荽",
+      "predicate": "属于科",
+      "tail": "伞形科"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "属于属",
+      "tail": "刺芫荽属"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "药用部位为",
+      "tail": "带根的全草"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "中药名",
+      "tail": "野芫荽"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有功能",
+      "tail": "发表止咳"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有功能",
+      "tail": "透疹解毒"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "咳喘"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "麻疹不透"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "咽痛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "胞痛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "呕逆"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "泻痢"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "淋痛"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "跌伤"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "用法",
+      "tail": "6-15克"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "用法",
+      "tail": "适量"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "外用",
+      "tail": "煎汤洗"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "风寒感冒",
+      "predicate": "应用实例",
+      "tail": "山芫荽"
+    },
+    {
+      "head": "风寒感冒",
+      "predicate": "应用实例",
+      "tail": "葱头"
+    },
+    {
+      "head": "风寒感冒",
+      "predicate": "应用实例",
+      "tail": "生姜"
+    },
+    {
+      "head": "风寒感冒",
+      "predicate": "应用实例",
+      "tail": "拌热粥服"
+    },
+    {
+      "head": "扁桃体炎",
+      "predicate": "应用实例",
+      "tail": "干野芫荽"
+    },
+    {
+      "head": "毒蛇咬伤",
+      "predicate": "应用实例",
+      "tail": "干野芫荽"
+    },
+    {
+      "head": "毒蛇咬伤",
+      "predicate": "应用实例",
+      "tail": "鲜野芫荽"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "应用实例",
+      "tail": "干野芫荽"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "应用实例",
+      "tail": "鲜野芫荽"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "应用实例",
+      "tail": "凉拌作菜吃"
+    },
+    {
+      "head": "干野芫荽",
+      "predicate": "记载于文献",
+      "tail": "惠阳地区中草药"
+    },
+    {
+      "head": "干野芫荽",
+      "predicate": "记载于文献",
+      "tail": "红河中草药"
+    },
+    {
+      "head": "鲜野芫荽",
+      "predicate": "记载于文献",
+      "tail": "红河中草药"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "entity": "五爪金龙",
+      "type": "药用植物"
+    },
+    {
+      "entity": "旋花科",
+      "type": "科"
+    },
+    {
+      "entity": "番薯属",
+      "type": "属"
+    },
+    {
+      "entity": "茎叶或根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五叶藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "五爪金龙花",
+      "type": "中药名"
+    },
+    {
+      "entity": "诸淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "中药大辞典",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五爪金龙",
+      "predicate": "属于科",
+      "tail": "旋花科"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "属于属",
+      "tail": "番薯属"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位",
+      "tail": "茎叶或根"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "茎叶或根",
+      "predicate": "中药名",
+      "tail": "五叶藤"
+    },
+    {
+      "head": "花",
+      "predicate": "中药名",
+      "tail": "五爪金龙花"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "治疗",
+      "tail": "诸淋"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "治疗",
+      "tail": "咳血"
+    },
+    {
+      "head": "泉州本草",
+      "predicate": "文献记载",
+      "tail": "五爪金龙"
+    },
+    {
+      "head": "中药大辞典",
+      "predicate": "文献记载",
+      "tail": "五爪金龙"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "entity": "千根草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "小飞羊草",
+      "type": "中药名"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "腹泻口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "眼枷树皮",
+      "type": "药用植物"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千根草",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "千根草",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "千根草",
+      "predicate": "药用部位",
+      "tail": "全株"
+    },
+    {
+      "head": "千根草",
+      "predicate": "中药名",
+      "tail": "小飞羊草"
+    },
+    {
+      "head": "乳汁草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "岭南草药志",
+      "predicate": "文献记载",
+      "tail": "乳汁草"
+    },
+    {
+      "head": "乳汁草",
+      "predicate": "治疗",
+      "tail": "腹泻口渴"
+    },
+    {
+      "head": "乳汁草",
+      "predicate": "治疗",
+      "tail": "小便赤"
+    },
+    {
+      "head": "乳汁草",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    },
+    {
+      "head": "眼枷树皮",
+      "predicate": "治疗",
+      "tail": "腹泻口渴"
+    },
+    {
+      "head": "眼枷树皮",
+      "predicate": "治疗",
+      "tail": "小便赤"
+    },
+    {
+      "head": "眼枷树皮",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    },
+    {
+      "head": "乳汁草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "entity": "买麻藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "买麻藤科",
+      "type": "科"
+    },
+    {
+      "entity": "买麻藤属",
+      "type": "属"
+    },
+    {
+      "entity": "茎叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鹤膝风",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "溃疡病出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "接骨藤",
+      "type": "药材"
+    },
+    {
+      "entity": "全国中草药新医疗法展览会资料选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "买麻藤",
+      "predicate": "药用部位为",
+      "tail": "茎叶"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "鹤膝风"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "溃疡病出血"
+    },
+    {
+      "head": "买麻藤",
+      "predicate": "治疗",
+      "tail": "慢性气管炎"
+    },
+    {
+      "head": "接骨藤",
+      "predicate": "记载于文献",
+      "tail": "全国中草药新医疗法展览会资料选编"
+    }
+  ]
+}

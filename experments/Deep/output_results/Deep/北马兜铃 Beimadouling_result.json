@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "entity": "北马兜铃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "马兜铃属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "马兜铃",
+      "type": "中药名"
+    },
+    {
+      "entity": "天仙藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿肺虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "气粗喘促",
+      "type": "疾病"
+    },
+    {
+      "entity": "阿胶",
+      "type": "中药名"
+    },
+    {
+      "entity": "鼠粘子",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "杏仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "糯米",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿药证直诀",
+      "type": "文献"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北马兜铃",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "属于属",
+      "tail": "马兜铃属"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位",
+      "tail": "地上部分"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "马兜铃"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "中药名",
+      "tail": "天仙藤"
+    },
+    {
+      "head": "马兜铃",
+      "predicate": "治疗",
+      "tail": "小儿肺虚"
+    },
+    {
+      "head": "马兜铃",
+      "predicate": "治疗",
+      "tail": "气粗喘促"
+    },
+    {
+      "head": "小儿药证直诀",
+      "predicate": "文献记载",
+      "tail": "马兜铃"
+    },
+    {
+      "head": "天仙藤",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "江西草药",
+      "predicate": "文献记载",
+      "tail": "天仙藤"
+    }
+  ]
+}

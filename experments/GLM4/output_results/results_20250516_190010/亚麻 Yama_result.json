@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "entity": "亚麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "亚麻科",
+      "type": "科"
+    },
+    {
+      "entity": "亚麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "亚麻子",
+      "type": "中药名"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "平肝",
+      "type": "功能"
+    },
+    {
+      "entity": "活血",
+      "type": "功能"
+    },
+    {
+      "entity": "养血祛风",
+      "type": "功能"
+    },
+    {
+      "entity": "润燥通便",
+      "type": "功能"
+    },
+    {
+      "entity": "肝风头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻风",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤干燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "脱发",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "江西中草药学",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "亚麻",
+      "predicate": "属于科",
+      "tail": "亚麻科"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "属于属",
+      "tail": "亚麻属"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "中药名",
+      "tail": "亚麻子"
+    },
+    {
+      "head": "根",
+      "predicate": "性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "性味",
+      "tail": "平"
+    },
+    {
+      "head": "叶",
+      "predicate": "性味",
+      "tail": "辛"
+    },
+    {
+      "head": "叶",
+      "predicate": "性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "性味",
+      "tail": "平"
+    },
+    {
+      "head": "种子",
+      "predicate": "性味",
+      "tail": "甘"
+    },
+    {
+      "head": "种子",
+      "predicate": "性味",
+      "tail": "平"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "平肝"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "平肝"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "养血祛风"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "润燥通便"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "肝风头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "肝风头痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "麻风"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "皮肤干燥"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "瘙痒"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "脱发"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "疮疡湿疹"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "记载于文献",
+      "tail": "江西中草药学"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "entity": "单色蝴蝶草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "玄参科",
+      "type": "科"
+    },
+    {
+      "entity": "蝴蝶草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "活血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "风热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "倒胆草",
+      "type": "药材"
+    },
+    {
+      "entity": "栀子",
+      "type": "药材"
+    },
+    {
+      "entity": "车前草根",
+      "type": "药材"
+    },
+    {
+      "entity": "白糖",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "属于科",
+      "tail": "玄参科"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "属于属",
+      "tail": "蝴蝶草属"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "蓝猪耳",
+      "predicate": "别名",
+      "tail": "单色蝴蝶草"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "止咳止呕"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "活血解毒"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "风热咳嗽"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "蛇伤"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "治疗",
+      "tail": "疔毒"
+    }
+  ]
+}

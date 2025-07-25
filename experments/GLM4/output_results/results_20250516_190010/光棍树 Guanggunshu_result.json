@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "entity": "光棍树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "绿玉树",
+      "type": "中药名"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "产后乳汁不足",
+      "type": "疾病"
+    },
+    {
+      "entity": "癣疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "关节肿痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "光棍树",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "中药名",
+      "tail": "绿玉树"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "主治疾病",
+      "tail": "产后乳汁不足"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "主治疾病",
+      "tail": "癣疮"
+    },
+    {
+      "head": "光棍树",
+      "predicate": "主治疾病",
+      "tail": "关节肿痛"
+    }
+  ]
+}

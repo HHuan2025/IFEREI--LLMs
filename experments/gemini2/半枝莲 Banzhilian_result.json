@@ -1,0 +1,415 @@
+{
+  "entities": [
+    {
+      "entity": "半枝莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "黄芩属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "热毒痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "癌症",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚者",
+      "type": "人群"
+    },
+    {
+      "entity": "孕妇",
+      "type": "人群"
+    },
+    {
+      "entity": "狭叶韩信草",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    },
+    {
+      "entity": "野葡萄根",
+      "type": "药材"
+    },
+    {
+      "entity": "藤梨根",
+      "type": "药材"
+    },
+    {
+      "entity": "水杨梅根",
+      "type": "药材"
+    },
+    {
+      "entity": "白茅根",
+      "type": "药材"
+    },
+    {
+      "entity": "凤尾草",
+      "type": "药材"
+    },
+    {
+      "entity": "半边莲",
+      "type": "药材"
+    },
+    {
+      "entity": "鹿茸草",
+      "type": "药材"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药材"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "浙江民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "咽喉炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "半枝莲",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "属于属",
+      "tail": "黄芩属"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有功能",
+      "tail": "祛瘀"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "具有功能",
+      "tail": "定痛"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "热毒痈肿"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "咽喉疼痛"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "腹水"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "治疗",
+      "tail": "癌症"
+    },
+    {
+      "head": "咽喉肿痛",
+      "predicate": "治疗",
+      "tail": "狭叶韩信草"
+    },
+    {
+      "head": "咽喉肿痛",
+      "predicate": "治疗",
+      "tail": "马鞭草"
+    },
+    {
+      "head": "狭叶韩信草",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "半枝莲"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "野葡萄根"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "藤梨根"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "水杨梅根"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "白茅根"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "凤尾草"
+    },
+    {
+      "head": "癌症",
+      "predicate": "治疗",
+      "tail": "半边莲"
+    },
+    {
+      "head": "半枝莲",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "咽喉炎",
+      "predicate": "治疗",
+      "tail": "半枝莲"
+    },
+    {
+      "head": "咽喉炎",
+      "predicate": "治疗",
+      "tail": "鹿茸草"
+    },
+    {
+      "head": "咽喉炎",
+      "predicate": "治疗",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "扁桃体炎",
+      "predicate": "治疗",
+      "tail": "半枝莲"
+    },
+    {
+      "head": "扁桃体炎",
+      "predicate": "治疗",
+      "tail": "鹿茸草"
+    },
+    {
+      "head": "扁桃体炎",
+      "predicate": "治疗",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "鹿茸草",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "野葡萄根",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "马鞭草",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "藤梨根",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "水杨梅根",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "白茅根",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    }
+  ]
+}

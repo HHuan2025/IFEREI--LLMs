@@ -1,0 +1,587 @@
+{
+  "entities": [
+    {
+      "entity": "吉祥草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "吉祥草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "疾病"
+    },
+    {
+      "entity": "中药名",
+      "type": "疾病"
+    },
+    {
+      "entity": "吉祥草",
+      "type": "药材"
+    },
+    {
+      "entity": "四季均可采挖",
+      "type": "采收时间"
+    },
+    {
+      "entity": "除去泥土，洗凈，鲜用或晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "疾病"
+    },
+    {
+      "entity": "解毒利咽",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量，捣敷",
+      "type": "用法用量"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "吉祥草30克，生姜三片，红糖30克，煎水服，每天3次分服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "常用民间草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "吉祥草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "吉祥草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒利咽",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "生姜",
+      "type": "功能"
+    },
+    {
+      "entity": "红糖",
+      "type": "功能"
+    },
+    {
+      "entity": "常用民间草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "吉祥草",
+      "type": "药材"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "吉祥草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "四季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒利咽",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "常用民间草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吉祥草",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "属于属",
+      "tail": "吉祥草属"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "采收时间",
+      "tail": "四季均可采挖"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "采收加工",
+      "tail": "除去泥土，洗凈，鲜用或晒干"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "伪尾实体325"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "清肺止咳"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "解毒利咽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "目赤翳障"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "伪尾实体41"
+    },
+    {
+      "head": "内服",
+      "predicate": "治疗",
+      "tail": "鲜品30-60克"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法用量",
+      "tail": "适量，捣敷"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "止咳",
+      "predicate": "应用举例",
+      "tail": "吉祥草30克，生姜三片，红糖30克，煎水服，每天3次分服"
+    },
+    {
+      "head": "吉祥草30克，生姜三片，红糖30克，煎水服，每天3次分服",
+      "predicate": "记载于文献",
+      "tail": "常用民间草药手册"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "属于属",
+      "tail": "吉祥草属"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "清肺止咳"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "解毒利咽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "目赤翳障"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "记载于文献",
+      "tail": "常用民间草药手册"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "属于属",
+      "tail": "吉祥草属"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "清肺止咳"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "具有功能",
+      "tail": "解毒利咽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "目赤翳障"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "吉祥草",
+      "predicate": "记载于文献",
+      "tail": "常用民间草药手册"
+    }
+  ]
+}

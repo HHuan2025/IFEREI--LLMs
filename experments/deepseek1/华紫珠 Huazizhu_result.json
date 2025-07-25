@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "entity": "华紫珠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "紫珠属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "紫珠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苦涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "收敛止血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "呕血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙龈出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤紫癜",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤眼",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华紫珠",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "属于属",
+      "tail": "紫珠属"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "紫珠",
+      "predicate": "别名",
+      "tail": "华紫珠"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "具有性味",
+      "tail": "苦涩"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "具有功能",
+      "tail": "收敛止血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "呕血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "牙龈出血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "皮肤紫癜"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "痈疽肿毒"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "烧伤"
+    },
+    {
+      "head": "华紫珠",
+      "predicate": "治疗",
+      "tail": "赤眼"
+    }
+  ]
+}

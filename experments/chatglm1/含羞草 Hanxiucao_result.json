@@ -1,0 +1,415 @@
+{
+  "entities": [
+    {
+      "entity": "含羞草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "含羞草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘涩微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "涩微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "安神镇静",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿通络",
+      "type": "功能"
+    },
+    {
+      "entity": "明目镇静",
+      "type": "功能"
+    },
+    {
+      "entity": "和胃消积",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "带状疱疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "劳伤咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "血尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "泌尿系结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "神经衰弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "眼花",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿消化不良",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "含羞草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "属于属",
+      "tail": "含羞草属"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "甘涩微苦"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "涩微苦"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "清热利尿"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "安神镇静"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "止咳化痰"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "利湿通络"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "明目镇静"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "具有功能",
+      "tail": "和胃消积"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "小儿高热"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "急性结膜炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "胃炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "失眠"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "结膜炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "带状疱疹"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "劳伤咳血"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "鼻衄"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "血尿"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "泌尿系结石"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "神经衰弱"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "慢性气管炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "风湿疼痛"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "头痛失眠"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "眼花"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "含羞草",
+      "predicate": "治疗",
+      "tail": "小儿消化不良"
+    }
+  ]
+}

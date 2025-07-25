@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "entity": "北细辛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "细辛属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "细辛",
+      "type": "中药名"
+    },
+    {
+      "entity": "饮食不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "丁香",
+      "type": "中药名"
+    },
+    {
+      "entity": "柿蒂汤",
+      "type": "其他"
+    },
+    {
+      "entity": "风入腹",
+      "type": "疾病"
+    },
+    {
+      "entity": "吴茱萸",
+      "type": "中药名"
+    },
+    {
+      "entity": "干姜",
+      "type": "中药名"
+    },
+    {
+      "entity": "当归",
+      "type": "中药名"
+    },
+    {
+      "entity": "防风",
+      "type": "中药名"
+    },
+    {
+      "entity": "芍药",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北细辛",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "北细辛",
+      "predicate": "属于属",
+      "tail": "细辛属"
+    },
+    {
+      "head": "北细辛",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "细辛",
+      "predicate": "治疗",
+      "tail": "饮食不下"
+    },
+    {
+      "head": "细辛",
+      "predicate": "治疗",
+      "tail": "风入腹"
+    }
+  ]
+}

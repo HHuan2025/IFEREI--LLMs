@@ -1,0 +1,162 @@
+{
+  "entities": [
+    {
+      "entity": "含笑",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "含笑属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "疾病"
+    },
+    {
+      "entity": "含笑",
+      "type": "疾病"
+    },
+    {
+      "entity": "开花期",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晴天清晨",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "动物"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "芳香化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "气滞腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎",
+      "type": "用法"
+    },
+    {
+      "entity": "2-3钱",
+      "type": "化学物质"
+    },
+    {
+      "entity": "捣烂外敷",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "含笑",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "含笑",
+      "predicate": "属于属",
+      "tail": "含笑属"
+    },
+    {
+      "head": "含笑",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "含笑",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "开花期",
+      "predicate": "采收时间",
+      "tail": "晴天清晨"
+    },
+    {
+      "head": "含笑",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "含笑",
+      "predicate": "具有性味",
+      "tail": "伪尾实体479"
+    },
+    {
+      "head": "含笑",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "含笑",
+      "predicate": "具有功能",
+      "tail": "芳香化湿"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "气滞腹胀"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "治疗",
+      "tail": "鼻炎"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "内服",
+      "tail": "水煎"
+    },
+    {
+      "head": "花蕾",
+      "predicate": "用法用量",
+      "tail": "2-3钱"
+    },
+    {
+      "head": "叶",
+      "predicate": "外用",
+      "tail": "伪尾实体499"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "entities": [
+    {
+      "entity": "参薯",
+      "type": "药用植物"
+    },
+    {
+      "entity": "薯蓣科",
+      "type": "科"
+    },
+    {
+      "entity": "薯蓣属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "毛薯",
+      "type": "药材"
+    },
+    {
+      "entity": "冬初",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "益肺滋肾",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒敛疮",
+      "type": "功能"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便频数",
+      "type": "器官"
+    },
+    {
+      "entity": "虚劳咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡溃烂",
+      "type": "疾病"
+    },
+    {
+      "entity": "汤火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "研末敷",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "参薯",
+      "predicate": "属于科",
+      "tail": "薯蓣科"
+    },
+    {
+      "head": "参薯",
+      "predicate": "属于属",
+      "tail": "薯蓣属"
+    },
+    {
+      "head": "参薯",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "参薯",
+      "predicate": "包含中药",
+      "tail": "毛薯"
+    },
+    {
+      "head": "冬初",
+      "predicate": "相关基因",
+      "tail": "参薯"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "微涩"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有性味",
+      "tail": "伪尾实体46"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "健脾止泻"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "益肺滋肾"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有功能",
+      "tail": "解毒敛疮"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "伪尾实体527"
+    },
+    {
+      "head": "参薯",
+      "predicate": "具有颜色",
+      "tail": "伪尾实体485"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "小便频数"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "虚劳咳嗽"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "消渴"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "疮疡溃烂"
+    },
+    {
+      "head": "参薯",
+      "predicate": "治疗",
+      "tail": "伪尾实体2"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法",
+      "tail": "参薯"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "剂型",
+      "tail": "内服"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "丸",
+      "predicate": "剂型",
+      "tail": "内服"
+    },
+    {
+      "head": "散",
+      "predicate": "剂型",
+      "tail": "内服"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法",
+      "tail": "参薯"
+    },
+    {
+      "head": "研末敷",
+      "predicate": "用法",
+      "tail": "外用"
+    }
+  ]
+}

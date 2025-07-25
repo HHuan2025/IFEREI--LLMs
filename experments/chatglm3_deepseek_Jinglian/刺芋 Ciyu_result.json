@@ -1,0 +1,1020 @@
+{
+  "entities": [
+    {
+      "entity": "刺芋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎或全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竻慈姑",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "挖取根茎或全草，洗净，晒干或切碎晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、辛，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿，解毒消肿，健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "岳热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便黄赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿头疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "胎毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "刺芋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竻慈姑",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "岳热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便黄赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿头疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "胎毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便混浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "刺芋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竻慈姑",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "岳热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便黄赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿头疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "胎毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便混浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "刺芋",
+      "type": "药材"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "功能"
+    },
+    {
+      "entity": "岳热咳嗽",
+      "type": "功能"
+    },
+    {
+      "entity": "小便黄赤",
+      "type": "功能"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "功能"
+    },
+    {
+      "entity": "白带",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "慢性胃炎",
+      "type": "功能"
+    },
+    {
+      "entity": "消化不良",
+      "type": "功能"
+    },
+    {
+      "entity": "小儿头疮",
+      "type": "功能"
+    },
+    {
+      "entity": "胎毒",
+      "type": "功能"
+    },
+    {
+      "entity": "痄腮",
+      "type": "功能"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "功能"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "功能"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "功能"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺芋",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于属",
+      "tail": "刺芋属"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "根茎或全草"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "中药名",
+      "tail": "竻慈姑"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "采收加工",
+      "tail": "挖取根茎或全草，洗净，晒干或切碎晒干"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "苦、辛，凉"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "清热利湿，解毒消肿，健胃消食"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "岳热咳嗽"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便黄赤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小儿头疮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "胎毒"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "内服:煎汤，9-15克"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "外用:适量，煎水洗；或研末调敷"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于属",
+      "tail": "刺芋属"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "竻慈姑"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "岳热咳嗽"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便黄赤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小儿头疮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "胎毒"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便混浊"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于属",
+      "tail": "刺芋属"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "竻慈姑"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "岳热咳嗽"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便黄赤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小儿头疮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "胎毒"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便混浊"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于属",
+      "tail": "刺芋属"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "岳热咳嗽"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便黄赤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "慢性胃炎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小儿头疮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "胎毒"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "9-15克"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "适量"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    }
+  ]
+}

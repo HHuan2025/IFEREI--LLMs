@@ -1,0 +1,453 @@
+{
+  "entities": [
+    {
+      "entity": "千日红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "千日红属",
+      "type": "属"
+    },
+    {
+      "entity": "花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微咸",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "止咳平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "清肝明目",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿夜啼",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热头晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "气喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "千日红",
+      "type": "药材"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "千日红属",
+      "type": "属"
+    },
+    {
+      "entity": "花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微咸",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "止咳平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "清肝明目",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "功能"
+    },
+    {
+      "entity": "哮喘",
+      "type": "功能"
+    },
+    {
+      "entity": "百日咳",
+      "type": "功能"
+    },
+    {
+      "entity": "小儿夜啼",
+      "type": "功能"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "肝热头晕",
+      "type": "功能"
+    },
+    {
+      "entity": "头痛",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疖",
+      "type": "功能"
+    },
+    {
+      "entity": "气喘",
+      "type": "应用实例"
+    },
+    {
+      "entity": "咯血",
+      "type": "应用实例"
+    },
+    {
+      "entity": "中国药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千日红",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "千日红",
+      "predicate": "属于属",
+      "tail": "千日红属"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位为",
+      "tail": "花序"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "微咸"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "止咳平喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "清肝明目"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "哮喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "小儿夜啼"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "肝热头晕"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "气喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "气喘",
+      "predicate": "记载于文献",
+      "tail": "中国药用植物志"
+    },
+    {
+      "head": "咯血",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    },
+    {
+      "head": "千日红",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "千日红",
+      "predicate": "属于属",
+      "tail": "千日红属"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位为",
+      "tail": "花序"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "微咸"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "止咳平喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "清肝明目"
+    },
+    {
+      "head": "千日红",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "哮喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "小儿夜啼"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "肝热头晕"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "千日红",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "千日红",
+      "predicate": "用法",
+      "tail": "花3-9克"
+    },
+    {
+      "head": "千日红",
+      "predicate": "用法",
+      "tail": "全草15-30克"
+    },
+    {
+      "head": "千日红",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "千日红",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "气喘",
+      "predicate": "应用实例",
+      "tail": "千日红"
+    },
+    {
+      "head": "咯血",
+      "predicate": "应用实例",
+      "tail": "千日红"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "中国药用植物志"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    }
+  ]
+}

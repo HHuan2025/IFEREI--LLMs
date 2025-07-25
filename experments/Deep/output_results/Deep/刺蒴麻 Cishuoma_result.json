@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "entity": "刺蒴麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "椴树科",
+      "type": "科"
+    },
+    {
+      "entity": "刺蒴麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄花地桃花",
+      "type": "中药名"
+    },
+    {
+      "entity": "感冒风热",
+      "type": "疾病"
+    },
+    {
+      "entity": "鬼针草",
+      "type": "中药名"
+    },
+    {
+      "entity": "金丝草",
+      "type": "中药名"
+    },
+    {
+      "entity": "鸭脚木",
+      "type": "中药名"
+    },
+    {
+      "entity": "香港中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺蒴麻",
+      "predicate": "属于科",
+      "tail": "椴树科"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "属于属",
+      "tail": "刺蒴麻属"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "中药名",
+      "tail": "黄花地桃花"
+    },
+    {
+      "head": "刺蒴麻根",
+      "predicate": "治疗",
+      "tail": "感冒风热"
+    },
+    {
+      "head": "香港中草药手册",
+      "predicate": "文献记载",
+      "tail": "刺蒴麻"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "头痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "黄疸"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "泄泻"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "热淋"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "主治症状",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

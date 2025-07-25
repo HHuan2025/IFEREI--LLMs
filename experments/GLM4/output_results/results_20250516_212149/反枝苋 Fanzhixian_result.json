@@ -1,0 +1,399 @@
+{
+  "entities": [
+    {
+      "entity": "反枝苋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "苋属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "野苋菜",
+      "type": "中药名"
+    },
+    {
+      "entity": "野苋子",
+      "type": "中药名"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "清肝明目",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蜂螫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热目赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣汁",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "6-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "苋菜菜子",
+      "type": "中药名"
+    },
+    {
+      "entity": "菊花",
+      "type": "中药名"
+    },
+    {
+      "entity": "龙胆草",
+      "type": "中药名"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "痔疮肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜野苋根",
+      "type": "中药名"
+    },
+    {
+      "entity": "猪大肠",
+      "type": "其他"
+    },
+    {
+      "entity": "饭前服",
+      "type": "用法"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "反枝苋",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "属于属",
+      "tail": "苋属"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "反枝苋",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "全草",
+      "predicate": "包含中药",
+      "tail": "野苋菜"
+    },
+    {
+      "head": "种子",
+      "predicate": "包含中药",
+      "tail": "野苋子"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "春"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "夏"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "清肝明目"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "腹泻"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "蜂螫伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "小便不利"
+    },
+    {
+      "head": "全草",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "肝热目赤"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "翳障"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "小便不利"
+    },
+    {
+      "head": "全草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法用量",
+      "tail": "9-30克"
+    },
+    {
+      "head": "全草",
+      "predicate": "内服",
+      "tail": "捣汁"
+    },
+    {
+      "head": "全草",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "种子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "种子",
+      "predicate": "用法用量",
+      "tail": "6-12克"
+    },
+    {
+      "head": "苋菜菜子",
+      "predicate": "包含于",
+      "tail": "应用举例"
+    },
+    {
+      "head": "菊花",
+      "predicate": "包含于",
+      "tail": "应用举例"
+    },
+    {
+      "head": "龙胆草",
+      "predicate": "包含于",
+      "tail": "应用举例"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "鲜野苋根",
+      "predicate": "包含于",
+      "tail": "应用举例"
+    },
+    {
+      "head": "猪大肠",
+      "predicate": "包含于",
+      "tail": "应用举例"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "主治疾病",
+      "tail": "痔疮肿痛"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "用法",
+      "tail": "饭前服"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "entity": "佛甲草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "景天科",
+      "type": "科"
+    },
+    {
+      "entity": "景天属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛甲草",
+      "type": "中药名"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闽东本草",
+      "type": "文献"
+    },
+    {
+      "entity": "喉廯",
+      "type": "疾病"
+    },
+    {
+      "entity": "救生苦海",
+      "type": "文献"
+    },
+    {
+      "entity": "乳痈红肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "贵阳民间药草",
+      "type": "文献"
+    },
+    {
+      "entity": "狗牙半支",
+      "type": "中药名"
+    },
+    {
+      "entity": "狗牙瓣",
+      "type": "中药名"
+    },
+    {
+      "entity": "蒲公英",
+      "type": "中药名"
+    },
+    {
+      "entity": "金银花",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛甲草",
+      "predicate": "属于科",
+      "tail": "景天科"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "属于属",
+      "tail": "景天属"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "中药名",
+      "tail": "佛甲草"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "文献记载",
+      "tail": "闽东本草"
+    },
+    {
+      "head": "狗牙半支",
+      "predicate": "治疗",
+      "tail": "喉廯"
+    },
+    {
+      "head": "狗牙半支",
+      "predicate": "文献记载",
+      "tail": "救生苦海"
+    },
+    {
+      "head": "狗牙瓣",
+      "predicate": "治疗",
+      "tail": "乳痈红肿"
+    },
+    {
+      "head": "狗牙瓣",
+      "predicate": "文献记载",
+      "tail": "贵阳民间药草"
+    }
+  ]
+}

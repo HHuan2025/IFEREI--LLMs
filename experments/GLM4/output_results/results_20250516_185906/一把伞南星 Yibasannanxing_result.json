@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "entity": "一把伞南星",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "天南星属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿散结",
+      "type": "功能"
+    },
+    {
+      "entity": "中风痰壅",
+      "type": "疾病"
+    },
+    {
+      "entity": "口眼喎斜",
+      "type": "疾病"
+    },
+    {
+      "entity": "半身不遂",
+      "type": "疾病"
+    },
+    {
+      "entity": "癫痫",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "破伤风",
+      "type": "疾病"
+    },
+    {
+      "entity": "风痰眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑折伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一把伞南星",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于属",
+      "tail": "天南星属"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "燥湿化痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "祛风定惊"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "具有功能",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "中风痰壅"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "口眼喎斜"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "半身不遂"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "癫痫"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "惊风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "破伤风"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "风痰眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "喉痹"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "跌扑折伤"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    }
+  ]
+}

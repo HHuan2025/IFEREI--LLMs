@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "entity": "一串红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科鼠尾草属",
+      "type": "科属归类"
+    },
+    {
+      "entity": "山地林缘、路旁阴湿地",
+      "type": "生境分布"
+    },
+    {
+      "entity": "巴西",
+      "type": "原产地"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一串红",
+      "predicate": "生于",
+      "tail": "山地林缘、路旁阴湿地"
+    },
+    {
+      "head": "一串红",
+      "predicate": "原产",
+      "tail": "巴西"
+    },
+    {
+      "head": "一串红",
+      "predicate": "以",
+      "tail": "全草入药"
+    },
+    {
+      "head": "一串红",
+      "predicate": "性味功能",
+      "tail": "味甘，性平"
+    },
+    {
+      "head": "一串红",
+      "predicate": "主治用法",
+      "tail": "外用于nología疮肿毒，跌打、脱臼肿痛，毒蛇咬伤"
+    }
+  ]
+}

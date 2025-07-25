@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "乌桕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "乌桕属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮或树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "乌桕木根皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "乌桕叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "乌桕子",
+      "type": "中药名"
+    },
+    {
+      "entity": "肩部生疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤湿疹溃疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌桕",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "属于属",
+      "tail": "乌桕属"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位",
+      "tail": "根皮或树皮"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "根皮或树皮",
+      "predicate": "中药名",
+      "tail": "乌桕木根皮"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "乌桕叶"
+    },
+    {
+      "head": "种子",
+      "predicate": "中药名",
+      "tail": "乌桕子"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "肩部生疮"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "皮肤湿疹溃疡"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    }
+  ]
+}

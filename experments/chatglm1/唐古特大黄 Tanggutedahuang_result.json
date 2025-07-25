@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "entity": "唐古特大黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蓼科",
+      "type": "科"
+    },
+    {
+      "entity": "大黄属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大黄",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "泻热通肠",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "逐瘀通经",
+      "type": "功能"
+    },
+    {
+      "entity": "实热便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "积滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢不爽",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热黄疽",
+      "type": "疾病"
+    },
+    {
+      "entity": "血热吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘀血经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "水火烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "上消化道出血",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "唐古特大黄",
+      "predicate": "属于科",
+      "tail": "蓼科"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "属于属",
+      "tail": "大黄属"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "药用部位为",
+      "tail": "干燥根"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "中药名",
+      "tail": "大黄"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "具有功能",
+      "tail": "泻热通肠"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "具有功能",
+      "tail": "逐瘀通经"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "实热便秘"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "积滞腹痛"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "泻痢不爽"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "湿热黄疽"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "血热吐衄"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "目赤"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "咽肿"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "肠痈腹痛"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "瘀血经闭"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "跌扑损伤"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "水火烫伤"
+    },
+    {
+      "head": "唐古特大黄",
+      "predicate": "治疗",
+      "tail": "上消化道出血"
+    }
+  ]
+}

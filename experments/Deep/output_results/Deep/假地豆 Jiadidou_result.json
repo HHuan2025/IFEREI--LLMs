@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "entity": "假地豆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "山蚂蝗属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "山花生",
+      "type": "中药名"
+    },
+    {
+      "entity": "伤风咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "中药名"
+    },
+    {
+      "entity": "连钱草",
+      "type": "中药名"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "淋病",
+      "type": "疾病"
+    },
+    {
+      "entity": "车前草",
+      "type": "中药名"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "栀子根",
+      "type": "中药名"
+    },
+    {
+      "entity": "白英",
+      "type": "中药名"
+    },
+    {
+      "entity": "马鞭草根",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假地豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "属于属",
+      "tail": "山蚂蝗属"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "药用部位",
+      "tail": "全株"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "中药名",
+      "tail": "山花生"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "伤风咳嗽"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "淋病"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "假地豆"
+    }
+  ]
+}

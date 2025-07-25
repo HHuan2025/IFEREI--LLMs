@@ -1,0 +1,92 @@
+{
+  "entities": [
+    {
+      "entity": "使君子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "使君子科",
+      "type": "科"
+    },
+    {
+      "entity": "使君子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "使君子",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿蛔虫咬痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳蛔",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿五疳",
+      "type": "疾病"
+    },
+    {
+      "entity": "厚朴",
+      "type": "中药名"
+    },
+    {
+      "entity": "陈皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "川芎",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芜荑",
+      "type": "中药名"
+    },
+    {
+      "entity": "苦楝子",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "使君子",
+      "predicate": "属于科",
+      "tail": "使君子科"
+    },
+    {
+      "head": "使君子",
+      "predicate": "属于属",
+      "tail": "使君子属"
+    },
+    {
+      "head": "使君子",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿蛔虫咬痛"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿疳蛔"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿五疳"
+    }
+  ]
+}

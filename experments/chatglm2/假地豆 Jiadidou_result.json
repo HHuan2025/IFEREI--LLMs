@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "entity": "假地豆",
+      "type": "药材"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "山蚂蝗属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "味甘、微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "性寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋症",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "暑温",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "15-60克",
+      "type": "用量"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "伤风咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药材"
+    },
+    {
+      "entity": "连钱草",
+      "type": "药材"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "车前草",
+      "type": "药材"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "栀子根",
+      "type": "药材"
+    },
+    {
+      "entity": "白英",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假地豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "属于属",
+      "tail": "山蚂蝗属"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "具有性味",
+      "tail": "味甘、微苦"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "具有性味归经",
+      "tail": "性寒"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "淋症"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "痈疖"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "暑温"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "用法",
+      "tail": "15-60克"
+    },
+    {
+      "head": "假地豆",
+      "predicate": "用法",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "伤风咳嗽",
+      "predicate": "应用实例",
+      "tail": "假地豆"
+    },
+    {
+      "head": "伤风咳嗽",
+      "predicate": "应用实例",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "伤风咳嗽",
+      "predicate": "应用实例",
+      "tail": "连钱草"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "记载于文献",
+      "tail": "假地豆"
+    },
+    {
+      "head": "淋病",
+      "predicate": "应用实例",
+      "tail": "假地豆"
+    },
+    {
+      "head": "淋病",
+      "predicate": "应用实例",
+      "tail": "车前草"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "应用实例",
+      "tail": "假地豆"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "应用实例",
+      "tail": "栀子根"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "应用实例",
+      "tail": "白英"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "应用实例",
+      "tail": "马鞭草"
+    }
+  ]
+}

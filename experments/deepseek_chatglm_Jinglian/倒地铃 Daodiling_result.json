@@ -1,0 +1,374 @@
+{
+  "entities": [
+    {
+      "entity": "倒地铃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "无患子科",
+      "type": "科"
+    },
+    {
+      "entity": "倒地铃属",
+      "type": "属"
+    },
+    {
+      "entity": "全草或果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三角泡",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋、冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦、辛，寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋证",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤洗",
+      "type": "用法"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "倒地铃",
+      "type": "药材"
+    },
+    {
+      "entity": "无患子科",
+      "type": "科"
+    },
+    {
+      "entity": "倒地铃属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋、冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋证",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤洗",
+      "type": "用法"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "倒地铃",
+      "predicate": "属于科",
+      "tail": "无患子科"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "属于属",
+      "tail": "倒地铃属"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "药用部位为",
+      "tail": "全草或果实"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "中药名",
+      "tail": "三角泡"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "采收时间",
+      "tail": "秋、冬季"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有性味",
+      "tail": "苦、辛，寒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "淋证"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "捣敷"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "煎汤洗"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "属于科",
+      "tail": "无患子科"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "属于属",
+      "tail": "倒地铃属"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "采收时间",
+      "tail": "秋、冬季"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "淋证"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "用法",
+      "tail": "煎汤洗"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    }
+  ]
+}

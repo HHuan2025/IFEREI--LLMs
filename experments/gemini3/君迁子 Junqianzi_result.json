@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "entity": "君迁子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "柿树科",
+      "type": "科"
+    },
+    {
+      "entity": "柿属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "君迁子",
+      "type": "化学物质"
+    },
+    {
+      "entity": "10-11月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "鲜用",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "止渴",
+      "type": "功能"
+    },
+    {
+      "entity": "烦热",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "脾胃虚寒者",
+      "type": "不宜与"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "君迁子",
+      "predicate": "属于科",
+      "tail": "柿树科"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "属于属",
+      "tail": "柿属"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有颜色",
+      "tail": "伪尾实体851"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "采收时间",
+      "tail": "10-11月"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有性味",
+      "tail": "伪尾实体212"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "相关基因",
+      "tail": "涩"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "位于",
+      "tail": "伪尾实体414"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有功能",
+      "tail": "止渴"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有颜色",
+      "tail": "烦热"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "治疗",
+      "tail": "消渴"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "不宜与",
+      "tail": "脾胃虚寒者"
+    }
+  ]
+}

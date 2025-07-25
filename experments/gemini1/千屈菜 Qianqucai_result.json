@@ -1,0 +1,162 @@
+{
+  "entities": [
+    {
+      "entity": "千屈菜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "千屈菜科",
+      "type": "科"
+    },
+    {
+      "entity": "千屈菜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "收敛止血",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "血崩",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡溃烂",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "陈茶叶",
+      "type": "其他"
+    },
+    {
+      "entity": "马齿苋",
+      "type": "其他"
+    },
+    {
+      "entity": "南药中草药学",
+      "type": "文献"
+    },
+    {
+      "entity": "食物中药与便方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千屈菜",
+      "predicate": "属于科",
+      "tail": "千屈菜科"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "属于属",
+      "tail": "千屈菜属"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "具有功能",
+      "tail": "收敛止血"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "血崩"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "疮疡溃烂"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    }
+  ]
+}

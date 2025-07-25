@@ -1,0 +1,15 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一叶萩",
+      "predicate": "主治症状",
+      "tail": "风湿腰痛"
+    }
+  ]
+}

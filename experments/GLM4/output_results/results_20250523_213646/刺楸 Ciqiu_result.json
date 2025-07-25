@@ -1,0 +1,98 @@
+{
+  "entities": [
+    {
+      "entity": "刺楸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "刺楸属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "筋骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "杜衡",
+      "type": "药材"
+    },
+    {
+      "entity": "鸡血藤",
+      "type": "药材"
+    },
+    {
+      "entity": "难产",
+      "type": "疾病"
+    },
+    {
+      "entity": "鸟不停叶",
+      "type": "药材"
+    },
+    {
+      "entity": "甘草",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺楸",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "属于属",
+      "tail": "刺楸属"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位",
+      "tail": "根皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位",
+      "tail": "树皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "刺楸根",
+      "predicate": "治疗",
+      "tail": "筋骨痛"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "治疗",
+      "tail": "难产"
+    }
+  ]
+}

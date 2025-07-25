@@ -1,0 +1,232 @@
+{
+  "entities": [
+    {
+      "entity": "万寿竹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万寿竹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竹叶参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "祛痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "关节腰腿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨蒸潮热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "山竹花根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "红孩儿根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大血藤根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "虎刺根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万寿竹",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "属于属",
+      "tail": "万寿竹属"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有功能",
+      "tail": "舒筋活血"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "具有功能",
+      "tail": "祛痰止咳"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "关节腰腿疼痛"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "虚劳"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "骨蒸潮热"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "肺痨咯血"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "治疗",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "山竹花根",
+      "predicate": "治疗",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "山竹花根",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    }
+  ]
+}

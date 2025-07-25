@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "entity": "云木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "中药名"
+    },
+    {
+      "entity": "一切气不和",
+      "type": "疾病"
+    },
+    {
+      "entity": "走注痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    },
+    {
+      "entity": "内钓腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳香",
+      "type": "中药名"
+    },
+    {
+      "entity": "没药",
+      "type": "中药名"
+    },
+    {
+      "entity": "阮氏小儿方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "云木香",
+      "predicate": "中药名",
+      "tail": "木香"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "一切气不和"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "走注痛"
+    },
+    {
+      "head": "简便单方",
+      "predicate": "文献记载",
+      "tail": "木香"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "内钓腹痛"
+    },
+    {
+      "head": "阮氏小儿方",
+      "predicate": "文献记载",
+      "tail": "木香"
+    }
+  ]
+}

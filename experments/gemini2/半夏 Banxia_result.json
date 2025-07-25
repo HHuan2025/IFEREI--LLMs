@@ -1,0 +1,262 @@
+{
+  "entities": [
+    {
+      "entity": "半夏",
+      "type": "药材"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "半夏属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "禁忌"
+    },
+    {
+      "entity": "燥湿化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "消痞散结",
+      "type": "功能"
+    },
+    {
+      "entity": "湿痰冷饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "反胃",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳喘痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸膈胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰厥头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "头晕不眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "外消痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "目不得瞑",
+      "type": "疾病"
+    },
+    {
+      "entity": "白浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "梦遗",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐食反胃",
+      "type": "疾病"
+    },
+    {
+      "entity": "霍乱转筋",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠腹冷",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰疟",
+      "type": "疾病"
+    },
+    {
+      "entity": "纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "日华子本草",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "半夏",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "半夏",
+      "predicate": "属于属",
+      "tail": "半夏属"
+    },
+    {
+      "head": "半夏",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有功能",
+      "tail": "燥湿化痰"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有功能",
+      "tail": "降逆止呕"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有功能",
+      "tail": "消痞散结"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "湿痰冷饮"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "反胃"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "咳喘痰多"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "胸膈胀满"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "痰厥头痛"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "头晕不眠"
+    },
+    {
+      "head": "半夏",
+      "predicate": "具有功能",
+      "tail": "外消痈肿"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "目不得瞑"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "白浊"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "梦遗"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "吐食反胃"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "霍乱转筋"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "肠腹冷"
+    },
+    {
+      "head": "半夏",
+      "predicate": "治疗",
+      "tail": "痰疟"
+    },
+    {
+      "head": "腹胀",
+      "predicate": "记载于文献",
+      "tail": "纲目"
+    },
+    {
+      "head": "吐食反胃",
+      "predicate": "记载于文献",
+      "tail": "日华子本草"
+    }
+  ]
+}

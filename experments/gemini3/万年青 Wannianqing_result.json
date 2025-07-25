@@ -1,0 +1,527 @@
+{
+  "entities": [
+    {
+      "entity": "万年青",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万年青属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "万年青叶",
+      "type": "化学物质"
+    },
+    {
+      "entity": "万年青花",
+      "type": "药材"
+    },
+    {
+      "entity": "全年均可采",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗凈，去须根，鲜用或切片晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "5-6月花开时采收",
+      "type": "动物"
+    },
+    {
+      "entity": "阴干或烘干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦、微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "其他"
+    },
+    {
+      "entity": "苦涩",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "强心利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "祛瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "补肾",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白喉",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "化学物质"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿臌胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "器官"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品可用至30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁涂",
+      "type": "用法"
+    },
+    {
+      "entity": "塞鼻",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "入丸剂",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜万年青根茎5克",
+      "type": "其他"
+    },
+    {
+      "entity": "水煎服",
+      "type": "化学物质"
+    },
+    {
+      "entity": "《中国苗族药物彩色图集》",
+      "type": "文献"
+    },
+    {
+      "entity": "万年青根3克",
+      "type": "其他"
+    },
+    {
+      "entity": "八爪金龙6克",
+      "type": "药材"
+    },
+    {
+      "entity": "水煎含服",
+      "type": "用法"
+    },
+    {
+      "entity": "万年青根及根茎",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万年青",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "万年青",
+      "predicate": "属于属",
+      "tail": "万年青属"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "苦、微甘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "位于",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "伪尾实体730"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有颜色",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "白喉"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "水肿臌胀"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "用法用量",
+      "tail": "鲜品可用至30克"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有颜色",
+      "tail": "浸酒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "内服",
+      "tail": "捣汁"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "外用",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "外用",
+      "tail": "捣汁涂"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "外用",
+      "tail": "塞鼻"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦涩"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "强心利尿"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "鲜品9-15克"
+    },
+    {
+      "head": "叶",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "叶",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "捣汁涂"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "祛瘀止痛"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "补肾"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "花",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "花",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "花",
+      "predicate": "内服",
+      "tail": "入丸剂"
+    },
+    {
+      "head": "鲜万年青根茎5克",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "鲜万年青根茎5克",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "鲜万年青根茎5克",
+      "predicate": "记载于文献",
+      "tail": "《中国苗族药物彩色图集》"
+    },
+    {
+      "head": "万年青根3克",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "万年青根3克",
+      "predicate": "包含中药",
+      "tail": "八爪金龙6克"
+    },
+    {
+      "head": "万年青根3克",
+      "predicate": "用法",
+      "tail": "水煎含服"
+    }
+  ]
+}

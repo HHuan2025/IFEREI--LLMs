@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "entity": "远志科",
+      "type": "科"
+    },
+    {
+      "entity": "远志属",
+      "type": "属"
+    },
+    {
+      "entity": "华南远志",
+      "type": "药用植物"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南远志",
+      "predicate": "属于科",
+      "tail": "远志科"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "属于属",
+      "tail": "远志属"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "药用部位为",
+      "tail": "带根全草"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "祛痰"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "咳嗽咽痛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

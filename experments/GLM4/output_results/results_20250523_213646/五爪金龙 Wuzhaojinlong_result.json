@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "entity": "五爪金龙",
+      "type": "药用植物"
+    },
+    {
+      "entity": "旋花科",
+      "type": "科"
+    },
+    {
+      "entity": "番薯属",
+      "type": "属"
+    },
+    {
+      "entity": "茎叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "诸淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳血",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五爪金龙",
+      "predicate": "属于科",
+      "tail": "旋花科"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "属于属",
+      "tail": "番薯属"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位",
+      "tail": "茎叶"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "治疗",
+      "tail": "诸淋"
+    },
+    {
+      "head": "五爪金龙",
+      "predicate": "治疗",
+      "tail": "咳血"
+    }
+  ]
+}

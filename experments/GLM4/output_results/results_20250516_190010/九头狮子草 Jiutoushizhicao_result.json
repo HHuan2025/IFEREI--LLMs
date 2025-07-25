@@ -1,0 +1,226 @@
+{
+  "entities": [
+    {
+      "entity": "九头狮子草",
+      "type": "中药名"
+    },
+    {
+      "entity": "爵床科",
+      "type": "科"
+    },
+    {
+      "entity": "观音草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "味辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "性凉",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风清热",
+      "type": "功能"
+    },
+    {
+      "entity": "凉感冒发热",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热咳喘",
+      "type": "功能"
+    },
+    {
+      "entity": "肝热目赤",
+      "type": "功能"
+    },
+    {
+      "entity": "小儿惊风",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "痛肿疔毒",
+      "type": "功能"
+    },
+    {
+      "entity": "乳痈",
+      "type": "功能"
+    },
+    {
+      "entity": "聤耳",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "功能"
+    },
+    {
+      "entity": "痔疮",
+      "type": "功能"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "功能"
+    },
+    {
+      "entity": "肝定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "贵州草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "九头狮子草",
+      "predicate": "属于科",
+      "tail": "爵床科"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "属于属",
+      "tail": "观音草属"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有性味",
+      "tail": "味辛"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有性味",
+      "tail": "性凉"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "祛风清热"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "凉感冒发热"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "肺热咳喘"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "肝热目赤"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "小儿惊风"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "痛肿疔毒"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "乳痈"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "聤耳"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "痔疮"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "肝定惊"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "具有功能",
+      "tail": "散瘀解毒"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "记载于文献",
+      "tail": "贵州草药"
+    }
+  ]
+}

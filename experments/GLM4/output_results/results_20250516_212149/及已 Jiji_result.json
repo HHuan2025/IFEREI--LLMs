@@ -1,0 +1,225 @@
+{
+  "entities": [
+    {
+      "entity": "金粟兰科",
+      "type": "科"
+    },
+    {
+      "entity": "金粟兰属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "及已",
+      "type": "药用植物"
+    },
+    {
+      "entity": "及已",
+      "type": "中药名"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿腰腿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "泡酒",
+      "type": "剂型"
+    },
+    {
+      "entity": "鲜草捣烂敷患处",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇",
+      "type": "其他"
+    },
+    {
+      "entity": "米泔水",
+      "type": "其他"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "皮肤瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎浓汁",
+      "type": "剂型"
+    },
+    {
+      "entity": "安徽药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "及已",
+      "predicate": "属于科",
+      "tail": "金粟兰科"
+    },
+    {
+      "head": "及已",
+      "predicate": "属于属",
+      "tail": "金粟兰属"
+    },
+    {
+      "head": "及已",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "及已",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有性味",
+      "tail": "辛苦"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "及已",
+      "predicate": "主治疾病",
+      "tail": "风湿腰腿痛"
+    },
+    {
+      "head": "及已",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "及已",
+      "predicate": "主治疾病",
+      "tail": "痔疮肿毒"
+    },
+    {
+      "head": "及已",
+      "predicate": "主治疾病",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "及已",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "及已",
+      "predicate": "用法用量",
+      "tail": "1.5-3克"
+    },
+    {
+      "head": "及已",
+      "predicate": "内服",
+      "tail": "泡酒"
+    },
+    {
+      "head": "及已",
+      "predicate": "外用",
+      "tail": "鲜草捣烂敷患处"
+    },
+    {
+      "head": "孕妇",
+      "predicate": "不宜与",
+      "tail": "及已"
+    },
+    {
+      "head": "及已",
+      "predicate": "应用举例",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "及已",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "及已",
+      "predicate": "应用举例",
+      "tail": "皮肤瘙痒"
+    },
+    {
+      "head": "及已",
+      "predicate": "记载于文献",
+      "tail": "安徽药物志"
+    }
+  ]
+}

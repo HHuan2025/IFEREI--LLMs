@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "entity": "圆柏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "柏科",
+      "type": "科"
+    },
+    {
+      "entity": "圆柏属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "桧叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "荨麻疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴疽肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿路感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "烧烟熏",
+      "type": "用法"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "黄酒炖服",
+      "type": "用法"
+    },
+    {
+      "entity": "15-21克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜圆柏枝梢",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "圆柏",
+      "predicate": "属于科",
+      "tail": "柏科"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "属于属",
+      "tail": "圆柏属"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有功能",
+      "tail": "活血解毒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "主治疾病",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "主治疾病",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "主治疾病",
+      "tail": "荨麻疹"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "主治疾病",
+      "tail": "阴疽肿毒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "主治疾病",
+      "tail": "尿路感染"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "外用",
+      "tail": "烧烟熏"
+    },
+    {
+      "head": "鲜圆柏枝梢",
+      "predicate": "用法",
+      "tail": "黄酒炖服"
+    },
+    {
+      "head": "鲜圆柏枝梢",
+      "predicate": "用法用量",
+      "tail": "15-21克"
+    },
+    {
+      "head": "风寒感冒",
+      "predicate": "应用举例",
+      "tail": "鲜圆柏枝梢"
+    },
+    {
+      "head": "风湿关节痛",
+      "predicate": "应用举例",
+      "tail": "鲜圆柏枝梢"
+    },
+    {
+      "head": "鲜圆柏枝梢",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "鲜圆柏枝梢",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "entities": [
+    {
+      "entity": "土党参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "金钱豹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾益气",
+      "type": "功能"
+    },
+    {
+      "entity": "补脾止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "虚劳内伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "气虚乏力",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸",
+      "type": "疾病"
+    },
+    {
+      "entity": "多汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁稀少",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺虚咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "干品9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品适量，捣烂敷",
+      "type": "用法"
+    },
+    {
+      "entity": "金钱豹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "根15-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "糯米",
+      "type": "其他"
+    },
+    {
+      "entity": "土党参60克，糯米300克",
+      "type": "其他"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土党参",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "土党参",
+      "predicate": "属于属",
+      "tail": "金钱豹属"
+    },
+    {
+      "head": "土党参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土党参",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "土党参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土党参",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土党参",
+      "predicate": "具有功能",
+      "tail": "健脾益气"
+    },
+    {
+      "head": "土党参",
+      "predicate": "具有功能",
+      "tail": "补脾止咳"
+    },
+    {
+      "head": "土党参",
+      "predicate": "具有功能",
+      "tail": "下乳"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "虚劳内伤"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "气虚乏力"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "心悸"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "多汗"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "白带"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "乳汁稀少"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "遗尿"
+    },
+    {
+      "head": "土党参",
+      "predicate": "主治疾病",
+      "tail": "肺虚咳嗽"
+    },
+    {
+      "head": "土党参",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土党参",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "土党参",
+      "predicate": "用法用量",
+      "tail": "干品9-15克"
+    },
+    {
+      "head": "土党参",
+      "predicate": "外用",
+      "tail": "鲜品适量，捣烂敷"
+    },
+    {
+      "head": "金钱豹",
+      "predicate": "用法用量",
+      "tail": "根15-60克"
+    },
+    {
+      "head": "金钱豹",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "金钱豹",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "土党参",
+      "predicate": "包含中药",
+      "tail": "糯米"
+    },
+    {
+      "head": "土党参60克，糯米300克",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "土党参",
+      "predicate": "记载于文献",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "土党参",
+      "predicate": "用法",
+      "tail": "水煎服"
+    }
+  ]
+}

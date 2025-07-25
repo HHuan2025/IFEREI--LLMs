@@ -1,0 +1,651 @@
+{
+  "entities": [
+    {
+      "entity": "何首乌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蓼科",
+      "type": "科"
+    },
+    {
+      "entity": "蓼属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "何首乌(块根)",
+      "type": "药材"
+    },
+    {
+      "entity": "夜交藤(藤茎)",
+      "type": "药材"
+    },
+    {
+      "entity": "削去两端，洗净，个大的切成块，干燥",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "除去残叶，捆成把，干燥",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、甘、涩，温",
+      "type": "性味"
+    },
+    {
+      "entity": "甘，平",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒，消痈，润肠通便",
+      "type": "功能"
+    },
+    {
+      "entity": "补肝肾，益精血，乌须发，壮筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "养心安神，祛风通络",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬疮痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "风疹瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血脂",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕耳鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "须发早白",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢体麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "神经衰弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血脂症",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚身痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "大便便溏及有湿痰者慎服",
+      "type": "禁忌"
+    },
+    {
+      "entity": "忌铁器",
+      "type": "禁忌"
+    },
+    {
+      "entity": "大便溏泄及有湿痰者不宜",
+      "type": "禁忌"
+    },
+    {
+      "entity": "圣惠方",
+      "type": "文献"
+    },
+    {
+      "entity": "经验方",
+      "type": "文献"
+    },
+    {
+      "entity": "广西民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "何首乌",
+      "type": "药材"
+    },
+    {
+      "entity": "蓼科",
+      "type": "科"
+    },
+    {
+      "entity": "蓼属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "生何首乌",
+      "type": "药材"
+    },
+    {
+      "entity": "制何首乌",
+      "type": "药材"
+    },
+    {
+      "entity": "夜交藤",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "润肠通便",
+      "type": "功能"
+    },
+    {
+      "entity": "补肝肾",
+      "type": "功能"
+    },
+    {
+      "entity": "益精血",
+      "type": "功能"
+    },
+    {
+      "entity": "乌须发",
+      "type": "功能"
+    },
+    {
+      "entity": "壮筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "养心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风通络",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬疮痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "风疹瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血脂",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕耳鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "须发早白",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢体麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "神经衰弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血脂症",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚身痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤瘙痒",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "何首乌",
+      "predicate": "属于科",
+      "tail": "蓼科"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "属于属",
+      "tail": "蓼属"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位为",
+      "tail": "块根"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位为",
+      "tail": "藤茎"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "中药名",
+      "tail": "何首乌"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "中药名",
+      "tail": "何首乌"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "采收加工",
+      "tail": "削去两端，洗净，个大的切成块，干燥"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "采收加工",
+      "tail": "除去残叶，捆成把，干燥"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "具有性味",
+      "tail": "苦、甘、涩，温"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "具有性味",
+      "tail": "甘，平"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "具有功能",
+      "tail": "解毒，消痈，润肠通便"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "具有功能",
+      "tail": "补肝肾，益精血，乌须发，壮筋骨"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "具有功能",
+      "tail": "养心安神，祛风通络"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "瘰疬疮痈"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "风疹瘙痒"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "高血脂"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "眩晕耳鸣"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "须发早白"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "肢体麻木"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "神经衰弱"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "治疗",
+      "tail": "高血脂症"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "治疗",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "治疗",
+      "tail": "血虚身痛"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "治疗",
+      "tail": "皮肤瘙痒"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "用法",
+      "tail": "内服:煎汤，30-60克；或熬膏、浸酒；或入丸、散"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "用法",
+      "tail": "外用:适量，研末撒或调涂，或煎水洗"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "用法",
+      "tail": "内服:煎汤，9-15克；熬膏、浸酒或入丸、散"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "用法",
+      "tail": "外用:煎水洗、研末撒或调涂"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "用法",
+      "tail": "内服:煎汤，10-20克"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "用法",
+      "tail": "外用:适量，煎水洗或捣敷"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "应用实例",
+      "tail": "圣惠方"
+    },
+    {
+      "head": "何首乌(块根)",
+      "predicate": "应用实例",
+      "tail": "经验方"
+    },
+    {
+      "head": "夜交藤(藤茎)",
+      "predicate": "应用实例",
+      "tail": "广西民间常用草药"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "属于科",
+      "tail": "蓼科"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "属于属",
+      "tail": "蓼属"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位为",
+      "tail": "块根"
+    },
+    {
+      "head": "何首乌",
+      "predicate": "药用部位为",
+      "tail": "藤茎"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有功能",
+      "tail": "消痈"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "具有功能",
+      "tail": "润肠通便"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有功能",
+      "tail": "补肝肾"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有功能",
+      "tail": "益精血"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有功能",
+      "tail": "乌须发"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "具有功能",
+      "tail": "壮筋骨"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "具有功能",
+      "tail": "养心安神"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "具有功能",
+      "tail": "祛风通络"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "治疗",
+      "tail": "瘰疬疮痈"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "治疗",
+      "tail": "风疹瘙痒"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "治疗",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "生何首乌",
+      "predicate": "治疗",
+      "tail": "高血脂"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "眩晕耳鸣"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "须发早白"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "肢体麻木"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "神经衰弱"
+    },
+    {
+      "head": "制何首乌",
+      "predicate": "治疗",
+      "tail": "高血脂症"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "治疗",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "治疗",
+      "tail": "血虚身痛"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "治疗",
+      "tail": "皮肤瘙痒"
+    }
+  ]
+}

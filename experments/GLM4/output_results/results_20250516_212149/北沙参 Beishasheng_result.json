@@ -1,0 +1,419 @@
+{
+  "entities": [
+    {
+      "entity": "北沙参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "伞形科",
+      "type": "科"
+    },
+    {
+      "entity": "珊瑚菜属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "7-8月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "9月下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "其他"
+    },
+    {
+      "entity": "养阴清肺",
+      "type": "功能"
+    },
+    {
+      "entity": "祛痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热燥咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚痨久咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴伤咽干",
+      "type": "疾病"
+    },
+    {
+      "entity": "口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "5-10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "熬膏",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "风寒作嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺胃虚寒者",
+      "type": "其他"
+    },
+    {
+      "entity": "痰热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "脉实苔腻者",
+      "type": "其他"
+    },
+    {
+      "entity": "本草汇言",
+      "type": "文献"
+    },
+    {
+      "entity": "阴虚火旺",
+      "type": "疾病"
+    },
+    {
+      "entity": "逆气不降",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦渴咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "胀满不食",
+      "type": "疾病"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "山西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "阴虚咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "久咳音哑",
+      "type": "疾病"
+    },
+    {
+      "entity": "牛蒡子",
+      "type": "中药名"
+    },
+    {
+      "entity": "玄参",
+      "type": "中药名"
+    },
+    {
+      "entity": "知母",
+      "type": "中药名"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "生地",
+      "type": "中药名"
+    },
+    {
+      "entity": "12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "肺结核咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "麦冬",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "开水冲泡",
+      "type": "用法"
+    },
+    {
+      "entity": "代茶饮服",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北沙参",
+      "predicate": "属于科",
+      "tail": "伞形科"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "属于属",
+      "tail": "珊瑚菜属"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "采收时间",
+      "tail": "7-8月"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "采收时间",
+      "tail": "9月下旬"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有毒性",
+      "tail": "无毒"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有功能",
+      "tail": "养阴清肺"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "具有功能",
+      "tail": "祛痰止咳"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "肺热燥咳"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "虚痨久咳"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "阴伤咽干"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "口渴"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法用量",
+      "tail": "5-10克"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "剂型",
+      "tail": "熬膏"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "剂型",
+      "tail": "丸剂"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "不宜与",
+      "tail": "风寒作嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "不宜与",
+      "tail": "肺胃虚寒者"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "不宜与",
+      "tail": "痰热咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "不宜与",
+      "tail": "脉实苔腻者"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "记载于文献",
+      "tail": "本草汇言"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "阴虚火旺"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "逆气不降"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "烦渴咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "胀满不食"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法用量",
+      "tail": "15克"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "记载于文献",
+      "tail": "山西中草药"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "阴虚咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "久咳音哑"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "牛蒡子"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "玄参"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "知母"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法用量",
+      "tail": "9克"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "生地"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法用量",
+      "tail": "12克"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "主治疾病",
+      "tail": "肺结核咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "麦冬"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "包含中药",
+      "tail": "甘草"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法用量",
+      "tail": "3克"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法",
+      "tail": "开水冲泡"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "用法",
+      "tail": "代茶饮服"
+    }
+  ]
+}

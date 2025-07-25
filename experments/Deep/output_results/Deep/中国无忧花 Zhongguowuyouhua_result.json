@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "entity": "中国无忧花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "无忧花属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "四方木",
+      "type": "中药名"
+    },
+    {
+      "entity": "骨质增生症",
+      "type": "疾病"
+    },
+    {
+      "entity": "壮族治骨酊",
+      "type": "文献"
+    },
+    {
+      "entity": "坐骨神经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肩周炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "乙醇",
+      "type": "药物类型"
+    },
+    {
+      "entity": "酒",
+      "type": "药物类型"
+    },
+    {
+      "entity": "医用酒精",
+      "type": "药物类型"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中国无忧花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "属于属",
+      "tail": "无忧花属"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位",
+      "tail": "树皮"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "中药名",
+      "tail": "四方木"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "骨质增生症"
+    },
+    {
+      "head": "壮族治骨酊",
+      "predicate": "文献记载",
+      "tail": "四方木"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "entities": [
+    {
+      "entity": "仙茅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "石蒜科",
+      "type": "疾病"
+    },
+    {
+      "entity": "仙茅属",
+      "type": "器官"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "仙茅",
+      "type": "药材"
+    },
+    {
+      "entity": "秋冬二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "其他"
+    },
+    {
+      "entity": "补肾阳",
+      "type": "功能"
+    },
+    {
+      "entity": "强筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "祛寒湿",
+      "type": "动物"
+    },
+    {
+      "entity": "阳痿精冷",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝冷痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳虚冷泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "疾病"
+    },
+    {
+      "entity": "3-9克",
+      "type": "器官"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "阴虚火旺者禁服",
+      "type": "不宜与"
+    },
+    {
+      "entity": "贵州草药",
+      "type": "动物"
+    },
+    {
+      "entity": "阳痿",
+      "type": "化学物质"
+    },
+    {
+      "entity": "耳鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "金樱子根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "金樱子果实",
+      "type": "药用植物"
+    },
+    {
+      "entity": "老年遗尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "定喘",
+      "type": "功能"
+    },
+    {
+      "entity": "补心肾",
+      "type": "功能"
+    },
+    {
+      "entity": "下气",
+      "type": "功能"
+    },
+    {
+      "entity": "白仙茅",
+      "type": "药材"
+    },
+    {
+      "entity": "团参",
+      "type": "药材"
+    },
+    {
+      "entity": "阿胶",
+      "type": "药材"
+    },
+    {
+      "entity": "鸡膍胵",
+      "type": "药材"
+    },
+    {
+      "entity": "三因方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙茅",
+      "predicate": "相关基因",
+      "tail": "石蒜科"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "属于属",
+      "tail": "仙茅属"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有颜色",
+      "tail": "秋冬二季"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有功能",
+      "tail": "补肾阳"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有功能",
+      "tail": "强筋骨"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "具有功能",
+      "tail": "祛寒湿"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "阳痿精冷"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "筋骨痿软"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "腰膝冷痹"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "阳虚冷泻"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "用法用量",
+      "tail": "伪尾实体92"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "外用",
+      "tail": "外用"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "不宜与",
+      "tail": "阴虚火旺者禁服"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "应用举例",
+      "tail": "阳痿"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "应用举例",
+      "tail": "耳鸣"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "伪尾实体182"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "应用举例",
+      "tail": "定喘"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "应用举例",
+      "tail": "补心肾"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "应用举例",
+      "tail": "下气"
+    },
+    {
+      "head": "阳痿",
+      "predicate": "包含中药",
+      "tail": "仙茅"
+    },
+    {
+      "head": "阳痿",
+      "predicate": "具有颜色",
+      "tail": "金樱子根"
+    },
+    {
+      "head": "阳痿",
+      "predicate": "包含中药",
+      "tail": "金樱子果实"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "记载于文献",
+      "tail": "贵州草药"
+    },
+    {
+      "head": "老年遗尿",
+      "predicate": "包含中药",
+      "tail": "仙茅"
+    },
+    {
+      "head": "定喘",
+      "predicate": "包含中药",
+      "tail": "白仙茅"
+    },
+    {
+      "head": "定喘",
+      "predicate": "包含中药",
+      "tail": "团参"
+    },
+    {
+      "head": "定喘",
+      "predicate": "包含中药",
+      "tail": "阿胶"
+    },
+    {
+      "head": "定喘",
+      "predicate": "包含中药",
+      "tail": "鸡膍胵"
+    },
+    {
+      "head": "白仙茅",
+      "predicate": "记载于文献",
+      "tail": "三因方"
+    }
+  ]
+}

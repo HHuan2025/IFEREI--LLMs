@@ -1,0 +1,122 @@
+{
+  "entities": [
+    {
+      "entity": "人参",
+      "type": "药材"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "人参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "人参叶",
+      "type": "药材"
+    },
+    {
+      "entity": "真阳不足",
+      "type": "疾病"
+    },
+    {
+      "entity": "上气喘急",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "气虚头晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "发热不退",
+      "type": "疾病"
+    },
+    {
+      "entity": "微恶风寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "口渴多饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "汗少小便多",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "人参",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "人参",
+      "predicate": "属于属",
+      "tail": "人参属"
+    },
+    {
+      "head": "人参",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "人参",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "人参",
+      "predicate": "治疗",
+      "tail": "真阳不足"
+    },
+    {
+      "head": "人参",
+      "predicate": "治疗",
+      "tail": "上气喘急"
+    },
+    {
+      "head": "人参",
+      "predicate": "治疗",
+      "tail": "自汗盗汗"
+    },
+    {
+      "head": "人参",
+      "predicate": "治疗",
+      "tail": "气虚头晕"
+    },
+    {
+      "head": "人参叶",
+      "predicate": "治疗",
+      "tail": "发热不退"
+    },
+    {
+      "head": "人参叶",
+      "predicate": "治疗",
+      "tail": "微恶风寒"
+    },
+    {
+      "head": "人参叶",
+      "predicate": "治疗",
+      "tail": "口渴多饮"
+    },
+    {
+      "head": "人参叶",
+      "predicate": "治疗",
+      "tail": "汗少小便多"
+    }
+  ]
+}

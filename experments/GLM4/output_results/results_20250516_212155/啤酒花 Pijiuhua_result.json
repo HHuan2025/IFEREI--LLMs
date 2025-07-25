@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "entity": "啤酒花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桑科",
+      "type": "科"
+    },
+    {
+      "entity": "葎草属",
+      "type": "属"
+    },
+    {
+      "entity": "雌花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "啤酒花",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏、秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微凉",
+      "type": "性味"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿安神",
+      "type": "功能"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "膀胱炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "神曲",
+      "type": "其他"
+    },
+    {
+      "entity": "上木香",
+      "type": "其他"
+    },
+    {
+      "entity": "新疆中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "酸枣仁",
+      "type": "其他"
+    },
+    {
+      "entity": "合欢花",
+      "type": "其他"
+    },
+    {
+      "entity": "远志",
+      "type": "其他"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "啤酒花",
+      "predicate": "属于科",
+      "tail": "桑科"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "属于属",
+      "tail": "葎草属"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "药用部位为",
+      "tail": "雌花序"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "采收时间",
+      "tail": "夏、秋"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "具有性味",
+      "tail": "微凉"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "具有功能",
+      "tail": "利尿安神"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "消化不良"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "腹胀"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "浮肿"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "膀胱炎"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "肺结核"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "主治疾病",
+      "tail": "失眠"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "用法用量",
+      "tail": "1.5-3克"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "包含中药",
+      "tail": "啤酒花"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "包含中药",
+      "tail": "神曲"
+    },
+    {
+      "head": "消化不良",
+      "predicate": "包含中药",
+      "tail": "上木香"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "记载于文献",
+      "tail": "新疆中草药"
+    },
+    {
+      "head": "失眠",
+      "predicate": "包含中药",
+      "tail": "啤酒花"
+    },
+    {
+      "head": "失眠",
+      "predicate": "包含中药",
+      "tail": "酸枣仁"
+    },
+    {
+      "head": "失眠",
+      "predicate": "包含中药",
+      "tail": "合欢花"
+    },
+    {
+      "head": "失眠",
+      "predicate": "包含中药",
+      "tail": "远志"
+    },
+    {
+      "head": "啤酒花",
+      "predicate": "记载于文献",
+      "tail": "青岛中草药手册"
+    }
+  ]
+}

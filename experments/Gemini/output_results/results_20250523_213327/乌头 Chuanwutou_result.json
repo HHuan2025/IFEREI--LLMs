@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "乌头属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "风痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "四肢疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "四肢痛挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "乌头",
+      "predicate": "属于属",
+      "tail": "乌头属"
+    },
+    {
+      "head": "乌头",
+      "predicate": "药用部位",
+      "tail": "块根"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "风痹"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "四肢疼痛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "四肢痛挛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "脚气疼痛"
+    }
+  ]
+}

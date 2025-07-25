@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "entity": "可可",
+      "type": "药用植物"
+    },
+    {
+      "entity": "梧桐科",
+      "type": "科"
+    },
+    {
+      "entity": "可可属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "可可",
+      "type": "中药名"
+    },
+    {
+      "entity": "果实成熟时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "可可",
+      "predicate": "属于科",
+      "tail": "梧桐科"
+    },
+    {
+      "head": "可可",
+      "predicate": "属于属",
+      "tail": "可可属"
+    },
+    {
+      "head": "可可",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "可可",
+      "predicate": "采收时间",
+      "tail": "果实成熟时"
+    },
+    {
+      "head": "可可",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    }
+  ]
+}

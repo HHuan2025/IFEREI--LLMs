@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "entity": "兰香草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "莸属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风解表",
+      "type": "功能"
+    },
+    {
+      "entity": "祛寒除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤食吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒瘀痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "服疽不消",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "捣烂敷",
+      "type": "用法"
+    },
+    {
+      "entity": "绞汁涂",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "荞麦三七",
+      "type": "药用植物"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兰香草",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "属于属",
+      "tail": "莸属"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "药用部位为",
+      "tail": "带根全草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有功能",
+      "tail": "疏风解表"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有功能",
+      "tail": "祛寒除湿"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有功能",
+      "tail": "散瘀止痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "伤食吐泻"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "寒瘀痛经"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "服疽不消"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "蛇伤"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "外用",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "外用",
+      "tail": "绞汁涂"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "治腰痛",
+      "predicate": "药用植物",
+      "tail": "荞麦三七"
+    },
+    {
+      "head": "治腰痛",
+      "predicate": "药用植物",
+      "tail": "兰香草"
+    },
+    {
+      "head": "治腰痛",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    }
+  ]
+}

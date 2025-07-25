@@ -1,0 +1,871 @@
+{
+  "entities": [
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一枝黄花属",
+      "type": "属"
+    },
+    {
+      "entity": "全草或根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药材"
+    },
+    {
+      "entity": "野黄菊",
+      "type": "药材"
+    },
+    {
+      "entity": "9-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "割取地上部分，或挖取根部，洗凈，鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛、苦，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风泄热；解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤，9-15克，鲜品20-30克",
+      "type": "用法"
+    },
+    {
+      "entity": "适量，鲜品捣敷；或煎汁搽",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃虚寒，大便溏薄者慎用",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "药材"
+    },
+    {
+      "entity": "一点红",
+      "type": "药材"
+    },
+    {
+      "entity": "蟛蜞菊",
+      "type": "药材"
+    },
+    {
+      "entity": "土牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一枝黄花属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风泄热",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "药材"
+    },
+    {
+      "entity": "一点红",
+      "type": "药材"
+    },
+    {
+      "entity": "急性扁桃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "蟛蜞菊",
+      "type": "药材"
+    },
+    {
+      "entity": "土牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪肺",
+      "type": "药材"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一枝黄花属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风泄热",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "忍冬藤",
+      "type": "药材"
+    },
+    {
+      "entity": "一点红",
+      "type": "药材"
+    },
+    {
+      "entity": "急性扁桃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "蟛蜞菊",
+      "type": "药材"
+    },
+    {
+      "entity": "土牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪肺",
+      "type": "药材"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "一枝黄花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一枝黄花属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风泄热",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一枝黄花",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于属",
+      "tail": "一枝黄花属"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "全草或根"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "中药名",
+      "tail": "一枝黄花"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "中药名",
+      "tail": "野黄菊"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "采收时间",
+      "tail": "9-10月"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "采收加工",
+      "tail": "割取地上部分，或挖取根部，洗凈，鲜用或晒干"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "辛、苦，凉"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "疏风泄热；解毒消肿"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "煎汤，9-15克，鲜品20-30克"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "适量，鲜品捣敷；或煎汁搽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "脾胃虚寒，大便溏薄者慎用"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于属",
+      "tail": "一枝黄花属"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "疏风泄热"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "急性扁桃炎"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于属",
+      "tail": "一枝黄花属"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "疏风泄热"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "急性扁桃炎"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "属于属",
+      "tail": "一枝黄花属"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "疏风泄热"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "一枝黄花",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    }
+  ]
+}

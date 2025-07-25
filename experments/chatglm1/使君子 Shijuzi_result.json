@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "entity": "使君子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "使君子科",
+      "type": "科"
+    },
+    {
+      "entity": "使君子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "性味"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "蛔虫腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳食停滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "使君子散",
+      "type": "方剂"
+    },
+    {
+      "entity": "使君子丸",
+      "type": "方剂"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "使君子",
+      "predicate": "属于科",
+      "tail": "使君子科"
+    },
+    {
+      "head": "使君子",
+      "predicate": "属于属",
+      "tail": "使君子属"
+    },
+    {
+      "head": "使君子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "健脾"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "蛔虫腹痛"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "乳食停滞"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "泻痢"
+    },
+    {
+      "head": "使君子",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "使君子",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "使君子",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "使君子散",
+      "predicate": "药材",
+      "tail": "使君子"
+    },
+    {
+      "head": "使君子丸",
+      "predicate": "药材",
+      "tail": "使君子"
+    }
+  ]
+}

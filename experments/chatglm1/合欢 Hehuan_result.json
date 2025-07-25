@@ -1,0 +1,302 @@
+{
+  "entities": [
+    {
+      "entity": "合欢",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "合欢属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "合欢皮",
+      "type": "药材"
+    },
+    {
+      "entity": "合欢花",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "安神解郁",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "解郁安神",
+      "type": "功能"
+    },
+    {
+      "entity": "理气开胃",
+      "type": "功能"
+    },
+    {
+      "entity": "消风明目",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "心神不安",
+      "type": "疾病"
+    },
+    {
+      "entity": "忧郁",
+      "type": "疾病"
+    },
+    {
+      "entity": "不眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "内外痈疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸闷纳呆",
+      "type": "疾病"
+    },
+    {
+      "entity": "风火眼疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "视物不清",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "合欢",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "合欢",
+      "predicate": "属于属",
+      "tail": "合欢属"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "树皮",
+      "predicate": "中药名",
+      "tail": "合欢皮"
+    },
+    {
+      "head": "花",
+      "predicate": "中药名",
+      "tail": "合欢花"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "安神解郁"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "活血消痈"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "解郁安神"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "理气开胃"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "消风明目"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "心神不安"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "忧郁"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "不眠"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "内外痈疡"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "忧郁失眠"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "胸闷纳呆"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "风火眼疾"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "视物不清"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "跌打伤痛"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "花",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "花",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "花",
+      "predicate": "用法",
+      "tail": "散"
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "entities": [
+    {
+      "entity": "吴茱萸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "吴茱萸属",
+      "type": "疾病"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "8-11月",
+      "type": "疾病"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "低温干燥",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "药材"
+    },
+    {
+      "entity": "散寒止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "助阳止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "厥阴头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒湿脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "经行腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐吞酸",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "2-6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "功能"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "功能"
+    },
+    {
+      "entity": "不宜多服、久服",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚火旺者禁服",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "丹溪心法",
+      "type": "文献"
+    },
+    {
+      "entity": "牙齿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "食疗本草",
+      "type": "文献"
+    },
+    {
+      "entity": "吴茱萸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "吴茱萸属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "功能"
+    },
+    {
+      "entity": "小毒",
+      "type": "药用部位"
+    },
+    {
+      "entity": "散寒止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "助阳止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "厥阴头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒湿脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "经行腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐吞酸",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "丹溪心法",
+      "type": "文献"
+    },
+    {
+      "entity": "牙齿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "食疗本草",
+      "type": "文献"
+    },
+    {
+      "entity": "吴茱萸",
+      "type": "药材"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "吴茱萸属",
+      "type": "属"
+    },
+    {
+      "entity": "近成熟的果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "8-11月果实尚未开裂时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "剪下果枝，晒干或低温干燥，除去枝、叶、果梗等杂质",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛、苦，热",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "散寒止痛，降逆止呕，助阳止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "厥阴头痛，寒疝腹痛，寒湿脚气，经行腹痛，脘腹胀痛，呕吐吞酸，五更泄泻",
+      "type": "功能"
+    },
+    {
+      "entity": "煎汤，2-6克，或入丸、散",
+      "type": "用法"
+    },
+    {
+      "entity": "适量，研末调敷或煎水洗",
+      "type": "功能"
+    },
+    {
+      "entity": "不宜多服、久服",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚火旺者禁服",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝火",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连180克，吴茱萸15或30克",
+      "type": "应用实例"
+    },
+    {
+      "entity": "丹溪心法",
+      "type": "文献"
+    },
+    {
+      "entity": "牙齿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "吴茱萸煎酒含漱之",
+      "type": "应用实例"
+    },
+    {
+      "entity": "食疗本草",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吴茱萸",
+      "predicate": "属于科",
+      "tail": "伪尾实体56"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于属",
+      "tail": "吴茱萸属"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "8-11月"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "低温干燥"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "伪尾实体449"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "散寒止痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "降逆止呕"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "助阳止泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "厥阴头痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒湿脚气"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "经行腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "伪尾实体766"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "五更泄泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "高血压"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "丸"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "散"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "用法用量",
+      "tail": "2-6克"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "不宜多服、久服"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "阴虚火旺者禁服"
+    },
+    {
+      "head": "丹溪心法",
+      "predicate": "包含中药",
+      "tail": "吴茱萸"
+    },
+    {
+      "head": "丹溪心法",
+      "predicate": "包含中药",
+      "tail": "黄连"
+    },
+    {
+      "head": "食疗本草",
+      "predicate": "包含中药",
+      "tail": "吴茱萸"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "牙齿疼痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于属",
+      "tail": "吴茱萸属"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "小毒"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "散寒止痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "降逆止呕"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "助阳止泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "厥阴头痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "寒湿脚气"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "经行腹痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "呕吐吞酸"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "五更泄泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "高血压"
+    },
+    {
+      "head": "黄连",
+      "predicate": "具有性味",
+      "tail": "吴茱萸"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "记载于文献",
+      "tail": "丹溪心法"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "牙齿疼痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "记载于文献",
+      "tail": "食疗本草"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "属于属",
+      "tail": "吴茱萸属"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "药用部位为",
+      "tail": "近成熟的果实"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "采收时间",
+      "tail": "8-11月果实尚未开裂时"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "采收加工",
+      "tail": "剪下果枝，晒干或低温干燥，除去枝、叶、果梗等杂质"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "辛、苦，热"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有功能",
+      "tail": "散寒止痛，降逆止呕，助阳止泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "厥阴头痛，寒疝腹痛，寒湿脚气，经行腹痛，脘腹胀痛，呕吐吞酸，五更泄泻"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "用法",
+      "tail": "口疮，高血压"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "用法",
+      "tail": "煎汤，2-6克，或入丸、散"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "治疗",
+      "tail": "适量，研末调敷或煎水洗"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "不宜多服、久服"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "具有性味",
+      "tail": "阴虚火旺者禁服"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "应用实例",
+      "tail": "肝火"
+    },
+    {
+      "head": "黄连180克，吴茱萸15或30克",
+      "predicate": "应用实例",
+      "tail": "丹溪心法"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "应用实例",
+      "tail": "牙齿疼痛"
+    },
+    {
+      "head": "吴茱萸",
+      "predicate": "应用实例",
+      "tail": "食疗本草"
+    }
+  ]
+}

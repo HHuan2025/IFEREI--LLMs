@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "疔疮炎肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "绣球风",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙扛天目山药植志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "疔疮炎肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "文献记载",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "绣球风"
+    },
+    {
+      "head": "三白草",
+      "predicate": "文献记载",
+      "tail": "浙扛天目山药植志"
+    }
+  ]
+}

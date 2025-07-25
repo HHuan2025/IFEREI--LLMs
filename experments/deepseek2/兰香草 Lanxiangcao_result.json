@@ -1,0 +1,218 @@
+{
+  "entities": [
+    {
+      "entity": "兰香草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "莸属",
+      "type": "属"
+    },
+    {
+      "entity": "全草或带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "兰香草",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗凈，切段晒干或鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛，温",
+      "type": "性味"
+    },
+    {
+      "entity": "疏风解表，祛寒除湿，散瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感昌",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤食吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒瘀痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "服疽不消",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "治腰痛:荞麦三七30克，兰香草15克，水煎服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兰香草",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "属于属",
+      "tail": "莸属"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "药用部位为",
+      "tail": "全草或带根全草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "中药名",
+      "tail": "兰香草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "采收加工",
+      "tail": "洗凈，切段晒干或鲜用"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有性味",
+      "tail": "辛，温"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "具有功能",
+      "tail": "疏风解表，祛寒除湿，散瘀止痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "风寒感昌"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "伤食吐泻"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "寒瘀痛经"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "服疽不消"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "蛇伤"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "用法",
+      "tail": "煎汤，10-15克；或浸酒"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "用法",
+      "tail": "适量，捣烂敷；或绞汁涂；或煎水熏洗"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "应用实例",
+      "tail": "治腰痛:荞麦三七30克，兰香草15克，水煎服"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    }
+  ]
+}

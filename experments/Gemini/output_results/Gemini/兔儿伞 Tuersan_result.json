@@ -1,0 +1,98 @@
+{
+  "entities": [
+    {
+      "entity": "兔儿伞",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "兔儿伞属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "七里麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "风湿麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "全身骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺五加根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白龙须",
+      "type": "药用植物"
+    },
+    {
+      "entity": "小血藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木瓜根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兔儿伞",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "属于属",
+      "tail": "兔儿伞属"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "中药名",
+      "tail": "七里麻"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "治疗",
+      "tail": "风湿麻木"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "治疗",
+      "tail": "全身骨痛"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    }
+  ]
+}

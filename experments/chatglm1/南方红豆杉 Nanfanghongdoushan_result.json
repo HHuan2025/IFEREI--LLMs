@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "entity": "南方红豆杉",
+      "type": "药用植物"
+    },
+    {
+      "entity": "红豆杉科",
+      "type": "科"
+    },
+    {
+      "entity": "红豆杉属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "驱虫",
+      "type": "性味"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫病",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南方红豆杉",
+      "predicate": "属于科",
+      "tail": "红豆杉科"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "属于属",
+      "tail": "红豆杉属"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "具有性味",
+      "tail": "驱虫"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "南方红豆杉",
+      "predicate": "治疗",
+      "tail": "蛔虫病"
+    }
+  ]
+}

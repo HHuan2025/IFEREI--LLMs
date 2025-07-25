@@ -1,0 +1,238 @@
+{
+  "entities": [
+    {
+      "entity": "五加科人参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三七",
+      "type": "药用植物"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸腹刺痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "功能"
+    },
+    {
+      "entity": "研末",
+      "type": "功能"
+    },
+    {
+      "entity": "丸剂",
+      "type": "功能"
+    },
+    {
+      "entity": "磨汁涂",
+      "type": "功能"
+    },
+    {
+      "entity": "调敷",
+      "type": "功能"
+    },
+    {
+      "entity": "孕妇慎用",
+      "type": "功能"
+    },
+    {
+      "entity": "白蜡",
+      "type": "药用植物"
+    },
+    {
+      "entity": "乳香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "降香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "血竭",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五倍",
+      "type": "药用植物"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五加科人参属",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "三七",
+      "predicate": "属于属",
+      "tail": "五加科人参属"
+    },
+    {
+      "head": "三七",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有功能",
+      "tail": "消肿定痛"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "咯血"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "吐血"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "衄血"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "便血"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "崩漏"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "胸腹刺痛"
+    },
+    {
+      "head": "三七",
+      "predicate": "主治疾病",
+      "tail": "跌扑肿痛"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "煎汤"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "研末"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "丸剂"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "磨汁涂"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "调敷"
+    },
+    {
+      "head": "三七",
+      "predicate": "功能",
+      "tail": "孕妇慎用"
+    },
+    {
+      "head": "三七",
+      "predicate": "记载于文献",
+      "tail": "回生集"
+    },
+    {
+      "head": "三七",
+      "predicate": "记载于文献",
+      "tail": "濒湖集简方"
+    }
+  ]
+}

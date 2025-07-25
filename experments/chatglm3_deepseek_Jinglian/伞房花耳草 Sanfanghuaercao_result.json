@@ -1,0 +1,612 @@
+{
+  "entities": [
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "0.5-1两",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "常山",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    },
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "肺经",
+      "type": "功能"
+    },
+    {
+      "entity": "大肠经",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "常山",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "肺经",
+      "type": "功能"
+    },
+    {
+      "entity": "大肠经",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "常山",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "0.5-1两",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "中药名",
+      "tail": "水线草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "采收时间",
+      "tail": "夏、秋"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "0.5-1两"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "治疟疾:水线草、常山、马鞭草各二钱。混合煎服。"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "治烫伤:水线草煎洗。"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "记载于文献",
+      "tail": "中国药植志"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "水线草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "肺经"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "大肠经"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有功能",
+      "tail": "常山"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有功能",
+      "tail": "马鞭草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "记载于文献",
+      "tail": "中国药植志"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "水线草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "肺经"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "大肠经"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有功能",
+      "tail": "常山"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有功能",
+      "tail": "马鞭草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "记载于文献",
+      "tail": "中国药植志"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "水线草"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "采收时间",
+      "tail": "夏、秋"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有性味",
+      "tail": "苦、寒，入肺、大肠二经"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "用法",
+      "tail": "0.5-1两"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "记载于文献",
+      "tail": "中国药植志"
+    }
+  ]
+}

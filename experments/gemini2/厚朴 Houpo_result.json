@@ -1,0 +1,288 @@
+{
+  "entities": [
+    {
+      "entity": "厚朴",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "木兰属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿消痰",
+      "type": "功能"
+    },
+    {
+      "entity": "下气除满",
+      "type": "功能"
+    },
+    {
+      "entity": "理气",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "湿滞伤中",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘痞吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积气滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸脘痞闷胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "纳谷不香",
+      "type": "疾病"
+    },
+    {
+      "entity": "金匮要略",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿药证直诀",
+      "type": "文献"
+    },
+    {
+      "entity": "梅核气",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "大黄",
+      "type": "药材"
+    },
+    {
+      "entity": "枳实",
+      "type": "药材"
+    },
+    {
+      "entity": "半夏",
+      "type": "药材"
+    },
+    {
+      "entity": "薄荷汤",
+      "type": "方剂"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "石膏",
+      "type": "药材"
+    },
+    {
+      "entity": "杏仁",
+      "type": "药材"
+    },
+    {
+      "entity": "干姜",
+      "type": "药材"
+    },
+    {
+      "entity": "细辛",
+      "type": "药材"
+    },
+    {
+      "entity": "小麦",
+      "type": "药材"
+    },
+    {
+      "entity": "五味子",
+      "type": "药材"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "厚朴",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "属于属",
+      "tail": "木兰属"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "干皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "枝皮"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "燥湿消痰"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "下气除满"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "理气"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "化湿"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "湿滞伤中"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "脘痞吐泻"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "食积气滞"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "腹胀便秘"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "痰饮喘咳"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "胸脘痞闷胀满"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "纳谷不香"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "记载于文献",
+      "tail": "金匮要略"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "记载于文献",
+      "tail": "小儿药证直诀"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "梅核气"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    }
+  ]
+}

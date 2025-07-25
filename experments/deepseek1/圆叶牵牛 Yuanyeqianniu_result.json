@@ -1,0 +1,150 @@
+{
+  "entities": [
+    {
+      "entity": "圆叶牵牛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "旋花科",
+      "type": "科"
+    },
+    {
+      "entity": "牵牛属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "泻水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "泻下通便",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫攻积",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘满",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积食滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "大便秘结",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "圆叶牵牛",
+      "predicate": "属于科",
+      "tail": "旋花科"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "属于属",
+      "tail": "牵牛属"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "牵牛子",
+      "predicate": "别名",
+      "tail": "圆叶牵牛"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "泻水消肿"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "泻下通便"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "具有功能",
+      "tail": "杀虫攻积"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "喘满"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "痰饮"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "虫积食滞"
+    },
+    {
+      "head": "圆叶牵牛",
+      "predicate": "治疗",
+      "tail": "大便秘结"
+    }
+  ]
+}

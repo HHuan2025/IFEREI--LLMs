@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "entity": "仙人掌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "仙人掌科",
+      "type": "科"
+    },
+    {
+      "entity": "仙人掌属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "仙人掌",
+      "type": "中药名"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性菌痢",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙人掌",
+      "predicate": "属于科",
+      "tail": "仙人掌科"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "属于属",
+      "tail": "仙人掌属"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "急性菌痢"
+    }
+  ]
+}

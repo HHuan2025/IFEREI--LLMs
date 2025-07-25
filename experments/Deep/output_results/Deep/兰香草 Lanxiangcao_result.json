@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "entity": "兰香草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "莸属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "兰香草",
+      "type": "中药名"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "荞麦三七",
+      "type": "中药名"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兰香草",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "属于属",
+      "tail": "莸属"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "药用部位",
+      "tail": "带根全草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "中药名",
+      "tail": "兰香草"
+    },
+    {
+      "head": "兰香草",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "湖南药物志",
+      "predicate": "文献记载",
+      "tail": "兰香草"
+    }
+  ]
+}

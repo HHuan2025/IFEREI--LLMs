@@ -1,0 +1,358 @@
+{
+  "entities": [
+    {
+      "entity": "单叶蔓荆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "牡荆属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "蔓荆子",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "疏散风热",
+      "type": "功能"
+    },
+    {
+      "entity": "清利头目",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "齿龈肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤多泪",
+      "type": "疾病"
+    },
+    {
+      "entity": "目暗不明",
+      "type": "疾病"
+    },
+    {
+      "entity": "头晕目眩",
+      "type": "疾病"
+    },
+    {
+      "entity": "紫苏叶",
+      "type": "药材"
+    },
+    {
+      "entity": "薄荷",
+      "type": "药材"
+    },
+    {
+      "entity": "白芷",
+      "type": "药材"
+    },
+    {
+      "entity": "菊花",
+      "type": "药材"
+    },
+    {
+      "entity": "全国中草药汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "桑叶",
+      "type": "药材"
+    },
+    {
+      "entity": "荆芥子",
+      "type": "药材"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "甘菊花",
+      "type": "药材"
+    },
+    {
+      "entity": "川芎",
+      "type": "药材"
+    },
+    {
+      "entity": "细辛",
+      "type": "药材"
+    },
+    {
+      "entity": "甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "单叶蔓荆",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "单叶蔓荆",
+      "predicate": "属于属",
+      "tail": "牡荆属"
+    },
+    {
+      "head": "单叶蔓荆",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "别名",
+      "tail": "单叶蔓荆"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "具有功能",
+      "tail": "疏散风热"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "具有功能",
+      "tail": "清利头目"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "治疗",
+      "tail": "风热感冒头痛"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "治疗",
+      "tail": "齿龈肿痛"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "治疗",
+      "tail": "目赤多泪"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "治疗",
+      "tail": "目暗不明"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "治疗",
+      "tail": "头晕目眩"
+    },
+    {
+      "head": "风热感冒头痛",
+      "predicate": "药方",
+      "tail": "蔓荆子"
+    },
+    {
+      "head": "风热感冒头痛",
+      "predicate": "药方",
+      "tail": "紫苏叶"
+    },
+    {
+      "head": "风热感冒头痛",
+      "predicate": "药方",
+      "tail": "薄荷"
+    },
+    {
+      "head": "风热感冒头痛",
+      "predicate": "药方",
+      "tail": "白芷"
+    },
+    {
+      "head": "风热感冒头痛",
+      "predicate": "药方",
+      "tail": "菊花"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "记载于文献",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "紫苏叶",
+      "predicate": "记载于文献",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "薄荷",
+      "predicate": "记载于文献",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "白芷",
+      "predicate": "记载于文献",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "菊花",
+      "predicate": "记载于文献",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "蔓荆子"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "桑叶"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "菊花"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "薄荷"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "白芷"
+    },
+    {
+      "head": "外感风热头、目痛",
+      "predicate": "药方",
+      "tail": "荆芥子"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "桑叶",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "菊花",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "薄荷",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "白芷",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "荆芥子",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "蔓荆子"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "甘菊花"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "川芎"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "细辛"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "甘草"
+    },
+    {
+      "head": "偏头痛",
+      "predicate": "药方",
+      "tail": "白芷"
+    },
+    {
+      "head": "蔓荆子",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "甘菊花",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "川芎",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "细辛",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "甘草",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "白芷",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    }
+  ]
+}

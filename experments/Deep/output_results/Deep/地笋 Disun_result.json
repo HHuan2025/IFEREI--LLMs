@@ -1,0 +1,72 @@
+{
+  "entities": [
+    {
+      "entity": "地笋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "地笋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "地笋",
+      "type": "中药名"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泽兰根",
+      "type": "中药名"
+    },
+    {
+      "entity": "赤小豆",
+      "type": "中药名"
+    },
+    {
+      "entity": "沙漠地区药用植物",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "地笋",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "地笋",
+      "predicate": "属于属",
+      "tail": "地笋属"
+    },
+    {
+      "head": "地笋",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "地笋",
+      "predicate": "中药名",
+      "tail": "地笋"
+    },
+    {
+      "head": "地笋",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "沙漠地区药用植物",
+      "predicate": "文献记载",
+      "tail": "地笋"
+    }
+  ]
+}

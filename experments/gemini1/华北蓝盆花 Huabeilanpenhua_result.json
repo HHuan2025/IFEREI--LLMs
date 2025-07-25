@@ -1,0 +1,222 @@
+{
+  "entities": [
+    {
+      "entity": "华北蓝盆花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "川续断科",
+      "type": "科"
+    },
+    {
+      "entity": "蓝盆花属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "蓝盆花",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿疼",
+      "type": "疾病"
+    },
+    {
+      "entity": "红花",
+      "type": "药材"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "石膏",
+      "type": "药材"
+    },
+    {
+      "entity": "木通",
+      "type": "药材"
+    },
+    {
+      "entity": "地格达",
+      "type": "药材"
+    },
+    {
+      "entity": "诃子",
+      "type": "药材"
+    },
+    {
+      "entity": "肝损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝血增盛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目及皮肤发黄",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿黄",
+      "type": "疾病"
+    },
+    {
+      "entity": "后续医典",
+      "type": "文献"
+    },
+    {
+      "entity": "七味红花散",
+      "type": "方剂"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于科",
+      "tail": "川续断科"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于属",
+      "tail": "蓝盆花属"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "别名",
+      "tail": "蓝盆花"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "肺热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "肝热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "咽喉肿疼"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "红花"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "麻黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "石膏"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "木通"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "地格达"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "诃子"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "蓝盆花"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "肝损伤"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "肝热"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "肝血增盛"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "目及皮肤发黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "尿黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "记载于文献",
+      "tail": "后续医典"
+    }
+  ]
+}

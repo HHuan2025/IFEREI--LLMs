@@ -1,0 +1,471 @@
+{
+  "entities": [
+    {
+      "entity": "了哥王",
+      "type": "药用植物"
+    },
+    {
+      "entity": "瑞香科",
+      "type": "科"
+    },
+    {
+      "entity": "荛花属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "了哥王",
+      "type": "中药名"
+    },
+    {
+      "entity": "了哥王子",
+      "type": "中药名"
+    },
+    {
+      "entity": "了哥王根",
+      "type": "中药名"
+    },
+    {
+      "entity": "9-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "9月至竖年2月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "其他"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰散结",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "散结逐瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "利水杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻风",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "10-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "外用"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "外用"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "外用"
+    },
+    {
+      "entity": "浸酒搽",
+      "type": "外用"
+    },
+    {
+      "entity": "孕妇及体质虚寒者",
+      "type": "不宜与"
+    },
+    {
+      "entity": "米酒",
+      "type": "其他"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "毛茛根",
+      "type": "其他"
+    },
+    {
+      "entity": "糯米粉",
+      "type": "其他"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "了哥王",
+      "predicate": "属于科",
+      "tail": "瑞香科"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "属于属",
+      "tail": "荛花属"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "化痰散结"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "主治疾病",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "茎",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "茎",
+      "predicate": "主治疾病",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "茎",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "茎",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "茎",
+      "predicate": "用法用量",
+      "tail": "6-9克"
+    },
+    {
+      "head": "茎",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "茎",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "茎",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "痈疽"
+    },
+    {
+      "head": "果实",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "果实",
+      "predicate": "外用",
+      "tail": "浸酒搽"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "散结逐瘀"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "利水杀虫"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "肺炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "咽喉炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "淋巴结炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "痈疽肿毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "麻风"
+    },
+    {
+      "head": "根皮",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法用量",
+      "tail": "10-15克"
+    },
+    {
+      "head": "根皮",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根皮",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "根皮",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "不宜与",
+      "tail": "孕妇及体质虚寒者"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "应用举例",
+      "tail": "无名肿毒:了哥王叶捣烂，加米酒少量，敷患处。(江西草药手册)"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "应用举例",
+      "tail": "乳腺炎:了哥王根两层皮、毛茛根、糯米粉各适量，捣烂敷患处。待皮肤有灼热感即取去。(福建药物志)"
+    }
+  ]
+}

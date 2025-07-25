@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "台湾相思",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "金合欢属",
+      "type": "属"
+    },
+    {
+      "entity": "枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "芽",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "去腐生肌",
+      "type": "功能"
+    },
+    {
+      "entity": "疗伤",
+      "type": "功能"
+    },
+    {
+      "entity": "肺跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡溃烂",
+      "type": "疾病"
+    },
+    {
+      "entity": "台湾植物药材志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "台湾相思",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "属于属",
+      "tail": "金合欢属"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "药用部位为",
+      "tail": "枝叶"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "药用部位为",
+      "tail": "芽"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "具有功能",
+      "tail": "去腐生肌"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "具有功能",
+      "tail": "疗伤"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "治疗",
+      "tail": "肺跌打损伤"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "治疗",
+      "tail": "疮疡溃烂"
+    },
+    {
+      "head": "台湾相思",
+      "predicate": "记载于文献",
+      "tail": "台湾植物药材志"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "entity": "三分三",
+      "type": "中药名"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "山茛菪属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折整复麻醉止痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三分三",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "三分三",
+      "predicate": "属于属",
+      "tail": "山茛菪属"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "三分三",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "治疗",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "三分三",
+      "predicate": "治疗",
+      "tail": "骨折整复麻醉止痛"
+    }
+  ]
+}

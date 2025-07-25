@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "entity": "海桐花科",
+      "type": "科"
+    },
+    {
+      "entity": "海桐花属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "广枝仁",
+      "type": "药材"
+    },
+    {
+      "entity": "光叶海桐叶",
+      "type": "药材"
+    },
+    {
+      "entity": "光叶海桐根",
+      "type": "药材"
+    },
+    {
+      "entity": "虚热口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "土连翘果实",
+      "type": "药材"
+    },
+    {
+      "entity": "补心",
+      "type": "疾病"
+    },
+    {
+      "entity": "茯神",
+      "type": "药材"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "过敏性皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "一朵云叶",
+      "type": "药材"
+    },
+    {
+      "entity": "梅毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "光叶海桐叶",
+      "type": "药材"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后风瘫",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "光叶海桐根",
+      "type": "药材"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "山枙茶根",
+      "type": "药材"
+    },
+    {
+      "entity": "枫荷梨",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "海桐花科",
+      "predicate": "包含",
+      "tail": "海桐花属"
+    },
+    {
+      "head": "广枝仁",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "虚热口渴"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "补心"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疖肿毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "过敏性皮炎"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "产后风瘫"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    }
+  ]
+}

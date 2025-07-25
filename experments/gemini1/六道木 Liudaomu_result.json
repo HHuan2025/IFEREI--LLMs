@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "entity": "六道木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "忍冬科",
+      "type": "科"
+    },
+    {
+      "entity": "六道木属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "交翅木",
+      "type": "药材"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒痈疮",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "六道木",
+      "predicate": "属于科",
+      "tail": "忍冬科"
+    },
+    {
+      "head": "六道木",
+      "predicate": "属于属",
+      "tail": "六道木属"
+    },
+    {
+      "head": "六道木",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "六道木",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "六道木",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "六道木",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "六道木",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "六道木",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "六道木",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "六道木",
+      "predicate": "治疗",
+      "tail": "热毒痈疮"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "entities": [
+    {
+      "entity": "变叶树参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "树参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枫荷梨",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "偏瘫",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "偏坠",
+      "type": "疾病"
+    },
+    {
+      "entity": "睾丸",
+      "type": "药用部位"
+    },
+    {
+      "entity": "半荷枫根",
+      "type": "药材"
+    },
+    {
+      "entity": "野南瓜根",
+      "type": "药材"
+    },
+    {
+      "entity": "猪瘦肉",
+      "type": "药材"
+    },
+    {
+      "entity": "战备草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "铁锹树根",
+      "type": "药材"
+    },
+    {
+      "entity": "贵州民间药物",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "变叶树参",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "属于属",
+      "tail": "树参属"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "别名为",
+      "tail": "枫荷梨"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性",
+      "tail": "温"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有功能",
+      "tail": "活血消肿"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "偏瘫"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "半荷枫根",
+      "predicate": "治疗",
+      "tail": "偏坠"
+    },
+    {
+      "head": "野南瓜根",
+      "predicate": "治疗",
+      "tail": "偏坠"
+    },
+    {
+      "head": "半荷枫根",
+      "predicate": "与",
+      "tail": "野南瓜根"
+    },
+    {
+      "head": "半荷枫根",
+      "predicate": "与",
+      "tail": "猪瘦肉"
+    },
+    {
+      "head": "野南瓜根",
+      "predicate": "与",
+      "tail": "猪瘦肉"
+    },
+    {
+      "head": "半荷枫根",
+      "predicate": "记载于文献",
+      "tail": "战备草药手册"
+    },
+    {
+      "head": "野南瓜根",
+      "predicate": "记载于文献",
+      "tail": "战备草药手册"
+    },
+    {
+      "head": "猪瘦肉",
+      "predicate": "记载于文献",
+      "tail": "战备草药手册"
+    },
+    {
+      "head": "铁锹树根",
+      "predicate": "治疗",
+      "tail": "疮毒"
+    },
+    {
+      "head": "铁锹树根",
+      "predicate": "记载于文献",
+      "tail": "贵州民间药物"
+    }
+  ]
+}

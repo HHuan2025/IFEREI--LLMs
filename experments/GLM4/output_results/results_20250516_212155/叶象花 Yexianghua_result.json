@@ -1,0 +1,262 @@
+{
+  "entities": [
+    {
+      "entity": "叶象花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "中药名"
+    },
+    {
+      "entity": "四季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "凉血调经",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "月经过多",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "文山中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "日服2次",
+      "type": "用法"
+    },
+    {
+      "entity": "捣烂敷患处",
+      "type": "用法"
+    },
+    {
+      "entity": "2-3天换药一次",
+      "type": "用法"
+    },
+    {
+      "entity": "采收加工",
+      "type": "采收加工"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "叶象花",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有功能",
+      "tail": "凉血调经"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "具有功能",
+      "tail": "散瘀消肿"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "主治疾病",
+      "tail": "月经过多"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "主治疾病",
+      "tail": "外伤肿痛"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "主治疾病",
+      "tail": "出血"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "主治疾病",
+      "tail": "骨折"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "全草",
+      "predicate": "包含于",
+      "tail": "叶象花"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "采收时间",
+      "tail": "四季"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "应用举例",
+      "tail": "月经过多"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "应用举例",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "应用举例",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "应用举例",
+      "tail": "骨折"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "记载于文献",
+      "tail": "文山中草药"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法",
+      "tail": "水煎服"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法",
+      "tail": "日服2次"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法",
+      "tail": "捣烂敷患处"
+    },
+    {
+      "head": "叶象花",
+      "predicate": "用法",
+      "tail": "2-3天换药一次"
+    }
+  ]
+}

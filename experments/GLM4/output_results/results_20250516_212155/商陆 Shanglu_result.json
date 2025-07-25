@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "entity": "商陆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "商陆科",
+      "type": "科"
+    },
+    {
+      "entity": "商陆属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋、冬或春季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "抗菌",
+      "type": "功能"
+    },
+    {
+      "entity": "抗炎",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "1.5-3钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "水气肿满",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤小豆",
+      "type": "中药名"
+    },
+    {
+      "entity": "鲫鱼",
+      "type": "其他"
+    },
+    {
+      "entity": "圣济总录",
+      "type": "文献"
+    },
+    {
+      "entity": "十种水气",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘遂末",
+      "type": "中药名"
+    },
+    {
+      "entity": "土狗",
+      "type": "其他"
+    },
+    {
+      "entity": "杨氏家藏方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "商陆",
+      "predicate": "属于科",
+      "tail": "商陆科"
+    },
+    {
+      "head": "商陆",
+      "predicate": "属于属",
+      "tail": "商陆属"
+    },
+    {
+      "head": "商陆",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "商陆",
+      "predicate": "采收时间",
+      "tail": "秋、冬或春季"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "祛痰"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "平喘"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "抗菌"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "抗炎"
+    },
+    {
+      "head": "商陆",
+      "predicate": "具有功能",
+      "tail": "利尿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "胀满"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "脚气"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "喉痹"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "商陆",
+      "predicate": "主治疾病",
+      "tail": "恶疮"
+    },
+    {
+      "head": "商陆",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "1.5-3钱"
+    },
+    {
+      "head": "商陆",
+      "predicate": "内服",
+      "tail": "散剂"
+    },
+    {
+      "head": "商陆",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "水气肿满",
+      "predicate": "包含中药",
+      "tail": "商陆"
+    },
+    {
+      "head": "水气肿满",
+      "predicate": "包含中药",
+      "tail": "赤小豆"
+    },
+    {
+      "head": "水气肿满",
+      "predicate": "包含中药",
+      "tail": "鲫鱼"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "圣济总录"
+    },
+    {
+      "head": "十种水气",
+      "predicate": "包含中药",
+      "tail": "商陆"
+    },
+    {
+      "head": "十种水气",
+      "predicate": "包含中药",
+      "tail": "甘遂末"
+    },
+    {
+      "head": "十种水气",
+      "predicate": "包含中药",
+      "tail": "土狗"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "杨氏家藏方"
+    }
+  ]
+}

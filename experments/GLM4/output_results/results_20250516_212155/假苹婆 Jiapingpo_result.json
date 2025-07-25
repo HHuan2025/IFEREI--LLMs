@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "entity": "假苹婆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "梧桐科",
+      "type": "科"
+    },
+    {
+      "entity": "苹婆属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "红郎伞",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "散瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜用或晒干",
+      "type": "采收加工"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假苹婆",
+      "predicate": "属于科",
+      "tail": "梧桐科"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "属于属",
+      "tail": "苹婆属"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "红郎伞",
+      "predicate": "包含中药",
+      "tail": "假苹婆"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "具有功能",
+      "tail": "散瘀止痛"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "主治疾病",
+      "tail": "肿痛"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "用法用量",
+      "tail": "6-12克"
+    },
+    {
+      "head": "假苹婆",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    }
+  ]
+}

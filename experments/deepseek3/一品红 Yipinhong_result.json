@@ -1,0 +1,275 @@
+{
+  "entities": [
+    {
+      "entity": "一品红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "一品红",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "割取地上部分，鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、涩，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "调经止血",
+      "type": "功能"
+    },
+    {
+      "entity": "活血定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "月经过多",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤，3-9克",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "一品红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "功能"
+    },
+    {
+      "entity": "有毒",
+      "type": "药用部位"
+    },
+    {
+      "entity": "调经止血",
+      "type": "功能"
+    },
+    {
+      "entity": "活血定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "月经过多",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一品红",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一品红",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "一品红",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "一品红",
+      "predicate": "中药名",
+      "tail": "一品红"
+    },
+    {
+      "head": "一品红",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "一品红",
+      "predicate": "采收加工",
+      "tail": "割取地上部分，鲜用或晒干"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "苦、涩，凉"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有功能",
+      "tail": "调经止血"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有功能",
+      "tail": "活血定痛"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "月经过多"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "煎汤，3-9克"
+    },
+    {
+      "head": "一品红",
+      "predicate": "外用",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "一品红",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一品红",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "一品红",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有功能",
+      "tail": "调经止血"
+    },
+    {
+      "head": "一品红",
+      "predicate": "具有功能",
+      "tail": "活血定痛"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "月经过多"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "一品红",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "entities": [
+    {
+      "entity": "华山松",
+      "type": "药用植物"
+    },
+    {
+      "entity": "松科",
+      "type": "科"
+    },
+    {
+      "entity": "松属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "松叶",
+      "type": "药材"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "腊月",
+      "type": "疾病"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦",
+      "type": "疾病"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风燥湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "流脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜叶30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "功能"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴囊湿痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "防钩虫病",
+      "type": "功能"
+    },
+    {
+      "entity": "赤足下田前，擦足及小腿处",
+      "type": "用法"
+    },
+    {
+      "entity": "华山松",
+      "type": "药用植物"
+    },
+    {
+      "entity": "松科",
+      "type": "科"
+    },
+    {
+      "entity": "松属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "松叶",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风燥湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "流脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "华山松",
+      "type": "药用植物"
+    },
+    {
+      "entity": "松科",
+      "type": "科"
+    },
+    {
+      "entity": "松属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风燥湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "流脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴囊湿痒",
+      "type": "应用实例"
+    },
+    {
+      "entity": "防钩虫病",
+      "type": "应用实例"
+    },
+    {
+      "entity": "简便单方",
+      "type": "应用实例"
+    },
+    {
+      "entity": "单方验方新医疗法选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华山松",
+      "predicate": "属于科",
+      "tail": "松科"
+    },
+    {
+      "head": "华山松",
+      "predicate": "属于属",
+      "tail": "松属"
+    },
+    {
+      "head": "华山松",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "叶",
+      "predicate": "包含中药",
+      "tail": "松叶"
+    },
+    {
+      "head": "华山松",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有功能",
+      "tail": "祛风燥湿"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "风湿痿痹"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "失眠"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "浮肿"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "伪尾实体364"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "伪尾实体916"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "华山松",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "华山松",
+      "predicate": "用法用量",
+      "tail": "鲜叶30-60克"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有性味",
+      "tail": "浸酒"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "伪尾实体511"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "防钩虫病"
+    },
+    {
+      "head": "华山松",
+      "predicate": "属于科",
+      "tail": "松科"
+    },
+    {
+      "head": "华山松",
+      "predicate": "属于属",
+      "tail": "松属"
+    },
+    {
+      "head": "华山松",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "松叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "松叶",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "松叶",
+      "predicate": "具有功能",
+      "tail": "祛风燥湿"
+    },
+    {
+      "head": "松叶",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "风湿痿痹"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "失眠"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "浮肿"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "流脑"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "松叶",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "华山松",
+      "predicate": "属于科",
+      "tail": "松科"
+    },
+    {
+      "head": "华山松",
+      "predicate": "属于属",
+      "tail": "松属"
+    },
+    {
+      "head": "华山松",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有功能",
+      "tail": "祛风燥湿"
+    },
+    {
+      "head": "华山松",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "风湿痿痹"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "失眠"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "浮肿"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "流脑"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "华山松",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "华山松",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "华山松",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "阴囊湿痒",
+      "predicate": "应用实例",
+      "tail": "华山松"
+    },
+    {
+      "head": "防钩虫病",
+      "predicate": "应用实例",
+      "tail": "华山松"
+    },
+    {
+      "head": "简便单方",
+      "predicate": "应用实例",
+      "tail": "阴囊湿痒"
+    },
+    {
+      "head": "单方验方新医疗法选编",
+      "predicate": "记载于文献",
+      "tail": "防钩虫病"
+    }
+  ]
+}

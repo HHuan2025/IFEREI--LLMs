@@ -1,0 +1,80 @@
+{
+  "entities": [
+    {
+      "entity": "冬虫夏草菌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麦角菌科",
+      "type": "科"
+    },
+    {
+      "entity": "虫草属",
+      "type": "属"
+    },
+    {
+      "entity": "蝙蝠蛾科",
+      "type": "科"
+    },
+    {
+      "entity": "冬虫夏草",
+      "type": "中药名"
+    },
+    {
+      "entity": "虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "贫血",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "子座",
+      "type": "药用部位"
+    },
+    {
+      "entity": "幼虫尸体",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "属于科",
+      "tail": "麦角菌科"
+    },
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "属于属",
+      "tail": "虫草属"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "虚喘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "贫血"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "遗精"
+    }
+  ]
+}

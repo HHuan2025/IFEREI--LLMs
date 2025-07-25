@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "千屈菜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "千屈菜科",
+      "type": "科"
+    },
+    {
+      "entity": "千屈菜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "南药中草药学",
+      "type": "文献"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "马齿苋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "食物中药与便方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千屈菜",
+      "predicate": "属于科",
+      "tail": "千屈菜科"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "属于属",
+      "tail": "千屈菜属"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "中药名",
+      "tail": "千屈菜"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "南药中草药学",
+      "predicate": "文献记载",
+      "tail": "千屈菜"
+    },
+    {
+      "head": "千屈菜",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "食物中药与便方",
+      "predicate": "文献记载",
+      "tail": "千屈菜"
+    }
+  ]
+}

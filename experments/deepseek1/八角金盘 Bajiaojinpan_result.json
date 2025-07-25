@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "八角金盘属",
+      "type": "属"
+    },
+    {
+      "entity": "八角金盘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "散风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "化瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛风",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "气管炎咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "鸡屎藤",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角金盘",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "属于属",
+      "tail": "八角金盘属"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "散风除湿"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "具有功能",
+      "tail": "化瘀止痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "咳嗽痰多"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "痛风"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "气管炎咳嗽"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "鸡屎藤",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entities": [
+    {
+      "entity": "一品红",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一品红",
+      "predicate": "主治症状",
+      "tail": "月经过多"
+    },
+    {
+      "head": "一品红",
+      "predicate": "主治症状",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "一品红",
+      "predicate": "主治症状",
+      "tail": "骨折"
+    },
+    {
+      "head": "一品红",
+      "predicate": "主治症状",
+      "tail": "外伤出血"
+    }
+  ]
+}

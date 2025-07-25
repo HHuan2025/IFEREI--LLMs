@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "entity": "刺槐",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刺槐属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺槐花",
+      "type": "药材"
+    },
+    {
+      "entity": "6-7月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "盛开时采收花序，摘下花，晾干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "大肠下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "泡茶饮",
+      "type": "用法"
+    },
+    {
+      "entity": "刺槐",
+      "type": "药材"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刺槐属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "大肠下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "泡茶饮",
+      "type": "用法"
+    },
+    {
+      "entity": "6-7月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晾干",
+      "type": "采收加工方法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺槐",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "属于属",
+      "tail": "刺槐属"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "中药名",
+      "tail": "刺槐花"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "采收时间",
+      "tail": "6-7月"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "采收加工",
+      "tail": "盛开时采收花序，摘下花，晾干"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "大肠下血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "妇女崩漏"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "泡茶饮"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "属于属",
+      "tail": "刺槐属"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "大肠下血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "治疗",
+      "tail": "妇女崩漏"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "用法",
+      "tail": "泡茶饮"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "采收时间",
+      "tail": "6-7月"
+    },
+    {
+      "head": "刺槐",
+      "predicate": "采收加工",
+      "tail": "晾干"
+    }
+  ]
+}

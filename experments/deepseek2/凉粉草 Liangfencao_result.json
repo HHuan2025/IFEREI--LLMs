@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "entity": "凉粉草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "凉粉草属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部份",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凉粉草",
+      "type": "药材"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "消暑",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "中暑",
+      "type": "疾病"
+    },
+    {
+      "entity": "糖尿病",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压病",
+      "type": "疾病"
+    },
+    {
+      "entity": "肌肉、关节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "风火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "梅毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "漆过敏",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "暑热",
+      "type": "疾病"
+    },
+    {
+      "entity": "草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "败酱草",
+      "type": "药材"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凉粉草",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "属于属",
+      "tail": "凉粉草属"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "药用部位为",
+      "tail": "地上部份"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "中药名",
+      "tail": "凉粉草"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "采收时间",
+      "tail": "夏季"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有功能",
+      "tail": "消暑"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有功能",
+      "tail": "凉血"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "中暑"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "糖尿病"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "高血压病"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "肌肉、关节疼痛"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "急性肾炎"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "风火牙痛"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "烧烫伤"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "治疗",
+      "tail": "漆过敏"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "外用",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "应用实例",
+      "tail": "暑热"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "记载于文献",
+      "tail": "草药手册"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "应用实例",
+      "tail": "痢疾"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "凉粉草",
+      "predicate": "应用实例",
+      "tail": "糖尿病"
+    }
+  ]
+}

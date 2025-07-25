@@ -1,0 +1,355 @@
+{
+  "entities": [
+    {
+      "entity": "假连翘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "假连翘属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "功能"
+    },
+    {
+      "entity": "截疟",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打胸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿初起",
+      "type": "疾病"
+    },
+    {
+      "entity": "重底",
+      "type": "疾病"
+    },
+    {
+      "entity": "红糖",
+      "type": "功能"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "假连翘",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "假连翘属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "味甘、微辛",
+      "type": "性味"
+    },
+    {
+      "entity": "性温",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "截疟",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打胸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿初起",
+      "type": "疾病"
+    },
+    {
+      "entity": "重底",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假连翘",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "属于属",
+      "tail": "假连翘属"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "截疟"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "微辛"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "跌打胸痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "痈肿初起"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "重底"
+    },
+    {
+      "head": "果实",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "叶",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "小毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "小毒"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "属于属",
+      "tail": "假连翘属"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "味甘、微辛"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "味甘、微辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "截疟"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "跌打胸痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "痈肿初起"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "重底"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    }
+  ]
+}

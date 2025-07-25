@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "entity": "七叶一枝花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "重楼",
+      "type": "药物类型"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "七叶一枝花",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "中药名",
+      "tail": "重楼"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "文献记载",
+      "tail": "中国药植志"
+    }
+  ]
+}

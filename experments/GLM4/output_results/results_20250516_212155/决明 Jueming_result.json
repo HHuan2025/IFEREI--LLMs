@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "entity": "决明",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "决明属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "决明子",
+      "type": "中药名"
+    },
+    {
+      "entity": "荚果变黄褐色时采收",
+      "type": "采收时间"
+    },
+    {
+      "entity": "把全株割下晒干，打下种子，去净杂质",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "清热明目",
+      "type": "功能"
+    },
+    {
+      "entity": "润肠通便",
+      "type": "功能"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "羞明泪多",
+      "type": "疾病"
+    },
+    {
+      "entity": "青盲",
+      "type": "疾病"
+    },
+    {
+      "entity": "雀目",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛头晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "视物昏暗",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝硬化腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "习惯性便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "癣疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末",
+      "type": "剂型"
+    },
+    {
+      "entity": "泡茶饮",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末调涂",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃虚寒及便溏者慎服",
+      "type": "不宜与"
+    },
+    {
+      "entity": "真菌性阴道炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎熏洗外阴及阴道",
+      "type": "外用"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "18克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "郁李仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "沸水冲泡代茶",
+      "type": "用法"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "口腔炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浓煎频频含漱",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "决明",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "决明",
+      "predicate": "属于属",
+      "tail": "决明属"
+    },
+    {
+      "head": "决明",
+      "predicate": "药用部位为",
+      "tail": "成熟种子"
+    },
+    {
+      "head": "决明子",
+      "predicate": "采收时间",
+      "tail": "荚果变黄褐色时采收"
+    },
+    {
+      "head": "决明子",
+      "predicate": "采收加工",
+      "tail": "把全株割下晒干，打下种子，去净杂质"
+    },
+    {
+      "head": "决明子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "决明子",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "决明子",
+      "predicate": "具有功能",
+      "tail": "清热明目"
+    },
+    {
+      "head": "决明子",
+      "predicate": "具有功能",
+      "tail": "润肠通便"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "羞明泪多"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "青盲"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "雀目"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "头痛头晕"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "视物昏暗"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "肝硬化腹水"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "小便不利"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "习惯性便秘"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "肿毒"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "癣疾"
+    },
+    {
+      "head": "决明子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "决明子",
+      "predicate": "内服",
+      "tail": "研末"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法",
+      "tail": "泡茶饮"
+    },
+    {
+      "head": "决明子",
+      "predicate": "外用",
+      "tail": "研末调涂"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "决明子",
+      "predicate": "不宜与",
+      "tail": "脾胃虚寒及便溏者慎服"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "真菌性阴道炎"
+    },
+    {
+      "head": "决明子",
+      "predicate": "外用",
+      "tail": "水煎熏洗外阴及阴道"
+    },
+    {
+      "head": "水煎熏洗外阴及阴道",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法用量",
+      "tail": "18克"
+    },
+    {
+      "head": "习惯性便秘",
+      "predicate": "包含中药",
+      "tail": "郁李仁"
+    },
+    {
+      "head": "郁李仁",
+      "predicate": "用法用量",
+      "tail": "18克"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法",
+      "tail": "沸水冲泡代茶"
+    },
+    {
+      "head": "沸水冲泡代茶",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    },
+    {
+      "head": "决明子",
+      "predicate": "主治疾病",
+      "tail": "口腔炎"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法用量",
+      "tail": "60克"
+    },
+    {
+      "head": "决明子",
+      "predicate": "用法",
+      "tail": "浓煎频频含漱"
+    },
+    {
+      "head": "浓煎频频含漱",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "entities": [
+    {
+      "entity": "半边莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "半边莲属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "茎叶茂盛时采挖，洗净，晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "大腹水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "面足浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "晚期血吸虫病腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣汁",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁调涂",
+      "type": "用法"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "毒蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鸡冠花蕊",
+      "type": "其他"
+    },
+    {
+      "entity": "30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "米酒",
+      "type": "其他"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性中耳炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "酒",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "半边莲",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于属",
+      "tail": "半边莲属"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "采收时间",
+      "tail": "夏、秋二季"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "采收加工",
+      "tail": "茎叶茂盛时采挖，洗净，晒干"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "大腹水肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "面足浮肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "晚期血吸虫病腹水"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "内服",
+      "tail": "内服"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "剂型",
+      "tail": "捣汁"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "外用",
+      "tail": "外用"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法",
+      "tail": "捣汁调涂"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "本草纲目"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "毒蛇伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "岭南草药志"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "主治疾病",
+      "tail": "急性中耳炎"
+    }
+  ]
+}

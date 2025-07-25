@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "假连翘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "假连翘属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "假连翘",
+      "type": "中药名"
+    },
+    {
+      "entity": "假连翘叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "跌打胸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿初起",
+      "type": "疾病"
+    },
+    {
+      "entity": "重底",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假连翘",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "属于属",
+      "tail": "假连翘属"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "假连翘"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "假连翘叶"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "文献记载",
+      "tail": "假连翘"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "跌打胸痛"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "痈肿初起"
+    },
+    {
+      "head": "假连翘",
+      "predicate": "治疗",
+      "tail": "重底"
+    }
+  ]
+}

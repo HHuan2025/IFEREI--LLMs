@@ -1,0 +1,86 @@
+{
+  "entities": [
+    {
+      "entity": "北黄花菜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "萱草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "嫩苗",
+      "type": "药用部位"
+    },
+    {
+      "entity": "萱草根",
+      "type": "药材"
+    },
+    {
+      "entity": "萱草嫩苗",
+      "type": "药材"
+    },
+    {
+      "entity": "大便后血",
+      "type": "疾病"
+    },
+    {
+      "entity": "生姜",
+      "type": "药材"
+    },
+    {
+      "entity": "心痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北黄花菜",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "北黄花菜",
+      "predicate": "属于属",
+      "tail": "萱草属"
+    },
+    {
+      "head": "根",
+      "predicate": "药用部位",
+      "tail": "北黄花菜"
+    },
+    {
+      "head": "嫩苗",
+      "predicate": "药用部位",
+      "tail": "北黄花菜"
+    },
+    {
+      "head": "萱草根",
+      "predicate": "药材",
+      "tail": "北黄花菜"
+    },
+    {
+      "head": "萱草嫩苗",
+      "predicate": "药材",
+      "tail": "北黄花菜"
+    },
+    {
+      "head": "萱草根",
+      "predicate": "治疗",
+      "tail": "大便后血"
+    },
+    {
+      "head": "萱草根",
+      "predicate": "治疗",
+      "tail": "心痛"
+    }
+  ]
+}

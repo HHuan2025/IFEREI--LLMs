@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "entity": "华重楼",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "重楼",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "凉肝定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风抽搐",
+      "type": "疾病"
+    },
+    {
+      "entity": "蚤休",
+      "type": "药用植物"
+    },
+    {
+      "entity": "鸡肉",
+      "type": "食物"
+    },
+    {
+      "entity": "猪肺",
+      "type": "食物"
+    },
+    {
+      "entity": "七叶一枝花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "开水",
+      "type": "溶剂"
+    },
+    {
+      "entity": "甜酒酿",
+      "type": "食物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华重楼",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "中药名",
+      "tail": "重楼"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "凉肝定惊"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "跌扑伤痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "惊风抽搐"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "治疗",
+      "tail": "肺痨久咳"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "治疗",
+      "tail": "哮喘"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "搭配食物",
+      "tail": "鸡肉"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "搭配食物",
+      "tail": "猪肺"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "用法",
+      "tail": "研末开水送服"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "用法",
+      "tail": "捣烂敷患处"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "搭配食物",
+      "tail": "甜酒酿"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "entities": [
+    {
+      "entity": "吊竹梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "鸭跖草科",
+      "type": "科"
+    },
+    {
+      "entity": "吊竹梅属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "吊竹梅",
+      "type": "药材"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，晒干或鲜用",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮痈肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜品60-90克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣汁",
+      "type": "用法"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量，捣敷",
+      "type": "用法用量"
+    },
+    {
+      "entity": "孕妇禁服",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜吊竹梅全草30-90克，白米30克。同炒至半成炭为度，水煎服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性结合膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜(吊竹梅)全草30-60克，一点红鲜全草30克。共捣烂，外敷患眼",
+      "type": "应用实例"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜(吊竹梅)全草30-60克。捣绞汁冲酒内服:渣敷患处",
+      "type": "应用实例"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "吊竹梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "鸭跖草科",
+      "type": "科"
+    },
+    {
+      "entity": "吊竹梅属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮痈肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "白米",
+      "type": "功能"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性结合膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "一点红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "吊竹梅",
+      "type": "药材"
+    },
+    {
+      "entity": "鸭跖草科",
+      "type": "科"
+    },
+    {
+      "entity": "吊竹梅属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "性味"
+    },
+    {
+      "entity": "凉血解毒",
+      "type": "性味"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮痈肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "孕妇禁服",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吊竹梅",
+      "predicate": "属于科",
+      "tail": "鸭跖草科"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "属于属",
+      "tail": "伪尾实体818"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "全年",
+      "predicate": "采收时间",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "采收加工",
+      "tail": "洗净，晒干或鲜用"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "伪尾实体691"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "伪尾实体659"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "痢疾"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咳嗽咯血"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "疮痈肿毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "伪尾实体234"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "剂型",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "15-30克",
+      "predicate": "用法用量",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "鲜品60-90克",
+      "predicate": "用法用量",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "捣汁",
+      "predicate": "用法",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "适量，捣敷",
+      "predicate": "用法用量",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "孕妇禁服",
+      "predicate": "具有性味",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "慢性痢疾",
+      "predicate": "具有性味",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "鲜吊竹梅全草30-90克，白米30克。同炒至半成炭为度，水煎服",
+      "predicate": "应用举例",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "记载于文献",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "目赤肿痛",
+      "predicate": "治疗",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "急性结合膜炎",
+      "predicate": "具有性味",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "鲜(吊竹梅)全草30-60克，一点红鲜全草30克。共捣烂，外敷患眼",
+      "predicate": "应用举例",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "蛇咬伤",
+      "predicate": "治疗",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "鲜(吊竹梅)全草30-60克。捣绞汁冲酒内服:渣敷患处",
+      "predicate": "应用举例",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "泉州本草",
+      "predicate": "具有性味",
+      "tail": "吊竹梅"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "属于科",
+      "tail": "鸭跖草科"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "属于属",
+      "tail": "吊竹梅属"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有功能",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咳嗽咯血"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "疮痈肿毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "烧烫伤"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    },
+    {
+      "head": "目赤肿痛",
+      "predicate": "具有性味",
+      "tail": "急性结合膜炎"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "属于科",
+      "tail": "鸭跖草科"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "属于属",
+      "tail": "吊竹梅属"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "凉血解毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咳嗽咯血"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "疮痈肿毒"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "烧烫伤"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "用法",
+      "tail": "捣汁"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "吊竹梅",
+      "predicate": "具有性味",
+      "tail": "孕妇禁服"
+    }
+  ]
+}

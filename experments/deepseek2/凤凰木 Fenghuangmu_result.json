@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "entity": "凤凰木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "凤凰木属",
+      "type": "属"
+    },
+    {
+      "entity": "树木",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤凰木",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "剥取树皮，切段晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘、淡，寒",
+      "type": "性味"
+    },
+    {
+      "entity": "平肝潜阳",
+      "type": "功能"
+    },
+    {
+      "entity": "肝阳上亢",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "头晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "目眩",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦躁",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤凰木",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "属于属",
+      "tail": "凤凰木属"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "药用部位为",
+      "tail": "树木"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "中药名",
+      "tail": "凤凰木"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "采收加工",
+      "tail": "剥取树皮，切段晒干"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "具有性味",
+      "tail": "甘、淡，寒"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "具有功能",
+      "tail": "平肝潜阳"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "治疗",
+      "tail": "肝阳上亢"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "治疗",
+      "tail": "高血压"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "治疗",
+      "tail": "头晕"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "治疗",
+      "tail": "目眩"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "治疗",
+      "tail": "烦躁"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "用法",
+      "tail": "煎汤，3-10克"
+    },
+    {
+      "head": "凤凰木",
+      "predicate": "用法",
+      "tail": "开水洗眼"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "entity": "华北蓝盆花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "川续断科",
+      "type": "器官"
+    },
+    {
+      "entity": "蓝盆花属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "化学物质"
+    },
+    {
+      "entity": "蓝盆花",
+      "type": "药材"
+    },
+    {
+      "entity": "6-8月间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "头状花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "阴干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "疾病"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿疼",
+      "type": "化学物质"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煮散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-5克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "肝损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝血增盛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目及皮肤发黄",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿黄",
+      "type": "疾病"
+    },
+    {
+      "entity": "红花",
+      "type": "药材"
+    },
+    {
+      "entity": "25克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "石膏",
+      "type": "药材"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "木通",
+      "type": "药材"
+    },
+    {
+      "entity": "地格达",
+      "type": "药材"
+    },
+    {
+      "entity": "诃子",
+      "type": "药材"
+    },
+    {
+      "entity": "10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "每日2-3次",
+      "type": "用法"
+    },
+    {
+      "entity": "温开水送服",
+      "type": "用法"
+    },
+    {
+      "entity": "《后续医典》",
+      "type": "文献"
+    },
+    {
+      "entity": "七味红花散",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于科",
+      "tail": "川续断科"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于属",
+      "tail": "蓝盆花属"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "采收时间",
+      "tail": "伪尾实体600"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "药用部位为",
+      "tail": "头状花序"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "采收加工",
+      "tail": "阴干"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "肺热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "肝热"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "治疗",
+      "tail": "伪尾实体582"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "内服",
+      "tail": "内服"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "剂型",
+      "tail": "煮散剂"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "用法用量",
+      "tail": "3-5克"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "剂型",
+      "tail": "伪尾实体200"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "剂型",
+      "tail": "散"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "肝损伤"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "相关基因",
+      "tail": "肝热"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "肝血增盛"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "目及皮肤发黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "治疗",
+      "tail": "尿黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "红花"
+    },
+    {
+      "head": "红花",
+      "predicate": "用法用量",
+      "tail": "25克"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "麻黄"
+    },
+    {
+      "head": "麻黄",
+      "predicate": "用法用量",
+      "tail": "伪尾实体330"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "石膏"
+    },
+    {
+      "head": "石膏",
+      "predicate": "相关基因",
+      "tail": "15克"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "木通"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "地格达"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "诃子"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "包含中药",
+      "tail": "蓝盆花"
+    },
+    {
+      "head": "蓝盆花",
+      "predicate": "用法用量",
+      "tail": "10克"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "剂型",
+      "tail": "散剂"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "用法用量",
+      "tail": "1.5-3克"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "用法",
+      "tail": "每日2-3次"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "用法",
+      "tail": "温开水送服"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "记载于文献",
+      "tail": "《后续医典》"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "entity": "八角金盘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "八角金盘属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角金盘",
+      "type": "中药名"
+    },
+    {
+      "entity": "气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯痰不松",
+      "type": "疾病"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜鸡屎藤",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角金盘",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "属于属",
+      "tail": "八角金盘属"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位",
+      "tail": "根皮"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "中药名",
+      "tail": "八角金盘"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "气管炎"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "咯痰不松"
+    },
+    {
+      "head": "现代实用中药",
+      "predicate": "文献记载",
+      "tail": "八角金盘"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "青岛中草药手册",
+      "predicate": "文献记载",
+      "tail": "八角金盘"
+    },
+    {
+      "head": "八角金盘",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "鲜鸡屎藤",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    }
+  ]
+}

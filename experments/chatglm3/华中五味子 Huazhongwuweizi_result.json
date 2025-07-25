@@ -1,0 +1,685 @@
+{
+  "entities": [
+    {
+      "entity": "华中五味子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "五味子属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南五味子",
+      "type": "药材"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "收敛固涩",
+      "type": "功能"
+    },
+    {
+      "entity": "益气生津",
+      "type": "功能"
+    },
+    {
+      "entity": "补肾宁心",
+      "type": "功能"
+    },
+    {
+      "entity": "久嗽虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "梦遗滑精",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗尿尿频",
+      "type": "疾病"
+    },
+    {
+      "entity": "久泻不止",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "津伤口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "短气脉虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "内热消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸失眼",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺虚寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰嗽并喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿暴嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草衍义",
+      "type": "文献"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "圣济总录",
+      "type": "文献"
+    },
+    {
+      "entity": "华中五味子",
+      "type": "药材"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "五味子属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南五味子",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "收敛固涩",
+      "type": "性味"
+    },
+    {
+      "entity": "益气生津",
+      "type": "性味"
+    },
+    {
+      "entity": "补肾宁心",
+      "type": "性味"
+    },
+    {
+      "entity": "久嗽虚喘",
+      "type": "功能"
+    },
+    {
+      "entity": "梦遗滑精",
+      "type": "功能"
+    },
+    {
+      "entity": "遗尿尿频",
+      "type": "功能"
+    },
+    {
+      "entity": "久泻不止",
+      "type": "功能"
+    },
+    {
+      "entity": "自汗",
+      "type": "功能"
+    },
+    {
+      "entity": "盗汗",
+      "type": "功能"
+    },
+    {
+      "entity": "津伤口渴",
+      "type": "功能"
+    },
+    {
+      "entity": "短气脉虚",
+      "type": "功能"
+    },
+    {
+      "entity": "内热消渴",
+      "type": "功能"
+    },
+    {
+      "entity": "心悸失眼",
+      "type": "功能"
+    },
+    {
+      "entity": "肺虚寒",
+      "type": "应用实例"
+    },
+    {
+      "entity": "五味子",
+      "type": "应用实例"
+    },
+    {
+      "entity": "方红熟时",
+      "type": "应用实例"
+    },
+    {
+      "entity": "蒸烂",
+      "type": "应用实例"
+    },
+    {
+      "entity": "研滤汁",
+      "type": "应用实例"
+    },
+    {
+      "entity": "去子",
+      "type": "应用实例"
+    },
+    {
+      "entity": "熬成稀膏",
+      "type": "应用实例"
+    },
+    {
+      "entity": "最酸甘入蜜",
+      "type": "应用实例"
+    },
+    {
+      "entity": "再上火待熟",
+      "type": "应用实例"
+    },
+    {
+      "entity": "俟冷",
+      "type": "应用实例"
+    },
+    {
+      "entity": "器中贮",
+      "type": "应用实例"
+    },
+    {
+      "entity": "作汤",
+      "type": "应用实例"
+    },
+    {
+      "entity": "时时服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "痰嗽并喘",
+      "type": "应用实例"
+    },
+    {
+      "entity": "白矾",
+      "type": "应用实例"
+    },
+    {
+      "entity": "生猪肺",
+      "type": "应用实例"
+    },
+    {
+      "entity": "炙熟",
+      "type": "应用实例"
+    },
+    {
+      "entity": "细嚼",
+      "type": "应用实例"
+    },
+    {
+      "entity": "白汤下",
+      "type": "应用实例"
+    },
+    {
+      "entity": "小儿暴嗽",
+      "type": "应用实例"
+    },
+    {
+      "entity": "桂",
+      "type": "应用实例"
+    },
+    {
+      "entity": "干姜",
+      "type": "应用实例"
+    },
+    {
+      "entity": "粗捣筛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "水七分",
+      "type": "应用实例"
+    },
+    {
+      "entity": "煎至四分",
+      "type": "应用实例"
+    },
+    {
+      "entity": "去滓",
+      "type": "应用实例"
+    },
+    {
+      "entity": "温服",
+      "type": "应用实例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华中五味子",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "属于属",
+      "tail": "五味子属"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有性味",
+      "tail": "华中五味子"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有功能",
+      "tail": "收敛固涩"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有功能",
+      "tail": "益气生津"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有功能",
+      "tail": "补肾宁心"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "久嗽虚喘"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "梦遗滑精"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "遗尿尿频"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "久泻不止"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "津伤口渴"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "短气脉虚"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "内热消渴"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "心悸失眼"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "肺虚寒"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "痰嗽并喘"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "小儿暴嗽"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "记载于文献",
+      "tail": "本草衍义"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "记载于文献",
+      "tail": "普济方"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "记载于文献",
+      "tail": "圣济总录"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "属于属",
+      "tail": "五味子属"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "收敛固涩"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "益气生津"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "具有性味",
+      "tail": "补肾宁心"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "久嗽虚喘"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "梦遗滑精"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "遗尿尿频"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "久泻不止"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "津伤口渴"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "短气脉虚"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "内热消渴"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "治疗",
+      "tail": "心悸失眼"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "熬膏"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "研末掺"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "方红熟时",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "蒸烂",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "研滤汁",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "去子",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "熬成稀膏",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "最酸甘入蜜",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "再上火待熟",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "俟冷",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "器中贮",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "作汤",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "时时服",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "白矾",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "生猪肺",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "炙熟",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "细嚼",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "白汤下",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "桂",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "干姜",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "粗捣筛",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "水七分",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "煎至四分",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "去滓",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    },
+    {
+      "head": "温服",
+      "predicate": "属于属",
+      "tail": "应用举例"
+    }
+  ]
+}

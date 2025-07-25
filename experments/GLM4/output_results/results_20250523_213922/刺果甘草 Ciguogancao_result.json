@@ -1,0 +1,86 @@
+{
+  "entities": [
+    {
+      "entity": "刺果甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "中药名"
+    },
+    {
+      "entity": "奶汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "皂刺",
+      "type": "其他"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "果实",
+      "predicate": "药用部位",
+      "tail": "刺果甘草"
+    },
+    {
+      "head": "根",
+      "predicate": "药用部位",
+      "tail": "刺果甘草"
+    },
+    {
+      "head": "狗甘草",
+      "predicate": "中药名",
+      "tail": "刺果甘草"
+    },
+    {
+      "head": "狗甘草根",
+      "predicate": "中药名",
+      "tail": "刺果甘草"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "治疗",
+      "tail": "奶汁缺少"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    }
+  ]
+}

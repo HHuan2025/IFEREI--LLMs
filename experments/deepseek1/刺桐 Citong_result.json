@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "entity": "刺桐",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刺桐属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "苦涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "通络",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "收敛止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消积驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "四肢拘挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫症",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺桐",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "属于属",
+      "tail": "刺桐属"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "干皮"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "干皮",
+      "predicate": "具有性味",
+      "tail": "苦辛"
+    },
+    {
+      "head": "干皮",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦涩"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "干皮",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "干皮",
+      "predicate": "具有功能",
+      "tail": "通络"
+    },
+    {
+      "head": "干皮",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "收敛止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "消积驱虫"
+    },
+    {
+      "head": "干皮",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "干皮",
+      "predicate": "治疗",
+      "tail": "四肢拘挛"
+    },
+    {
+      "head": "干皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "干皮",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "干皮",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "蛔虫症"
+    }
+  ]
+}

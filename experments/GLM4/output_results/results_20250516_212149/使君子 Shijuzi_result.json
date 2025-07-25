@@ -1,0 +1,338 @@
+{
+  "entities": [
+    {
+      "entity": "使君子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "使君子科",
+      "type": "科"
+    },
+    {
+      "entity": "使君子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "9-10月间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "微火烘干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "其他"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "蛔虫腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳食停滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-5钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "《补要袖珍小儿方论》使君子散",
+      "type": "文献"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芜荑",
+      "type": "中药名"
+    },
+    {
+      "entity": "苦楝子",
+      "type": "中药名"
+    },
+    {
+      "entity": "《幼科准绳》使君子散",
+      "type": "文献"
+    },
+    {
+      "entity": "厚朴",
+      "type": "中药名"
+    },
+    {
+      "entity": "陈皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "川芎",
+      "type": "中药名"
+    },
+    {
+      "entity": "《局方》使君子丸",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿五疳",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾胃不和",
+      "type": "疾病"
+    },
+    {
+      "entity": "心腹膨胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "时复疞痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "不进饮食",
+      "type": "疾病"
+    },
+    {
+      "entity": "渐致羸瘦",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "使君子",
+      "predicate": "属于科",
+      "tail": "使君子科"
+    },
+    {
+      "head": "使君子",
+      "predicate": "属于属",
+      "tail": "使君子属"
+    },
+    {
+      "head": "使君子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "使君子",
+      "predicate": "采收时间",
+      "tail": "9-10月间"
+    },
+    {
+      "head": "使君子",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "使君子",
+      "predicate": "采收加工",
+      "tail": "微火烘干"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有毒性",
+      "tail": "无毒"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "使君子",
+      "predicate": "具有功能",
+      "tail": "健脾"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "蛔虫腹痛"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "乳食停滞"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "腹胀"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "泻痢"
+    },
+    {
+      "head": "使君子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "使君子",
+      "predicate": "用法用量",
+      "tail": "3-5钱"
+    },
+    {
+      "head": "使君子",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "使君子",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "《补要袖珍小儿方论》使君子散",
+      "predicate": "包含中药",
+      "tail": "使君子"
+    },
+    {
+      "head": "《幼科准绳》使君子散",
+      "predicate": "包含中药",
+      "tail": "使君子"
+    },
+    {
+      "head": "《幼科准绳》使君子散",
+      "predicate": "包含中药",
+      "tail": "甘草"
+    },
+    {
+      "head": "《幼科准绳》使君子散",
+      "predicate": "包含中药",
+      "tail": "白芜荑"
+    },
+    {
+      "head": "《幼科准绳》使君子散",
+      "predicate": "包含中药",
+      "tail": "苦楝子"
+    },
+    {
+      "head": "《局方》使君子丸",
+      "predicate": "包含中药",
+      "tail": "厚朴"
+    },
+    {
+      "head": "《局方》使君子丸",
+      "predicate": "包含中药",
+      "tail": "陈皮"
+    },
+    {
+      "head": "《局方》使君子丸",
+      "predicate": "包含中药",
+      "tail": "川芎"
+    },
+    {
+      "head": "《局方》使君子丸",
+      "predicate": "包含中药",
+      "tail": "使君子"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "小儿五疳"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "脾胃不和"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "心腹膨胀"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "时复疞痛"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "不进饮食"
+    },
+    {
+      "head": "使君子",
+      "predicate": "主治疾病",
+      "tail": "渐致羸瘦"
+    }
+  ]
+}

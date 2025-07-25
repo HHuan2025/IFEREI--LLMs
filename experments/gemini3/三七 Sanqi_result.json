@@ -1,0 +1,299 @@
+{
+  "entities": [
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "人参属",
+      "type": "器官"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三七",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季花开前",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，分开主根、支根及茎基，干燥",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "疾病"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸腹刺痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末",
+      "type": "疾病"
+    },
+    {
+      "entity": "每次1-3克",
+      "type": "化学物质"
+    },
+    {
+      "entity": "丸剂",
+      "type": "其他"
+    },
+    {
+      "entity": "磨汁涂",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇",
+      "type": "其他"
+    },
+    {
+      "entity": "慎用",
+      "type": "其他"
+    },
+    {
+      "entity": "米汤",
+      "type": "其他"
+    },
+    {
+      "entity": "濒湖集简方",
+      "type": "文献"
+    },
+    {
+      "entity": "白蜡",
+      "type": "其他"
+    },
+    {
+      "entity": "乳香",
+      "type": "药材"
+    },
+    {
+      "entity": "降香",
+      "type": "药材"
+    },
+    {
+      "entity": "血竭",
+      "type": "药材"
+    },
+    {
+      "entity": "五倍",
+      "type": "药材"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "化学物质"
+    },
+    {
+      "entity": "回生集",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五加科",
+      "predicate": "包含中药",
+      "tail": "三七"
+    },
+    {
+      "head": "人参属",
+      "predicate": "包含中药",
+      "tail": "三七"
+    },
+    {
+      "head": "三七",
+      "predicate": "属于属",
+      "tail": "人参属"
+    },
+    {
+      "head": "人参属",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "三七",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "秋季花开前",
+      "predicate": "采收加工",
+      "tail": "洗净，分开主根、支根及茎基，干燥"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "三七",
+      "predicate": "具有功能",
+      "tail": "消肿定痛"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "伪尾实体969"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "伪尾实体956"
+    },
+    {
+      "head": "三七",
+      "predicate": "治疗",
+      "tail": "跌扑肿痛"
+    },
+    {
+      "head": "三七",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "三七",
+      "predicate": "内服",
+      "tail": "研末"
+    },
+    {
+      "head": "研末",
+      "predicate": "用法用量",
+      "tail": "每次1-3克"
+    },
+    {
+      "head": "三七",
+      "predicate": "相关基因",
+      "tail": "丸剂"
+    },
+    {
+      "head": "三七",
+      "predicate": "外用",
+      "tail": "磨汁涂"
+    },
+    {
+      "head": "三七",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "孕妇",
+      "predicate": "不宜与",
+      "tail": "三七"
+    },
+    {
+      "head": "三七",
+      "predicate": "应用举例",
+      "tail": "吐血，衄血:三七3克，自嚼，米汤送下。(濒湖集简方)"
+    },
+    {
+      "head": "三七",
+      "predicate": "应用举例",
+      "tail": "止血:三七、白蜡、乳香、降香、血竭、五倍、牡蛎各等分。不经火，为末。敷之。(回生集)"
+    }
+  ]
+}

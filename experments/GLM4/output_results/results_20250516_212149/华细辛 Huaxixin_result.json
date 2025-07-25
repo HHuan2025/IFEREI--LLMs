@@ -1,0 +1,309 @@
+{
+  "entities": [
+    {
+      "entity": "华细辛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "细辛属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "细辛",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏季果熟期或初秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "除去泥沙，阴干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "通窍止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "温肺化饮",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻塞鼻渊",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "2-6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末",
+      "type": "剂型"
+    },
+    {
+      "entity": "1-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "吹鼻",
+      "type": "用法"
+    },
+    {
+      "entity": "塞耳",
+      "type": "用法"
+    },
+    {
+      "entity": "敷脐",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水含漱",
+      "type": "用法"
+    },
+    {
+      "entity": "气虚多汗者慎服，热病及阴虚、血虚者禁服",
+      "type": "不宜与"
+    },
+    {
+      "entity": "饮食不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "细辛(去叶)15克，丁香7.5克",
+      "type": "其他"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "治风入腹，切痛烦冤",
+      "type": "疾病"
+    },
+    {
+      "entity": "细辛、吴茱萸、干姜各15克，当归、防风各30克，芍药60克",
+      "type": "其他"
+    },
+    {
+      "entity": "元和纪用经",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华细辛",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "属于属",
+      "tail": "细辛属"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "细辛",
+      "predicate": "采收时间",
+      "tail": "夏季果熟期或初秋"
+    },
+    {
+      "head": "细辛",
+      "predicate": "采收加工",
+      "tail": "除去泥沙，阴干"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有毒性",
+      "tail": "有小毒"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有功能",
+      "tail": "通窍止痛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "具有功能",
+      "tail": "温肺化饮"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "头痛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "牙痛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "鼻塞鼻渊"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "主治疾病",
+      "tail": "痰饮喘咳"
+    },
+    {
+      "head": "细辛",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法用量",
+      "tail": "2-6克"
+    },
+    {
+      "head": "细辛",
+      "predicate": "内服",
+      "tail": "研末"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法用量",
+      "tail": "1-3克"
+    },
+    {
+      "head": "细辛",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法",
+      "tail": "吹鼻"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法",
+      "tail": "塞耳"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法",
+      "tail": "敷脐"
+    },
+    {
+      "head": "细辛",
+      "predicate": "用法",
+      "tail": "煎水含漱"
+    },
+    {
+      "head": "细辛",
+      "predicate": "不宜与",
+      "tail": "气虚多汗者慎服，热病及阴虚、血虚者禁服"
+    },
+    {
+      "head": "饮食不下",
+      "predicate": "包含中药",
+      "tail": "细辛(去叶)15克，丁香7.5克"
+    },
+    {
+      "head": "细辛(去叶)15克，丁香7.5克",
+      "predicate": "记载于文献",
+      "tail": "本草纲目"
+    },
+    {
+      "head": "治风入腹，切痛烦冤",
+      "predicate": "包含中药",
+      "tail": "细辛、吴茱萸、干姜各15克，当归、防风各30克，芍药60克"
+    },
+    {
+      "head": "细辛、吴茱萸、干姜各15克，当归、防风各30克，芍药60克",
+      "predicate": "记载于文献",
+      "tail": "元和纪用经"
+    }
+  ]
+}

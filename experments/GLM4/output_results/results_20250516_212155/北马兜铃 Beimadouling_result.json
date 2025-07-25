@@ -1,0 +1,429 @@
+{
+  "entities": [
+    {
+      "entity": "北马兜铃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "马兜铃属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "马兜铃",
+      "type": "中药名"
+    },
+    {
+      "entity": "天仙藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "干燥",
+      "type": "采收加工"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺降气",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "清肠消痔",
+      "type": "功能"
+    },
+    {
+      "entity": "行气化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰中带血",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠热痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后血气腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "外用"
+    },
+    {
+      "entity": "苦寒败胃",
+      "type": "其他"
+    },
+    {
+      "entity": "虚寒喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚便泄",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "4.5-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "外用"
+    },
+    {
+      "entity": "捣烂敷",
+      "type": "外用"
+    },
+    {
+      "entity": "体虚",
+      "type": "其他"
+    },
+    {
+      "entity": "小儿药证直诀",
+      "type": "文献"
+    },
+    {
+      "entity": "阿胶",
+      "type": "中药名"
+    },
+    {
+      "entity": "鼠粘子",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "杏仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "糯米",
+      "type": "中药名"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北马兜铃",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "属于属",
+      "tail": "马兜铃属"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位为",
+      "tail": "地上部分"
+    },
+    {
+      "head": "果实",
+      "predicate": "包含中药",
+      "tail": "马兜铃"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "包含中药",
+      "tail": "天仙藤"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "干燥"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肺降气"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肠消痔"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "行气化湿"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "肺热喘咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "痰中带血"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "肠热痔血"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "痔疮肿痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "主治疾病",
+      "tail": "胃痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "主治疾病",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "主治疾病",
+      "tail": "妊娠水肿"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "主治疾病",
+      "tail": "产后血气腹痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "主治疾病",
+      "tail": "风湿疼痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "6-10克"
+    },
+    {
+      "head": "果实",
+      "predicate": "剂型",
+      "tail": "丸"
+    },
+    {
+      "head": "果实",
+      "predicate": "剂型",
+      "tail": "散"
+    },
+    {
+      "head": "果实",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "果实",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "虚寒喘咳",
+      "predicate": "不宜与",
+      "tail": "苦寒败胃"
+    },
+    {
+      "head": "脾虚便泄",
+      "predicate": "不宜与",
+      "tail": "苦寒败胃"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法用量",
+      "tail": "4.5-9克"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "剂型",
+      "tail": "散剂"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "外用",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "马兜铃",
+      "predicate": "包含于",
+      "tail": "小儿药证直诀"
+    },
+    {
+      "head": "天仙藤",
+      "predicate": "包含于",
+      "tail": "江西草药"
+    },
+    {
+      "head": "天仙藤",
+      "predicate": "主治疾病",
+      "tail": "乳腺炎"
+    }
+  ]
+}

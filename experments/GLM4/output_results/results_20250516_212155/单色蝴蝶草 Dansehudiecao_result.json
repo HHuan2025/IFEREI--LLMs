@@ -1,0 +1,273 @@
+{
+  "entities": [
+    {
+      "entity": "单色蝴蝶草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "玄参科",
+      "type": "科"
+    },
+    {
+      "entity": "蝴蝶草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "蓝猪耳",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳止呕",
+      "type": "功能"
+    },
+    {
+      "entity": "活血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "风热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品适量，捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "倒胆草",
+      "type": "其他"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "栀子",
+      "type": "其他"
+    },
+    {
+      "entity": "3个",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "剂型"
+    },
+    {
+      "entity": "车前草根",
+      "type": "其他"
+    },
+    {
+      "entity": "7个",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣烂加白糖，兑开水服",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "属于科",
+      "tail": "玄参科"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "属于属",
+      "tail": "蝴蝶草属"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "蓝猪耳",
+      "predicate": "包含于",
+      "tail": "单色蝴蝶草"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "晒干",
+      "predicate": "包含于",
+      "tail": "单色蝴蝶草"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "止咳止呕"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "具有功能",
+      "tail": "活血解毒"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "黄疸"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "血淋"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "呕吐"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "腹泻"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "风热咳嗽"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "蛇伤"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "主治疾病",
+      "tail": "疔毒"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "用法用量",
+      "tail": "6-9克"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "外用",
+      "tail": "鲜品适量，捣敷"
+    },
+    {
+      "head": "倒胆草",
+      "predicate": "包含于",
+      "tail": "黄疸"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "应用举例",
+      "tail": "黄疸"
+    },
+    {
+      "head": "倒胆草",
+      "predicate": "包含于",
+      "tail": "血淋"
+    },
+    {
+      "head": "单色蝴蝶草",
+      "predicate": "应用举例",
+      "tail": "血淋"
+    }
+  ]
+}

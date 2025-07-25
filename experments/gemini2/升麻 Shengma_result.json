@@ -1,0 +1,202 @@
+{
+  "entities": [
+    {
+      "entity": "升麻",
+      "type": "药材"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "升麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "禁忌"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "发表透疹",
+      "type": "功能"
+    },
+    {
+      "entity": "升阳举陷",
+      "type": "功能"
+    },
+    {
+      "entity": "时疫火毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "中气下陷",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "阎氏小儿方论",
+      "type": "文献"
+    },
+    {
+      "entity": "白芍",
+      "type": "药材"
+    },
+    {
+      "entity": "炙甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "葛根",
+      "type": "药材"
+    },
+    {
+      "entity": "伤寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟",
+      "type": "疾病"
+    },
+    {
+      "entity": "恒山",
+      "type": "药材"
+    },
+    {
+      "entity": "蜀漆",
+      "type": "药材"
+    },
+    {
+      "entity": "圣惠方",
+      "type": "文献"
+    },
+    {
+      "entity": "黄柏",
+      "type": "药材"
+    },
+    {
+      "entity": "大青",
+      "type": "药材"
+    },
+    {
+      "entity": "外台引集验方",
+      "type": "文献"
+    },
+    {
+      "entity": "喘满气逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳虚阳浮",
+      "type": "人群"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "升麻",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "升麻",
+      "predicate": "属于属",
+      "tail": "升麻属"
+    },
+    {
+      "head": "升麻",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有性味",
+      "tail": "辛甘"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有毒性",
+      "tail": "无毒"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有功能",
+      "tail": "发表透疹"
+    },
+    {
+      "head": "升麻",
+      "predicate": "具有功能",
+      "tail": "升阳举陷"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "时疫火毒"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "中气下陷"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "升麻",
+      "predicate": "记载于文献",
+      "tail": "阎氏小儿方论"
+    },
+    {
+      "head": "升麻",
+      "predicate": "记载于文献",
+      "tail": "圣惠方"
+    },
+    {
+      "head": "升麻",
+      "predicate": "记载于文献",
+      "tail": "外台引集验方"
+    }
+  ]
+}

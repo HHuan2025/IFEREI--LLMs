@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "entity": "万寿菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "万寿菊属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦、微辛，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "上呼吸道感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "口腔炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "血瘀腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "研粉调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜蜂窝菊",
+      "type": "中药名"
+    },
+    {
+      "entity": "30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水朝阳",
+      "type": "中药名"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "紫菀",
+      "type": "中药名"
+    },
+    {
+      "entity": "6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "昆明民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "蜂窝菊",
+      "type": "中药名"
+    },
+    {
+      "entity": "15朵",
+      "type": "用法用量"
+    },
+    {
+      "entity": "红糖",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万寿菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "属于属",
+      "tail": "万寿菊属"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有性味",
+      "tail": "苦、微辛，凉"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "百日咳"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "结膜炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "口腔炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "牙痛"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "咽炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "眩晕"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "小儿惊风"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "闭经"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "血瘀腹痛"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "主治疾病",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "外用",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "外用",
+      "tail": "研粉调敷"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "外用",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "气管炎",
+      "predicate": "应用举例",
+      "tail": "鲜蜂窝菊"
+    },
+    {
+      "head": "气管炎",
+      "predicate": "应用举例",
+      "tail": "水朝阳"
+    },
+    {
+      "head": "气管炎",
+      "predicate": "应用举例",
+      "tail": "紫菀"
+    },
+    {
+      "head": "鲜蜂窝菊",
+      "predicate": "用法用量",
+      "tail": "30克"
+    },
+    {
+      "head": "水朝阳",
+      "predicate": "用法用量",
+      "tail": "9克"
+    },
+    {
+      "head": "紫菀",
+      "predicate": "用法用量",
+      "tail": "6克"
+    },
+    {
+      "head": "鲜蜂窝菊",
+      "predicate": "记载于文献",
+      "tail": "昆明民间常用草药"
+    },
+    {
+      "head": "百日咳",
+      "predicate": "应用举例",
+      "tail": "蜂窝菊"
+    },
+    {
+      "head": "蜂窝菊",
+      "predicate": "用法用量",
+      "tail": "15朵"
+    },
+    {
+      "head": "蜂窝菊",
+      "predicate": "记载于文献",
+      "tail": "昆明民间常用草药"
+    }
+  ]
+}

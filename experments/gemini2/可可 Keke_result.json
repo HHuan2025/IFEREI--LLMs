@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "entity": "可可",
+      "type": "药用植物"
+    },
+    {
+      "entity": "梧桐科",
+      "type": "科"
+    },
+    {
+      "entity": "可可属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "可可",
+      "predicate": "属于科",
+      "tail": "梧桐科"
+    },
+    {
+      "head": "可可",
+      "predicate": "属于属",
+      "tail": "可可属"
+    },
+    {
+      "head": "可可",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    }
+  ]
+}

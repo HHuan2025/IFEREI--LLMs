@@ -1,0 +1,53 @@
+2025-05-13 10:40:08,331 - INFO - 将处理从第 1 到第 10 个文件，共 10 个文件
+2025-05-13 10:40:08,331 - INFO - 正在处理文件: 一串红 Yichuanhong.txt
+2025-05-13 10:40:47,917 - INFO - 将处理从第 1 到第 10 个文件，共 10 个文件
+2025-05-13 10:40:47,922 - INFO - 正在处理文件: 一串红 Yichuanhong.txt
+2025-05-13 10:41:49,684 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:41:49,693 - INFO - 一串红 Yichuanhong.txt 成功解析JSON结果
+2025-05-13 10:41:49,694 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一串红 Yichuanhong_extraction_conversation.json
+2025-05-13 10:41:49,695 - INFO - 结果保存至: output_results\results_20250513_104047\一串红 Yichuanhong_result.json
+2025-05-13 10:41:49,696 - INFO - 正在处理文件: 一叶萩 Yiyeqiu.txt
+2025-05-13 10:42:40,718 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:42:40,719 - INFO - 一叶萩 Yiyeqiu.txt 成功解析JSON结果
+2025-05-13 10:42:40,720 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一叶萩 Yiyeqiu_extraction_conversation.json
+2025-05-13 10:42:40,721 - INFO - 结果保存至: output_results\results_20250513_104047\一叶萩 Yiyeqiu_result.json
+2025-05-13 10:42:40,722 - INFO - 正在处理文件: 一品红 Yipinhong.txt
+2025-05-13 10:43:54,111 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:43:54,112 - INFO - 一品红 Yipinhong.txt 成功解析JSON结果
+2025-05-13 10:43:54,114 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一品红 Yipinhong_extraction_conversation.json
+2025-05-13 10:43:54,129 - INFO - 结果保存至: output_results\results_20250513_104047\一品红 Yipinhong_result.json
+2025-05-13 10:43:54,130 - INFO - 正在处理文件: 一把伞南星 Yibasannanxing.txt
+2025-05-13 10:44:43,225 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:44:43,227 - INFO - 一把伞南星 Yibasannanxing.txt 成功解析JSON结果
+2025-05-13 10:44:43,228 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一把伞南星 Yibasannanxing_extraction_conversation.json
+2025-05-13 10:44:43,229 - INFO - 结果保存至: output_results\results_20250513_104047\一把伞南星 Yibasannanxing_result.json
+2025-05-13 10:44:43,230 - INFO - 正在处理文件: 一枝黄花 Yizhihuanghua.txt
+2025-05-13 10:45:33,773 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:45:33,774 - INFO - 一枝黄花 Yizhihuanghua.txt 成功解析JSON结果
+2025-05-13 10:45:33,775 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一枝黄花 Yizhihuanghua_extraction_conversation.json
+2025-05-13 10:45:33,776 - INFO - 结果保存至: output_results\results_20250513_104047\一枝黄花 Yizhihuanghua_result.json
+2025-05-13 10:45:33,777 - INFO - 正在处理文件: 一点红 Yidianhong.txt
+2025-05-13 10:47:00,380 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:47:00,382 - INFO - 一点红 Yidianhong.txt 成功解析JSON结果
+2025-05-13 10:47:00,383 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\一点红 Yidianhong_extraction_conversation.json
+2025-05-13 10:47:00,384 - INFO - 结果保存至: output_results\results_20250513_104047\一点红 Yidianhong_result.json
+2025-05-13 10:47:00,384 - INFO - 正在处理文件: 丁香 Dingxiang.txt
+2025-05-13 10:47:44,226 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:47:44,227 - INFO - 丁香 Dingxiang.txt 成功解析JSON结果
+2025-05-13 10:47:44,228 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\丁香 Dingxiang_extraction_conversation.json
+2025-05-13 10:47:44,230 - INFO - 结果保存至: output_results\results_20250513_104047\丁香 Dingxiang_result.json
+2025-05-13 10:47:44,230 - INFO - 正在处理文件: 七叶一枝花 Qiyeyizhihua.txt
+2025-05-13 10:49:09,435 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:49:09,438 - INFO - 七叶一枝花 Qiyeyizhihua.txt 成功解析JSON结果
+2025-05-13 10:49:09,439 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\七叶一枝花 Qiyeyizhihua_extraction_conversation.json
+2025-05-13 10:49:09,440 - INFO - 结果保存至: output_results\results_20250513_104047\七叶一枝花 Qiyeyizhihua_result.json
+2025-05-13 10:49:09,440 - INFO - 正在处理文件: 七叶树 Qiyeshu.txt
+2025-05-13 10:50:01,904 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:50:01,905 - INFO - 七叶树 Qiyeshu.txt 成功解析JSON结果
+2025-05-13 10:50:01,906 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\七叶树 Qiyeshu_extraction_conversation.json
+2025-05-13 10:50:01,907 - INFO - 结果保存至: output_results\results_20250513_104047\七叶树 Qiyeshu_result.json
+2025-05-13 10:50:01,908 - INFO - 正在处理文件: 万寿竹 Wanshouzhu.txt
+2025-05-13 10:51:39,462 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:51:39,464 - INFO - 万寿竹 Wanshouzhu.txt 成功解析JSON结果
+2025-05-13 10:51:39,466 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_104047\万寿竹 Wanshouzhu_extraction_conversation.json
+2025-05-13 10:51:39,468 - INFO - 结果保存至: output_results\results_20250513_104047\万寿竹 Wanshouzhu_result.json

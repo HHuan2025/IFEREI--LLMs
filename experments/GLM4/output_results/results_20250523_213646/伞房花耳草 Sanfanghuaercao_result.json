@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药材"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "常山",
+      "type": "药材"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药材"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    }
+  ]
+}

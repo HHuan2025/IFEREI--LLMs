@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "entity": "刺梨",
+      "type": "中药名"
+    },
+    {
+      "entity": "蔷薇科",
+      "type": "科"
+    },
+    {
+      "entity": "蔷薇属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋、冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘、酸、涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味归经"
+    },
+    {
+      "entity": "健胃",
+      "type": "功能"
+    },
+    {
+      "entity": "消食",
+      "type": "功能"
+    },
+    {
+      "entity": "止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "事物积饱胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "主治用法"
+    },
+    {
+      "entity": "生食",
+      "type": "主治用法"
+    },
+    {
+      "entity": "婴幼儿秋季腹泻",
+      "type": "应用举例"
+    },
+    {
+      "entity": "鲜刺梨子",
+      "type": "应用举例"
+    },
+    {
+      "entity": "文火煎煮",
+      "type": "应用举例"
+    },
+    {
+      "entity": "浓缩至1500毫升",
+      "type": "应用举例"
+    },
+    {
+      "entity": "1岁以内",
+      "type": "应用举例"
+    },
+    {
+      "entity": "1-2岁",
+      "type": "应用举例"
+    },
+    {
+      "entity": "2岁以上",
+      "type": "应用举例"
+    },
+    {
+      "entity": "每日3次",
+      "type": "应用举例"
+    },
+    {
+      "entity": "空腹",
+      "type": "应用举例"
+    },
+    {
+      "entity": "温开水送服",
+      "type": "应用举例"
+    },
+    {
+      "entity": "中医杂志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺梨",
+      "predicate": "属于科",
+      "tail": "蔷薇科"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "属于属",
+      "tail": "蔷薇属"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "具有性味",
+      "tail": "甘、酸、涩"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "具有性味归经",
+      "tail": "平"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "具有功能",
+      "tail": "健胃"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "具有功能",
+      "tail": "消食"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "具有功能",
+      "tail": "止泻"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "主治疾病",
+      "tail": "事物积饱胀"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "主治疾病",
+      "tail": "肠炎腹泻"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "主治用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "主治用法",
+      "tail": "生食"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "应用举例",
+      "tail": "婴幼儿秋季腹泻"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含中药",
+      "tail": "鲜刺梨子"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "文火煎煮"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "浓缩至1500毫升"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "1岁以内"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "1-2岁"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "2岁以上"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "每日3次"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "空腹"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用举例",
+      "tail": "温开水送服"
+    },
+    {
+      "head": "刺梨",
+      "predicate": "记载于文献",
+      "tail": "中医杂志"
+    }
+  ]
+}

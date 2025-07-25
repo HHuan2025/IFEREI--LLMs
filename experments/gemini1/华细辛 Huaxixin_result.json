@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "entity": "华细辛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "细辛属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "细辛",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "通窍止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "温肺化饮",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻塞鼻渊",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "气虚多汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "元和纪用经",
+      "type": "文献"
+    },
+    {
+      "entity": "丁香",
+      "type": "药材"
+    },
+    {
+      "entity": "柿蒂汤",
+      "type": "方剂"
+    },
+    {
+      "entity": "吴茱萸",
+      "type": "药材"
+    },
+    {
+      "entity": "干姜",
+      "type": "药材"
+    },
+    {
+      "entity": "当归",
+      "type": "药材"
+    },
+    {
+      "entity": "防风",
+      "type": "药材"
+    },
+    {
+      "entity": "芍药",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华细辛",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "属于属",
+      "tail": "细辛属"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "别名为",
+      "tail": "细辛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "具有功能",
+      "tail": "通窍止痛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "具有功能",
+      "tail": "温肺化饮"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "鼻塞鼻渊"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "华细辛",
+      "predicate": "治疗",
+      "tail": "痰饮喘咳"
+    }
+  ]
+}

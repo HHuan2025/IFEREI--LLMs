@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "entity": "五色梅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草科",
+      "type": "科"
+    },
+    {
+      "entity": "马缨丹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "高热不退",
+      "type": "疾病"
+    },
+    {
+      "entity": "风火牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "石膏",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五色梅",
+      "predicate": "属于科",
+      "tail": "马鞭草科"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "属于属",
+      "tail": "马缨丹属"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "瘙痒"
+    },
+    {
+      "head": "马缨丹属",
+      "predicate": "治疗",
+      "tail": "肺结核"
+    },
+    {
+      "head": "马缨丹属",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "高热不退"
+    },
+    {
+      "head": "五色梅",
+      "predicate": "治疗",
+      "tail": "风火牙痛"
+    }
+  ]
+}

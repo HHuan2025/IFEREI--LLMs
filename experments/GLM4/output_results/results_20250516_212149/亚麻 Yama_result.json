@@ -1,0 +1,373 @@
+{
+  "entities": [
+    {
+      "entity": "亚麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "亚麻科",
+      "type": "科"
+    },
+    {
+      "entity": "亚麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "亚麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "亚麻子",
+      "type": "中药名"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "8-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "平肝",
+      "type": "功能"
+    },
+    {
+      "entity": "活血",
+      "type": "功能"
+    },
+    {
+      "entity": "养血祛风",
+      "type": "功能"
+    },
+    {
+      "entity": "润燥通便",
+      "type": "功能"
+    },
+    {
+      "entity": "肝风头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻风",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤干燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "脱发",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "香附",
+      "type": "其他"
+    },
+    {
+      "entity": "细辛",
+      "type": "中药名"
+    },
+    {
+      "entity": "冰片",
+      "type": "中药名"
+    },
+    {
+      "entity": "脂溢性脱发",
+      "type": "疾病"
+    },
+    {
+      "entity": "亚麻仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "鲜柳枝",
+      "type": "其他"
+    },
+    {
+      "entity": "江西中草药学",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "亚麻",
+      "predicate": "属于科",
+      "tail": "亚麻科"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "属于属",
+      "tail": "亚麻属"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "夏季"
+    },
+    {
+      "head": "种子",
+      "predicate": "采收时间",
+      "tail": "8-10月"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "平肝"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "养血祛风"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "润燥通便"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "肝风头痛"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "麻风"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "皮肤干燥"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "瘙痒"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "脱发"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "疮疡湿疹"
+    },
+    {
+      "head": "种子",
+      "predicate": "主治疾病",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "研研末调敷"
+    },
+    {
+      "head": "种子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "种子",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "种子",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "种子",
+      "predicate": "用法用量",
+      "tail": "5-10克"
+    },
+    {
+      "head": "种子",
+      "predicate": "外用",
+      "tail": "榨油涂"
+    },
+    {
+      "head": "亚麻根",
+      "predicate": "包含中药",
+      "tail": "香附"
+    },
+    {
+      "head": "亚麻根",
+      "predicate": "包含中药",
+      "tail": "细辛"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "应用举例",
+      "tail": "亚麻根加香附或细辛，同捣烂外敷"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "刀伤出血",
+      "predicate": "应用举例",
+      "tail": "鲜亚麻叶捣烂或干叶研粉，加少许冰片外敷"
+    },
+    {
+      "head": "刀伤出血",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "脂溢性脱发",
+      "predicate": "应用举例",
+      "tail": "亚麻仁、鲜柳枝各30克。煎服"
+    },
+    {
+      "head": "脂溢性脱发",
+      "predicate": "记载于文献",
+      "tail": "江西中草药学"
+    }
+  ]
+}

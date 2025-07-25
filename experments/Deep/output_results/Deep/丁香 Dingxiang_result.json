@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "entity": "丁香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桃金娘科",
+      "type": "科"
+    },
+    {
+      "entity": "番樱桃属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "母丁香",
+      "type": "药物类型"
+    },
+    {
+      "entity": "伤寒咳噫不止",
+      "type": "疾病"
+    },
+    {
+      "entity": "哕逆不定",
+      "type": "疾病"
+    },
+    {
+      "entity": "简要济众方",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿吐逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "百一选方",
+      "type": "文献"
+    },
+    {
+      "entity": "朝食暮吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "摘元方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丁香",
+      "predicate": "属于科",
+      "tail": "桃金娘科"
+    },
+    {
+      "head": "丁香",
+      "predicate": "属于属",
+      "tail": "番樱桃属"
+    },
+    {
+      "head": "丁香",
+      "predicate": "药用部位",
+      "tail": "花蕾"
+    },
+    {
+      "head": "丁香",
+      "predicate": "中药名",
+      "tail": "丁香"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "母丁香"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "伤寒咳噫不止"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "哕逆不定"
+    },
+    {
+      "head": "简要济众方",
+      "predicate": "文献记载",
+      "tail": "丁香"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "小儿吐逆"
+    },
+    {
+      "head": "百一选方",
+      "predicate": "文献记载",
+      "tail": "丁香"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "朝食暮吐"
+    },
+    {
+      "head": "摘元方",
+      "predicate": "文献记载",
+      "tail": "丁香"
+    }
+  ]
+}

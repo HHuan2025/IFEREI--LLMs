@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "entity": "千日红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "千日红属",
+      "type": "属"
+    },
+    {
+      "entity": "花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "气喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "仙鹤草",
+      "type": "药材"
+    },
+    {
+      "entity": "冰糖",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千日红",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "千日红",
+      "predicate": "属于属",
+      "tail": "千日红属"
+    },
+    {
+      "head": "花序",
+      "predicate": "药用部位",
+      "tail": "千日红"
+    },
+    {
+      "head": "全草",
+      "predicate": "药用部位",
+      "tail": "千日红"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "气喘"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "仙鹤草",
+      "predicate": "治疗",
+      "tail": "咯血"
+    }
+  ]
+}

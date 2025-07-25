@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "entity": "伏生紫堇",
+      "type": "药用植物"
+    },
+    {
+      "entity": "罂粟科",
+      "type": "科"
+    },
+    {
+      "entity": "紫堇属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏天无",
+      "type": "药材"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "钩藤",
+      "type": "药材"
+    },
+    {
+      "entity": "桑白皮",
+      "type": "药材"
+    },
+    {
+      "entity": "夏枯草",
+      "type": "药材"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰肌劳损",
+      "type": "疾病"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伏生紫堇",
+      "predicate": "属于科",
+      "tail": "罂粟科"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "属于属",
+      "tail": "紫堇属"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "药用部位",
+      "tail": "块茎"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "治疗",
+      "tail": "高血压"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "治疗",
+      "tail": "腰肌劳损"
+    }
+  ]
+}

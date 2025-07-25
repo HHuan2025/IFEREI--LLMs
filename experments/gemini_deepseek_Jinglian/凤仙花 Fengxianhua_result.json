@@ -1,0 +1,1127 @@
+{
+  "entities": [
+    {
+      "entity": "凤仙花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤仙花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤仙花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤仙根",
+      "type": "药材"
+    },
+    {
+      "entity": "凤仙透骨草",
+      "type": "药材"
+    },
+    {
+      "entity": "急性子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "行瘀降气",
+      "type": "功能"
+    },
+    {
+      "entity": "软坚散结",
+      "type": "功能"
+    },
+    {
+      "entity": "跌扑肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "鹅掌风",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿肢体痿废",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女闭腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血未尽",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "灰指甲",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后胞衣不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "噎膈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痞块",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨哽",
+      "type": "疾病"
+    },
+    {
+      "entity": "龌齿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "兰台集",
+      "type": "文献"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑伤损筋骨",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "凤仙花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤仙花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤仙花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤仙根",
+      "type": "药材"
+    },
+    {
+      "entity": "凤仙透骨草",
+      "type": "药材"
+    },
+    {
+      "entity": "急性子",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏秋间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "8-9月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "除去叶及花果，洗净，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "鲜用或阴、烘干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "将蒴果脱粒，筛去果皮杂质，即得药材急性子",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、辛，平",
+      "type": "性味"
+    },
+    {
+      "entity": "苦、辛，温，小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "甘、苦，微温",
+      "type": "性味"
+    },
+    {
+      "entity": "辛、苦，温，小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛，利湿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风湿，活血止痛，解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿，活血止痛，解毒杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "行瘀降气，软坚散结",
+      "type": "功能"
+    },
+    {
+      "entity": "跌扑肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "鹅掌风",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿肢体痿废",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女闭腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血未尽",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "灰指甲",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后胞衣不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "噎膈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痞块",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨哽",
+      "type": "疾病"
+    },
+    {
+      "entity": "龌齿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "兰台集",
+      "type": "文献"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "孕妇慎服",
+      "type": "疾病"
+    },
+    {
+      "entity": "孕妇禁服",
+      "type": "疾病"
+    },
+    {
+      "entity": "体虚及孕妇慎服",
+      "type": "疾病"
+    },
+    {
+      "entity": "内无瘀积者及孕妇禁用",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤仙花",
+      "predicate": "属于科",
+      "tail": "凤仙花科"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "属于属",
+      "tail": "凤仙花属"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "别名",
+      "tail": "根"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "别名",
+      "tail": "茎"
+    },
+    {
+      "head": "急性子",
+      "predicate": "别名",
+      "tail": "种子"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "利湿消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "跌扑肿痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "茎",
+      "predicate": "毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "鹅掌风"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "解毒杀虫"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "风湿肢体痿废"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "妇女闭腹痛"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "产后瘀血未尽"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "痈疽疮毒"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "鹅掌风"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "灰指甲"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "种子",
+      "predicate": "毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "行瘀降气"
+    },
+    {
+      "head": "种子",
+      "predicate": "具有功能",
+      "tail": "软坚散结"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "产后胞衣不下"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "噎膈"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "痞块"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "骨哽"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "龌齿"
+    },
+    {
+      "head": "种子",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "水肿",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    },
+    {
+      "head": "风湿关节痛",
+      "predicate": "记载于文献",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "跌扑伤损筋骨",
+      "predicate": "记载于文献",
+      "tail": "兰台集"
+    },
+    {
+      "head": "经闭腹痛",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    },
+    {
+      "head": "产后瘀血未尽",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "属于科",
+      "tail": "凤仙花科"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "属于属",
+      "tail": "凤仙花属"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "凤仙根"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "凤仙透骨草"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "急性子"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "采收时间",
+      "tail": "夏秋间"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "急性子",
+      "predicate": "采收时间",
+      "tail": "8-9月"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "采收加工",
+      "tail": "洗净，鲜用或晒干"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "采收加工",
+      "tail": "除去叶及花果，洗净，晒干"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "采收加工",
+      "tail": "鲜用或阴、烘干"
+    },
+    {
+      "head": "急性子",
+      "predicate": "采收加工",
+      "tail": "将蒴果脱粒，筛去果皮杂质，即得药材急性子"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "具有性味",
+      "tail": "苦、辛，平"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "具有性味",
+      "tail": "苦、辛，温，小毒"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "具有性味",
+      "tail": "甘、苦，微温"
+    },
+    {
+      "head": "急性子",
+      "predicate": "具有性味",
+      "tail": "辛、苦，温，小毒"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "具有功能",
+      "tail": "活血止痛，利湿消肿"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "具有功能",
+      "tail": "祛风湿，活血止痛，解毒"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "具有功能",
+      "tail": "祛风除湿，活血止痛，解毒杀虫"
+    },
+    {
+      "head": "急性子",
+      "predicate": "具有功能",
+      "tail": "行瘀降气，软坚散结"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "跌扑肿痛"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "鹅掌风"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "风湿肢体痿废"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "妇女闭腹痛"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "产后瘀血未尽"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "痈疽疮毒"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "灰指甲"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "产后胞衣不下"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "噎膈"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "痞块"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "骨哽"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "龌齿"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "应用实例",
+      "tail": "水肿:(凤仙)鲜根每次4-5个，炖猪肉吃。3-4次效。(泉州本草)"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "应用实例",
+      "tail": "风湿关节痛:透骨草、木瓜各15克，威灵仙12克，桑枝30克。水煎服。(湖北中草药志)"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "应用实例",
+      "tail": "跌扑伤损筋骨，并血脉不行:凤仙花三两，当归尾二两。浸酒饮。(兰台集)"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "应用实例",
+      "tail": "经闭腹痛、产后瘀血未尽:急性子9克，捣碎。煎水，加红糖适量服。(安徽中草药)"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "记载于文献",
+      "tail": "泉州本草"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "记载于文献",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "记载于文献",
+      "tail": "兰台集"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    }
+  ]
+}

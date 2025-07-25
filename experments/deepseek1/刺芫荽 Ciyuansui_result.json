@@ -1,0 +1,262 @@
+{
+  "entities": [
+    {
+      "entity": "伞形科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芫荽属",
+      "type": "属"
+    },
+    {
+      "entity": "刺芫荽",
+      "type": "药用植物"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "发表止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "透疹解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻疹不透",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胞痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺芫荽",
+      "predicate": "属于科",
+      "tail": "伞形科"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "属于属",
+      "tail": "刺芫荽属"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有功能",
+      "tail": "发表止咳"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有功能",
+      "tail": "透疹解毒"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "咳喘"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "麻疹不透"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "咽痛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "胞痛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "呕逆"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "泻痢"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "淋痛"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "跌伤"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    }
+  ]
+}

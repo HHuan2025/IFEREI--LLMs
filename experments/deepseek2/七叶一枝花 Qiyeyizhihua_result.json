@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "entity": "七叶一枝花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "重楼",
+      "type": "药材"
+    },
+    {
+      "entity": "秋后",
+      "type": "采收时间"
+    },
+    {
+      "entity": "去除茎、叶、须根，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "肿伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "中毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药植志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "七叶一枝花",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "中药名",
+      "tail": "重楼"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "采收时间",
+      "tail": "秋后"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "采收加工",
+      "tail": "去除茎、叶、须根，晒干"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "肿伤"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "中毒"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "应用实例",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "应用实例",
+      "tail": "淋巴结结核"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "记载于文献",
+      "tail": "中国药植志"
+    }
+  ]
+}

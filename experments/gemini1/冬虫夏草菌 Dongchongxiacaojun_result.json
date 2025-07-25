@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "entity": "冬虫夏草菌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麦角菌科",
+      "type": "科"
+    },
+    {
+      "entity": "虫草属",
+      "type": "属"
+    },
+    {
+      "entity": "子座及幼虫尸体的复合体",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬虫夏草",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "补肺益肾",
+      "type": "功能"
+    },
+    {
+      "entity": "止血化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "久咳虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "劳嗽咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳痿遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "贫血",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗精",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "属于科",
+      "tail": "麦角菌科"
+    },
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "属于属",
+      "tail": "虫草属"
+    },
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "药用部位为",
+      "tail": "子座及幼虫尸体的复合体"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有功能",
+      "tail": "补肺益肾"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有功能",
+      "tail": "止血化痰"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "久咳虚喘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "劳嗽咯血"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "阳痿遗精"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "腰膝酸痛"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "虚喘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "贫血"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "遗精"
+    }
+  ]
+}

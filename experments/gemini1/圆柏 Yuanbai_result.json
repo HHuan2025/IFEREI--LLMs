@@ -1,0 +1,154 @@
+{
+  "entities": [
+    {
+      "entity": "圆柏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "柏科",
+      "type": "科"
+    },
+    {
+      "entity": "圆柏属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "桧叶",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "荨麻疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴疽肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿路感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "黄酒",
+      "type": "药物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "圆柏",
+      "predicate": "属于科",
+      "tail": "柏科"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "属于属",
+      "tail": "圆柏属"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "别名为",
+      "tail": "桧叶"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "具有功能",
+      "tail": "活血解毒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "治疗",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "治疗",
+      "tail": "荨麻疹"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "治疗",
+      "tail": "阴疽肿毒"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "治疗",
+      "tail": "尿路感染"
+    },
+    {
+      "head": "圆柏",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "鲜圆柏枝梢",
+      "predicate": "可与",
+      "tail": "黄酒"
+    }
+  ]
+}

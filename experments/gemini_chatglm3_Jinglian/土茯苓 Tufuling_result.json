@@ -1,0 +1,707 @@
+{
+  "entities": [
+    {
+      "entity": "土茯苓",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "菝葜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋末冬初",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "药材"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "利关节",
+      "type": "功能"
+    },
+    {
+      "entity": "梅毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋骨挛痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疗疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "0.5-1两",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "功能"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "土萆薢",
+      "type": "药材"
+    },
+    {
+      "entity": "皂苷",
+      "type": "疾病"
+    },
+    {
+      "entity": "牵牛",
+      "type": "药材"
+    },
+    {
+      "entity": "本草汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "土茯苓",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "菝葜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "利关节",
+      "type": "功能"
+    },
+    {
+      "entity": "梅毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋骨挛痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疗疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "土萆薢",
+      "type": "药材"
+    },
+    {
+      "entity": "皂苷",
+      "type": "药材"
+    },
+    {
+      "entity": "牵牛",
+      "type": "药材"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "土茯苓",
+      "type": "药材"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "菝葜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "性味"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "利关节",
+      "type": "功能"
+    },
+    {
+      "entity": "梅毒",
+      "type": "功能"
+    },
+    {
+      "entity": "淋浊",
+      "type": "功能"
+    },
+    {
+      "entity": "筋骨挛痛",
+      "type": "功能"
+    },
+    {
+      "entity": "脚气",
+      "type": "功能"
+    },
+    {
+      "entity": "疔疗疮",
+      "type": "功能"
+    },
+    {
+      "entity": "痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "功能"
+    },
+    {
+      "entity": "治疗梅毒及隐性梅毒",
+      "type": "应用实例"
+    },
+    {
+      "entity": "治疗皮炎",
+      "type": "应用实例"
+    },
+    {
+      "entity": "土萆薢",
+      "type": "应用实例"
+    },
+    {
+      "entity": "皂苷",
+      "type": "应用实例"
+    },
+    {
+      "entity": "牵牛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "水",
+      "type": "应用实例"
+    },
+    {
+      "entity": "本草汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土茯苓",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "属于属",
+      "tail": "菝葜属"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "采收时间",
+      "tail": "秋末冬初"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "利关节"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "淋浊"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "筋骨挛痛"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "伪尾实体921"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "疔疗疮"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "内服",
+      "predicate": "具有性味",
+      "tail": "土茯苓"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "剂型",
+      "tail": "内服"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "用法用量",
+      "tail": "0.5-1两"
+    },
+    {
+      "head": "外用",
+      "predicate": "具有性味",
+      "tail": "土茯苓"
+    },
+    {
+      "head": "研末调敷",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "梅毒",
+      "predicate": "应用举例",
+      "tail": "土萆薢"
+    },
+    {
+      "head": "梅毒",
+      "predicate": "应用举例",
+      "tail": "皂苷"
+    },
+    {
+      "head": "梅毒",
+      "predicate": "应用举例",
+      "tail": "牵牛"
+    },
+    {
+      "head": "土萆薢",
+      "predicate": "包含中药",
+      "tail": "本草汇编"
+    },
+    {
+      "head": "皮炎",
+      "predicate": "具有性味",
+      "tail": "伪尾实体185"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "属于属",
+      "tail": "菝葜属"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "利关节"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "淋浊"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "筋骨挛痛"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "疔疗疮"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "土萆薢",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "记载于文献",
+      "tail": "本草汇编"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "记载于文献",
+      "tail": "江西草药"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "属于属",
+      "tail": "菝葜属"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "具有功能",
+      "tail": "利关节"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "淋浊"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "筋骨挛痛"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "疔疗疮"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "用法",
+      "tail": "0.5-1两"
+    },
+    {
+      "head": "土茯苓",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "治疗梅毒及隐性梅毒",
+      "predicate": "应用实例",
+      "tail": "土萆薢"
+    },
+    {
+      "head": "治疗梅毒及隐性梅毒",
+      "predicate": "应用实例",
+      "tail": "皂苷"
+    },
+    {
+      "head": "治疗梅毒及隐性梅毒",
+      "predicate": "应用实例",
+      "tail": "牵牛"
+    },
+    {
+      "head": "治疗梅毒及隐性梅毒",
+      "predicate": "应用实例",
+      "tail": "水"
+    },
+    {
+      "head": "治疗皮炎",
+      "predicate": "应用实例",
+      "tail": "土茯苓"
+    },
+    {
+      "head": "治疗皮炎",
+      "predicate": "应用实例",
+      "tail": "江西草药"
+    },
+    {
+      "head": "治疗皮炎",
+      "predicate": "应用实例",
+      "tail": "60-90克"
+    },
+    {
+      "head": "治疗皮炎",
+      "predicate": "应用实例",
+      "tail": "水煎"
+    }
+  ]
+}

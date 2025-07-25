@@ -1,0 +1,540 @@
+{
+  "entities": [
+    {
+      "entity": "佛甲草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "景天科",
+      "type": "科"
+    },
+    {
+      "entity": "景天属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛甲草",
+      "type": "药材"
+    },
+    {
+      "entity": "鲜用随采",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "夏、秋两季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "缠腰火丹",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁平疣",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "含漱",
+      "type": "用法"
+    },
+    {
+      "entity": "点眼",
+      "type": "用法"
+    },
+    {
+      "entity": "闽东本草",
+      "type": "文献"
+    },
+    {
+      "entity": "救生苦海",
+      "type": "文献"
+    },
+    {
+      "entity": "贵阳民间药草",
+      "type": "文献"
+    },
+    {
+      "entity": "佛甲草",
+      "type": "药材"
+    },
+    {
+      "entity": "景天科",
+      "type": "科"
+    },
+    {
+      "entity": "景天属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "止血",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "缠腰火丹",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁平疣",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛甲草",
+      "predicate": "属于科",
+      "tail": "景天科"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "属于属",
+      "tail": "景天属"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "采收加工",
+      "tail": "鲜用随采"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "采收时间",
+      "tail": "夏、秋两季"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "热毒痈肿"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "疔疮"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "缠腰火丹"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "湿热泻痢"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "扁平疣"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "捣汁"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "捣敷"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "含漱"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "点眼"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "记载于文献",
+      "tail": "闽东本草"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "记载于文献",
+      "tail": "救生苦海"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "记载于文献",
+      "tail": "贵阳民间药草"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "属于科",
+      "tail": "景天科"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "属于属",
+      "tail": "景天属"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "具有功能",
+      "tail": "止血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "热毒痈肿"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "疔疮"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "缠腰火丹"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "湿热泻痢"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "扁平疣"
+    }
+  ]
+}

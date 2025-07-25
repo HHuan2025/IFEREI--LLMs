@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "entity": "了哥王",
+      "type": "药用植物"
+    },
+    {
+      "entity": "瑞香科",
+      "type": "科"
+    },
+    {
+      "entity": "荛花属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "了哥王",
+      "type": "中药名"
+    },
+    {
+      "entity": "了哥王子",
+      "type": "中药名"
+    },
+    {
+      "entity": "了哥王根",
+      "type": "中药名"
+    },
+    {
+      "entity": "无名肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "毛茛根",
+      "type": "中药名"
+    },
+    {
+      "entity": "糯米粉",
+      "type": "药物类型"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "了哥王",
+      "predicate": "属于科",
+      "tail": "瑞香科"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "属于属",
+      "tail": "荛花属"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "了哥王",
+      "predicate": "药用部位",
+      "tail": "根皮"
+    },
+    {
+      "head": "茎",
+      "predicate": "中药名",
+      "tail": "了哥王"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "了哥王"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "了哥王子"
+    },
+    {
+      "head": "根或根皮",
+      "predicate": "中药名",
+      "tail": "了哥王根"
+    },
+    {
+      "head": "了哥王叶",
+      "predicate": "治疗",
+      "tail": "无名肿毒"
+    },
+    {
+      "head": "江西草药手册",
+      "predicate": "文献记载",
+      "tail": "了哥王叶"
+    },
+    {
+      "head": "了哥王根",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "了哥王根"
+    }
+  ]
+}

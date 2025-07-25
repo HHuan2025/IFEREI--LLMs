@@ -1,0 +1,287 @@
+{
+  "entities": [
+    {
+      "entity": "余甘子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "叶下珠属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬季至次春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘酸涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "消食健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "生津止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "血热血瘀",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "口干",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "脾胃处寒者",
+      "type": "其他"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "口干烦渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "维生素C缺乏症",
+      "type": "疾病"
+    },
+    {
+      "entity": "余甘子鲜果",
+      "type": "其他"
+    },
+    {
+      "entity": "10-30个",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "其他"
+    },
+    {
+      "entity": "常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "5-8枚",
+      "type": "用法用量"
+    },
+    {
+      "entity": "生食",
+      "type": "其他"
+    },
+    {
+      "entity": "日服2次",
+      "type": "其他"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "余甘子",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "属于属",
+      "tail": "叶下珠属"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "药用部位为",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "采收时间",
+      "tail": "冬季至次春"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有性味",
+      "tail": "甘酸涩"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "清热凉血"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "消食健脾"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "具有功能",
+      "tail": "生津止咳"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "血热血瘀"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "腹胀"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "消化不良"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "喉痛"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "主治疾病",
+      "tail": "口干"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "内服",
+      "tail": "丸剂"
+    },
+    {
+      "head": "脾胃处寒者",
+      "predicate": "不宜与",
+      "tail": "余甘子"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "咽喉痛"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "口干烦渴"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "维生素C缺乏症"
+    },
+    {
+      "head": "余甘子鲜果",
+      "predicate": "用法用量",
+      "tail": "10-30个"
+    },
+    {
+      "head": "感冒发热",
+      "predicate": "应用举例",
+      "tail": "常用中草药手册"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "应用举例",
+      "tail": "高血压"
+    },
+    {
+      "head": "高血压",
+      "predicate": "应用举例",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "余甘子鲜果",
+      "predicate": "用法用量",
+      "tail": "5-8枚"
+    }
+  ]
+}

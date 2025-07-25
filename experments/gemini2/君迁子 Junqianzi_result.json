@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "entity": "君迁子",
+      "type": "药材"
+    },
+    {
+      "entity": "柿树科",
+      "type": "科"
+    },
+    {
+      "entity": "柿属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "止渴",
+      "type": "功能"
+    },
+    {
+      "entity": "烦热",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾胃虚寒者",
+      "type": "人群"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "君迁子",
+      "predicate": "属于科",
+      "tail": "柿树科"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "属于属",
+      "tail": "柿属"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "具有功能",
+      "tail": "止渴"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "治疗",
+      "tail": "烦热"
+    },
+    {
+      "head": "君迁子",
+      "predicate": "治疗",
+      "tail": "消渴"
+    }
+  ]
+}

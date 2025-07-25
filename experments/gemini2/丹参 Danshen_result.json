@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "entity": "丹参",
+      "type": "药材"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "鼠尾草属",
+      "type": "属"
+    },
+    {
+      "entity": "根部",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血祛瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "养血安神",
+      "type": "功能"
+    },
+    {
+      "entity": "调经止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "妇女月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "症瘕积聚",
+      "type": "疾病"
+    },
+    {
+      "entity": "热痹肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "热入营血",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦躁不安",
+      "type": "疾病"
+    },
+    {
+      "entity": "心烦失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "郁金",
+      "type": "药材"
+    },
+    {
+      "entity": "益母草",
+      "type": "药材"
+    },
+    {
+      "entity": "香附",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丹参",
+      "predicate": "药用部位为",
+      "tail": "根部"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有功能",
+      "tail": "活血祛瘀"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有功能",
+      "tail": "养血安神"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有功能",
+      "tail": "调经止痛"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有功能",
+      "tail": "凉血"
+    },
+    {
+      "head": "丹参",
+      "predicate": "具有功能",
+      "tail": "消痈"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "妇女月经不调"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "经闭痛经"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "症瘕积聚"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "热痹肿痛"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "热入营血"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "烦躁不安"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "心烦失眠"
+    },
+    {
+      "head": "丹参",
+      "predicate": "与",
+      "tail": "郁金"
+    },
+    {
+      "head": "丹参",
+      "predicate": "与",
+      "tail": "益母草"
+    },
+    {
+      "head": "丹参",
+      "predicate": "与",
+      "tail": "香附"
+    }
+  ]
+}

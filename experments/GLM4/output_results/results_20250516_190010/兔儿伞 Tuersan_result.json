@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "entity": "兔儿伞",
+      "type": "中药名"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "兔儿伞属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒活血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢体疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "涂",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇禁服",
+      "type": "用法用量"
+    },
+    {
+      "entity": "贵州民间药物",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兔儿伞",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "属于属",
+      "tail": "兔儿伞属"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有功能",
+      "tail": "解毒活血"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "风湿麻木"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "肢体疼痛"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "月经不调"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "痛经"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "痈疽肿毒"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "主治疾病",
+      "tail": "痔疮"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法",
+      "tail": "涂"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "用法用量",
+      "tail": "孕妇禁服"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "记载于文献",
+      "tail": "贵州民间药物"
+    },
+    {
+      "head": "兔儿伞",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

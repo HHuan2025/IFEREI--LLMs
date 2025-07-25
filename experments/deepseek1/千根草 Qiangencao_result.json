@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "entity": "千根草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "大戟属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热祛湿",
+      "type": "功能"
+    },
+    {
+      "entity": "收敛止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "小飞羊草",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千根草",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "千根草",
+      "predicate": "属于属",
+      "tail": "大戟属"
+    },
+    {
+      "head": "千根草",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "千根草",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "千根草",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "千根草",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "千根草",
+      "predicate": "具有功能",
+      "tail": "清热祛湿"
+    },
+    {
+      "head": "千根草",
+      "predicate": "具有功能",
+      "tail": "收敛止痒"
+    },
+    {
+      "head": "千根草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "千根草",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "千根草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "千根草",
+      "predicate": "治疗",
+      "tail": "痈疮"
+    },
+    {
+      "head": "千根草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    }
+  ]
+}

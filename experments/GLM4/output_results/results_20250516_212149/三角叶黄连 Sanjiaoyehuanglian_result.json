@@ -1,0 +1,304 @@
+{
+  "entities": [
+    {
+      "entity": "三角叶黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "黄连属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄连",
+      "type": "中药名"
+    },
+    {
+      "entity": "10-11月间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "其他"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "燥湿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "热病邪入心经之高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "谵妄",
+      "type": "疾病"
+    },
+    {
+      "entity": "热盛迫血妄行之吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "黄连1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "每次0.3-0.6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "其他"
+    },
+    {
+      "entity": "散",
+      "type": "其他"
+    },
+    {
+      "entity": "外用适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "胃虚呕恶",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更肾泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "慎服",
+      "type": "其他"
+    },
+    {
+      "entity": "局方泻心汤",
+      "type": "其他"
+    },
+    {
+      "entity": "寒水石",
+      "type": "其他"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "黄柏",
+      "type": "中药名"
+    },
+    {
+      "entity": "栀子仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "龙门石窟方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于属",
+      "tail": "黄连属"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "包含中药",
+      "tail": "黄连"
+    },
+    {
+      "head": "10-11月间",
+      "predicate": "采收时间",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有毒性",
+      "tail": "无毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "燥湿解毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "热病邪入心经之高热"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "烦燥"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "谵妄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "热盛迫血妄行之吐衄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法用量",
+      "tail": "黄连1.5-3克"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "内服",
+      "tail": "研末"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法用量",
+      "tail": "每次0.3-0.6克"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "胃虚呕恶",
+      "predicate": "不宜与",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "脾虚泄泻",
+      "predicate": "不宜与",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "五更肾泻",
+      "predicate": "不宜与",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "黄连",
+      "predicate": "主治疾病",
+      "tail": "心经实热"
+    },
+    {
+      "head": "黄连",
+      "predicate": "主治疾病",
+      "tail": "伤寒发狂"
+    },
+    {
+      "head": "黄连",
+      "predicate": "主治疾病",
+      "tail": "赤白痢"
+    },
+    {
+      "head": "普济方",
+      "predicate": "包含中药",
+      "tail": "寒水石"
+    },
+    {
+      "head": "龙门石窟方",
+      "predicate": "包含中药",
+      "tail": "黄柏"
+    },
+    {
+      "head": "龙门石窟方",
+      "predicate": "包含中药",
+      "tail": "栀子仁"
+    }
+  ]
+}

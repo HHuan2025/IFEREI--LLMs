@@ -1,0 +1,441 @@
+{
+  "entities": [
+    {
+      "entity": "八角茴香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "八角属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温阳散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃寒呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "杏仁",
+      "type": "药材"
+    },
+    {
+      "entity": "葱白",
+      "type": "药材"
+    },
+    {
+      "entity": "舶上茴香",
+      "type": "药材"
+    },
+    {
+      "entity": "胡桃酒",
+      "type": "药材"
+    },
+    {
+      "entity": "白牵牛",
+      "type": "药材"
+    },
+    {
+      "entity": "糯米",
+      "type": "药材"
+    },
+    {
+      "entity": "小肠气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "膀胱偏坠尢气",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛如刺",
+      "type": "疾病"
+    },
+    {
+      "entity": "续本事方",
+      "type": "文献"
+    },
+    {
+      "entity": "朱氏集验方",
+      "type": "文献"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    },
+    {
+      "entity": "八角茴香",
+      "type": "药材"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "八角属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温阳散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃寒呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "秋、冬二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "沸水",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "直接干燥",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "3-6克",
+      "type": "功能"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "小肠气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "膀胱偏坠尢气",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛如刺",
+      "type": "疾病"
+    },
+    {
+      "entity": "续本事方",
+      "type": "文献"
+    },
+    {
+      "entity": "朱氏集验方",
+      "type": "文献"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角茴香",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于属",
+      "tail": "八角属"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "温阳散寒"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "胃寒呕吐"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "治疗",
+      "tail": "杏仁"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "治疗",
+      "tail": "葱白"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "治疗",
+      "tail": "舶上茴香"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "记载于文献",
+      "tail": "续本事方"
+    },
+    {
+      "head": "膀胱偏坠尢气",
+      "predicate": "治疗",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "膀胱偏坠尢气",
+      "predicate": "治疗",
+      "tail": "白牵牛"
+    },
+    {
+      "head": "膀胱偏坠尢气",
+      "predicate": "记载于文献",
+      "tail": "朱氏集验方"
+    },
+    {
+      "head": "腰痛如刺",
+      "predicate": "治疗",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "腰痛如刺",
+      "predicate": "治疗",
+      "tail": "糯米"
+    },
+    {
+      "head": "腰痛如刺",
+      "predicate": "记载于文献",
+      "tail": "简便单方"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "治疗",
+      "tail": "胡桃酒"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于属",
+      "tail": "八角属"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "温阳散寒"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "胃寒呕吐"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "采收时间",
+      "tail": "秋、冬二季"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "采收加工",
+      "tail": "沸水"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "采收加工",
+      "tail": "直接干燥"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "3-6克"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "小肠气痛",
+      "predicate": "应用实例",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "膀胱偏坠尢气",
+      "predicate": "应用实例",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "腰痛如刺",
+      "predicate": "应用实例",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "记载于文献",
+      "tail": "续本事方"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "记载于文献",
+      "tail": "朱氏集验方"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "记载于文献",
+      "tail": "简便单方"
+    }
+  ]
+}

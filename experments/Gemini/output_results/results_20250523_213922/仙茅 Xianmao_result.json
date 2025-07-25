@@ -1,0 +1,86 @@
+{
+  "entities": [
+    {
+      "entity": "仙茅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "石蒜科",
+      "type": "科"
+    },
+    {
+      "entity": "仙茅属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "耳鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "金樱子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "老年遗尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "定喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "白仙茅",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙茅",
+      "predicate": "属于科",
+      "tail": "石蒜科"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "属于属",
+      "tail": "仙茅属"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "耳鸣"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "老年遗尿"
+    },
+    {
+      "head": "白仙茅",
+      "predicate": "属于",
+      "tail": "仙茅"
+    },
+    {
+      "head": "白仙茅",
+      "predicate": "治疗",
+      "tail": "定喘"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "entity": "三叶木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木通科",
+      "type": "科"
+    },
+    {
+      "entity": "木通属",
+      "type": "属"
+    },
+    {
+      "entity": "木通",
+      "type": "药材"
+    },
+    {
+      "entity": "预知子",
+      "type": "药材"
+    },
+    {
+      "entity": "八月札",
+      "type": "药材"
+    },
+    {
+      "entity": "八月瓜",
+      "type": "药材"
+    },
+    {
+      "entity": "心经有热",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠小便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "胞转脐下胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "睪丸炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "中寒腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "睪丸肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "输尿管结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "干燥根藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "干燥近成熟果实",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三叶木通",
+      "predicate": "属于科",
+      "tail": "木通科"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "属于属",
+      "tail": "木通属"
+    },
+    {
+      "head": "木通",
+      "predicate": "药用部位",
+      "tail": "干燥根藤茎"
+    },
+    {
+      "head": "预知子",
+      "predicate": "药用部位",
+      "tail": "干燥近成熟果实"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "心经有热"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "小便不通"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "妊娠小便不通"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "胞转脐下胀痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "睪丸炎"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "中寒腹痛"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "疝痛"
+    },
+    {
+      "head": "八月瓜",
+      "predicate": "治疗",
+      "tail": "中寒腹痛"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "睪丸肿痛"
+    },
+    {
+      "head": "八月瓜",
+      "predicate": "治疗",
+      "tail": "睪丸肿痛"
+    },
+    {
+      "head": "八月札",
+      "predicate": "治疗",
+      "tail": "输尿管结石"
+    }
+  ]
+}

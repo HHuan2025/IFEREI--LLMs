@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "entity": "刺桐",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刺桐属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮或根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺桐皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "刺桐花",
+      "type": "中药名"
+    },
+    {
+      "entity": "刺桐叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "海桐皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "羚羊角屑",
+      "type": "中药名"
+    },
+    {
+      "entity": "薏苡仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "防风",
+      "type": "中药名"
+    },
+    {
+      "entity": "羌活",
+      "type": "中药名"
+    },
+    {
+      "entity": "筒桂",
+      "type": "中药名"
+    },
+    {
+      "entity": "赤茯苓",
+      "type": "中药名"
+    },
+    {
+      "entity": "熟地黄",
+      "type": "中药名"
+    },
+    {
+      "entity": "槟榔",
+      "type": "中药名"
+    },
+    {
+      "entity": "生姜",
+      "type": "中药名"
+    },
+    {
+      "entity": "风癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇床子",
+      "type": "中药名"
+    },
+    {
+      "entity": "腊猪脂",
+      "type": "其他"
+    },
+    {
+      "entity": "蛔虫症",
+      "type": "疾病"
+    },
+    {
+      "entity": "鹅不食草",
+      "type": "中药名"
+    },
+    {
+      "entity": "猪脚疳",
+      "type": "中药名"
+    },
+    {
+      "entity": "瘦肉",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺桐",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "属于属",
+      "tail": "刺桐属"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位",
+      "tail": "干皮或根皮"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "属于",
+      "tail": "刺桐"
+    },
+    {
+      "head": "刺桐花",
+      "predicate": "属于",
+      "tail": "刺桐"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "属于",
+      "tail": "刺桐"
+    },
+    {
+      "head": "海桐皮",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "羚羊角屑",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "薏苡仁",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "防风",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "羌活",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "筒桂",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "赤茯苓",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "熟地黄",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "槟榔",
+      "predicate": "治疗",
+      "tail": "风湿两腿肿满疼重"
+    },
+    {
+      "head": "海桐皮",
+      "predicate": "治疗",
+      "tail": "风癣"
+    },
+    {
+      "head": "蛇床子",
+      "predicate": "治疗",
+      "tail": "风癣"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "治疗",
+      "tail": "蛔虫症"
+    },
+    {
+      "head": "鹅不食草",
+      "predicate": "治疗",
+      "tail": "蛔虫症"
+    },
+    {
+      "head": "猪脚疳",
+      "predicate": "治疗",
+      "tail": "蛔虫症"
+    }
+  ]
+}

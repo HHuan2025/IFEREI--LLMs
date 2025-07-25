@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "entity": "五味子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "五味子属",
+      "type": "属"
+    },
+    {
+      "entity": "肺虚寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿暴嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "猪肺",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "五味子",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "五味子",
+      "predicate": "属于属",
+      "tail": "五味子属"
+    },
+    {
+      "head": "五味子",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "肺虚寒"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "痰嗽"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "喘"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "小儿暴嗽"
+    }
+  ]
+}

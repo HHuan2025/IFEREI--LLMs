@@ -1,0 +1,282 @@
+{
+  "entities": [
+    {
+      "entity": "千里光",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "千里光属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "明目退翳",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "上呼吸道感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肋腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "菌痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸型肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "胆湿癣炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性尿路感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛翳障",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疖毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "干湿癣疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "滴虫性阴道炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "烧烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "爵床",
+      "type": "药用植物"
+    },
+    {
+      "entity": "野菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "半边莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "犁头草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "路边菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "常用青草药选编",
+      "type": "文献"
+    },
+    {
+      "entity": "广西民间常用中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千里光",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "千里光",
+      "predicate": "属于属",
+      "tail": "千里光属"
+    },
+    {
+      "head": "千里光",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有功能",
+      "tail": "明目退翳"
+    },
+    {
+      "head": "千里光",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "肺炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "急性扁桃体炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "肋腺炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "急性肠炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "菌痢"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "黄疸型肝炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "胆湿癣炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "急性尿路感染"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "目赤肿痛翳障"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "痈肿疖毒"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "丹毒"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "干湿癣疮"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "滴虫性阴道炎"
+    },
+    {
+      "head": "千里光",
+      "predicate": "治疗",
+      "tail": "烧烫伤"
+    },
+    {
+      "head": "千里光",
+      "predicate": "记载于文献",
+      "tail": "常用青草药选编"
+    },
+    {
+      "head": "千里光",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用中草药手册"
+    }
+  ]
+}

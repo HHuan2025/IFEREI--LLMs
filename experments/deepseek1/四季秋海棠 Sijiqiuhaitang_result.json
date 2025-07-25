@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "entity": "四季秋海棠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "秋海棠科",
+      "type": "科"
+    },
+    {
+      "entity": "秋海棠属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "四季秋海棠",
+      "predicate": "属于科",
+      "tail": "秋海棠科"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "属于属",
+      "tail": "秋海棠属"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "四季海棠",
+      "predicate": "别名",
+      "tail": "四季秋海棠"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "四季秋海棠",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    }
+  ]
+}

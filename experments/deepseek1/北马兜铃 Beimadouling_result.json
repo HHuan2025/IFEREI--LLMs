@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "entity": "北马兜铃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "马兜铃属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺降气",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "清肠消痔",
+      "type": "功能"
+    },
+    {
+      "entity": "行气化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰中带血",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠热痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后血气腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "天仙藤",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北马兜铃",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "属于属",
+      "tail": "马兜铃属"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "北马兜铃",
+      "predicate": "药用部位为",
+      "tail": "地上部分"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肺降气"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清肠消痔"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "行气化湿"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "肺热喘咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "痰中带血"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "肠热痔血"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "痔疮肿痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "妊娠水肿"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "产后血气腹痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "风湿疼痛"
+    }
+  ]
+}

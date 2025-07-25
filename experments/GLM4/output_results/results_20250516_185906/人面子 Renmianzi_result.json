@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "entity": "人面子",
+      "type": "中药名"
+    },
+    {
+      "entity": "漆树科",
+      "type": "科"
+    },
+    {
+      "entity": "人面子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "生津",
+      "type": "功能"
+    },
+    {
+      "entity": "醒酒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒敛疮",
+      "type": "功能"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "醉酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风毒疮痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "烂疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "褥疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "岭南采药录",
+      "type": "文献"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "人面子",
+      "predicate": "属于科",
+      "tail": "漆树科"
+    },
+    {
+      "head": "人面子",
+      "predicate": "属于属",
+      "tail": "人面子属"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "人面子",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "生津"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "醒酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒消痈"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "解毒敛疮"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "食欲不振"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "热病口渴"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "醉酒"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "风毒疮痒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "主治疾病",
+      "tail": "乳痈"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "烂疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "褥疮"
+    },
+    {
+      "head": "果实",
+      "predicate": "记载于文献",
+      "tail": "岭南采药录"
+    },
+    {
+      "head": "叶",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    }
+  ]
+}

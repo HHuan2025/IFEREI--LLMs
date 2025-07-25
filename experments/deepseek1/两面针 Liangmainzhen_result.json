@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "entity": "两面针",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "花椒属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "成熟果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血化瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "外感风热吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "陈旧性跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "足底砧伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "两面针",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "两面针",
+      "predicate": "属于属",
+      "tail": "花椒属"
+    },
+    {
+      "head": "两面针",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "两面针",
+      "predicate": "药用部位为",
+      "tail": "成熟果皮"
+    },
+    {
+      "head": "两面针",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "两面针",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "具有功能",
+      "tail": "祛风化湿"
+    },
+    {
+      "head": "两面针",
+      "predicate": "具有功能",
+      "tail": "活血化瘀"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "外感风热吐泻"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "食积腹痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "陈旧性跌打肿痛"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "两面针",
+      "predicate": "治疗",
+      "tail": "足底砧伤"
+    }
+  ]
+}

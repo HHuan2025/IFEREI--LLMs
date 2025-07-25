@@ -1,0 +1,323 @@
+{
+  "entities": [
+    {
+      "entity": "土人参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马齿苋科",
+      "type": "科"
+    },
+    {
+      "entity": "土人参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "8-9月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "补气润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "调经",
+      "type": "功能"
+    },
+    {
+      "entity": "气虚劳倦",
+      "type": "疾病"
+    },
+    {
+      "entity": "食少",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "潮热",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "产妇乳汁不足",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "其他"
+    },
+    {
+      "entity": "劳倦乏力",
+      "type": "疾病"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "墨鱼",
+      "type": "其他"
+    },
+    {
+      "entity": "酒水炖服",
+      "type": "其他"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "大枣",
+      "type": "中药名"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "其他"
+    },
+    {
+      "entity": "土人参",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土人参",
+      "predicate": "属于科",
+      "tail": "马齿苋科"
+    },
+    {
+      "head": "土人参",
+      "predicate": "属于属",
+      "tail": "土人参属"
+    },
+    {
+      "head": "土人参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土人参",
+      "predicate": "采收时间",
+      "tail": "8-9月"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "补气润肺"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "调经"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "气虚劳倦"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "食少"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "泄泻"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "肺痨咳血"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "眩晕"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "潮热"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "盗汗"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "自汗"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "月经不调"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "带下"
+    },
+    {
+      "head": "土人参",
+      "predicate": "主治疾病",
+      "tail": "产妇乳汁不足"
+    },
+    {
+      "head": "内服",
+      "predicate": "包含中药",
+      "tail": "土人参"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "包含于",
+      "tail": "内服"
+    },
+    {
+      "head": "30-60克",
+      "predicate": "包含于",
+      "tail": "内服"
+    },
+    {
+      "head": "外用",
+      "predicate": "包含中药",
+      "tail": "土人参"
+    },
+    {
+      "head": "劳倦乏力",
+      "predicate": "应用举例",
+      "tail": "土人参"
+    },
+    {
+      "head": "15-30克",
+      "predicate": "包含于",
+      "tail": "劳倦乏力"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "记载于文献",
+      "tail": "劳倦乏力"
+    },
+    {
+      "head": "脾虚泄泻",
+      "predicate": "应用举例",
+      "tail": "土人参"
+    },
+    {
+      "head": "脾虚泄泻",
+      "predicate": "包含中药",
+      "tail": "大枣"
+    },
+    {
+      "head": "15-30克",
+      "predicate": "包含于",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "15克",
+      "predicate": "包含于",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "记载于文献",
+      "tail": "脾虚泄泻"
+    }
+  ]
+}

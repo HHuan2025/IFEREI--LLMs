@@ -1,0 +1,122 @@
+{
+  "entities": [
+    {
+      "entity": "中麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麻黄科",
+      "type": "科"
+    },
+    {
+      "entity": "麻黄属",
+      "type": "属"
+    },
+    {
+      "entity": "草质茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "麻黄",
+      "type": "中药名"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "麻黄根",
+      "type": "中药名"
+    },
+    {
+      "entity": "头痛发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "身疼腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶风无汗而喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳盗汗不止",
+      "type": "疾病"
+    },
+    {
+      "entity": "牡蛎",
+      "type": "中药名"
+    },
+    {
+      "entity": "黄芪",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中麻黄",
+      "predicate": "属于科",
+      "tail": "麻黄科"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "属于属",
+      "tail": "麻黄属"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位",
+      "tail": "草质茎"
+    },
+    {
+      "head": "草质茎",
+      "predicate": "中药名",
+      "tail": "麻黄"
+    },
+    {
+      "head": "中麻黄",
+      "predicate": "药用部位",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "中药名",
+      "tail": "麻黄根"
+    },
+    {
+      "head": "麻黄",
+      "predicate": "治疗",
+      "tail": "头痛发热"
+    },
+    {
+      "head": "麻黄",
+      "predicate": "治疗",
+      "tail": "身疼腰痛"
+    },
+    {
+      "head": "麻黄",
+      "predicate": "治疗",
+      "tail": "骨节疼痛"
+    },
+    {
+      "head": "麻黄",
+      "predicate": "治疗",
+      "tail": "恶风无汗而喘"
+    },
+    {
+      "head": "麻黄根",
+      "predicate": "治疗",
+      "tail": "虚劳盗汗不止"
+    },
+    {
+      "head": "麻黄根",
+      "predicate": "中药名",
+      "tail": "麻黄根"
+    }
+  ]
+}

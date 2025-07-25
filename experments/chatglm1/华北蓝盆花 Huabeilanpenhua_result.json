@@ -1,0 +1,190 @@
+{
+  "entities": [
+    {
+      "entity": "华北蓝盆花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "川续断科",
+      "type": "科"
+    },
+    {
+      "entity": "蓝盆花属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "肺热",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿疼",
+      "type": "疾病"
+    },
+    {
+      "entity": "煮散剂",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "红花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "石膏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "地格达",
+      "type": "药用植物"
+    },
+    {
+      "entity": "诃子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "七味红花散",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于科",
+      "tail": "川续断科"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "属于属",
+      "tail": "蓝盆花属"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "治疗",
+      "tail": "肺热"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "治疗",
+      "tail": "肝热"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "治疗",
+      "tail": "咽喉肿疼"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "用法",
+      "tail": "煮散剂"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "华北蓝盆花",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "华北蓝盆花"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "红花"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "麻黄"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "石膏"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "木通"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "地格达"
+    },
+    {
+      "head": "七味红花散",
+      "predicate": "药材",
+      "tail": "诃子"
+    }
+  ]
+}

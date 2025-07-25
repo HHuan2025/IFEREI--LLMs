@@ -1,0 +1,202 @@
+{
+  "entities": [
+    {
+      "entity": "乌毛蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "乌毛蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "乌毛蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "血崩",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠道寄生虫",
+      "type": "疾病"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "乙脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "板蓝根",
+      "type": "药材"
+    },
+    {
+      "entity": "大青叶",
+      "type": "药材"
+    },
+    {
+      "entity": "中国药用孢子植物",
+      "type": "文献"
+    },
+    {
+      "entity": "海金沙藤",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "根茎",
+      "predicate": "药用部位为",
+      "tail": "乌毛蕨"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "别名",
+      "tail": "乌毛蕨贯众"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有功能",
+      "tail": "活血止血"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "感冒头痛"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "鼻衄"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "血崩"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "肠道寄生虫"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "与",
+      "tail": "板蓝根"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "与",
+      "tail": "大青叶"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "与",
+      "tail": "海金沙藤"
+    }
+  ]
+}

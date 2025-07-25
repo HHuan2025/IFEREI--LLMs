@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "entity": "亚麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "亚麻科",
+      "type": "科"
+    },
+    {
+      "entity": "亚麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "亚麻子",
+      "type": "药材"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "香附",
+      "type": "药材"
+    },
+    {
+      "entity": "细辛",
+      "type": "药材"
+    },
+    {
+      "entity": "刀伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "亚麻叶",
+      "type": "药材"
+    },
+    {
+      "entity": "冰片",
+      "type": "药材"
+    },
+    {
+      "entity": "脂溢性脱发",
+      "type": "疾病"
+    },
+    {
+      "entity": "亚麻仁",
+      "type": "药材"
+    },
+    {
+      "entity": "柳枝",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "亚麻",
+      "predicate": "属于科",
+      "tail": "亚麻科"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "属于属",
+      "tail": "亚麻属"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "治疗",
+      "tail": "刀伤"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "治疗",
+      "tail": "出血"
+    },
+    {
+      "head": "亚麻",
+      "predicate": "治疗",
+      "tail": "脂溢性脱发"
+    }
+  ]
+}

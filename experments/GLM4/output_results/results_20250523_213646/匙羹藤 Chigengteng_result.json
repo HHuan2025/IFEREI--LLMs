@@ -1,0 +1,108 @@
+{
+  "entities": [
+    {
+      "entity": "匙羹藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "萝藦科",
+      "type": "科"
+    },
+    {
+      "entity": "匙羹藤属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "嫩枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "武靴藤",
+      "type": "药材"
+    },
+    {
+      "entity": "痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "疽",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔",
+      "type": "疾病"
+    },
+    {
+      "entity": "银花",
+      "type": "药材"
+    },
+    {
+      "entity": "无名肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "土茯苓",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "匙羹藤",
+      "predicate": "属于科",
+      "tail": "萝藦科"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "属于属",
+      "tail": "匙羹藤属"
+    },
+    {
+      "head": "根",
+      "predicate": "药用部位",
+      "tail": "匙羹藤"
+    },
+    {
+      "head": "嫩枝叶",
+      "predicate": "药用部位",
+      "tail": "匙羹藤"
+    },
+    {
+      "head": "武靴藤",
+      "predicate": "药材",
+      "tail": "匙羹藤"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "痈"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "疽"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "疔"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "无名肿毒"
+    },
+    {
+      "head": "匙羹藤",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    }
+  ]
+}

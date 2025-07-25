@@ -1,0 +1,269 @@
+{
+  "entities": [
+    {
+      "entity": "华重楼",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "重楼",
+      "type": "中药名"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "具有毒性"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "凉肝定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风抽搐",
+      "type": "疾病"
+    },
+    {
+      "entity": "蚤休",
+      "type": "中药名"
+    },
+    {
+      "entity": "五钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鸡肉",
+      "type": "其他"
+    },
+    {
+      "entity": "猪肺",
+      "type": "其他"
+    },
+    {
+      "entity": "煲服",
+      "type": "用法"
+    },
+    {
+      "entity": "广西民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "七叶一枝花根",
+      "type": "中药名"
+    },
+    {
+      "entity": "二钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末开水送服",
+      "type": "用法"
+    },
+    {
+      "entity": "每日二至三次",
+      "type": "用法"
+    },
+    {
+      "entity": "七叶一枝花鲜根",
+      "type": "中药名"
+    },
+    {
+      "entity": "捣烂",
+      "type": "用法"
+    },
+    {
+      "entity": "甜酒酿",
+      "type": "其他"
+    },
+    {
+      "entity": "敷患处",
+      "type": "外用"
+    },
+    {
+      "entity": "浙江民间常用草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华重楼",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "重楼",
+      "predicate": "包含于",
+      "tail": "华重楼"
+    },
+    {
+      "head": "秋季",
+      "predicate": "采收时间",
+      "tail": "华重楼"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "凉肝定惊"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "主治疾病",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "主治疾病",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "主治疾病",
+      "tail": "跌扑伤痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "主治疾病",
+      "tail": "惊风抽搐"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "包含中药",
+      "tail": "应用举例"
+    },
+    {
+      "head": "五钱",
+      "predicate": "用法用量",
+      "tail": "蚤休"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "用法",
+      "tail": "煲服"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用草药"
+    },
+    {
+      "head": "七叶一枝花根",
+      "predicate": "包含中药",
+      "tail": "应用举例"
+    },
+    {
+      "head": "二钱",
+      "predicate": "用法用量",
+      "tail": "七叶一枝花根"
+    },
+    {
+      "head": "七叶一枝花根",
+      "predicate": "用法",
+      "tail": "研末开水送服"
+    },
+    {
+      "head": "七叶一枝花鲜根",
+      "predicate": "包含中药",
+      "tail": "应用举例"
+    },
+    {
+      "head": "七叶一枝花鲜根",
+      "predicate": "用法",
+      "tail": "捣烂"
+    },
+    {
+      "head": "七叶一枝花鲜根",
+      "predicate": "外用",
+      "tail": "敷患处"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    }
+  ]
+}

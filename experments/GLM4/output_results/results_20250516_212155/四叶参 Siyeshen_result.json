@@ -1,0 +1,336 @@
+{
+  "entities": [
+    {
+      "entity": "四叶参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "党参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "山海螺",
+      "type": "中药名"
+    },
+    {
+      "entity": "7-8月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "益气养阴",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "排脓",
+      "type": "功能"
+    },
+    {
+      "entity": "通乳",
+      "type": "功能"
+    },
+    {
+      "entity": "神疲乏力",
+      "type": "疾病"
+    },
+    {
+      "entity": "头晕头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉蛾",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后乳少",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "45-120克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品适量，捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "外感初起，无汗者",
+      "type": "其他"
+    },
+    {
+      "entity": "藜芦",
+      "type": "中药名"
+    },
+    {
+      "entity": "病后气血虚弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "熟地",
+      "type": "中药名"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "咳嗽吐痰",
+      "type": "疾病"
+    },
+    {
+      "entity": "桔梗",
+      "type": "中药名"
+    },
+    {
+      "entity": "木贼草",
+      "type": "中药名"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "洗净，鲜用或切片晒干",
+      "type": "采收加工"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "四叶参",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "属于属",
+      "tail": "党参属"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "山海螺",
+      "predicate": "包含于",
+      "tail": "四叶参"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "采收时间",
+      "tail": "7-8月"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有功能",
+      "tail": "益气养阴"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有功能",
+      "tail": "排脓"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "具有功能",
+      "tail": "通乳"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "神疲乏力"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "头晕头痛"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "肺痈"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "乳痈"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "疮疖肿毒"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "喉蛾"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "产后乳少"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "白带"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "15-60克"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "45-120克"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法",
+      "tail": "鲜品适量，捣敷"
+    },
+    {
+      "head": "外感初起，无汗者",
+      "predicate": "不宜与",
+      "tail": "藜芦"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "病后气血虚弱"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "主治疾病",
+      "tail": "咳嗽吐痰"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "四叶参",
+      "predicate": "采收加工",
+      "tail": "洗净，鲜用或切片晒干"
+    }
+  ]
+}

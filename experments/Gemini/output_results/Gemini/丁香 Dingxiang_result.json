@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "entity": "丁香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桃金娘科",
+      "type": "科"
+    },
+    {
+      "entity": "番樱桃属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "母丁香",
+      "type": "中药名"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "伤寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳噫",
+      "type": "疾病"
+    },
+    {
+      "entity": "哕逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "干柿蒂",
+      "type": "其他"
+    },
+    {
+      "entity": "人参汤",
+      "type": "其他"
+    },
+    {
+      "entity": "小儿吐逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "半夏",
+      "type": "其他"
+    },
+    {
+      "entity": "姜汁",
+      "type": "其他"
+    },
+    {
+      "entity": "朝食暮吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘蔗汁",
+      "type": "其他"
+    },
+    {
+      "entity": "莲子",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丁香",
+      "predicate": "属于科",
+      "tail": "桃金娘科"
+    },
+    {
+      "head": "丁香",
+      "predicate": "属于属",
+      "tail": "番樱桃属"
+    },
+    {
+      "head": "丁香",
+      "predicate": "药用部位",
+      "tail": "花蕾"
+    },
+    {
+      "head": "丁香",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "伤寒"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "咳噫"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "哕逆"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "小儿吐逆"
+    },
+    {
+      "head": "丁香",
+      "predicate": "治疗",
+      "tail": "朝食暮吐"
+    }
+  ]
+}

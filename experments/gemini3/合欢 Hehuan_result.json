@@ -1,0 +1,478 @@
+{
+  "entities": [
+    {
+      "entity": "合欢",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "合欢属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "合欢皮",
+      "type": "器官"
+    },
+    {
+      "entity": "合欢花",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏季花初开时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "安神解郁",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消痈",
+      "type": "功能"
+    },
+    {
+      "entity": "解郁安神",
+      "type": "功能"
+    },
+    {
+      "entity": "理气开胃",
+      "type": "功能"
+    },
+    {
+      "entity": "消风明目",
+      "type": "疾病"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "心神不安",
+      "type": "疾病"
+    },
+    {
+      "entity": "忧郁",
+      "type": "化学物质"
+    },
+    {
+      "entity": "不眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "内外痈疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "忧郁失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸闷纳呆",
+      "type": "疾病"
+    },
+    {
+      "entity": "风火眼疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "视物不清",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "10-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "风热自汗",
+      "type": "其他"
+    },
+    {
+      "entity": "外感不眠者",
+      "type": "其他"
+    },
+    {
+      "entity": "孕妇",
+      "type": "其他"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "夜交藤",
+      "type": "药材"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "扁豆花",
+      "type": "药材"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "药材"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "疾病"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "6克",
+      "type": "用法用量"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "合欢",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "合欢",
+      "predicate": "属于属",
+      "tail": "合欢属"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "合欢",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "合欢皮",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "合欢花",
+      "predicate": "治疗",
+      "tail": "花或花蕾"
+    },
+    {
+      "head": "树皮",
+      "predicate": "采收时间",
+      "tail": "夏、秋间"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "采收时间",
+      "tail": "伪尾实体778"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "安神解郁"
+    },
+    {
+      "head": "树皮",
+      "predicate": "相关基因",
+      "tail": "活血消痈"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "解郁安神"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有功能",
+      "tail": "理气开胃"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有功能",
+      "tail": "消风明目"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "伪尾实体855"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "忧郁"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "不眠"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "内外痈疡"
+    },
+    {
+      "head": "树皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "忧郁失眠"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "伪尾实体886"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "风火眼疾"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "视物不清"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "治疗",
+      "tail": "跌打伤痛"
+    },
+    {
+      "head": "树皮",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "树皮",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "树皮",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法用量",
+      "tail": "10-15克"
+    },
+    {
+      "head": "树皮",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "树皮",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "位于",
+      "tail": "散"
+    },
+    {
+      "head": "花或花蕾",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "风热自汗",
+      "predicate": "不宜与",
+      "tail": "树皮"
+    },
+    {
+      "head": "外感不眠者",
+      "predicate": "不宜与",
+      "tail": "树皮"
+    },
+    {
+      "head": "孕妇",
+      "predicate": "不宜与",
+      "tail": "树皮"
+    },
+    {
+      "head": "心烦失眠",
+      "predicate": "应用举例",
+      "tail": "合欢皮"
+    },
+    {
+      "head": "心烦失眠",
+      "predicate": "应用举例",
+      "tail": "夜交藤"
+    },
+    {
+      "head": "合欢皮",
+      "predicate": "用法用量",
+      "tail": "伪尾实体268"
+    },
+    {
+      "head": "夜交藤",
+      "predicate": "用法用量",
+      "tail": "15克"
+    },
+    {
+      "head": "心烦失眠",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    },
+    {
+      "head": "湿浊中阻，食欲不振",
+      "predicate": "应用举例",
+      "tail": "合欢花"
+    },
+    {
+      "head": "湿浊中阻，食欲不振",
+      "predicate": "应用举例",
+      "tail": "扁豆花"
+    },
+    {
+      "head": "湿浊中阻，食欲不振",
+      "predicate": "应用举例",
+      "tail": "厚朴花"
+    },
+    {
+      "head": "合欢花",
+      "predicate": "用法用量",
+      "tail": "6克"
+    },
+    {
+      "head": "扁豆花",
+      "predicate": "用法用量",
+      "tail": "6克"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "用法用量",
+      "tail": "6克"
+    },
+    {
+      "head": "湿浊中阻，食欲不振",
+      "predicate": "记载于文献",
+      "tail": "伪尾实体628"
+    }
+  ]
+}

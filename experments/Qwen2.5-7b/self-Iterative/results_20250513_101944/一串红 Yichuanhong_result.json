@@ -1,0 +1,25 @@
+{
+  "entities": [
+    {
+      "entity": "一串红",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一串红",
+      "predicate": "主治症状",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "一串红",
+      "predicate": "主治症状",
+      "tail": "跌打、脱臼肿痛"
+    },
+    {
+      "head": "一串红",
+      "predicate": "主治症状",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

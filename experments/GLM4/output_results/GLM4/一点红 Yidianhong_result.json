@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "entity": "一点红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "一点红属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "慢性胃肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "桂皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "灯心草",
+      "type": "中药名"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘀血肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "酢浆草",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一点红",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "一点红",
+      "predicate": "属于属",
+      "tail": "一点红属"
+    },
+    {
+      "head": "一点红",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "慢性胃肠炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "一点红",
+      "predicate": "治疗",
+      "tail": "瘀血肿痛"
+    }
+  ]
+}

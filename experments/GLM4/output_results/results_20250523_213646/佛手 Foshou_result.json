@@ -1,0 +1,102 @@
+{
+  "entities": [
+    {
+      "entity": "佛手",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "痰气咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "陈佛手",
+      "type": "药材"
+    },
+    {
+      "entity": "夏日伤暑",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿浊中阻",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃纳不佳",
+      "type": "疾病"
+    },
+    {
+      "entity": "佛手花",
+      "type": "药材"
+    },
+    {
+      "entity": "扁豆花",
+      "type": "药材"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "药材"
+    },
+    {
+      "entity": "石菖蒲",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛手",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "佛手",
+      "predicate": "属于属",
+      "tail": "柑橘属"
+    },
+    {
+      "head": "佛手",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "佛手",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "陈佛手",
+      "predicate": "治疗",
+      "tail": "痰气咳嗽"
+    },
+    {
+      "head": "佛手花",
+      "predicate": "治疗",
+      "tail": "夏日伤暑"
+    },
+    {
+      "head": "佛手花",
+      "predicate": "治疗",
+      "tail": "湿浊中阻"
+    },
+    {
+      "head": "佛手花",
+      "predicate": "治疗",
+      "tail": "胃纳不佳"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "entity": "华山姜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "姜科",
+      "type": "科"
+    },
+    {
+      "entity": "山姜属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温中消食",
+      "type": "功能"
+    },
+    {
+      "entity": "散寒止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "活血",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "胃寒冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "噎嗝吐逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风寒咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "山姜",
+      "type": "药材"
+    },
+    {
+      "entity": "石南藤",
+      "type": "药材"
+    },
+    {
+      "entity": "香樟根",
+      "type": "药材"
+    },
+    {
+      "entity": "红禾麻",
+      "type": "药材"
+    },
+    {
+      "entity": "胃气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "贵州草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华山姜",
+      "predicate": "属于科",
+      "tail": "姜科"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "属于属",
+      "tail": "山姜属"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "廉姜",
+      "predicate": "别名",
+      "tail": "华山姜"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有功能",
+      "tail": "温中消食"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有功能",
+      "tail": "散寒止痛"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "具有功能",
+      "tail": "止咳平喘"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "胃寒冷痛"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "噎嗝吐逆"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "腹痛泄泻"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "风湿关节冷痛"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华山姜",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "胃气痛",
+      "predicate": "药方",
+      "tail": "山姜"
+    },
+    {
+      "head": "风湿关节冷痛",
+      "predicate": "药方",
+      "tail": "山姜"
+    },
+    {
+      "head": "风湿关节冷痛",
+      "predicate": "药方",
+      "tail": "石南藤"
+    },
+    {
+      "head": "风湿关节冷痛",
+      "predicate": "药方",
+      "tail": "香樟根"
+    },
+    {
+      "head": "风湿关节冷痛",
+      "predicate": "药方",
+      "tail": "红禾麻"
+    },
+    {
+      "head": "山姜",
+      "predicate": "记载于文献",
+      "tail": "贵州草药"
+    }
+  ]
+}

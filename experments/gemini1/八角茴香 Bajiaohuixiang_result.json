@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "entity": "八角茴香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "八角属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温阳散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "寒疝腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃寒呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "杏仁",
+      "type": "药材"
+    },
+    {
+      "entity": "葱白",
+      "type": "药材"
+    },
+    {
+      "entity": "舶上茴香",
+      "type": "药材"
+    },
+    {
+      "entity": "小肠气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胡桃酒",
+      "type": "剂型"
+    },
+    {
+      "entity": "膀胱偏坠尢气",
+      "type": "疾病"
+    },
+    {
+      "entity": "白牵牛",
+      "type": "药材"
+    },
+    {
+      "entity": "腰痛如刺",
+      "type": "疾病"
+    },
+    {
+      "entity": "糯米",
+      "type": "药材"
+    },
+    {
+      "entity": "盐汤",
+      "type": "剂型"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角茴香",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于属",
+      "tail": "八角属"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "温阳散寒"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "具有功能",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "寒疝腹痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "胃寒呕吐"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "脘腹冷痛"
+    },
+    {
+      "head": "杏仁",
+      "predicate": "治疗",
+      "tail": "小肠气痛"
+    },
+    {
+      "head": "葱白",
+      "predicate": "治疗",
+      "tail": "小肠气痛"
+    },
+    {
+      "head": "舶上茴香",
+      "predicate": "治疗",
+      "tail": "小肠气痛"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "膀胱偏坠尢气"
+    },
+    {
+      "head": "白牵牛",
+      "predicate": "治疗",
+      "tail": "膀胱偏坠尢气"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "腰痛如刺"
+    }
+  ]
+}

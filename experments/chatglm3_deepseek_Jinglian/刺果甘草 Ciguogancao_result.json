@@ -1,0 +1,846 @@
+{
+  "entities": [
+    {
+      "entity": "刺果甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "药材"
+    },
+    {
+      "entity": "秋冬果熟后采集，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "全年可采",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "乳汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴道滴虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "河南中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "秦岭巴山天然药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "刺果甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "功能"
+    },
+    {
+      "entity": "温",
+      "type": "功能"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "乳汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴道滴虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "百口咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "河南中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "秦岭巴山天然药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "刺果甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "功能"
+    },
+    {
+      "entity": "温",
+      "type": "功能"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "乳汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴道滴虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "百口咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "河南中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "秦岭巴山天然药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "刺果甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "药材"
+    },
+    {
+      "entity": "秋冬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "甘杀虫止痒",
+      "type": "性味"
+    },
+    {
+      "entity": "镇咳",
+      "type": "功能"
+    },
+    {
+      "entity": "乳汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴道滴虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "百口咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "6-9克",
+      "type": "用法"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水熏洗",
+      "type": "功能"
+    },
+    {
+      "entity": "奶汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺果甘草果序",
+      "type": "应用实例"
+    },
+    {
+      "entity": "皂刺",
+      "type": "应用实例"
+    },
+    {
+      "entity": "河南中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺果甘草根",
+      "type": "应用实例"
+    },
+    {
+      "entity": "秦岭巴山天然药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "中药名",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "中药名",
+      "tail": "狗甘草根"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "采收加工",
+      "tail": "秋冬果熟后采集，晒干"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "采收加工",
+      "tail": "全年可采"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "治疗",
+      "tail": "乳汁缺少"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "治疗",
+      "tail": "阴道滴虫病"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "用法",
+      "tail": "内服:煎汤，6-9克"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "用法",
+      "tail": "内服:煎汤，9-15克"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "用法",
+      "tail": "外用:适量，煎水熏洗"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "河南中草药手册"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "秦岭巴山天然药物志"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "狗甘草根"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "乳汁缺少"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "阴道滴虫病"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "百口咳"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "河南中草药手册"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "秦岭巴山天然药物志"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "狗甘草根"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "乳汁缺少"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "阴道滴虫病"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "百口咳"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "河南中草药手册"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "记载于文献",
+      "tail": "秦岭巴山天然药物志"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "狗甘草根"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收时间",
+      "tail": "秋冬"
+    },
+    {
+      "head": "果实",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘杀虫止痒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "镇咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "乳汁缺少"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "阴道滴虫病"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "百口咳"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "6-9克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "9-15克"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "煎水熏洗"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "奶汁缺少"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "刺果甘草果序"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "皂刺"
+    },
+    {
+      "head": "果实",
+      "predicate": "记载于文献",
+      "tail": "河南中草药手册"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "刺果甘草根"
+    },
+    {
+      "head": "根",
+      "predicate": "记载于文献",
+      "tail": "秦岭巴山天然药物志"
+    }
+  ]
+}

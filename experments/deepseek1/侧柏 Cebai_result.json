@@ -1,0 +1,234 @@
+{
+  "entities": [
+    {
+      "entity": "柏科",
+      "type": "科"
+    },
+    {
+      "entity": "侧柏属",
+      "type": "属"
+    },
+    {
+      "entity": "侧柏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "成熟种仁",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝梢",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "柏子仁",
+      "type": "药用植物"
+    },
+    {
+      "entity": "侧柏叶",
+      "type": "药用植物"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "苦涩",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "养心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "止汗",
+      "type": "功能"
+    },
+    {
+      "entity": "润肠",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "生发乌发",
+      "type": "功能"
+    },
+    {
+      "entity": "虚烦失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸怔忡",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "血热脱发",
+      "type": "疾病"
+    },
+    {
+      "entity": "须发早白",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "侧柏",
+      "predicate": "属于科",
+      "tail": "柏科"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "属于属",
+      "tail": "侧柏属"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位为",
+      "tail": "成熟种仁"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位为",
+      "tail": "枝梢"
+    },
+    {
+      "head": "侧柏",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "具有功能",
+      "tail": "养心安神"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "具有功能",
+      "tail": "止汗"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "具有功能",
+      "tail": "润肠"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "具有性味",
+      "tail": "苦涩"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "具有功能",
+      "tail": "生发乌发"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "治疗",
+      "tail": "虚烦失眠"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "治疗",
+      "tail": "心悸怔忡"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "治疗",
+      "tail": "阴虚盗汗"
+    },
+    {
+      "head": "柏子仁",
+      "predicate": "治疗",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "吐血衄血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "崩漏下血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "血热脱发"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "须发早白"
+    }
+  ]
+}

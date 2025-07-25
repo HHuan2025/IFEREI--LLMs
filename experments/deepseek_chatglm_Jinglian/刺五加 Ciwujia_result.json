@@ -1,0 +1,413 @@
+{
+  "entities": [
+    {
+      "entity": "刺五加",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "五加属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎或茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺五加",
+      "type": "药材"
+    },
+    {
+      "entity": "春、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "去泥土，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘、微苦，温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气健脾，补肾安神",
+      "type": "功能"
+    },
+    {
+      "entity": "肾虚体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾肾阳虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "体倦乏力",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿行迟",
+      "type": "疾病"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "甘肃中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "刺五加",
+      "type": "药材"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "五加属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "益气健脾",
+      "type": "功能"
+    },
+    {
+      "entity": "补肾安神",
+      "type": "功能"
+    },
+    {
+      "entity": "肾虚体弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾肾阳虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "体倦乏力",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿行迟",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "6-15克",
+      "type": "用量"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "泡酒",
+      "type": "用法"
+    },
+    {
+      "entity": "小儿筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "行走较迟",
+      "type": "疾病"
+    },
+    {
+      "entity": "茜草",
+      "type": "药材"
+    },
+    {
+      "entity": "木瓜",
+      "type": "药材"
+    },
+    {
+      "entity": "牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺五加",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "属于属",
+      "tail": "五加属"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位为",
+      "tail": "根及根茎或茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "采收时间",
+      "tail": "春、秋季"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "采收加工",
+      "tail": "去泥土，晒干"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有性味",
+      "tail": "甘、微苦，温"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有功能",
+      "tail": "益气健脾，补肾安神"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "肾虚体弱"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "脾肾阳虚"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "体倦乏力"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "小儿行迟"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "用法",
+      "tail": "内服:煎汤6-15克，或入丸、散或泡酒"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "记载于文献",
+      "tail": "宁夏中草药手册"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "记载于文献",
+      "tail": "甘肃中草药手册"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "属于属",
+      "tail": "五加属"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "采收时间",
+      "tail": "春"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有功能",
+      "tail": "益气健脾"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "具有功能",
+      "tail": "补肾安神"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "肾虚体弱"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "脾肾阳虚"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "体倦乏力"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "小儿行迟"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "煎汤6-15克"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "入丸"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "散"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "泡酒"
+    },
+    {
+      "head": "治小儿筋骨痿软",
+      "predicate": "应用实例",
+      "tail": "刺五加9克，茜草、木瓜、牛膝各6克"
+    },
+    {
+      "head": "治小儿筋骨痿软",
+      "predicate": "应用实例",
+      "tail": "水煎服"
+    },
+    {
+      "head": "治风湿疼痛",
+      "predicate": "应用实例",
+      "tail": "刺五加15克"
+    },
+    {
+      "head": "治风湿疼痛",
+      "predicate": "应用实例",
+      "tail": "水煎服"
+    },
+    {
+      "head": "治风湿疼痛",
+      "predicate": "应用实例",
+      "tail": "加黄酒泡服"
+    }
+  ]
+}

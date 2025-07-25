@@ -1,0 +1,561 @@
+{
+  "entities": [
+    {
+      "entity": "半边莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "半边莲属",
+      "type": "疾病"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "茎叶茂盛时采挖，洗净，晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "大腹水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "面足浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "晚期血吸虫病腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣汁",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "功能"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁调涂",
+      "type": "用法"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "毒蛇伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鸡冠花蕊",
+      "type": "疾病"
+    },
+    {
+      "entity": "30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "米酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性中耳炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "半边莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "半边莲属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "大腹水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "面足浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "晚期血吸虫病腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "鸡冠花蕊",
+      "type": "药材"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性中耳炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "半边莲",
+      "type": "药材"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "半边莲属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏、秋二季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "茎叶茂盛时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "大腹水肿",
+      "type": "功能"
+    },
+    {
+      "entity": "面足浮肿",
+      "type": "功能"
+    },
+    {
+      "entity": "痈肿疔疮",
+      "type": "功能"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "功能"
+    },
+    {
+      "entity": "晚期血吸虫病腹水",
+      "type": "功能"
+    },
+    {
+      "entity": "治毒蛇伤",
+      "type": "应用实例"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "治毒蛇伤",
+      "type": "应用实例"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "治急性中耳炎",
+      "type": "应用实例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "半边莲",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于属",
+      "tail": "半边莲属"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "全草"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "采收时间",
+      "tail": "夏、秋二季"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "茎叶茂盛时采挖，洗净，晒干"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "大腹水肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "面足浮肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "晚期血吸虫病腹水"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "内服"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "剂型",
+      "tail": "捣汁"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "伪尾实体551"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法",
+      "tail": "捣汁调涂"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "本草纲目"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "毒蛇伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "岭南草药志"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "急性中耳炎"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于属",
+      "tail": "半边莲属"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "大腹水肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "面足浮肿"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "痈肿疔疮"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "晚期血吸虫病腹水"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "毒蛇伤"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "本草纲目"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "鸡冠花蕊"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "记载于文献",
+      "tail": "岭南草药志"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "急性中耳炎"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "属于属",
+      "tail": "半边莲属"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "药用部位为",
+      "tail": "干燥全草"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "采收时间",
+      "tail": "夏、秋二季茎叶茂盛时"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "采收加工",
+      "tail": "洗净，晒干"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有性味",
+      "tail": "辛，平"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "具有功能",
+      "tail": "利尿消肿，清热解毒"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "治疗",
+      "tail": "大腹水肿，面足浮肿，痈肿疔疮，蛇虫咬伤；晚期血吸虫病腹水"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "用法",
+      "tail": "煎汤，15-30克，或捣汁。外用:适量，捣敷，或捣汁调涂"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "应用实例",
+      "tail": "治毒蛇伤:半边莲捣汁饮，以滓围涂之。(本草纲目)"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "应用实例",
+      "tail": "治毒蛇伤:半边莲15克，鸡冠花蕊30克。用米酒适量捣烂过滤将药汁内服:药渣外敷伤口。(岭南草药志)"
+    },
+    {
+      "head": "半边莲",
+      "predicate": "应用实例",
+      "tail": "治急性中耳炎:半边莲擂烂绞汁，和酒少许滴耳。(岭南草药志)"
+    }
+  ]
+}

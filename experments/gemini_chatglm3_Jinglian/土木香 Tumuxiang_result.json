@@ -1,0 +1,660 @@
+{
+  "entities": [
+    {
+      "entity": "土木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "旋覆花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "霜降后",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "疾病"
+    },
+    {
+      "entity": "健脾和胃",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "胃脘、胸腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚内热",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-9克",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "元胡",
+      "type": "药材"
+    },
+    {
+      "entity": "山西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "腹泻肠鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "雄黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "疾病"
+    },
+    {
+      "entity": "细菌性痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连",
+      "type": "疾病"
+    },
+    {
+      "entity": "祈木香",
+      "type": "药材"
+    },
+    {
+      "entity": "土木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "旋覆花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾和胃",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "胃脘",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "元胡",
+      "type": "药材"
+    },
+    {
+      "entity": "腹泻肠鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "雄黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "细菌性痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "山西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "土木香",
+      "type": "药材"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "旋覆花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "健脾和胃",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "胃脘",
+      "type": "功能"
+    },
+    {
+      "entity": "胸腹胀痛",
+      "type": "功能"
+    },
+    {
+      "entity": "呕吐腹泻",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "功能"
+    },
+    {
+      "entity": "食积",
+      "type": "功能"
+    },
+    {
+      "entity": "虫积",
+      "type": "功能"
+    },
+    {
+      "entity": "血虚内热",
+      "type": "疾病"
+    },
+    {
+      "entity": "山西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "祈木香",
+      "type": "药材"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "土木香",
+      "predicate": "属于属",
+      "tail": "旋覆花属"
+    },
+    {
+      "head": "土木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土木香",
+      "predicate": "采收时间",
+      "tail": "霜降后"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "健脾和胃"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "伪尾实体56"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "伪尾实体380"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "呕吐腹泻"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "伪尾实体807"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "虫积"
+    },
+    {
+      "head": "血虚内热",
+      "predicate": "具有性味",
+      "tail": "土木香"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土木香",
+      "predicate": "剂型",
+      "tail": "丸"
+    },
+    {
+      "head": "土木香",
+      "predicate": "剂型",
+      "tail": "散剂"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "3-9克"
+    },
+    {
+      "head": "胃痛",
+      "predicate": "应用举例",
+      "tail": "伪尾实体333"
+    },
+    {
+      "head": "胃痛",
+      "predicate": "包含中药",
+      "tail": "元胡"
+    },
+    {
+      "head": "土木香",
+      "predicate": "记载于文献",
+      "tail": "山西中草药"
+    },
+    {
+      "head": "腹泻肠鸣",
+      "predicate": "应用举例",
+      "tail": "土木香"
+    },
+    {
+      "head": "腹泻肠鸣",
+      "predicate": "包含中药",
+      "tail": "雄黄连"
+    },
+    {
+      "head": "土木香",
+      "predicate": "记载于文献",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "细菌性痢疾",
+      "predicate": "应用举例",
+      "tail": "祈木香"
+    },
+    {
+      "head": "细菌性痢疾",
+      "predicate": "包含中药",
+      "tail": "黄连"
+    },
+    {
+      "head": "土木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "土木香",
+      "predicate": "属于属",
+      "tail": "旋覆花属"
+    },
+    {
+      "head": "土木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "健脾和胃"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "胃脘"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "胸腹胀痛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "虫积"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "腹泻肠鸣"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "细菌性痢疾"
+    },
+    {
+      "head": "土木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "土木香",
+      "predicate": "属于属",
+      "tail": "旋覆花属"
+    },
+    {
+      "head": "土木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "健脾和胃"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "胃脘"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "胸腹胀痛"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "呕吐腹泻"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "土木香",
+      "predicate": "治疗",
+      "tail": "虫积"
+    },
+    {
+      "head": "土木香",
+      "predicate": "具有性味",
+      "tail": "血虚内热"
+    },
+    {
+      "head": "土木香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土木香",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "土木香",
+      "predicate": "用法",
+      "tail": "散剂"
+    },
+    {
+      "head": "土木香",
+      "predicate": "应用实例",
+      "tail": "山西中草药"
+    },
+    {
+      "head": "土木香",
+      "predicate": "应用实例",
+      "tail": "湖北中草药志"
+    },
+    {
+      "head": "土木香",
+      "predicate": "应用实例",
+      "tail": "祈木香"
+    },
+    {
+      "head": "土木香",
+      "predicate": "应用实例",
+      "tail": "黄连"
+    }
+  ]
+}

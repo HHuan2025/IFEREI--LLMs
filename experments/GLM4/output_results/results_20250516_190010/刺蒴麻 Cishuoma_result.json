@@ -1,0 +1,216 @@
+{
+  "entities": [
+    {
+      "entity": "刺蒴麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "椴树科",
+      "type": "科"
+    },
+    {
+      "entity": "刺蒴麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄花地桃花",
+      "type": "中药名"
+    },
+    {
+      "entity": "冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "早春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "味苦",
+      "type": "性味"
+    },
+    {
+      "entity": "性微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "通淋化石",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "泌尿系统结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜叶捣敷",
+      "type": "外用"
+    },
+    {
+      "entity": "刺蒴麻根",
+      "type": "应用举例"
+    },
+    {
+      "entity": "鬼针草",
+      "type": "应用举例"
+    },
+    {
+      "entity": "金丝草",
+      "type": "应用举例"
+    },
+    {
+      "entity": "鸭脚木",
+      "type": "应用举例"
+    },
+    {
+      "entity": "香港中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺蒴麻",
+      "predicate": "属于科",
+      "tail": "椴树科"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "属于属",
+      "tail": "刺蒴麻属"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "中药名",
+      "tail": "黄花地桃花"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "具有性味",
+      "tail": "性微寒"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "具有功能",
+      "tail": "通淋化石"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "主治疾病",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "主治疾病",
+      "tail": "泌尿系统结石"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "主治疾病",
+      "tail": "疮疖"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "主治疾病",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "内服",
+      "tail": "15-30克"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "外用",
+      "tail": "鲜叶捣敷"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含中药",
+      "tail": "刺蒴麻根"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含中药",
+      "tail": "鬼针草"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含中药",
+      "tail": "金丝草"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含中药",
+      "tail": "鸭脚木"
+    },
+    {
+      "head": "刺蒴麻",
+      "predicate": "记载于文献",
+      "tail": "香港中草药手册"
+    }
+  ]
+}

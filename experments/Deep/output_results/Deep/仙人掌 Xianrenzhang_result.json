@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "entity": "仙人掌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "仙人掌科",
+      "type": "科"
+    },
+    {
+      "entity": "仙人掌属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "仙人掌",
+      "type": "中药名"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性菌痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "广州部队《常用中草药手册》",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙人掌",
+      "predicate": "属于科",
+      "tail": "仙人掌科"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "属于属",
+      "tail": "仙人掌属"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "中药名",
+      "tail": "仙人掌"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "仙人掌"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "急性菌痢"
+    },
+    {
+      "head": "广州部队《常用中草药手册》",
+      "predicate": "文献记载",
+      "tail": "仙人掌"
+    }
+  ]
+}

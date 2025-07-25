@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "entity": "九头狮子草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "爵床科",
+      "type": "科"
+    },
+    {
+      "entity": "观音草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "九头狮子草",
+      "type": "中药名"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "肺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚弱咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "辣叶青药",
+      "type": "药用植物"
+    },
+    {
+      "entity": "贵州草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "九头狮子草",
+      "predicate": "属于科",
+      "tail": "爵床科"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "属于属",
+      "tail": "观音草属"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "中药名",
+      "tail": "九头狮子草"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "文献记载",
+      "tail": "九头狮子草"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "治疗",
+      "tail": "肺炎"
+    },
+    {
+      "head": "九头狮子草",
+      "predicate": "治疗",
+      "tail": "虚弱咳嗽"
+    },
+    {
+      "head": "贵州草药",
+      "predicate": "文献记载",
+      "tail": "辣叶青药"
+    }
+  ]
+}

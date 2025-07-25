@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "entity": "乌药",
+      "type": "药材"
+    },
+    {
+      "entity": "樟科",
+      "type": "科"
+    },
+    {
+      "entity": "木姜子属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "性味"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "温肾散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "气逆胸腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒疝",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便频数",
+      "type": "疾病"
+    },
+    {
+      "entity": "天台乌药散",
+      "type": "药材"
+    },
+    {
+      "entity": "医学发明",
+      "type": "文献"
+    },
+    {
+      "entity": "暖肝煎",
+      "type": "药材"
+    },
+    {
+      "entity": "景岳全书",
+      "type": "文献"
+    },
+    {
+      "entity": "四磨汤",
+      "type": "药材"
+    },
+    {
+      "entity": "济生方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌药",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "乌药",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "乌药",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "乌药",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "乌药",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "乌药",
+      "predicate": "具有功能",
+      "tail": "温肾散寒"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "气逆胸腹胀痛"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "寒疝"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "小便频数"
+    },
+    {
+      "head": "天台乌药散",
+      "predicate": "记载于文献",
+      "tail": "医学发明"
+    },
+    {
+      "head": "暖肝煎",
+      "predicate": "记载于文献",
+      "tail": "景岳全书"
+    },
+    {
+      "head": "四磨汤",
+      "predicate": "记载于文献",
+      "tail": "济生方"
+    }
+  ]
+}

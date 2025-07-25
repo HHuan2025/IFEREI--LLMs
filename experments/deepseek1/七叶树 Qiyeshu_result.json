@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "entity": "七叶树科",
+      "type": "科"
+    },
+    {
+      "entity": "七叶树属",
+      "type": "属"
+    },
+    {
+      "entity": "七叶树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "干燥成熟种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "娑罗子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "疏肝",
+      "type": "功能"
+    },
+    {
+      "entity": "理气",
+      "type": "功能"
+    },
+    {
+      "entity": "宽中",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳房胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "七叶树",
+      "predicate": "属于科",
+      "tail": "七叶树科"
+    },
+    {
+      "head": "七叶树",
+      "predicate": "属于属",
+      "tail": "七叶树属"
+    },
+    {
+      "head": "七叶树",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟种子"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "疏肝"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "理气"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "宽中"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "治疗",
+      "tail": "胸胁胀痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "治疗",
+      "tail": "乳房胀痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    }
+  ]
+}

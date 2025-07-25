@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "倒提壶",
+      "type": "药用植物"
+    },
+    {
+      "entity": "紫草科",
+      "type": "科"
+    },
+    {
+      "entity": "琉璃草属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗屎花",
+      "type": "中药名"
+    },
+    {
+      "entity": "狗屎花根",
+      "type": "中药名"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "倒提壶",
+      "predicate": "属于科",
+      "tail": "紫草科"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "属于属",
+      "tail": "琉璃草属"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位",
+      "tail": "地上部分"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "中药名",
+      "tail": "狗屎花"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "狗屎花根"
+    },
+    {
+      "head": "狗屎花根",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "狗屎花",
+      "predicate": "治疗",
+      "tail": "吐血"
+    }
+  ]
+}

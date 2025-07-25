@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "entity": "中国无忧花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "无忧花属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "四方木",
+      "type": "中药名"
+    },
+    {
+      "entity": "骨质增生症",
+      "type": "疾病"
+    },
+    {
+      "entity": "战骨",
+      "type": "其他"
+    },
+    {
+      "entity": "红花",
+      "type": "其他"
+    },
+    {
+      "entity": "草乌",
+      "type": "其他"
+    },
+    {
+      "entity": "一支蒿",
+      "type": "其他"
+    },
+    {
+      "entity": "独蒜",
+      "type": "其他"
+    },
+    {
+      "entity": "川芎",
+      "type": "其他"
+    },
+    {
+      "entity": "血藤",
+      "type": "其他"
+    },
+    {
+      "entity": "桂枝",
+      "type": "其他"
+    },
+    {
+      "entity": "三角枫",
+      "type": "其他"
+    },
+    {
+      "entity": "八角枫",
+      "type": "其他"
+    },
+    {
+      "entity": "威灵仙",
+      "type": "其他"
+    },
+    {
+      "entity": "叶上花",
+      "type": "其他"
+    },
+    {
+      "entity": "叶下花",
+      "type": "其他"
+    },
+    {
+      "entity": "千年健",
+      "type": "其他"
+    },
+    {
+      "entity": "木通",
+      "type": "其他"
+    },
+    {
+      "entity": "杜仲",
+      "type": "其他"
+    },
+    {
+      "entity": "过江花",
+      "type": "其他"
+    },
+    {
+      "entity": "四块瓦",
+      "type": "其他"
+    },
+    {
+      "entity": "花椒",
+      "type": "其他"
+    },
+    {
+      "entity": "没药",
+      "type": "其他"
+    },
+    {
+      "entity": "乳香",
+      "type": "其他"
+    },
+    {
+      "entity": "狗骨",
+      "type": "其他"
+    },
+    {
+      "entity": "蜂房",
+      "type": "其他"
+    },
+    {
+      "entity": "毒蛇",
+      "type": "其他"
+    },
+    {
+      "entity": "坐骨神经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肩周炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中国无忧花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "属于属",
+      "tail": "无忧花属"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位",
+      "tail": "树皮"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "中药名",
+      "tail": "四方木"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "骨质增生症"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "四方木",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    }
+  ]
+}

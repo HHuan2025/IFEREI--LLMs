@@ -1,0 +1,204 @@
+{
+  "entities": [
+    {
+      "entity": "三分三",
+      "type": "中药名"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "山茛菪属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "解痉镇痛",
+      "type": "功能"
+    },
+    {
+      "entity": "袪风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "心脏病",
+      "type": "不宜与"
+    },
+    {
+      "entity": "心脏衰弱",
+      "type": "不宜与"
+    },
+    {
+      "entity": "青光眼",
+      "type": "不宜与"
+    },
+    {
+      "entity": "1-3分",
+      "type": "用法用量"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三分三",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "三分三",
+      "predicate": "属于属",
+      "tail": "山茛菪属"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "三分三",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "三分三",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "三分三",
+      "predicate": "采收时间",
+      "tail": "冬季"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有功能",
+      "tail": "解痉镇痛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有功能",
+      "tail": "袪风除湿"
+    },
+    {
+      "head": "三分三",
+      "predicate": "具有毒性",
+      "tail": "有大毒"
+    },
+    {
+      "head": "三分三",
+      "predicate": "主治疾病",
+      "tail": "胃痛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "主治疾病",
+      "tail": "骨折"
+    },
+    {
+      "head": "三分三",
+      "predicate": "主治疾病",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "三分三",
+      "predicate": "主治疾病",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "三分三",
+      "predicate": "不宜与",
+      "tail": "心脏病"
+    },
+    {
+      "head": "三分三",
+      "predicate": "不宜与",
+      "tail": "心脏衰弱"
+    },
+    {
+      "head": "三分三",
+      "predicate": "不宜与",
+      "tail": "青光眼"
+    },
+    {
+      "head": "三分三",
+      "predicate": "用法用量",
+      "tail": "1-3分"
+    },
+    {
+      "head": "三分三",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    }
+  ]
+}

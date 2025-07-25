@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "entity": "北沙参",
+      "type": "中药名"
+    },
+    {
+      "entity": "伞形科",
+      "type": "科"
+    },
+    {
+      "entity": "珊瑚菜属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "阴虚火旺",
+      "type": "疾病"
+    },
+    {
+      "entity": "逆气不降",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "胀满不食",
+      "type": "疾病"
+    },
+    {
+      "entity": "牛蒡子",
+      "type": "中药名"
+    },
+    {
+      "entity": "玄参",
+      "type": "中药名"
+    },
+    {
+      "entity": "知母",
+      "type": "中药名"
+    },
+    {
+      "entity": "生地",
+      "type": "中药名"
+    },
+    {
+      "entity": "阴虚咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "久咳音哑",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "麦冬",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北沙参",
+      "predicate": "属于科",
+      "tail": "伞形科"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "属于属",
+      "tail": "珊瑚菜属"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "阴虚火旺"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "逆气不降"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "烦渴"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "胀满不食"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "阴虚咳嗽"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "久咳音哑"
+    },
+    {
+      "head": "北沙参",
+      "predicate": "治疗",
+      "tail": "肺结核"
+    }
+  ]
+}

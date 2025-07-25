@@ -1,0 +1,902 @@
+{
+  "entities": [
+    {
+      "entity": "土荆芥",
+      "type": "药用植物"
+    },
+    {
+      "entity": "藜科",
+      "type": "科"
+    },
+    {
+      "entity": "藜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "8月下旬至9月下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "收割全草，摊放在通风处，或捆束悬挂阴干，避免日晒及雨淋",
+      "type": "采收加工"
+    },
+    {
+      "entity": "辛",
+      "type": "疾病"
+    },
+    {
+      "entity": "苦",
+      "type": "疾病"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "大毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛲虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "头虱",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "口舌生疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品15-24克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "九、散",
+      "type": "剂型"
+    },
+    {
+      "entity": "土荆芥油",
+      "type": "疾病"
+    },
+    {
+      "entity": "成人常用量0.8-1.2毫升",
+      "type": "用法用量"
+    },
+    {
+      "entity": "极量1.5毫升",
+      "type": "用法用量"
+    },
+    {
+      "entity": "儿童每岁0.05毫升",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "功能"
+    },
+    {
+      "entity": "适量，煎水洗或捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "茶油",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "关节风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜根15克，水炖服",
+      "type": "用法"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "鲜全草适量，水煎，洗患处",
+      "type": "用法"
+    },
+    {
+      "entity": "土荆芥",
+      "type": "药用植物"
+    },
+    {
+      "entity": "藜科",
+      "type": "科"
+    },
+    {
+      "entity": "藜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛲虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "头虱",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "口舌生疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "茶油",
+      "type": "功能"
+    },
+    {
+      "entity": "关节风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "土荆芥鲜根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "土荆芥鲜全草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "土荆芥",
+      "type": "药材"
+    },
+    {
+      "entity": "藜科",
+      "type": "科"
+    },
+    {
+      "entity": "藜属",
+      "type": "属"
+    },
+    {
+      "entity": "带果穗的全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "大毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "钩虫病",
+      "type": "功能"
+    },
+    {
+      "entity": "蛔虫病",
+      "type": "功能"
+    },
+    {
+      "entity": "蛲虫病",
+      "type": "功能"
+    },
+    {
+      "entity": "头虱",
+      "type": "功能"
+    },
+    {
+      "entity": "皮肤湿疹",
+      "type": "功能"
+    },
+    {
+      "entity": "疥癣",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "功能"
+    },
+    {
+      "entity": "经闭",
+      "type": "功能"
+    },
+    {
+      "entity": "痛经",
+      "type": "功能"
+    },
+    {
+      "entity": "口舌生疮",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "功能"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "功能"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土荆芥",
+      "predicate": "属于科",
+      "tail": "藜科"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "属于属",
+      "tail": "藜属"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "8月下旬至9月下旬"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收加工",
+      "tail": "收割全草，摊放在通风处，或捆束悬挂阴干，避免日晒及雨淋"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "伪尾实体255"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "伪尾实体545"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "大毒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "活血消肿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛔虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛲虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "头虱"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "皮肤湿疹"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "口舌生疮"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "内服"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "鲜品15-24克"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "九、散"
+    },
+    {
+      "head": "内服",
+      "predicate": "包含中药",
+      "tail": "土荆芥油"
+    },
+    {
+      "head": "土荆芥油",
+      "predicate": "用法用量",
+      "tail": "成人常用量0.8-1.2毫升"
+    },
+    {
+      "head": "土荆芥油",
+      "predicate": "用法用量",
+      "tail": "极量1.5毫升"
+    },
+    {
+      "head": "土荆芥油",
+      "predicate": "具有性味",
+      "tail": "儿童每岁0.05毫升"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "外用"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法",
+      "tail": "伪尾实体410"
+    },
+    {
+      "head": "头虱",
+      "predicate": "应用举例",
+      "tail": "土荆芥，捣烂，加茶油敷"
+    },
+    {
+      "head": "土荆芥，捣烂，加茶油敷",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "关节风湿痛",
+      "predicate": "应用举例",
+      "tail": "土荆芥鲜根15克，水炖服"
+    },
+    {
+      "head": "土荆芥鲜根15克，水炖服",
+      "predicate": "具有性味",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "皮肤湿疹",
+      "predicate": "应用举例",
+      "tail": "土荆芥鲜全草适量，水煎，洗患处"
+    },
+    {
+      "head": "土荆芥鲜全草适量，水煎，洗患处",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "属于科",
+      "tail": "藜科"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "属于属",
+      "tail": "藜属"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "活血消肿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛔虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛲虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "头虱"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "皮肤湿疹"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "口舌生疮"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "头虱",
+      "predicate": "治疗",
+      "tail": "土荆芥，捣烂，加茶油敷"
+    },
+    {
+      "head": "关节风湿痛",
+      "predicate": "治疗",
+      "tail": "土荆芥鲜根15克，水炖服"
+    },
+    {
+      "head": "土荆芥鲜根",
+      "predicate": "治疗",
+      "tail": "关节风湿痛"
+    },
+    {
+      "head": "湿疹",
+      "predicate": "治疗",
+      "tail": "土荆芥鲜全草适量，水煎，洗患处"
+    },
+    {
+      "head": "土荆芥鲜全草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "头虱",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "关节风湿痛",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "湿疹",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "属于科",
+      "tail": "藜科"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "属于属",
+      "tail": "藜属"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "药用部位为",
+      "tail": "带果穗的全草"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有性味",
+      "tail": "大毒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "杀虫止痒"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "具有功能",
+      "tail": "活血消肿"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "钩虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛔虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛲虫病"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "头虱"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "皮肤湿疹"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "口舌生疮"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "用法",
+      "tail": "九、散"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "用法",
+      "tail": "土荆芥油"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "土荆芥",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    }
+  ]
+}

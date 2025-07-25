@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "entity": "刺五加",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "五加属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "小儿筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "茜草",
+      "type": "药材"
+    },
+    {
+      "entity": "木瓜",
+      "type": "药材"
+    },
+    {
+      "entity": "牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺五加",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "属于属",
+      "tail": "五加属"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "小儿筋骨痿软"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "风湿疼痛"
+    }
+  ]
+}

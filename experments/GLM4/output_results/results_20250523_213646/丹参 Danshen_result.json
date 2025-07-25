@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "entity": "丹参",
+      "type": "药材"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "鼠尾草属",
+      "type": "属"
+    },
+    {
+      "entity": "根部",
+      "type": "药用部位"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "郁金",
+      "type": "药材"
+    },
+    {
+      "entity": "产后瘀血腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "益母草",
+      "type": "药材"
+    },
+    {
+      "entity": "香附",
+      "type": "药材"
+    },
+    {
+      "entity": "经水不调",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丹参",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "丹参",
+      "predicate": "属于属",
+      "tail": "鼠尾草属"
+    },
+    {
+      "head": "丹参",
+      "predicate": "药用部位",
+      "tail": "根部"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "产后瘀血腹痛"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "闭经腹痛"
+    },
+    {
+      "head": "丹参",
+      "predicate": "治疗",
+      "tail": "经水不调"
+    }
+  ]
+}

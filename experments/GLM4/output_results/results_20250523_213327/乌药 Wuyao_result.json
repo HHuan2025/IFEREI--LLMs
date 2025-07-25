@@ -1,0 +1,108 @@
+{
+  "entities": [
+    {
+      "entity": "乌药",
+      "type": "药用植物"
+    },
+    {
+      "entity": "樟科",
+      "type": "科"
+    },
+    {
+      "entity": "木姜子属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "小肠疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "睾丸",
+      "type": "药用部位"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝肾阴寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸膈烦闷",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘急",
+      "type": "疾病"
+    },
+    {
+      "entity": "心下痞满",
+      "type": "疾病"
+    },
+    {
+      "entity": "饮食",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌药",
+      "predicate": "属于科",
+      "tail": "樟科"
+    },
+    {
+      "head": "乌药",
+      "predicate": "属于属",
+      "tail": "木姜子属"
+    },
+    {
+      "head": "乌药",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "小肠疝气"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "肝肾阴寒"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "疝气"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "胸膈烦闷"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "喘急"
+    },
+    {
+      "head": "乌药",
+      "predicate": "治疗",
+      "tail": "心下痞满"
+    }
+  ]
+}

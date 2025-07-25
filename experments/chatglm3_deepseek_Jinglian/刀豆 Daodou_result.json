@@ -1,0 +1,670 @@
+{
+  "entities": [
+    {
+      "entity": "刀豆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刀豆属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刀豆",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温中下气",
+      "type": "功能"
+    },
+    {
+      "entity": "益肾补元",
+      "type": "功能"
+    },
+    {
+      "entity": "虚寒呃逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "烧存性研末",
+      "type": "用法"
+    },
+    {
+      "entity": "胃热盛者慎服",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "重庆草药",
+      "type": "文献"
+    },
+    {
+      "entity": "8-11月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干或烘干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "刀豆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刀豆属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温中下气",
+      "type": "功能"
+    },
+    {
+      "entity": "益肾补元",
+      "type": "功能"
+    },
+    {
+      "entity": "虚寒呃逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪腰子",
+      "type": "功能"
+    },
+    {
+      "entity": "重庆草药",
+      "type": "文献"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "刀豆",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刀豆属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温中下气",
+      "type": "功能"
+    },
+    {
+      "entity": "益肾补元",
+      "type": "功能"
+    },
+    {
+      "entity": "虚寒呃逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪腰子",
+      "type": "功能"
+    },
+    {
+      "entity": "重庆草药",
+      "type": "文献"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "刀豆",
+      "type": "药材"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刀豆属",
+      "type": "属"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "温中下气",
+      "type": "功能"
+    },
+    {
+      "entity": "益肾补元",
+      "type": "功能"
+    },
+    {
+      "entity": "虚寒呃逆",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法"
+    },
+    {
+      "entity": "烧存性研末",
+      "type": "用法"
+    },
+    {
+      "entity": "胃热盛者",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疝气",
+      "type": "应用实例"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "重庆草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刀豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于属",
+      "tail": "刀豆属"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "中药名",
+      "tail": "刀豆"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "温中下气"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "益肾补元"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "虚寒呃逆"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "痰喘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "烧存性研末"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "胃热盛者慎服"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "重庆草药"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "采收时间",
+      "tail": "8-11月"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "采收加工",
+      "tail": "晒干或烘干"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于属",
+      "tail": "刀豆属"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "温中下气"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "益肾补元"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "虚寒呃逆"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "痰喘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "重庆草药"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "小儿疝气"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于属",
+      "tail": "刀豆属"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "温中下气"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "益肾补元"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "虚寒呃逆"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "痰喘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "记载于文献",
+      "tail": "重庆草药"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "小儿疝气"
+    },
+    {
+      "head": "刀豆子",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "属于属",
+      "tail": "刀豆属"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "药用部位为",
+      "tail": "种子"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "温中下气"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有功能",
+      "tail": "益肾补元"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "虚寒呃逆"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "呕吐"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "腹胀"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "痰喘"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "9-15克"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "烧存性研末"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "具有性味",
+      "tail": "胃热盛者"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "小儿疝气"
+    },
+    {
+      "head": "小儿疝气",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "刀豆",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "肾虚腰痛",
+      "predicate": "记载于文献",
+      "tail": "重庆草药"
+    }
+  ]
+}

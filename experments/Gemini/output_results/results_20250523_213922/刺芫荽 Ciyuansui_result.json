@@ -1,0 +1,98 @@
+{
+  "entities": [
+    {
+      "entity": "刺芫荽",
+      "type": "药用植物"
+    },
+    {
+      "entity": "伞形科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芫荽属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "野芫荽",
+      "type": "中药名"
+    },
+    {
+      "entity": "风寒感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "山芫荽",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葱头",
+      "type": "其他"
+    },
+    {
+      "entity": "生姜",
+      "type": "中药名"
+    },
+    {
+      "entity": "扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺芫荽",
+      "predicate": "属于科",
+      "tail": "伞形科"
+    },
+    {
+      "head": "刺芫荽",
+      "predicate": "属于属",
+      "tail": "刺芫荽属"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "山芫荽",
+      "predicate": "治疗",
+      "tail": "风寒感冒"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "扁桃体炎"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "野芫荽",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    }
+  ]
+}

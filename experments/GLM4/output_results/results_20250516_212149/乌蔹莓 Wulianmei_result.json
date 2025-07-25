@@ -1,0 +1,349 @@
+{
+  "entities": [
+    {
+      "entity": "乌蔹莓",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葡萄科",
+      "type": "科"
+    },
+    {
+      "entity": "乌蔹莓属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "乌蔹莓",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根部",
+      "type": "药用部位"
+    },
+    {
+      "entity": "味苦、酸，性寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "热毒痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "水火烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "白浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁饮",
+      "type": "用法"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "丹溪纂要",
+      "type": "文献"
+    },
+    {
+      "entity": "江西民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "鲜乌蔹莓叶",
+      "type": "其他"
+    },
+    {
+      "entity": "生猪脂",
+      "type": "其他"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌蔹莓",
+      "predicate": "属于科",
+      "tail": "葡萄科"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "属于属",
+      "tail": "乌蔹莓属"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "采收时间",
+      "tail": "夏、秋季"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位为",
+      "tail": "藤茎"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "药用部位为",
+      "tail": "根部"
+    },
+    {
+      "head": "味苦、酸，性寒",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "味苦、酸，性寒",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "具有性味",
+      "tail": "味苦、酸，性寒"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "热毒痈肿"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "疔疮"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "丹毒"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "水火烫伤"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "黄疸"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "泻痢"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "白浊"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "主治疾病",
+      "tail": "尿血"
+    },
+    {
+      "head": "内服",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法",
+      "tail": "捣汁饮"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "乌蔹莓",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "五叶藤",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "项下热肿",
+      "predicate": "应用举例",
+      "tail": "五叶藤"
+    },
+    {
+      "head": "丹溪纂要",
+      "predicate": "记载于文献",
+      "tail": "丹溪纂要"
+    },
+    {
+      "head": "鲜乌蔹莓叶",
+      "predicate": "用法",
+      "tail": "捣烂敷患处"
+    },
+    {
+      "head": "臁疮",
+      "predicate": "应用举例",
+      "tail": "鲜乌蔹莓叶"
+    },
+    {
+      "head": "江西民间草药",
+      "predicate": "记载于文献",
+      "tail": "江西民间草药"
+    },
+    {
+      "head": "鲜乌蔹莓",
+      "predicate": "用法",
+      "tail": "捣烂敷患处"
+    },
+    {
+      "head": "乳腺炎",
+      "predicate": "应用举例",
+      "tail": "鲜乌蔹莓"
+    },
+    {
+      "head": "青岛中草药手册",
+      "predicate": "记载于文献",
+      "tail": "青岛中草药手册"
+    }
+  ]
+}

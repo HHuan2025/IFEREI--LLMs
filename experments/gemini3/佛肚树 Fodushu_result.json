@@ -1,0 +1,238 @@
+{
+  "entities": [
+    {
+      "entity": "佛肚树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "麻疯树属",
+      "type": "属"
+    },
+    {
+      "entity": "全株",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛肚树",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿急",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "5-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "绞汁",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣烂敷",
+      "type": "其他"
+    },
+    {
+      "entity": "全国中草药汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "面黄肌瘦",
+      "type": "疾病"
+    },
+    {
+      "entity": "疲乏无力",
+      "type": "疾病"
+    },
+    {
+      "entity": "不思饮食",
+      "type": "疾病"
+    },
+    {
+      "entity": "茄木",
+      "type": "其他"
+    },
+    {
+      "entity": "西双版纳傣药志",
+      "type": "文献"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛肚树",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "属于属",
+      "tail": "麻疯树属"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "药用部位为",
+      "tail": "全株"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "具有性味",
+      "tail": "伪尾实体761"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "具有性味",
+      "tail": "伪尾实体653"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "尿急"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "尿痛"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "用法用量",
+      "tail": "5-15克"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "内服",
+      "tail": "绞汁"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "外用",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "毒蛇咬伤",
+      "predicate": "应用举例",
+      "tail": "全国中草药汇编"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "位于",
+      "tail": "面黄肌瘦"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "疲乏无力"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "治疗",
+      "tail": "不思饮食"
+    },
+    {
+      "head": "尿急",
+      "predicate": "应用举例",
+      "tail": "西双版纳傣药志"
+    },
+    {
+      "head": "尿痛",
+      "predicate": "应用举例",
+      "tail": "西双版纳傣药志"
+    },
+    {
+      "head": "尿血",
+      "predicate": "应用举例",
+      "tail": "西双版纳傣药志"
+    },
+    {
+      "head": "佛肚树",
+      "predicate": "采收时间",
+      "tail": "全年"
+    }
+  ]
+}

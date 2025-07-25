@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "entity": "八角茴香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "八角属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角茴香",
+      "type": "中药名"
+    },
+    {
+      "entity": "小肠气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "续本事方",
+      "type": "文献"
+    },
+    {
+      "entity": "膀胱偏坠尢气",
+      "type": "疾病"
+    },
+    {
+      "entity": "朱氏集验方",
+      "type": "文献"
+    },
+    {
+      "entity": "腰痛如刺",
+      "type": "疾病"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角茴香",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "属于属",
+      "tail": "八角属"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "药用部位",
+      "tail": "干燥成熟果实"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "中药名",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "小肠气痛"
+    },
+    {
+      "head": "续本事方",
+      "predicate": "文献记载",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "膀胱偏坠尢气"
+    },
+    {
+      "head": "朱氏集验方",
+      "predicate": "文献记载",
+      "tail": "八角茴香"
+    },
+    {
+      "head": "八角茴香",
+      "predicate": "治疗",
+      "tail": "腰痛如刺"
+    },
+    {
+      "head": "简便单方",
+      "predicate": "文献记载",
+      "tail": "八角茴香"
+    }
+  ]
+}

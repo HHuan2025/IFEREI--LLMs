@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "entity": "剑麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "龙舌兰科",
+      "type": "科"
+    },
+    {
+      "entity": "龙舌兰属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "肺痨咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "剑麻",
+      "type": "药材"
+    },
+    {
+      "entity": "龙舌兰科",
+      "type": "科"
+    },
+    {
+      "entity": "龙舌兰属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "肺痨咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "冬季",
+      "type": "采收时间"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "剑麻",
+      "predicate": "属于科",
+      "tail": "龙舌兰科"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "属于属",
+      "tail": "龙舌兰属"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有功能",
+      "tail": "消肿解毒"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "肺痨咯血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "属于科",
+      "tail": "龙舌兰科"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "属于属",
+      "tail": "龙舌兰属"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "具有功能",
+      "tail": "消肿解毒"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "肺痨咯血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "用法",
+      "tail": "煎汤9-15克"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "用法",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "剑麻",
+      "predicate": "采收时间",
+      "tail": "冬季"
+    }
+  ]
+}

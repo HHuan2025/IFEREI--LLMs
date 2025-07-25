@@ -1,0 +1,20 @@
+{
+  "entities": [
+    {
+      "entity": "七叶一枝花",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "七叶一枝花",
+      "predicate": "主治症状",
+      "tail": "蛇咬伤及淋巴结结核"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "主治症状",
+      "tail": "肿伤"
+    }
+  ]
+}

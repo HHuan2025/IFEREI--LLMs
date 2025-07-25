@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "entity": "丝瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "丝瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "丝瓜络",
+      "type": "药材"
+    },
+    {
+      "entity": "夏",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "果实成熟",
+      "type": "采收条件"
+    },
+    {
+      "entity": "果皮变黄",
+      "type": "采收条件"
+    },
+    {
+      "entity": "内部干枯",
+      "type": "采收条件"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "通经活络",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风活血",
+      "type": "功能"
+    },
+    {
+      "entity": "痹痛拘挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸胁胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "烧存性研末",
+      "type": "用法"
+    },
+    {
+      "entity": "煅存性研末调敷",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "属于属",
+      "tail": "丝瓜属"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "药用部位为",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "具有功能",
+      "tail": "通经活络"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "具有功能",
+      "tail": "祛风活血"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "治疗",
+      "tail": "痹痛拘挛"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "治疗",
+      "tail": "胸胁胀痛"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "治疗",
+      "tail": "乳汁不通"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "内服",
+      "tail": "烧存性研末"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "外用",
+      "tail": "煅存性研末调敷"
+    }
+  ]
+}

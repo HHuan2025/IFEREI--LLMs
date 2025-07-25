@@ -1,0 +1,550 @@
+{
+  "entities": [
+    {
+      "entity": "乌桕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "化学物质"
+    },
+    {
+      "entity": "乌桕属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "乌桕木根皮",
+      "type": "药材"
+    },
+    {
+      "entity": "乌桕叶",
+      "type": "药材"
+    },
+    {
+      "entity": "乌桕子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "其他"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "泻下利水",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿散结",
+      "type": "功能"
+    },
+    {
+      "entity": "解蛇毒",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "拔毒消肿",
+      "type": "化学物质"
+    },
+    {
+      "entity": "止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "膨胀",
+      "type": "化学物质"
+    },
+    {
+      "entity": "症瘕积聚",
+      "type": "疾病"
+    },
+    {
+      "entity": "二便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "动物"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "6-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "器官"
+    },
+    {
+      "entity": "鲜品捣烂",
+      "type": "化学物质"
+    },
+    {
+      "entity": "疥疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤皲裂",
+      "type": "疾病"
+    },
+    {
+      "entity": "便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "3-6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣烂调敷",
+      "type": "外用"
+    },
+    {
+      "entity": "9-12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "器官"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "乌桕叶",
+      "type": "器官"
+    },
+    {
+      "entity": "白蜡",
+      "type": "其他"
+    },
+    {
+      "entity": "蒸透敷洗",
+      "type": "外用"
+    },
+    {
+      "entity": "岭南草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "半斤",
+      "type": "动物"
+    },
+    {
+      "entity": "闽东本草",
+      "type": "文献"
+    },
+    {
+      "entity": "杵烂",
+      "type": "采收加工"
+    },
+    {
+      "entity": "擦患处",
+      "type": "外用"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌桕",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "属于属",
+      "tail": "乌桕属"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "乌桕",
+      "predicate": "药用部位为",
+      "tail": "伪尾实体792"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有功能",
+      "tail": "泻下利水"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有功能",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有功能",
+      "tail": "解蛇毒"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "位于",
+      "tail": "苦"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "具有性味",
+      "tail": "伪尾实体770"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "具有功能",
+      "tail": "泻下利水"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "消肿散结"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "具有功能",
+      "tail": "解蛇毒"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "具有功能",
+      "tail": "伪尾实体852"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有性味",
+      "tail": "伪尾实体500"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有毒性",
+      "tail": "有毒"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有功能",
+      "tail": "拔毒消肿"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "具有功能",
+      "tail": "止痒"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "具有颜色",
+      "tail": "膨胀"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "症瘕积聚"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "二便不通"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "伪尾实体897"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "相关基因",
+      "tail": "疔毒"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "膨胀"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "症瘕积聚"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "二便不通"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "疔毒"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "用法用量",
+      "tail": "6-12克"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "外用",
+      "tail": "鲜品捣烂"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "疥疮"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "伪尾实体981"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "皮肤皲裂"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "治疗",
+      "tail": "便秘"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "用法用量",
+      "tail": "3-6克"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "位于",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "乌桕子",
+      "predicate": "外用",
+      "tail": "捣烂调敷"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "用法用量",
+      "tail": "9-12克"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "剂型",
+      "tail": "丸"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "剂型",
+      "tail": "散"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "乌桕木根皮",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "应用举例",
+      "tail": "肩部生疮"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "位于",
+      "tail": "伪尾实体769"
+    },
+    {
+      "head": "乌桕种子",
+      "predicate": "应用举例",
+      "tail": "湿疹"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "包含中药",
+      "tail": "白蜡"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "外治",
+      "tail": "蒸透敷洗"
+    },
+    {
+      "head": "乌桕叶",
+      "predicate": "记载于文献",
+      "tail": "岭南草药志"
+    },
+    {
+      "head": "乌桕种子",
+      "predicate": "具有颜色",
+      "tail": "闽东本草"
+    }
+  ]
+}

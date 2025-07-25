@@ -1,0 +1,373 @@
+{
+  "entities": [
+    {
+      "entity": "乌毛蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "乌毛蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "乌毛蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "动物"
+    },
+    {
+      "entity": "乌毛蕨贯众",
+      "type": "药材"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "血崩",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠道寄生虫",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "6-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "外用"
+    },
+    {
+      "entity": "研末调涂",
+      "type": "外用"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "乙脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "板蓝根",
+      "type": "药材"
+    },
+    {
+      "entity": "12克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "大青叶",
+      "type": "药材"
+    },
+    {
+      "entity": "水煎服",
+      "type": "剂型"
+    },
+    {
+      "entity": "中国药用孢子植物",
+      "type": "文献"
+    },
+    {
+      "entity": "海金沙藤",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌毛蕨",
+      "predicate": "属于科",
+      "tail": "伪尾实体130"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "属于属",
+      "tail": "乌毛蕨属"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "位于",
+      "tail": "根茎"
+    },
+    {
+      "head": "乌毛蕨贯众",
+      "predicate": "中药名",
+      "tail": "乌毛蕨"
+    },
+    {
+      "head": "根茎",
+      "predicate": "采收加工",
+      "tail": "春"
+    },
+    {
+      "head": "根茎",
+      "predicate": "采收加工",
+      "tail": "秋"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "位于",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有功能",
+      "tail": "活血止血"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "感冒头痛"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "鼻衄"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "伪尾实体797"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "肠道寄生虫"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "剂型",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法用量",
+      "tail": "6-15克"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法用量",
+      "tail": "60克"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "外用",
+      "tail": "研末调涂"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "位于",
+      "tail": "流感"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "治疗",
+      "tail": "乙脑"
+    },
+    {
+      "head": "流感",
+      "predicate": "包含中药",
+      "tail": "乌毛蕨"
+    },
+    {
+      "head": "流感",
+      "predicate": "包含中药",
+      "tail": "板蓝根"
+    },
+    {
+      "head": "流感",
+      "predicate": "包含中药",
+      "tail": "大青叶"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "用法用量",
+      "tail": "12克"
+    },
+    {
+      "head": "板蓝根",
+      "predicate": "用法用量",
+      "tail": "15克"
+    },
+    {
+      "head": "大青叶",
+      "predicate": "用法用量",
+      "tail": "12克"
+    },
+    {
+      "head": "流感",
+      "predicate": "剂型",
+      "tail": "伪尾实体966"
+    },
+    {
+      "head": "流感",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "包含中药",
+      "tail": "伪尾实体662"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "包含中药",
+      "tail": "海金沙藤"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "包含中药",
+      "tail": "大青叶"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "剂型",
+      "tail": "水煎服"
+    },
+    {
+      "head": "腮腺炎",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    }
+  ]
+}

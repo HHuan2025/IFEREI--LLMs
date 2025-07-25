@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "entity": "八角枫",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八角枫科",
+      "type": "科"
+    },
+    {
+      "entity": "八角枫属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角枫根",
+      "type": "中药名"
+    },
+    {
+      "entity": "八角枫叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "八角枫花",
+      "type": "中药名"
+    },
+    {
+      "entity": "筋骨疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白龙须",
+      "type": "中药名"
+    },
+    {
+      "entity": "白牛膝",
+      "type": "中药名"
+    },
+    {
+      "entity": "曲靖专区中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "漆疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角枫",
+      "predicate": "属于科",
+      "tail": "八角枫科"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "属于属",
+      "tail": "八角枫属"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "中药名",
+      "tail": "八角枫"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "中药名",
+      "tail": "八角枫"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "中药名",
+      "tail": "八角枫"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "筋骨疼痛"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "漆疮"
+    },
+    {
+      "head": "曲靖专区中草药",
+      "predicate": "文献记载",
+      "tail": "八角枫根"
+    },
+    {
+      "head": "广西本草选编",
+      "predicate": "文献记载",
+      "tail": "八角枫叶"
+    }
+  ]
+}

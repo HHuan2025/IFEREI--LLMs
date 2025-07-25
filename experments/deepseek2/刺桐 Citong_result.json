@@ -1,0 +1,273 @@
+{
+  "entities": [
+    {
+      "entity": "刺桐",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "刺桐属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮或根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺桐皮",
+      "type": "药材"
+    },
+    {
+      "entity": "刺桐花",
+      "type": "药材"
+    },
+    {
+      "entity": "刺桐叶",
+      "type": "药材"
+    },
+    {
+      "entity": "夏，秋剥取有钉刺的树皮，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦辛，平",
+      "type": "性味"
+    },
+    {
+      "entity": "苦涩，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "苦，平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风湿，通络，杀虫止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "收敛止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消积驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "四肢拘挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛔虫症",
+      "type": "疾病"
+    },
+    {
+      "entity": "血虚者慎服",
+      "type": "禁忌"
+    },
+    {
+      "entity": "脚气治法总要",
+      "type": "文献"
+    },
+    {
+      "entity": "如宜方",
+      "type": "文献"
+    },
+    {
+      "entity": "梧州地区中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺桐",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "属于属",
+      "tail": "刺桐属"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "干皮或根皮"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "中药名",
+      "tail": "刺桐皮"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "中药名",
+      "tail": "刺桐花"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "中药名",
+      "tail": "刺桐叶"
+    },
+    {
+      "head": "刺桐",
+      "predicate": "采收加工",
+      "tail": "夏，秋剥取有钉刺的树皮，晒干"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "具有性味",
+      "tail": "苦辛，平"
+    },
+    {
+      "head": "刺桐花",
+      "predicate": "具有性味",
+      "tail": "苦涩，凉"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "具有性味",
+      "tail": "苦，平"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "具有功能",
+      "tail": "祛风湿，通络，杀虫止痒"
+    },
+    {
+      "head": "刺桐花",
+      "predicate": "具有功能",
+      "tail": "收敛止血"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "具有功能",
+      "tail": "消积驱虫"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "治疗",
+      "tail": "四肢拘挛"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "刺桐花",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "治疗",
+      "tail": "蛔虫症"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "用法",
+      "tail": "内服:煎汤，用量6-12克；或浸酒"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "用法",
+      "tail": "外用:适量，煎水洗或研末调敷"
+    },
+    {
+      "head": "刺桐花",
+      "predicate": "用法",
+      "tail": "外用:适量，研末调敷"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "用法",
+      "tail": "内服研末开水冲服，0.8-1钱"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "用法",
+      "tail": "外用:适量，捣敷"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "应用实例",
+      "tail": "脚气治法总要"
+    },
+    {
+      "head": "刺桐皮",
+      "predicate": "应用实例",
+      "tail": "如宜方"
+    },
+    {
+      "head": "刺桐叶",
+      "predicate": "应用实例",
+      "tail": "梧州地区中草药"
+    }
+  ]
+}

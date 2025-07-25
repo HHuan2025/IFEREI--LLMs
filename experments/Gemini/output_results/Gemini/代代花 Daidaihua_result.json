@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "entity": "代代花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "脘腹胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "玫瑰花",
+      "type": "中药名"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "中药名"
+    },
+    {
+      "entity": "胃脘作痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "制香附",
+      "type": "中药名"
+    },
+    {
+      "entity": "川楝子",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芍",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "代代花",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "代代花",
+      "predicate": "属于属",
+      "tail": "柑橘属"
+    },
+    {
+      "head": "代代花",
+      "predicate": "药用部位",
+      "tail": "花蕾"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "胃脘作痛"
+    }
+  ]
+}

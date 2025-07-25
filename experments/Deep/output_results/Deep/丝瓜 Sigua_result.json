@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "entity": "丝瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "丝瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实的维管束",
+      "type": "药用部位"
+    },
+    {
+      "entity": "丝瓜络",
+      "type": "中药名"
+    },
+    {
+      "entity": "妇女经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "紫石英",
+      "type": "中药名"
+    },
+    {
+      "entity": "全当归",
+      "type": "中药名"
+    },
+    {
+      "entity": "桑寄生",
+      "type": "中药名"
+    },
+    {
+      "entity": "炒杜仲",
+      "type": "中药名"
+    },
+    {
+      "entity": "麦冬",
+      "type": "中药名"
+    },
+    {
+      "entity": "肉桂",
+      "type": "中药名"
+    },
+    {
+      "entity": "吴茱萸",
+      "type": "中药名"
+    },
+    {
+      "entity": "川椒",
+      "type": "中药名"
+    },
+    {
+      "entity": "乌药",
+      "type": "中药名"
+    },
+    {
+      "entity": "橘叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "橘核",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芍",
+      "type": "中药名"
+    },
+    {
+      "entity": "程门雪方",
+      "type": "文献"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "山东中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "属于属",
+      "tail": "丝瓜属"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "药用部位",
+      "tail": "成熟果实的维管束"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "中药名",
+      "tail": "丝瓜络"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "妇女经痛"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "腹水"
+    },
+    {
+      "head": "程门雪方",
+      "predicate": "文献记载",
+      "tail": "丝瓜络"
+    },
+    {
+      "head": "山东中草药手册",
+      "predicate": "文献记载",
+      "tail": "丝瓜络"
+    }
+  ]
+}

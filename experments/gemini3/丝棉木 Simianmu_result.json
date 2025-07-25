@@ -1,0 +1,551 @@
+{
+  "entities": [
+    {
+      "entity": "丝棉木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "丝棉木",
+      "type": "药材"
+    },
+    {
+      "entity": "丝棉木叶",
+      "type": "药材"
+    },
+    {
+      "entity": "全年均可采",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，切片，晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "4-6月",
+      "type": "化学物质"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血通络",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒止血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "血栓闭塞性脉管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "器官"
+    },
+    {
+      "entity": "漆疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜品加倍",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "散剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤熏洗",
+      "type": "用法"
+    },
+    {
+      "entity": "孕妇",
+      "type": "其他"
+    },
+    {
+      "entity": "慎服",
+      "type": "其他"
+    },
+    {
+      "entity": "桃叶卫矛",
+      "type": "药材"
+    },
+    {
+      "entity": "牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "老鹳草",
+      "type": "药材"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "化学物质"
+    },
+    {
+      "entity": "膝关节酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "丝棉木根",
+      "type": "药材"
+    },
+    {
+      "entity": "90-120克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "红牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "苋科牛膝",
+      "type": "药用植物"
+    },
+    {
+      "entity": "60-90克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "钻地枫",
+      "type": "药材"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "冲黄酒、红糖",
+      "type": "用法"
+    },
+    {
+      "entity": "早晚空腹服",
+      "type": "动物"
+    },
+    {
+      "entity": "天目山药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "丝棉木树皮",
+      "type": "药材"
+    },
+    {
+      "entity": "12-30克",
+      "type": "器官"
+    },
+    {
+      "entity": "浙江民间常用草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝棉木",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "位于",
+      "tail": "丝棉木"
+    },
+    {
+      "head": "树皮",
+      "predicate": "中药名",
+      "tail": "丝棉木"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "丝棉木叶"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "树皮",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "洗净，切片，晒干"
+    },
+    {
+      "head": "树皮",
+      "predicate": "采收加工",
+      "tail": "洗净，切片，晒干"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "4-6月"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "相关基因",
+      "tail": "寒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血通络"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒止血"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "血栓闭塞性脉管炎"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肺痈"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "根",
+      "predicate": "相关基因",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "治疗",
+      "tail": "漆疮"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "位于",
+      "tail": "15-30克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "鲜品加倍"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "浸酒"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "散剂"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "煎汤熏洗"
+    },
+    {
+      "head": "孕妇",
+      "predicate": "不宜与",
+      "tail": "根"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "外用",
+      "tail": "煎汤熏洗"
+    },
+    {
+      "head": "风湿性关节炎",
+      "predicate": "应用举例",
+      "tail": "桃叶卫矛"
+    },
+    {
+      "head": "风湿性关节炎",
+      "predicate": "治疗",
+      "tail": "牛膝"
+    },
+    {
+      "head": "风湿性关节炎",
+      "predicate": "应用举例",
+      "tail": "老鹳草"
+    },
+    {
+      "head": "桃叶卫矛",
+      "predicate": "内服",
+      "tail": "水煎服"
+    },
+    {
+      "head": "牛膝",
+      "predicate": "内服",
+      "tail": "水煎服"
+    },
+    {
+      "head": "老鹳草",
+      "predicate": "内服",
+      "tail": "伪尾实体256"
+    },
+    {
+      "head": "风湿性关节炎",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "膝关节酸痛",
+      "predicate": "应用举例",
+      "tail": "丝棉木根"
+    },
+    {
+      "head": "膝关节酸痛",
+      "predicate": "应用举例",
+      "tail": "红牛膝"
+    },
+    {
+      "head": "膝关节酸痛",
+      "predicate": "应用举例",
+      "tail": "钻地枫"
+    },
+    {
+      "head": "丝棉木根",
+      "predicate": "治疗",
+      "tail": "90-120克"
+    },
+    {
+      "head": "红牛膝",
+      "predicate": "属于药用植物",
+      "tail": "苋科牛膝"
+    },
+    {
+      "head": "红牛膝",
+      "predicate": "用法用量",
+      "tail": "60-90克"
+    },
+    {
+      "head": "钻地枫",
+      "predicate": "用法用量",
+      "tail": "30-60克"
+    },
+    {
+      "head": "膝关节酸痛",
+      "predicate": "记载于文献",
+      "tail": "天目山药用植物志"
+    },
+    {
+      "head": "腰痛",
+      "predicate": "应用举例",
+      "tail": "丝棉木树皮"
+    },
+    {
+      "head": "丝棉木树皮",
+      "predicate": "用法用量",
+      "tail": "12-30克"
+    },
+    {
+      "head": "丝棉木树皮",
+      "predicate": "内服",
+      "tail": "水煎服"
+    },
+    {
+      "head": "腰痛",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    }
+  ]
+}

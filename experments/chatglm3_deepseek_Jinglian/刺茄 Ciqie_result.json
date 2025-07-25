@@ -1,0 +1,570 @@
+{
+  "entities": [
+    {
+      "entity": "刺茄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "茄属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦天茄",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "味微苦；性寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风止痛；清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺茄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "茄属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦天茄",
+      "type": "药材"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺茄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "茄属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦天茄",
+      "type": "药材"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "刺茄",
+      "type": "药材"
+    },
+    {
+      "entity": "茄科",
+      "type": "科"
+    },
+    {
+      "entity": "茄属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺茄",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于属",
+      "tail": "茄属"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "中药名",
+      "tail": "苦天茄"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "采收加工",
+      "tail": "鲜用或晒干"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "味微苦；性寒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "祛风止痛；清热解毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "跌打疼痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "用法",
+      "tail": "内服:煎汤，3-6克"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "用法",
+      "tail": "外用:适量，捣敷或研末调敷"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于属",
+      "tail": "茄属"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "苦天茄"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "祛风止痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "跌打疼痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于属",
+      "tail": "茄属"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "苦天茄"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "小毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "祛风止痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "跌打疼痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于科",
+      "tail": "茄科"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "属于属",
+      "tail": "茄属"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "祛风止痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "头痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "治疗",
+      "tail": "跌打疼痛"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "刺茄",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    }
+  ]
+}

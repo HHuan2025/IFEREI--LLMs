@@ -1,0 +1,411 @@
+{
+  "entities": [
+    {
+      "entity": "兴安升麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "升麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根状茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "升麻",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "除去泥沙，晒至须根干时，燎去或除去须根，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛、甘，微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "发表透疹，清热解毒，升阳举陷",
+      "type": "功能"
+    },
+    {
+      "entity": "斑疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛寒热",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "时疫火毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "中气下陷",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "久痢下重",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩中",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚阳浮，喘满气逆及麻疹已透之证",
+      "type": "疾病"
+    },
+    {
+      "entity": "集验方",
+      "type": "文献"
+    },
+    {
+      "entity": "肘后方",
+      "type": "文献"
+    },
+    {
+      "entity": "兴安升麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "升麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根状茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "升麻",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "发表透疹",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "升阳举陷",
+      "type": "功能"
+    },
+    {
+      "entity": "斑疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛寒热",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "时疫火毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "中气下陷",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "久痢下重",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩中",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女带下",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兴安升麻",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "属于属",
+      "tail": "升麻属"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "药用部位为",
+      "tail": "根状茎"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "中药名",
+      "tail": "升麻"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "采收加工",
+      "tail": "除去泥沙，晒至须根干时，燎去或除去须根，晒干"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "辛、甘，微寒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "发表透疹，清热解毒，升阳举陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "斑疹"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "头痛寒热"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "时疫火毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "咽痛"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "中气下陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "久痢下重"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "崩中"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "妇女带下"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "内服:煎汤，用于升阳，3-6克，宜酒炒，蜜炙；用于清热解毒，可用至15克，宜生用；或入丸散"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "外用:适量，研末调敷或煎汤含漱，或淋洗"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "阴虚阳浮，喘满气逆及麻疹已透之证"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "记载于文献",
+      "tail": "集验方"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "记载于文献",
+      "tail": "肘后方"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "属于属",
+      "tail": "升麻属"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "药用部位为",
+      "tail": "根状茎"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "升麻"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "发表透疹"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "升阳举陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "斑疹"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "头痛寒热"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "时疫火毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "咽痛"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "中气下陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "久痢下重"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "崩中"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "治疗",
+      "tail": "妇女带下"
+    }
+  ]
+}

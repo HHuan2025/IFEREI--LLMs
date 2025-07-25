@@ -1,0 +1,876 @@
+{
+  "entities": [
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三白草",
+      "type": "药材"
+    },
+    {
+      "entity": "全年均可采",
+      "type": "采收时间"
+    },
+    {
+      "entity": "收取地上部分，洗净，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、辛，寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤，10-30克；鲜品倍量",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品适量，捣烂外敷，或捣汁饮",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃虚寒者忌服",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮炎肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "三白草鲜叶一握，捣烂，敷患处，日换两次",
+      "type": "应用实例"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "绣球风",
+      "type": "疾病"
+    },
+    {
+      "entity": "鲜三白草，捣汁洗患部",
+      "type": "应用实例"
+    },
+    {
+      "entity": "浙扛天目山药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮炎肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "三白草鲜叶",
+      "type": "药材"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "绣球风",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙扛天目山药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮炎肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "三白草鲜叶",
+      "type": "药材"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "绣球风",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙扛天目山药植志",
+      "type": "文献"
+    },
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "血淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜品倍量",
+      "type": "用法"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "捣烂外敷",
+      "type": "用法"
+    },
+    {
+      "entity": "捣汁饮",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃虚寒者忌服",
+      "type": "用法"
+    },
+    {
+      "entity": "福建民间草药",
+      "type": "文献"
+    },
+    {
+      "entity": "浙扛天目山药植志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "中药名",
+      "tail": "三白草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "采收时间",
+      "tail": "全年均可采"
+    },
+    {
+      "head": "三白草",
+      "predicate": "采收加工",
+      "tail": "收取地上部分，洗净，晒干"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "苦、辛，寒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "煎汤，10-30克；鲜品倍量"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "鲜品适量，捣烂外敷，或捣汁饮"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "脾胃虚寒者忌服"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "三白草鲜叶一握，捣烂，敷患处，日换两次"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "鲜三白草，捣汁洗患部"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "浙扛天目山药植志"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "三白草鲜叶",
+      "predicate": "治疗",
+      "tail": "疔疮炎肿"
+    },
+    {
+      "head": "三白草鲜叶",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "绣球风"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "浙扛天目山药植志"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "三白草鲜叶",
+      "predicate": "治疗",
+      "tail": "疔疮炎肿"
+    },
+    {
+      "head": "三白草鲜叶",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "绣球风"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "浙扛天目山药植志"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "血淋"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "福建民间草药"
+    },
+    {
+      "head": "三白草",
+      "predicate": "记载于文献",
+      "tail": "浙扛天目山药植志"
+    }
+  ]
+}

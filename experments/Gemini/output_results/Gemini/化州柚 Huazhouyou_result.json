@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "entity": "化州柚",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "化橘红",
+      "type": "中药名"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "石串莲",
+      "type": "中药名"
+    },
+    {
+      "entity": "青竹标",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "化州柚",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "属于属",
+      "tail": "柑橘属"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "药用部位",
+      "tail": "干燥外层果皮"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "中药名",
+      "tail": "化橘红"
+    },
+    {
+      "head": "化橘红",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "石串莲",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "青竹标",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    }
+  ]
+}

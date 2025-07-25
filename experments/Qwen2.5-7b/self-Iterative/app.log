@@ -1,0 +1,173 @@
+2025-05-13 10:17:08,929 - INFO - 将处理从第 1 到第 10 个文件，共 10 个文件
+2025-05-13 10:17:08,930 - INFO - 正在处理文件: 一串红 Yichuanhong.txt
+2025-05-13 10:17:25,469 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:17:25,479 - INFO - 一串红 Yichuanhong.txt 成功解析JSON结果
+2025-05-13 10:17:25,480 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一串红 Yichuanhong_extraction_conversation.json
+2025-05-13 10:17:25,481 - INFO - 结果保存至: output_results\results_20250513_101708\一串红 Yichuanhong_result.json
+2025-05-13 10:17:25,481 - INFO - 正在处理文件: 一叶萩 Yiyeqiu.txt
+2025-05-13 10:17:48,629 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:17:48,635 - INFO - 一叶萩 Yiyeqiu.txt 成功解析JSON结果
+2025-05-13 10:17:48,637 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一叶萩 Yiyeqiu_extraction_conversation.json
+2025-05-13 10:17:48,639 - INFO - 结果保存至: output_results\results_20250513_101708\一叶萩 Yiyeqiu_result.json
+2025-05-13 10:17:48,640 - INFO - 正在处理文件: 一品红 Yipinhong.txt
+2025-05-13 10:17:57,931 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:17:57,932 - INFO - 一品红 Yipinhong.txt 成功解析JSON结果
+2025-05-13 10:17:57,933 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一品红 Yipinhong_extraction_conversation.json
+2025-05-13 10:17:57,935 - INFO - 结果保存至: output_results\results_20250513_101708\一品红 Yipinhong_result.json
+2025-05-13 10:17:57,940 - INFO - 正在处理文件: 一把伞南星 Yibasannanxing.txt
+2025-05-13 10:18:05,948 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:05,950 - INFO - 一把伞南星 Yibasannanxing.txt 成功解析JSON结果
+2025-05-13 10:18:05,951 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一把伞南星 Yibasannanxing_extraction_conversation.json
+2025-05-13 10:18:05,967 - INFO - 结果保存至: output_results\results_20250513_101708\一把伞南星 Yibasannanxing_result.json
+2025-05-13 10:18:05,968 - INFO - 正在处理文件: 一枝黄花 Yizhihuanghua.txt
+2025-05-13 10:18:15,025 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:15,026 - INFO - 一枝黄花 Yizhihuanghua.txt 成功解析JSON结果
+2025-05-13 10:18:15,028 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一枝黄花 Yizhihuanghua_extraction_conversation.json
+2025-05-13 10:18:15,031 - INFO - 结果保存至: output_results\results_20250513_101708\一枝黄花 Yizhihuanghua_result.json
+2025-05-13 10:18:15,032 - INFO - 正在处理文件: 一点红 Yidianhong.txt
+2025-05-13 10:18:23,398 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:23,398 - INFO - 一点红 Yidianhong.txt 成功解析JSON结果
+2025-05-13 10:18:23,401 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\一点红 Yidianhong_extraction_conversation.json
+2025-05-13 10:18:23,402 - INFO - 结果保存至: output_results\results_20250513_101708\一点红 Yidianhong_result.json
+2025-05-13 10:18:23,403 - INFO - 正在处理文件: 丁香 Dingxiang.txt
+2025-05-13 10:18:32,331 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:32,333 - INFO - 丁香 Dingxiang.txt 成功解析JSON结果
+2025-05-13 10:18:32,334 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\丁香 Dingxiang_extraction_conversation.json
+2025-05-13 10:18:32,335 - INFO - 结果保存至: output_results\results_20250513_101708\丁香 Dingxiang_result.json
+2025-05-13 10:18:32,335 - INFO - 正在处理文件: 七叶一枝花 Qiyeyizhihua.txt
+2025-05-13 10:18:40,534 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:40,536 - INFO - 七叶一枝花 Qiyeyizhihua.txt 成功解析JSON结果
+2025-05-13 10:18:40,537 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\七叶一枝花 Qiyeyizhihua_extraction_conversation.json
+2025-05-13 10:18:40,539 - INFO - 结果保存至: output_results\results_20250513_101708\七叶一枝花 Qiyeyizhihua_result.json
+2025-05-13 10:18:40,539 - INFO - 正在处理文件: 七叶树 Qiyeshu.txt
+2025-05-13 10:18:42,792 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:42,792 - INFO - 七叶树 Qiyeshu.txt 成功解析JSON结果
+2025-05-13 10:18:42,795 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\七叶树 Qiyeshu_extraction_conversation.json
+2025-05-13 10:18:42,795 - INFO - 结果保存至: output_results\results_20250513_101708\七叶树 Qiyeshu_result.json
+2025-05-13 10:18:42,796 - INFO - 正在处理文件: 万寿竹 Wanshouzhu.txt
+2025-05-13 10:18:50,924 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:18:50,924 - INFO - 万寿竹 Wanshouzhu.txt 成功解析JSON结果
+2025-05-13 10:18:50,926 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101708\万寿竹 Wanshouzhu_extraction_conversation.json
+2025-05-13 10:18:50,932 - INFO - 结果保存至: output_results\results_20250513_101708\万寿竹 Wanshouzhu_result.json
+2025-05-13 10:19:44,786 - INFO - 将处理从第 1 到第 10 个文件，共 10 个文件
+2025-05-13 10:19:44,787 - INFO - 正在处理文件: 一串红 Yichuanhong.txt
+2025-05-13 10:19:59,391 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:19:59,401 - INFO - 一串红 Yichuanhong.txt 成功解析JSON结果
+2025-05-13 10:19:59,403 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一串红 Yichuanhong_extraction_conversation.json
+2025-05-13 10:19:59,403 - INFO - 跳过验证步骤: 一串红 Yichuanhong.txt
+2025-05-13 10:19:59,404 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:19:59,404 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:19:59,404 - INFO - 实体类型 Jaccard 系数: 0.0000
+2025-05-13 10:19:59,404 - INFO - 关系类型 Jaccard 系数: 0.0000
+2025-05-13 10:19:59,405 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:19:59,406 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:19:59,420 - INFO - 结果保存至: output_results\results_20250513_101944\一串红 Yichuanhong_result.json
+2025-05-13 10:19:59,420 - INFO - 正在处理文件: 一叶萩 Yiyeqiu.txt
+2025-05-13 10:20:22,808 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:20:22,810 - INFO - 一叶萩 Yiyeqiu.txt 成功解析JSON结果
+2025-05-13 10:20:22,811 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一叶萩 Yiyeqiu_extraction_conversation.json
+2025-05-13 10:20:22,813 - INFO - 跳过验证步骤: 一叶萩 Yiyeqiu.txt
+2025-05-13 10:20:22,813 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:20:22,813 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:20:22,813 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:22,814 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:22,814 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:20:22,815 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:20:22,818 - INFO - 结果保存至: output_results\results_20250513_101944\一叶萩 Yiyeqiu_result.json
+2025-05-13 10:20:22,818 - INFO - 正在处理文件: 一品红 Yipinhong.txt
+2025-05-13 10:20:40,027 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:20:40,034 - INFO - 一品红 Yipinhong.txt 成功解析JSON结果
+2025-05-13 10:20:40,035 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一品红 Yipinhong_extraction_conversation.json
+2025-05-13 10:20:40,035 - INFO - 跳过验证步骤: 一品红 Yipinhong.txt
+2025-05-13 10:20:40,035 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:20:40,035 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:20:40,035 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:40,036 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:40,037 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:20:40,037 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:20:40,039 - INFO - 结果保存至: output_results\results_20250513_101944\一品红 Yipinhong_result.json
+2025-05-13 10:20:40,040 - INFO - 正在处理文件: 一把伞南星 Yibasannanxing.txt
+2025-05-13 10:20:56,081 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:20:56,082 - INFO - 一把伞南星 Yibasannanxing.txt 成功解析JSON结果
+2025-05-13 10:20:56,084 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一把伞南星 Yibasannanxing_extraction_conversation.json
+2025-05-13 10:20:56,084 - INFO - 跳过验证步骤: 一把伞南星 Yibasannanxing.txt
+2025-05-13 10:20:56,086 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:20:56,086 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:20:56,086 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:56,086 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:20:56,087 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:20:56,087 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:20:56,090 - INFO - 结果保存至: output_results\results_20250513_101944\一把伞南星 Yibasannanxing_result.json
+2025-05-13 10:20:56,090 - INFO - 正在处理文件: 一枝黄花 Yizhihuanghua.txt
+2025-05-13 10:21:30,682 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:21:30,683 - INFO - 一枝黄花 Yizhihuanghua.txt 成功解析JSON结果
+2025-05-13 10:21:30,685 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一枝黄花 Yizhihuanghua_extraction_conversation.json
+2025-05-13 10:21:30,685 - INFO - 跳过验证步骤: 一枝黄花 Yizhihuanghua.txt
+2025-05-13 10:21:30,686 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:21:30,687 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:21:30,687 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:21:30,687 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:21:30,688 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:21:30,689 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:21:30,692 - INFO - 结果保存至: output_results\results_20250513_101944\一枝黄花 Yizhihuanghua_result.json
+2025-05-13 10:21:30,693 - INFO - 正在处理文件: 一点红 Yidianhong.txt
+2025-05-13 10:22:06,009 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:22:06,022 - INFO - 一点红 Yidianhong.txt 成功解析JSON结果
+2025-05-13 10:22:06,023 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\一点红 Yidianhong_extraction_conversation.json
+2025-05-13 10:22:06,023 - INFO - 跳过验证步骤: 一点红 Yidianhong.txt
+2025-05-13 10:22:06,025 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:22:06,025 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:22:06,025 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:06,025 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:06,026 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:22:06,027 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:22:06,030 - INFO - 结果保存至: output_results\results_20250513_101944\一点红 Yidianhong_result.json
+2025-05-13 10:22:06,031 - INFO - 正在处理文件: 丁香 Dingxiang.txt
+2025-05-13 10:22:24,683 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:22:24,684 - INFO - 丁香 Dingxiang.txt 成功解析JSON结果
+2025-05-13 10:22:24,684 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\丁香 Dingxiang_extraction_conversation.json
+2025-05-13 10:22:24,686 - INFO - 跳过验证步骤: 丁香 Dingxiang.txt
+2025-05-13 10:22:24,686 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:22:24,687 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:22:24,687 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:24,687 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:24,687 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:22:24,688 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:22:24,691 - INFO - 结果保存至: output_results\results_20250513_101944\丁香 Dingxiang_result.json
+2025-05-13 10:22:24,692 - INFO - 正在处理文件: 七叶一枝花 Qiyeyizhihua.txt
+2025-05-13 10:22:36,326 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:22:36,327 - INFO - 七叶一枝花 Qiyeyizhihua.txt 成功解析JSON结果
+2025-05-13 10:22:36,328 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\七叶一枝花 Qiyeyizhihua_extraction_conversation.json
+2025-05-13 10:22:36,328 - INFO - 跳过验证步骤: 七叶一枝花 Qiyeyizhihua.txt
+2025-05-13 10:22:36,329 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:22:36,329 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:22:36,329 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:36,329 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:36,329 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:22:36,330 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:22:36,338 - INFO - 结果保存至: output_results\results_20250513_101944\七叶一枝花 Qiyeyizhihua_result.json
+2025-05-13 10:22:36,338 - INFO - 正在处理文件: 七叶树 Qiyeshu.txt
+2025-05-13 10:22:52,300 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:22:52,301 - INFO - 七叶树 Qiyeshu.txt 成功解析JSON结果
+2025-05-13 10:22:52,303 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\七叶树 Qiyeshu_extraction_conversation.json
+2025-05-13 10:22:52,303 - INFO - 跳过验证步骤: 七叶树 Qiyeshu.txt
+2025-05-13 10:22:52,304 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:22:52,304 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:22:52,304 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:52,304 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:22:52,304 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:22:52,305 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:22:52,321 - INFO - 结果保存至: output_results\results_20250513_101944\七叶树 Qiyeshu_result.json
+2025-05-13 10:22:52,321 - INFO - 正在处理文件: 万寿竹 Wanshouzhu.txt
+2025-05-13 10:23:16,670 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-13 10:23:16,672 - INFO - 万寿竹 Wanshouzhu.txt 成功解析JSON结果
+2025-05-13 10:23:16,673 - INFO - 对话日志保存至: output_results\conversation_logs_20250513_101944\万寿竹 Wanshouzhu_extraction_conversation.json
+2025-05-13 10:23:16,673 - INFO - 跳过验证步骤: 万寿竹 Wanshouzhu.txt
+2025-05-13 10:23:16,674 - INFO - 当前抽取的实体类型: {'药用植物'}
+2025-05-13 10:23:16,674 - INFO - 当前抽取的关系类型: {'主治症状'}
+2025-05-13 10:23:16,674 - INFO - 实体类型 Jaccard 系数: 1.0000
+2025-05-13 10:23:16,674 - INFO - 关系类型 Jaccard 系数: 1.0000
+2025-05-13 10:23:16,675 - INFO - 更新实体类型文件: entity_types.txt
+2025-05-13 10:23:16,676 - INFO - 更新关系类型文件: relation_types.txt
+2025-05-13 10:23:16,684 - INFO - 结果保存至: output_results\results_20250513_101944\万寿竹 Wanshouzhu_result.json
+2025-05-13 10:23:16,697 - INFO - CSV记录已保存至: D:\AllProject\PyCharm\llama-index-simple-app-main\Paper\Mp-Gpts\data\divided_data\new——test\extraact\excel_outputs\extraction_results_20250513_101944.csv

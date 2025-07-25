@@ -1,0 +1,190 @@
+{
+  "entities": [
+    {
+      "entity": "万寿菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "万寿菊属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "化痰止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "上呼吸道感染",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "结膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "口腔炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿惊风",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "血瘀腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "昆明民间常用草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万寿菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "属于属",
+      "tail": "万寿菊属"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有性味",
+      "tail": "微辛"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "具有功能",
+      "tail": "化痰止咳"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "结膜炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "口腔炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "咽炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "眩晕"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "小儿惊风"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "血瘀腹痛"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "痈疮肿毒"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "记载于文献",
+      "tail": "昆明民间常用草药"
+    }
+  ]
+}

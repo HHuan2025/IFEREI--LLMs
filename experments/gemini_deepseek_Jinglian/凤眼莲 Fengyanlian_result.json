@@ -1,0 +1,429 @@
+{
+  "entities": [
+    {
+      "entity": "凤眼莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "雨久花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤眼莲属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水葫芦",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏散风热",
+      "type": "功能"
+    },
+    {
+      "entity": "利水通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿路结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "风疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疖肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "凤尾莲",
+      "type": "药材"
+    },
+    {
+      "entity": "薄荷",
+      "type": "药材"
+    },
+    {
+      "entity": "桑叶",
+      "type": "药材"
+    },
+    {
+      "entity": "空心苋",
+      "type": "药材"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "癫疝",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪小肚",
+      "type": "药材"
+    },
+    {
+      "entity": "万县中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "凤眼莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "雨久花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤眼莲属",
+      "type": "属"
+    },
+    {
+      "entity": "根或全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水葫芦",
+      "type": "药材"
+    },
+    {
+      "entity": "春、夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "洗净，晒干或鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛、淡，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "疏散风热",
+      "type": "功能"
+    },
+    {
+      "entity": "利水通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "风热感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿路结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "风疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疖肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "万县中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤眼莲",
+      "predicate": "属于科",
+      "tail": "雨久花科"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "属于属",
+      "tail": "凤眼莲属"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "别名",
+      "tail": "水葫芦"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "疏散风热"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "利水通淋"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "尿路结石"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "风疹"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "疖肿"
+    },
+    {
+      "head": "凤尾莲",
+      "predicate": "与",
+      "tail": "薄荷"
+    },
+    {
+      "head": "凤尾莲",
+      "predicate": "与",
+      "tail": "桑叶"
+    },
+    {
+      "head": "凤尾莲",
+      "predicate": "与",
+      "tail": "空心苋"
+    },
+    {
+      "head": "凤尾莲",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "凤尾莲",
+      "predicate": "记载于文献",
+      "tail": "四川中药志"
+    },
+    {
+      "head": "水葫芦",
+      "predicate": "与",
+      "tail": "猪小肚"
+    },
+    {
+      "head": "水葫芦",
+      "predicate": "治疗",
+      "tail": "癫疝"
+    },
+    {
+      "head": "水葫芦",
+      "predicate": "记载于文献",
+      "tail": "万县中草药"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "属于科",
+      "tail": "雨久花科"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "属于属",
+      "tail": "凤眼莲属"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "药用部位为",
+      "tail": "根或全草"
+    },
+    {
+      "head": "根或全草",
+      "predicate": "治疗",
+      "tail": "水葫芦"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "采收时间",
+      "tail": "春、夏季"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "采收加工",
+      "tail": "洗净，晒干或鲜用"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有性味",
+      "tail": "辛、淡，凉"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "疏散风热"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "利水通淋"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "风热感冒"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "尿路结石"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "风疹"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "治疗",
+      "tail": "疖肿"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "用法",
+      "tail": "内服:煎汤，15-30克"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "用法",
+      "tail": "外用:适量，捣敷"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "记载于文献",
+      "tail": "四川中药志"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "记载于文献",
+      "tail": "万县中草药"
+    }
+  ]
+}

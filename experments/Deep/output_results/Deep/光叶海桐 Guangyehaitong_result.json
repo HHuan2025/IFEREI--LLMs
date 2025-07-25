@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "entity": "光叶海桐",
+      "type": "药用植物"
+    },
+    {
+      "entity": "海桐花科",
+      "type": "科"
+    },
+    {
+      "entity": "海桐花属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "广枝仁",
+      "type": "中药名"
+    },
+    {
+      "entity": "光叶海桐叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "光叶海桐根",
+      "type": "中药名"
+    },
+    {
+      "entity": "虚热口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "土连翘果实",
+      "type": "中药名"
+    },
+    {
+      "entity": "常用中草药配方",
+      "type": "文献"
+    },
+    {
+      "entity": "补心",
+      "type": "疾病"
+    },
+    {
+      "entity": "山栀茶种子",
+      "type": "中药名"
+    },
+    {
+      "entity": "茯神",
+      "type": "中药名"
+    },
+    {
+      "entity": "贵州民间药物",
+      "type": "文献"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "过敏性皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "一朵云叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "梅毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后风瘫",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "山枙茶根",
+      "type": "中药名"
+    },
+    {
+      "entity": "枫荷梨",
+      "type": "中药名"
+    },
+    {
+      "entity": "中草药资料",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "光叶海桐",
+      "predicate": "属于科",
+      "tail": "海桐花科"
+    },
+    {
+      "head": "光叶海桐",
+      "predicate": "属于属",
+      "tail": "海桐花属"
+    },
+    {
+      "head": "光叶海桐",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "光叶海桐",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "光叶海桐",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "种子",
+      "predicate": "中药名",
+      "tail": "广枝仁"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "光叶海桐叶"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "光叶海桐根"
+    },
+    {
+      "head": "广枝仁",
+      "predicate": "治疗",
+      "tail": "虚热口渴"
+    },
+    {
+      "head": "广枝仁",
+      "predicate": "文献记载",
+      "tail": "常用中草药配方"
+    },
+    {
+      "head": "山栀茶种子",
+      "predicate": "治疗",
+      "tail": "补心"
+    },
+    {
+      "head": "山栀茶种子",
+      "predicate": "文献记载",
+      "tail": "贵州民间药物"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "治疗",
+      "tail": "疮疖肿毒"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "治疗",
+      "tail": "过敏性皮炎"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "文献记载",
+      "tail": "常用中草药手册"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "治疗",
+      "tail": "梅毒"
+    },
+    {
+      "head": "光叶海桐叶",
+      "predicate": "文献记载",
+      "tail": "湖南药物志"
+    },
+    {
+      "head": "光叶海桐根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "光叶海桐根",
+      "predicate": "治疗",
+      "tail": "产后风瘫"
+    },
+    {
+      "head": "光叶海桐根",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "光叶海桐根",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "光叶海桐根",
+      "predicate": "文献记载",
+      "tail": "广西中草药"
+    },
+    {
+      "head": "山枙茶根",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "山枙茶根",
+      "predicate": "文献记载",
+      "tail": "中草药资料"
+    }
+  ]
+}

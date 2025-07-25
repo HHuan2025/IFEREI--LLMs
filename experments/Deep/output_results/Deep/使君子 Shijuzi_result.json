@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "entity": "使君子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "使君子科",
+      "type": "科"
+    },
+    {
+      "entity": "使君子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "使君子",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿蛔虫咬痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "补要袖珍小儿方论",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿疳蛔",
+      "type": "疾病"
+    },
+    {
+      "entity": "幼科准绳",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿五疳",
+      "type": "疾病"
+    },
+    {
+      "entity": "局方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "使君子",
+      "predicate": "属于科",
+      "tail": "使君子科"
+    },
+    {
+      "head": "使君子",
+      "predicate": "属于属",
+      "tail": "使君子属"
+    },
+    {
+      "head": "使君子",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "使君子",
+      "predicate": "中药名",
+      "tail": "使君子"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿蛔虫咬痛"
+    },
+    {
+      "head": "补要袖珍小儿方论",
+      "predicate": "文献记载",
+      "tail": "使君子"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿疳蛔"
+    },
+    {
+      "head": "幼科准绳",
+      "predicate": "文献记载",
+      "tail": "使君子"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "小儿五疳"
+    },
+    {
+      "head": "局方",
+      "predicate": "文献记载",
+      "tail": "使君子"
+    }
+  ]
+}

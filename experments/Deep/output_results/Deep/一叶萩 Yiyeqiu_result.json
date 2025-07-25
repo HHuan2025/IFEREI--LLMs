@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "黑面神属",
+      "type": "属"
+    },
+    {
+      "entity": "嫩枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药",
+      "type": "药物类型"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一叶萩",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "属于属",
+      "tail": "黑面神属"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "药用部位",
+      "tail": "嫩枝叶"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "中药名",
+      "tail": "中药"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "文献记载",
+      "tail": "湖南药物志"
+    }
+  ]
+}

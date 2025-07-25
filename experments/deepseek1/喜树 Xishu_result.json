@@ -1,0 +1,286 @@
+{
+  "entities": [
+    {
+      "entity": "喜树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蓝果树科",
+      "type": "科"
+    },
+    {
+      "entity": "喜树属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "散结消症",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风止痒",
+      "type": "功能"
+    },
+    {
+      "entity": "活血解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消毒",
+      "type": "功能"
+    },
+    {
+      "entity": "食道癌",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃癌",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠癌",
+      "type": "疾病"
+    },
+    {
+      "entity": "贲门癌",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝癌",
+      "type": "疾病"
+    },
+    {
+      "entity": "白血病",
+      "type": "疾病"
+    },
+    {
+      "entity": "牛皮癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疮疔肿",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "喜树",
+      "predicate": "属于科",
+      "tail": "蓝果树科"
+    },
+    {
+      "head": "喜树",
+      "predicate": "属于属",
+      "tail": "喜树属"
+    },
+    {
+      "head": "喜树",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "喜树",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "喜树",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "喜树",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "别名",
+      "tail": "喜树果"
+    },
+    {
+      "head": "叶",
+      "predicate": "别名",
+      "tail": "喜树叶"
+    },
+    {
+      "head": "树皮",
+      "predicate": "别名",
+      "tail": "喜树皮"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "散结消症"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "具有功能",
+      "tail": "祛风止痒"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "具有功能",
+      "tail": "消毒"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "具有功能",
+      "tail": "活血解毒"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "具有功能",
+      "tail": "祛风止痒"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "食道癌"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "胃癌"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "肠癌"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "贲门癌"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "肝癌"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "白血病"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "牛皮癣"
+    },
+    {
+      "head": "喜树果",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "治疗",
+      "tail": "痈疮疔肿"
+    },
+    {
+      "head": "喜树叶",
+      "predicate": "治疗",
+      "tail": "牛皮癣"
+    },
+    {
+      "head": "喜树皮",
+      "predicate": "治疗",
+      "tail": "牛皮癣"
+    }
+  ]
+}

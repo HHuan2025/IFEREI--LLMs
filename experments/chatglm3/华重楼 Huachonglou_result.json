@@ -1,0 +1,374 @@
+{
+  "entities": [
+    {
+      "entity": "华重楼",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "重楼",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "凉肝定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊风抽搐",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨久咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "蚤休",
+      "type": "药材"
+    },
+    {
+      "entity": "广西民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "七叶一枝花",
+      "type": "药材"
+    },
+    {
+      "entity": "浙江民间常用草药",
+      "type": "文献"
+    },
+    {
+      "entity": "华重楼",
+      "type": "药材"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "重楼属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "凉肝定惊",
+      "type": "功能"
+    },
+    {
+      "entity": "疔疮痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "功能"
+    },
+    {
+      "entity": "跌扑伤痛",
+      "type": "功能"
+    },
+    {
+      "entity": "惊风抽搐",
+      "type": "功能"
+    },
+    {
+      "entity": "蚤休",
+      "type": "药材"
+    },
+    {
+      "entity": "鸡肉",
+      "type": "应用实例"
+    },
+    {
+      "entity": "猪肺",
+      "type": "应用实例"
+    },
+    {
+      "entity": "七叶一枝花",
+      "type": "药材"
+    },
+    {
+      "entity": "甜酒酿",
+      "type": "应用实例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华重楼",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "重楼"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "有小毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "凉肝定惊"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "跌扑伤痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "惊风抽搐"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "治疗",
+      "tail": "肺痨久咳"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "治疗",
+      "tail": "哮喘"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用草药"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "属于属",
+      "tail": "重楼属"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "具有功能",
+      "tail": "凉肝定惊"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "疔疮痈肿"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "跌扑伤痛"
+    },
+    {
+      "head": "华重楼",
+      "predicate": "治疗",
+      "tail": "惊风抽搐"
+    },
+    {
+      "head": "蚤休",
+      "predicate": "应用实例",
+      "tail": "治肺痨久咳及哮喘"
+    },
+    {
+      "head": "鸡肉",
+      "predicate": "应用实例",
+      "tail": "治肺痨久咳及哮喘"
+    },
+    {
+      "head": "猪肺",
+      "predicate": "应用实例",
+      "tail": "治肺痨久咳及哮喘"
+    },
+    {
+      "head": "七叶一枝花",
+      "predicate": "应用实例",
+      "tail": "治蛇咬伤"
+    },
+    {
+      "head": "开水",
+      "predicate": "用法",
+      "tail": "治蛇咬伤"
+    },
+    {
+      "head": "甜酒酿",
+      "predicate": "应用实例",
+      "tail": "治蛇咬伤"
+    }
+  ]
+}

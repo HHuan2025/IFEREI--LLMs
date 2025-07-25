@@ -1,0 +1,80 @@
+{
+  "entities": [
+    {
+      "entity": "凤眼莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "雨久花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤眼莲属",
+      "type": "属"
+    },
+    {
+      "entity": "根或全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水葫芦",
+      "type": "中药名"
+    },
+    {
+      "entity": "感冒风热",
+      "type": "疾病"
+    },
+    {
+      "entity": "癫疝",
+      "type": "疾病"
+    },
+    {
+      "entity": "薄荷",
+      "type": "中药名"
+    },
+    {
+      "entity": "桑叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "空心苋",
+      "type": "中药名"
+    },
+    {
+      "entity": "猪小肚",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤眼莲",
+      "predicate": "属于科",
+      "tail": "雨久花科"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "属于属",
+      "tail": "凤眼莲属"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "药用部位",
+      "tail": "根或全草"
+    },
+    {
+      "head": "凤眼莲",
+      "predicate": "中药名",
+      "tail": "水葫芦"
+    },
+    {
+      "head": "水葫芦",
+      "predicate": "治疗",
+      "tail": "感冒风热"
+    },
+    {
+      "head": "水葫芦",
+      "predicate": "治疗",
+      "tail": "癫疝"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "entity": "佩兰",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "泽兰属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藿香叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "陈皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "制半夏",
+      "type": "中药名"
+    },
+    {
+      "entity": "大腹皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "厚朴",
+      "type": "中药名"
+    },
+    {
+      "entity": "鲜薄荷叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "青蒿",
+      "type": "中药名"
+    },
+    {
+      "entity": "菊花",
+      "type": "中药名"
+    },
+    {
+      "entity": "绿豆衣",
+      "type": "中药名"
+    },
+    {
+      "entity": "五月霉湿",
+      "type": "疾病"
+    },
+    {
+      "entity": "秽浊之气",
+      "type": "疾病"
+    },
+    {
+      "entity": "中暑头痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佩兰",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "属于属",
+      "tail": "泽兰属"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "药用部位",
+      "tail": "地上部分"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "五月霉湿"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "秽浊之气"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "中暑头痛"
+    }
+  ]
+}

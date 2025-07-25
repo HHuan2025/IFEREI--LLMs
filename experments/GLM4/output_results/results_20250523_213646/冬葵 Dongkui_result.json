@@ -1,0 +1,98 @@
+{
+  "entities": [
+    {
+      "entity": "冬葵",
+      "type": "药用植物"
+    },
+    {
+      "entity": "锦葵科",
+      "type": "科"
+    },
+    {
+      "entity": "锦葵属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "嫩苗",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬葵子",
+      "type": "药材"
+    },
+    {
+      "entity": "冬葵叶",
+      "type": "药材"
+    },
+    {
+      "entity": "冬葵根",
+      "type": "药材"
+    },
+    {
+      "entity": "小儿小便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "滑石末",
+      "type": "药材"
+    },
+    {
+      "entity": "时行黄病",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬葵",
+      "predicate": "属于科",
+      "tail": "锦葵科"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "属于属",
+      "tail": "锦葵属"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位",
+      "tail": "嫩苗"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "冬葵子",
+      "predicate": "治疗",
+      "tail": "小儿小便不通"
+    },
+    {
+      "head": "冬葵叶",
+      "predicate": "治疗",
+      "tail": "时行黄病"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "entity": "冬瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "冬瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "全身浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "西瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "白茅根",
+      "type": "药材"
+    },
+    {
+      "entity": "玉蜀黍蕊",
+      "type": "药材"
+    },
+    {
+      "entity": "赤豆",
+      "type": "药材"
+    },
+    {
+      "entity": "损伤腰痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于属",
+      "tail": "冬瓜属"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "药用部位",
+      "tail": "外层果皮"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "肾炎"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "全身浮肿"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "损伤腰痛"
+    }
+  ]
+}

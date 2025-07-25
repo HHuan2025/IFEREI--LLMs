@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "entity": "兴安升麻",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "升麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根状茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "升麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄柏",
+      "type": "中药名"
+    },
+    {
+      "entity": "大青",
+      "type": "中药名"
+    },
+    {
+      "entity": "卒肿毒起",
+      "type": "疾病"
+    },
+    {
+      "entity": "急痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兴安升麻",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "属于属",
+      "tail": "升麻属"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "药用部位",
+      "tail": "根状茎"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "中药名",
+      "tail": "升麻"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "口疮"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "卒肿毒起"
+    },
+    {
+      "head": "升麻",
+      "predicate": "治疗",
+      "tail": "急痛"
+    }
+  ]
+}

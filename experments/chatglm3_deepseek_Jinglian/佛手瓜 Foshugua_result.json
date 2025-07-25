@@ -1,0 +1,600 @@
+{
+  "entities": [
+    {
+      "entity": "佛手瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "佛手瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛手瓜叶",
+      "type": "药材"
+    },
+    {
+      "entity": "佛手瓜果",
+      "type": "药材"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "清热消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾消食",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "创伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "研碎外用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "佛手瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "佛手瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛手瓜叶",
+      "type": "药材"
+    },
+    {
+      "entity": "佛手瓜果",
+      "type": "药材"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "清热消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾消食",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "创伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "佛手瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "佛手瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "佛手瓜叶",
+      "type": "药材"
+    },
+    {
+      "entity": "佛手瓜果",
+      "type": "药材"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "清热消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾消食",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "创伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "佛手瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "佛手瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "清热消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾消食",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "创伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "鲜用",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛手瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于属",
+      "tail": "佛手瓜属"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "中药名",
+      "tail": "叶"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "中药名",
+      "tail": "果实"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "具有功能",
+      "tail": "清热消肿"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "具有功能",
+      "tail": "健脾消食"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "治疗",
+      "tail": "创伤"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "采收加工",
+      "tail": "研碎外用"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "佛手瓜叶",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "佛手瓜果",
+      "predicate": "用法",
+      "tail": "鲜用"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于属",
+      "tail": "佛手瓜属"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "佛手瓜叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "佛手瓜果"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热消肿"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾消食"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "创伤"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于属",
+      "tail": "佛手瓜属"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "佛手瓜叶"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "佛手瓜果"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热消肿"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾消食"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "创伤"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "属于属",
+      "tail": "佛手瓜属"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "佛手瓜",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热消肿"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "健脾消食"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "创伤"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "鲜用"
+    }
+  ]
+}

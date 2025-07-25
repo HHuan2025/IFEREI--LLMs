@@ -1,0 +1,530 @@
+{
+  "entities": [
+    {
+      "entity": "假蒟",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡椒科",
+      "type": "科"
+    },
+    {
+      "entity": "胡椒属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "疾病"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果",
+      "type": "药用部位"
+    },
+    {
+      "entity": "假蒟根",
+      "type": "药材"
+    },
+    {
+      "entity": "假蒟子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "活络",
+      "type": "动物"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "截虐",
+      "type": "器官"
+    },
+    {
+      "entity": "温中散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后脚肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "动物"
+    },
+    {
+      "entity": "寒湿腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "泡酒",
+      "type": "剂型"
+    },
+    {
+      "entity": "捣敷",
+      "type": "外用"
+    },
+    {
+      "entity": "鲜假蒟",
+      "type": "其他"
+    },
+    {
+      "entity": "柠檬叶",
+      "type": "其他"
+    },
+    {
+      "entity": "钻骨风根",
+      "type": "化学物质"
+    },
+    {
+      "entity": "钻骨风果",
+      "type": "其他"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋季",
+      "type": "动物"
+    },
+    {
+      "entity": "阴干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "9-15克",
+      "type": "化学物质"
+    },
+    {
+      "entity": "10-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "1.5-3克",
+      "type": "用法用量"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假蒟",
+      "predicate": "治疗",
+      "tail": "伪尾实体597"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "属于属",
+      "tail": "胡椒属"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "果"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有颜色",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "活络"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "伪尾实体662"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "位于",
+      "tail": "止痛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "截虐"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "伪尾实体711"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "化湿消肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "茎",
+      "predicate": "相关基因",
+      "tail": "泄泻痢疾"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "产后脚肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "伪尾实体485"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "伪尾实体209"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "寒湿腹泻"
+    },
+    {
+      "head": "果",
+      "predicate": "具有颜色",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "茎",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "茎",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "泡酒"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "10-15克"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "根",
+      "predicate": "外用",
+      "tail": "含漱"
+    },
+    {
+      "head": "果",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果",
+      "predicate": "用法用量",
+      "tail": "1.5-3克"
+    },
+    {
+      "head": "果",
+      "predicate": "外用",
+      "tail": "伪尾实体637"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "采收加工",
+      "tail": "伪尾实体332"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "果",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "果",
+      "predicate": "采收加工",
+      "tail": "阴干"
+    }
+  ]
+}

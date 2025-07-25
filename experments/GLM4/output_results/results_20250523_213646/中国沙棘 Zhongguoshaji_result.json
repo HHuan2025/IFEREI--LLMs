@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "entity": "中国沙棘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡颓子科",
+      "type": "科"
+    },
+    {
+      "entity": "沙棘属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "沙棘",
+      "type": "药材"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "白葡萄干",
+      "type": "药材"
+    },
+    {
+      "entity": "栀子",
+      "type": "药材"
+    },
+    {
+      "entity": "广木香",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中国沙棘",
+      "predicate": "属于科",
+      "tail": "胡颓子科"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "属于属",
+      "tail": "沙棘属"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "沙棘",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "沙棘",
+      "predicate": "治疗",
+      "tail": "痰多"
+    }
+  ]
+}

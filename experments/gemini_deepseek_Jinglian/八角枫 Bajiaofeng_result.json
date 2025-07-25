@@ -1,0 +1,600 @@
+{
+  "entities": [
+    {
+      "entity": "八角枫",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八角枫科",
+      "type": "科"
+    },
+    {
+      "entity": "八角枫属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角枫根",
+      "type": "药材"
+    },
+    {
+      "entity": "八角枫叶",
+      "type": "药材"
+    },
+    {
+      "entity": "八角枫花",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "化瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘫痪",
+      "type": "疾病"
+    },
+    {
+      "entity": "无名肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "漆疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "白龙须",
+      "type": "药材"
+    },
+    {
+      "entity": "白牛膝",
+      "type": "药材"
+    },
+    {
+      "entity": "曲靖专区中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "筋骨疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "八角枫",
+      "type": "药用植物"
+    },
+    {
+      "entity": "八角枫科",
+      "type": "科"
+    },
+    {
+      "entity": "八角枫属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "八角枫根",
+      "type": "药材"
+    },
+    {
+      "entity": "八角枫叶",
+      "type": "药材"
+    },
+    {
+      "entity": "八角枫花",
+      "type": "药材"
+    },
+    {
+      "entity": "8-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "6-9月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "5-7月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛、苦，微温",
+      "type": "性味"
+    },
+    {
+      "entity": "苦、辛，平",
+      "type": "性味"
+    },
+    {
+      "entity": "辛，平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿，舒筋活络，散瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿，化瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘫痪",
+      "type": "疾病"
+    },
+    {
+      "entity": "无名肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "漆疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "白龙须1.2克，白牛膝9克，炖猪脚吃",
+      "type": "功能"
+    },
+    {
+      "entity": "曲靖专区中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "八角枫叶适量，煎汤外洗",
+      "type": "功能"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "八角枫",
+      "predicate": "属于科",
+      "tail": "八角枫科"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "属于属",
+      "tail": "八角枫属"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有功能",
+      "tail": "散瘀止痛"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "瘫痪"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "无名肿毒"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有功能",
+      "tail": "化瘀止痛"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "漆疮"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "白龙须",
+      "predicate": "与",
+      "tail": "白牛膝"
+    },
+    {
+      "head": "筋骨疼痛",
+      "predicate": "记载于文献",
+      "tail": "曲靖专区中草药"
+    },
+    {
+      "head": "漆疮",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "属于科",
+      "tail": "八角枫科"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "属于属",
+      "tail": "八角枫属"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "八角枫",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "根"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "叶"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "治疗",
+      "tail": "花"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "采收时间",
+      "tail": "8-10月"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "采收时间",
+      "tail": "6-9月"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "采收时间",
+      "tail": "5-7月"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有性味",
+      "tail": "辛、苦，微温"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有性味",
+      "tail": "苦、辛，平"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "具有性味",
+      "tail": "辛，平"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿，舒筋活络，散瘀止痛"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "具有功能",
+      "tail": "解毒消肿，化瘀止痛"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "瘫痪"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "无名肿毒"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "漆疮"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "疥癣"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "用法",
+      "tail": "内服:煎汤，须根1-3克，根3-6克；或浸酒"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "用法",
+      "tail": "外用:捣敷或煎汤洗"
+    },
+    {
+      "head": "八角枫花",
+      "predicate": "用法",
+      "tail": "内服:煎汤，3-10克；或研末蒸鸡蛋服"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "应用实例",
+      "tail": "白龙须1.2克，白牛膝9克，炖猪脚吃"
+    },
+    {
+      "head": "八角枫根",
+      "predicate": "记载于文献",
+      "tail": "曲靖专区中草药"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "应用实例",
+      "tail": "八角枫叶适量，煎汤外洗"
+    },
+    {
+      "head": "八角枫叶",
+      "predicate": "记载于文献",
+      "tail": "广西本草选编"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "entities": [
+    {
+      "entity": "人参",
+      "type": "药材"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "人参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "生晒参",
+      "type": "药材"
+    },
+    {
+      "entity": "红参",
+      "type": "药材"
+    },
+    {
+      "entity": "糖参",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "大补元气",
+      "type": "功能"
+    },
+    {
+      "entity": "补脾益肺",
+      "type": "功能"
+    },
+    {
+      "entity": "生津",
+      "type": "功能"
+    },
+    {
+      "entity": "安神益智",
+      "type": "功能"
+    },
+    {
+      "entity": "补气益肺",
+      "type": "功能"
+    },
+    {
+      "entity": "祛暑生津",
+      "type": "功能"
+    },
+    {
+      "entity": "体虚欲脱",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢冷脉微",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚食少",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺虚喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "津伤口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "内热消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "久病虚羸",
+      "type": "疾病"
+    },
+    {
+      "entity": "惊悸失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳痿宫冷",
+      "type": "疾病"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "心原性休克",
+      "type": "疾病"
+    },
+    {
+      "entity": "气虚咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "暑热烦躁",
+      "type": "疾病"
+    },
+    {
+      "entity": "头目不清",
+      "type": "疾病"
+    },
+    {
+      "entity": "四肢倦乏",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "熬膏",
+      "type": "用法"
+    },
+    {
+      "entity": "泡酒",
+      "type": "用法"
+    },
+    {
+      "entity": "入丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "实热证",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热证",
+      "type": "疾病"
+    },
+    {
+      "entity": "正气不虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "藜芦",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "人参",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "人参",
+      "predicate": "属于属",
+      "tail": "人参属"
+    },
+    {
+      "head": "人参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "人参",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "大补元气"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "补脾益肺"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "生津"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "安神益智"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "补气益肺"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "祛暑生津"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "体虚欲脱"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肢冷脉微"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "脾虚食少"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肺虚喘咳"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "津伤口渴"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "内热消渴"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "久病虚羸"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "惊悸失眠"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "阳痿宫冷"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "心原性休克"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "气虚咳嗽"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "暑热烦躁"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "头目不清"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "四肢倦乏"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "熬膏"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "泡酒"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "入丸"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "煎汤"
+    }
+  ]
+}

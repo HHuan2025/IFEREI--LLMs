@@ -1,0 +1,661 @@
+{
+  "entities": [
+    {
+      "entity": "变叶榕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桑科",
+      "type": "科"
+    },
+    {
+      "entity": "榕属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "变叶榕",
+      "type": "药材"
+    },
+    {
+      "entity": "全年均可采收",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用或晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "味微苦、辛，性微温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疖肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒擦",
+      "type": "用法"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "变叶榕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "30克",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎",
+      "type": "用法"
+    },
+    {
+      "entity": "新伤调童便、白糖各适量服",
+      "type": "用法"
+    },
+    {
+      "entity": "伤在7天以后调米酒60克服",
+      "type": "用法"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "红花",
+      "type": "疾病"
+    },
+    {
+      "entity": "少许",
+      "type": "用法用量"
+    },
+    {
+      "entity": "同浸烧酒数日后，擦患处",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "变叶榕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "30克",
+      "type": "疾病"
+    },
+    {
+      "entity": "猪舌头",
+      "type": "疾病"
+    },
+    {
+      "entity": "适量",
+      "type": "疾病"
+    },
+    {
+      "entity": "水炖服",
+      "type": "用法"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "变叶榕",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桑科",
+      "type": "科"
+    },
+    {
+      "entity": "榕属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疖肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "红花",
+      "type": "药材"
+    },
+    {
+      "entity": "猪舌头",
+      "type": "药材"
+    },
+    {
+      "entity": "变叶榕",
+      "type": "药材"
+    },
+    {
+      "entity": "桑科",
+      "type": "科"
+    },
+    {
+      "entity": "榕属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "催乳",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疖肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "变叶榕",
+      "predicate": "属于科",
+      "tail": "伪尾实体118"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "属于属",
+      "tail": "榕属"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "全年均可采收",
+      "predicate": "采收时间",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "鲜用或晒干",
+      "predicate": "采收加工",
+      "tail": "伪尾实体544"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "味微苦、辛，性微温"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "催乳"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "疖肿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "乳汁不下"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "剂型",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "30-60克",
+      "predicate": "用法用量",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "外用",
+      "predicate": "具有性味",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "适量",
+      "predicate": "具有性味",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "浸酒擦",
+      "predicate": "用法",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "应用举例",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "30克",
+      "predicate": "用法用量",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "水煎",
+      "predicate": "用法",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "新伤调童便、白糖各适量服",
+      "predicate": "用法",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "伤在7天以后调米酒60克服",
+      "predicate": "用法",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "根皮",
+      "predicate": "药用部位为",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "适量",
+      "predicate": "用法用量",
+      "tail": "根皮"
+    },
+    {
+      "head": "红花",
+      "predicate": "包含中药",
+      "tail": "根皮"
+    },
+    {
+      "head": "少许",
+      "predicate": "用法用量",
+      "tail": "红花"
+    },
+    {
+      "head": "同浸烧酒数日后，擦患处",
+      "predicate": "具有性味",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "记载于文献",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "催乳",
+      "predicate": "应用举例",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "30克",
+      "predicate": "用法用量",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "猪舌头",
+      "predicate": "包含中药",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "适量",
+      "predicate": "用法用量",
+      "tail": "猪舌头"
+    },
+    {
+      "head": "水炖服",
+      "predicate": "具有性味",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "记载于文献",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "属于科",
+      "tail": "桑科"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "属于属",
+      "tail": "榕属"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "疖肿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "乳汁不下"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "治疗",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "治疗",
+      "tail": "红花"
+    },
+    {
+      "head": "催乳",
+      "predicate": "治疗",
+      "tail": "变叶榕"
+    },
+    {
+      "head": "催乳",
+      "predicate": "治疗",
+      "tail": "猪舌头"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "属于科",
+      "tail": "桑科"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "属于属",
+      "tail": "榕属"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "具有功能",
+      "tail": "催乳"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "疖肿"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "治疗",
+      "tail": "乳汁不下"
+    },
+    {
+      "head": "变叶榕",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

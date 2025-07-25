@@ -1,0 +1,386 @@
+{
+  "entities": [
+    {
+      "entity": "叶下珠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "叶下珠属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "余甘子",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "利水消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "平肝明目",
+      "type": "功能"
+    },
+    {
+      "entity": "消疳积",
+      "type": "功能"
+    },
+    {
+      "entity": "肠炎腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "石淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤白痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜盲",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "脾胃处寒者",
+      "type": "其他"
+    },
+    {
+      "entity": "鲜叶下珠",
+      "type": "药用植物"
+    },
+    {
+      "entity": "60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜马鞭草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "90克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鲜半边莲",
+      "type": "药用植物"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "鲜黄胆草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "母螺",
+      "type": "其他"
+    },
+    {
+      "entity": "7粒",
+      "type": "用法用量"
+    },
+    {
+      "entity": "鹅肝",
+      "type": "其他"
+    },
+    {
+      "entity": "1个",
+      "type": "用法用量"
+    },
+    {
+      "entity": "冰糖",
+      "type": "其他"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "叶下珠",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "属于属",
+      "tail": "叶下珠属"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "药用部位为",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "包含于",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "夏",
+      "predicate": "采收时间",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "秋季",
+      "predicate": "采收时间",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有功能",
+      "tail": "利水消肿"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有功能",
+      "tail": "平肝明目"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "具有功能",
+      "tail": "消疳积"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "肠炎腹泻"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "热淋"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "石淋"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "赤白痢"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "肾炎水肿"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "夜盲"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "口疮"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "主治疾病",
+      "tail": "黄疸"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "剂型",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "15-30克",
+      "predicate": "用法用量",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "适量",
+      "predicate": "用法用量",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "捣敷",
+      "predicate": "用法",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "叶下珠",
+      "predicate": "不宜与",
+      "tail": "脾胃处寒者"
+    },
+    {
+      "head": "黄疸",
+      "predicate": "应用举例",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "鲜叶下珠",
+      "predicate": "包含中药",
+      "tail": "黄疸"
+    },
+    {
+      "head": "鲜马鞭草",
+      "predicate": "包含中药",
+      "tail": "黄疸"
+    },
+    {
+      "head": "鲜半边莲",
+      "predicate": "包含中药",
+      "tail": "黄疸"
+    },
+    {
+      "head": "黄疸",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "应用举例",
+      "tail": "叶下珠"
+    },
+    {
+      "head": "鲜叶下珠",
+      "predicate": "包含中药",
+      "tail": "肝炎"
+    },
+    {
+      "head": "鲜黄胆草",
+      "predicate": "包含中药",
+      "tail": "肝炎"
+    },
+    {
+      "head": "肝炎",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

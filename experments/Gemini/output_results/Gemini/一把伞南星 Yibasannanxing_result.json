@@ -1,0 +1,104 @@
+{
+  "entities": [
+    {
+      "entity": "一把伞南星",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "天南星属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "天南星",
+      "type": "中药名"
+    },
+    {
+      "entity": "上焦痰",
+      "type": "疾病"
+    },
+    {
+      "entity": "头眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "风痰",
+      "type": "疾病"
+    },
+    {
+      "entity": "风眩目转",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝瘕肠痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤寒时疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "强阴",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一把伞南星",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "属于属",
+      "tail": "天南星属"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "药用部位",
+      "tail": "块茎"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "上焦痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "头眩晕"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风痰"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "风眩目转"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "疝瘕肠痛"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "伤寒时疾"
+    },
+    {
+      "head": "一把伞南星",
+      "predicate": "治疗",
+      "tail": "强阴"
+    }
+  ]
+}

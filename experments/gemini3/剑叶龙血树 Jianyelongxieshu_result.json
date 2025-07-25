@@ -1,0 +1,252 @@
+{
+  "entities": [
+    {
+      "entity": "剑叶龙血树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "龙血树属",
+      "type": "属"
+    },
+    {
+      "entity": "含脂木材",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树脂",
+      "type": "其他"
+    },
+    {
+      "entity": "龙血竭",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "咸",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "其他"
+    },
+    {
+      "entity": "活血化瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "止血定痛",
+      "type": "功能"
+    },
+    {
+      "entity": "敛疮生肌",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘀血作痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女气血凝滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血脓疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "久不收口",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "剂型"
+    },
+    {
+      "entity": "1-1.5克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸剂",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "膏药",
+      "type": "剂型"
+    },
+    {
+      "entity": "医林集要",
+      "type": "文献"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "血竭",
+      "type": "药材"
+    },
+    {
+      "entity": "蒲黄",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "剑叶龙血树",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "剑叶龙血树",
+      "predicate": "属于属",
+      "tail": "龙血树属"
+    },
+    {
+      "head": "剑叶龙血树",
+      "predicate": "药用部位为",
+      "tail": "含脂木材"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "药用部位为",
+      "tail": "伪尾实体927"
+    },
+    {
+      "head": "剑叶龙血树",
+      "predicate": "具有颜色",
+      "tail": "采取果实，置蒸笼内蒸煮，使树脂渗出；或取果实捣烂，置布袋内，榨取树脂，然后煎熬成糖浆状，冷却凝固成块状。亦有将树干砍破或钻以若干小孔，使树脂自然渗出，凝固而成。"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有性味",
+      "tail": "咸"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "相关基因",
+      "tail": "活血化瘀"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有功能",
+      "tail": "止血定痛"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "具有功能",
+      "tail": "伪尾实体445"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "瘀血作痛"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "妇女气血凝滞"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "外伤出血脓疮"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "久不收口"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "内服",
+      "tail": "研末"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "用法用量",
+      "tail": "1-1.5克"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "内服",
+      "tail": "丸剂"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "外用",
+      "tail": "伪尾实体726"
+    },
+    {
+      "head": "血竭",
+      "predicate": "包含中药",
+      "tail": "蒲黄"
+    },
+    {
+      "head": "鼻衄",
+      "predicate": "应用举例",
+      "tail": "血竭"
+    },
+    {
+      "head": "鼻衄",
+      "predicate": "应用举例",
+      "tail": "伪尾实体713"
+    },
+    {
+      "head": "鼻衄",
+      "predicate": "记载于文献",
+      "tail": "医林集要"
+    }
+  ]
+}

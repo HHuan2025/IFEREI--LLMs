@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "entity": "刺芋",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "刺芋属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竻慈姑",
+      "type": "中药名"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便混浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西本草选编",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺芋",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "属于属",
+      "tail": "刺芋属"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "中药名",
+      "tail": "竻慈姑"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "肾炎"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "小便混浊"
+    },
+    {
+      "head": "广西本草选编",
+      "predicate": "文献记载",
+      "tail": "刺芋"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "刺芋",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    }
+  ]
+}

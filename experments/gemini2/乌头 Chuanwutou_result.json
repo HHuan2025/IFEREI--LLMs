@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "entity": "乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "乌头属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "川乌头",
+      "type": "药材"
+    },
+    {
+      "entity": "辛苦",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "温经散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "行瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "关节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢体麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "干蝎",
+      "type": "药材"
+    },
+    {
+      "entity": "五灵脂",
+      "type": "药材"
+    },
+    {
+      "entity": "炮川乌",
+      "type": "药材"
+    },
+    {
+      "entity": "苍朮",
+      "type": "药材"
+    },
+    {
+      "entity": "自然铜",
+      "type": "药材"
+    },
+    {
+      "entity": "麻黄",
+      "type": "药材"
+    },
+    {
+      "entity": "芍药",
+      "type": "药材"
+    },
+    {
+      "entity": "黄苠",
+      "type": "药材"
+    },
+    {
+      "entity": "炙甘草",
+      "type": "药材"
+    },
+    {
+      "entity": "川鸟",
+      "type": "药材"
+    },
+    {
+      "entity": "脚气疼痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头",
+      "predicate": "药用部位为",
+      "tail": "块根"
+    },
+    {
+      "head": "川乌头",
+      "predicate": "别名",
+      "tail": "乌头"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有性味",
+      "tail": "辛苦"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "温经散寒"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "行瘀止痛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "关节疼痛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "肢体麻木"
+    },
+    {
+      "head": "川乌头",
+      "predicate": "与",
+      "tail": "干蝎"
+    },
+    {
+      "head": "炮川乌",
+      "predicate": "与",
+      "tail": "五灵脂"
+    },
+    {
+      "head": "炮川乌",
+      "predicate": "与",
+      "tail": "苍朮"
+    },
+    {
+      "head": "炮川乌",
+      "predicate": "与",
+      "tail": "自然铜"
+    },
+    {
+      "head": "川鸟",
+      "predicate": "与",
+      "tail": "麻黄"
+    },
+    {
+      "head": "川鸟",
+      "predicate": "与",
+      "tail": "芍药"
+    },
+    {
+      "head": "川鸟",
+      "predicate": "与",
+      "tail": "黄苠"
+    },
+    {
+      "head": "川鸟",
+      "predicate": "与",
+      "tail": "炙甘草"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "脚气疼痛"
+    }
+  ]
+}

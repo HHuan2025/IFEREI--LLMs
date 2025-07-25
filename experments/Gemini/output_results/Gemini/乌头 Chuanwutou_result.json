@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "entity": "乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "乌头属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "川乌头",
+      "type": "中药名"
+    },
+    {
+      "entity": "风痹四肢疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "干蝎",
+      "type": "其他"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "五灵脂",
+      "type": "其他"
+    },
+    {
+      "entity": "炮川乌",
+      "type": "其他"
+    },
+    {
+      "entity": "苍朮",
+      "type": "其他"
+    },
+    {
+      "entity": "自然铜",
+      "type": "其他"
+    },
+    {
+      "entity": "脚气疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "麻黄",
+      "type": "其他"
+    },
+    {
+      "entity": "芍药",
+      "type": "其他"
+    },
+    {
+      "entity": "黄苠",
+      "type": "其他"
+    },
+    {
+      "entity": "炙甘草",
+      "type": "其他"
+    },
+    {
+      "entity": "川鸟",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "乌头",
+      "predicate": "属于属",
+      "tail": "乌头属"
+    },
+    {
+      "head": "乌头",
+      "predicate": "药用部位",
+      "tail": "块根"
+    },
+    {
+      "head": "乌头",
+      "predicate": "中药名",
+      "tail": "川乌头"
+    },
+    {
+      "head": "川乌头",
+      "predicate": "治疗",
+      "tail": "风痹四肢疼痛"
+    },
+    {
+      "head": "川乌头",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "川乌头",
+      "predicate": "治疗",
+      "tail": "脚气疼痛"
+    }
+  ]
+}

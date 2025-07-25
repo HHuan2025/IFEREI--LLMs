@@ -1,0 +1,359 @@
+{
+  "entities": [
+    {
+      "entity": "叉分蓼",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蓼科",
+      "type": "科"
+    },
+    {
+      "entity": "蓼属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "酸不溜",
+      "type": "药材"
+    },
+    {
+      "entity": "酸不溜根",
+      "type": "药材"
+    },
+    {
+      "entity": "夏、秋间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晾干",
+      "type": "化学物质"
+    },
+    {
+      "entity": "春、秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干备用",
+      "type": "采收加工"
+    },
+    {
+      "entity": "酸、苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "化学物质"
+    },
+    {
+      "entity": "酸、甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘿",
+      "type": "功能"
+    },
+    {
+      "entity": "止泻",
+      "type": "功能"
+    },
+    {
+      "entity": "祛寒温肾",
+      "type": "功能"
+    },
+    {
+      "entity": "理气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "止泻止痢",
+      "type": "功能"
+    },
+    {
+      "entity": "大小肠积热",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘿瘤",
+      "type": "疾病"
+    },
+    {
+      "entity": "热泻腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒疝",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴囊出汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末0.9-1.5克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水熏",
+      "type": "化学物质"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "中国沙漠地区药用植物",
+      "type": "器官"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "叉分蓼",
+      "predicate": "属于科",
+      "tail": "蓼科"
+    },
+    {
+      "head": "叉分蓼",
+      "predicate": "属于属",
+      "tail": "蓼属"
+    },
+    {
+      "head": "叉分蓼",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "叉分蓼",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "全草",
+      "predicate": "包含中药",
+      "tail": "酸不溜"
+    },
+    {
+      "head": "根",
+      "predicate": "相关基因",
+      "tail": "酸不溜根"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收时间",
+      "tail": "夏、秋间"
+    },
+    {
+      "head": "全草",
+      "predicate": "采收加工",
+      "tail": "晾干"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "春、秋季"
+    },
+    {
+      "head": "根",
+      "predicate": "采收加工",
+      "tail": "晒干备用"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "酸、苦"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "伪尾实体84"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "酸、甘"
+    },
+    {
+      "head": "根",
+      "predicate": "相关基因",
+      "tail": "温"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "散瘿"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "止泻"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛寒温肾"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "理气止痛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "止泻止痢"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "大小肠积热"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "瘿瘤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "热泻腹痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "寒疝"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "阴囊出汗"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "伪尾实体843"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "全草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "研末1.5-3克"
+    },
+    {
+      "head": "根",
+      "predicate": "内服",
+      "tail": "伪尾实体818"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "研末0.9-1.5克"
+    },
+    {
+      "head": "全草",
+      "predicate": "外用",
+      "tail": "煎水熏"
+    },
+    {
+      "head": "全草",
+      "predicate": "相关基因",
+      "tail": "热泻腹痛"
+    },
+    {
+      "head": "全草",
+      "predicate": "记载于文献",
+      "tail": "伪尾实体331"
+    },
+    {
+      "head": "根",
+      "predicate": "应用举例",
+      "tail": "寒疝"
+    },
+    {
+      "head": "根",
+      "predicate": "应用举例",
+      "tail": "阴囊出汗"
+    },
+    {
+      "head": "根",
+      "predicate": "具有颜色",
+      "tail": "中国沙漠地区药用植物"
+    }
+  ]
+}

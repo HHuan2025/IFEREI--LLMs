@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "entity": "乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "乌头属",
+      "type": "属"
+    },
+    {
+      "entity": "块根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "川乌头",
+      "type": "药用植物"
+    },
+    {
+      "entity": "辛苦",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "温经散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "行瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "关节疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢体麻木",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "乌头",
+      "predicate": "属于属",
+      "tail": "乌头属"
+    },
+    {
+      "head": "乌头",
+      "predicate": "药用部位为",
+      "tail": "块根"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有性味",
+      "tail": "辛苦"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "温经散寒"
+    },
+    {
+      "head": "乌头",
+      "predicate": "具有功能",
+      "tail": "行瘀止痛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "关节疼痛"
+    },
+    {
+      "head": "乌头",
+      "predicate": "治疗",
+      "tail": "肢体麻木"
+    }
+  ]
+}

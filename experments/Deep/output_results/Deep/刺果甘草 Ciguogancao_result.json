@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "entity": "刺果甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "甘草属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "狗甘草根",
+      "type": "中药名"
+    },
+    {
+      "entity": "奶汁缺少",
+      "type": "疾病"
+    },
+    {
+      "entity": "河南中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "秦岭巴山天然药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺果甘草",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "属于属",
+      "tail": "甘草属"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "刺果甘草",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "狗甘草根"
+    },
+    {
+      "head": "狗甘草",
+      "predicate": "治疗",
+      "tail": "奶汁缺少"
+    },
+    {
+      "head": "河南中草药手册",
+      "predicate": "文献记载",
+      "tail": "狗甘草"
+    },
+    {
+      "head": "狗甘草根",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "秦岭巴山天然药物志",
+      "predicate": "文献记载",
+      "tail": "狗甘草根"
+    }
+  ]
+}

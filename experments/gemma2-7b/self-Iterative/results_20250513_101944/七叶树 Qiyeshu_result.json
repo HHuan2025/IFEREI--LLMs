@@ -1,0 +1,29 @@
+{
+  "entities": [
+    {
+      "entity": "七叶树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "娑罗子",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "娑罗子",
+      "predicate": "主治症状",
+      "tail": "胃痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治症状",
+      "tail": "九种心痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治症状",
+      "tail": "乳房小叶增生"
+    }
+  ]
+}

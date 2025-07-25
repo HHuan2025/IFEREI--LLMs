@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "entity": "万寿竹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万寿竹属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "竹叶参",
+      "type": "药物类型"
+    },
+    {
+      "entity": "风湿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "山竹花根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "红孩儿根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大血藤根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "虎刺根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万寿竹",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "属于属",
+      "tail": "万寿竹属"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "药用部位",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "万寿竹",
+      "predicate": "中药名",
+      "tail": "竹叶参"
+    },
+    {
+      "head": "竹叶参",
+      "predicate": "治疗",
+      "tail": "风湿痛"
+    },
+    {
+      "head": "竹叶参",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    },
+    {
+      "head": "江西草药",
+      "predicate": "文献记载",
+      "tail": "竹叶参"
+    }
+  ]
+}

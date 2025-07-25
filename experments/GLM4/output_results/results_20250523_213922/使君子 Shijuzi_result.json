@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "entity": "使君子",
+      "type": "中药名"
+    },
+    {
+      "entity": "使君子科",
+      "type": "科"
+    },
+    {
+      "entity": "使君子属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "蛔虫",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘草",
+      "type": "中药名"
+    },
+    {
+      "entity": "白芜荑",
+      "type": "中药名"
+    },
+    {
+      "entity": "苦楝子",
+      "type": "中药名"
+    },
+    {
+      "entity": "疳",
+      "type": "疾病"
+    },
+    {
+      "entity": "厚朴",
+      "type": "中药名"
+    },
+    {
+      "entity": "陈皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "川芎",
+      "type": "中药名"
+    },
+    {
+      "entity": "脾胃不和",
+      "type": "疾病"
+    },
+    {
+      "entity": "心腹膨胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "不进饮食",
+      "type": "疾病"
+    },
+    {
+      "entity": "羸瘦",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "使君子",
+      "predicate": "属于科",
+      "tail": "使君子科"
+    },
+    {
+      "head": "使君子",
+      "predicate": "属于属",
+      "tail": "使君子属"
+    },
+    {
+      "head": "使君子",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "蛔虫"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "疳"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "脾胃不和"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "心腹膨胀"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "不进饮食"
+    },
+    {
+      "head": "使君子",
+      "predicate": "治疗",
+      "tail": "羸瘦"
+    }
+  ]
+}

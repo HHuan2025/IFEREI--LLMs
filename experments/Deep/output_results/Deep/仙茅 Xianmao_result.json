@@ -1,0 +1,138 @@
+{
+  "entities": [
+    {
+      "entity": "仙茅",
+      "type": "药用植物"
+    },
+    {
+      "entity": "石蒜科",
+      "type": "科"
+    },
+    {
+      "entity": "仙茅属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "仙茅",
+      "type": "中药名"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "耳鸣",
+      "type": "疾病"
+    },
+    {
+      "entity": "金樱子根及果实",
+      "type": "中药名"
+    },
+    {
+      "entity": "贵州草药",
+      "type": "文献"
+    },
+    {
+      "entity": "老年遗尿",
+      "type": "疾病"
+    },
+    {
+      "entity": "定喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "补心肾",
+      "type": "疾病"
+    },
+    {
+      "entity": "下气",
+      "type": "疾病"
+    },
+    {
+      "entity": "白仙茅",
+      "type": "中药名"
+    },
+    {
+      "entity": "团参",
+      "type": "中药名"
+    },
+    {
+      "entity": "阿胶",
+      "type": "中药名"
+    },
+    {
+      "entity": "鸡膍胵",
+      "type": "中药名"
+    },
+    {
+      "entity": "三因方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙茅",
+      "predicate": "属于科",
+      "tail": "石蒜科"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "属于属",
+      "tail": "仙茅属"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "中药名",
+      "tail": "仙茅"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "耳鸣"
+    },
+    {
+      "head": "贵州草药",
+      "predicate": "文献记载",
+      "tail": "仙茅"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "老年遗尿"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "定喘"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "补心肾"
+    },
+    {
+      "head": "仙茅",
+      "predicate": "治疗",
+      "tail": "下气"
+    },
+    {
+      "head": "三因方",
+      "predicate": "文献记载",
+      "tail": "白仙茅"
+    }
+  ]
+}

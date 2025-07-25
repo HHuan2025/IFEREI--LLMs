@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "entity": "土贝母",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "假贝母属",
+      "type": "化学物质"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "散结毒",
+      "type": "功能"
+    },
+    {
+      "entity": "消痈肿",
+      "type": "功能"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "颈淋巴结结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "慢性淋巴结炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肥厚性鼻炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "动物"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "9-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "熬膏贴敷",
+      "type": "用法"
+    },
+    {
+      "entity": "白芷",
+      "type": "药材"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "淋巴结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "陕西中草药",
+      "type": "动物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土贝母",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "属于属",
+      "tail": "伪尾实体300"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "药用部位为",
+      "tail": "伪尾实体800"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "采收时间",
+      "tail": "伪尾实体97"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "散结毒"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "具有功能",
+      "tail": "消痈肿"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "相关基因",
+      "tail": "颈淋巴结结核"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "慢性淋巴结炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "肥厚性鼻炎"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "相关基因",
+      "tail": "煎汤"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "用法用量",
+      "tail": "9-30克"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "治疗",
+      "tail": "丸"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "外用",
+      "tail": "熬膏贴敷"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "包含中药",
+      "tail": "白芷"
+    },
+    {
+      "head": "乳痈",
+      "predicate": "包含中药",
+      "tail": "土贝母"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "相关基因",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "淋巴结核",
+      "predicate": "包含中药",
+      "tail": "土贝母"
+    },
+    {
+      "head": "土贝母",
+      "predicate": "记载于文献",
+      "tail": "陕西中草药"
+    }
+  ]
+}

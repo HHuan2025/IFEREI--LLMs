@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    },
+    {
+      "entity": "一点红",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "上呼吸道感染"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "口腔溃疡"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "肺炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "肠炎"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "菌痢"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "尿路感染"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "疮疖痈肿"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "湿疹"
+    },
+    {
+      "head": "一点红",
+      "predicate": "主治症状",
+      "tail": "跌打损伤"
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "entities": [
+    {
+      "entity": "中国无忧花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "无忧花属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "四方木",
+      "type": "中药名"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "切片晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "鲜用",
+      "type": "采收加工"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎",
+      "type": "用法"
+    },
+    {
+      "entity": "浸酒服",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "剂型"
+    },
+    {
+      "entity": "调酒炒热外敷",
+      "type": "用法"
+    },
+    {
+      "entity": "骨质增生症",
+      "type": "疾病"
+    },
+    {
+      "entity": "四方木皮",
+      "type": "其他"
+    },
+    {
+      "entity": "战骨",
+      "type": "中药名"
+    },
+    {
+      "entity": "红花",
+      "type": "中药名"
+    },
+    {
+      "entity": "60％-70％乙醇",
+      "type": "其他"
+    },
+    {
+      "entity": "壮族治骨酊",
+      "type": "其他"
+    },
+    {
+      "entity": "坐骨神经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肩周炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "草乌",
+      "type": "中药名"
+    },
+    {
+      "entity": "一支蒿",
+      "type": "中药名"
+    },
+    {
+      "entity": "独蒜",
+      "type": "中药名"
+    },
+    {
+      "entity": "川芎",
+      "type": "中药名"
+    },
+    {
+      "entity": "血藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "桂枝",
+      "type": "中药名"
+    },
+    {
+      "entity": "三角枫",
+      "type": "中药名"
+    },
+    {
+      "entity": "八角枫",
+      "type": "中药名"
+    },
+    {
+      "entity": "威灵仙",
+      "type": "中药名"
+    },
+    {
+      "entity": "叶上花",
+      "type": "中药名"
+    },
+    {
+      "entity": "叶下花",
+      "type": "中药名"
+    },
+    {
+      "entity": "千年健",
+      "type": "中药名"
+    },
+    {
+      "entity": "木通",
+      "type": "中药名"
+    },
+    {
+      "entity": "杜仲",
+      "type": "中药名"
+    },
+    {
+      "entity": "过江花",
+      "type": "中药名"
+    },
+    {
+      "entity": "四块瓦",
+      "type": "中药名"
+    },
+    {
+      "entity": "花椒",
+      "type": "中药名"
+    },
+    {
+      "entity": "没药",
+      "type": "中药名"
+    },
+    {
+      "entity": "乳香",
+      "type": "中药名"
+    },
+    {
+      "entity": "狗骨",
+      "type": "中药名"
+    },
+    {
+      "entity": "蜂房",
+      "type": "中药名"
+    },
+    {
+      "entity": "毒蛇",
+      "type": "中药名"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "不可内服",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中国无忧花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "属于属",
+      "tail": "无忧花属"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "四方木",
+      "predicate": "属于药用植物",
+      "tail": "中国无忧花"
+    },
+    {
+      "head": "树皮",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "树皮",
+      "predicate": "采收加工",
+      "tail": "切片晒干"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "鲜用"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "具有功能",
+      "tail": "消肿止痛"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "主治疾病",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "主治疾病",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "内服",
+      "tail": "水煎"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "内服",
+      "tail": "浸酒服"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "外用",
+      "tail": "研末"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "外用",
+      "tail": "调酒炒热外敷"
+    },
+    {
+      "head": "四方木皮",
+      "predicate": "包含中药",
+      "tail": "战骨"
+    },
+    {
+      "head": "四方木皮",
+      "predicate": "包含中药",
+      "tail": "红花"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "应用举例",
+      "tail": "骨质增生症"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "应用举例",
+      "tail": "坐骨神经痛"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "应用举例",
+      "tail": "肩周炎"
+    },
+    {
+      "head": "中国无忧花",
+      "predicate": "应用举例",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "草乌"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "一支蒿"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "独蒜"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "川芎"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "红花"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "血藤"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "桂枝"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "三角枫"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "八角枫"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "威灵仙"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "叶上花"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "叶下花"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "千年健"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "木通"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "杜仲"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "过江花"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "四块瓦"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "四方木"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "花椒"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "没药"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "乳香"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "狗骨"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "蜂房"
+    },
+    {
+      "head": "酒",
+      "predicate": "包含中药",
+      "tail": "毒蛇"
+    },
+    {
+      "head": "酒",
+      "predicate": "外用",
+      "tail": "外用"
+    },
+    {
+      "head": "酒",
+      "predicate": "不宜与",
+      "tail": "不可内服"
+    }
+  ]
+}

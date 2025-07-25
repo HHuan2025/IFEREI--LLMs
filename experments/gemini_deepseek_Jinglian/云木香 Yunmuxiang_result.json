@@ -1,0 +1,590 @@
+{
+  "entities": [
+    {
+      "entity": "云木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "疾病"
+    },
+    {
+      "entity": "9月下旬至10月下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "味辛、苦",
+      "type": "性味"
+    },
+    {
+      "entity": "性温",
+      "type": "性味"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "调中导滞",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾后重",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "一切气不和，走注痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "温水磨浓，热酒调下",
+      "type": "用法"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    },
+    {
+      "entity": "内钓腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳香",
+      "type": "疾病"
+    },
+    {
+      "entity": "没药",
+      "type": "疾病"
+    },
+    {
+      "entity": "水煎服之",
+      "type": "用法"
+    },
+    {
+      "entity": "阮氏小儿方",
+      "type": "文献"
+    },
+    {
+      "entity": "云木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "药材"
+    },
+    {
+      "entity": "3年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "9月下旬至10月下旬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "50-60摄氏度低温下烘干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "调中导滞",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾后重",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "入丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "一切气不和，走注痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "内钓腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    },
+    {
+      "entity": "阮氏小儿方",
+      "type": "文献"
+    },
+    {
+      "entity": "云木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "调中导滞",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾后重",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "木香",
+      "predicate": "药用部位为",
+      "tail": "云木香"
+    },
+    {
+      "head": "云木香",
+      "predicate": "采收时间",
+      "tail": "9月下旬至10月下旬"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "味辛、苦"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "调中导滞"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "胸胁胀满"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "痢疾后重"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "伪尾实体427"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "3-10克"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "丸"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "散"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "一切气不和，走注痛"
+    },
+    {
+      "head": "木香",
+      "predicate": "用法",
+      "tail": "伪尾实体358"
+    },
+    {
+      "head": "木香",
+      "predicate": "记载于文献",
+      "tail": "简便单方"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "内钓腹痛"
+    },
+    {
+      "head": "木香",
+      "predicate": "具有性味",
+      "tail": "乳香"
+    },
+    {
+      "head": "木香",
+      "predicate": "包含中药",
+      "tail": "没药"
+    },
+    {
+      "head": "木香",
+      "predicate": "用法",
+      "tail": "水煎服之"
+    },
+    {
+      "head": "木香",
+      "predicate": "记载于文献",
+      "tail": "阮氏小儿方"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "云木香",
+      "predicate": "中药名",
+      "tail": "木香"
+    },
+    {
+      "head": "云木香",
+      "predicate": "采收时间",
+      "tail": "3年"
+    },
+    {
+      "head": "云木香",
+      "predicate": "采收时间",
+      "tail": "9月下旬至10月下旬"
+    },
+    {
+      "head": "云木香",
+      "predicate": "采收加工",
+      "tail": "50-60摄氏度低温下烘干"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有功能",
+      "tail": "调中导滞"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "胸胁胀满"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "痢疾后重"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "3-10克"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "入丸"
+    },
+    {
+      "head": "云木香",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "云木香",
+      "predicate": "应用实例",
+      "tail": "一切气不和，走注痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "应用实例",
+      "tail": "内钓腹痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "记载于文献",
+      "tail": "简便单方"
+    },
+    {
+      "head": "云木香",
+      "predicate": "记载于文献",
+      "tail": "阮氏小儿方"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "木香"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "具有功能",
+      "tail": "调中导滞"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "胸胁胀满"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "云木香",
+      "predicate": "治疗",
+      "tail": "痢疾后重"
+    }
+  ]
+}

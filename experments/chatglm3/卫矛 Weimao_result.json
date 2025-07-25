@@ -1,0 +1,640 @@
+{
+  "entities": [
+    {
+      "entity": "卫矛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "带翅嫩枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝翅",
+      "type": "药用部位"
+    },
+    {
+      "entity": "鬼箭羽",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经过多",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶露不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩中漏下",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹内包块",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤芍",
+      "type": "药材"
+    },
+    {
+      "entity": "红花",
+      "type": "药材"
+    },
+    {
+      "entity": "赤木",
+      "type": "药材"
+    },
+    {
+      "entity": "辽宁常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "卫矛茎枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "红糖",
+      "type": "药用部位"
+    },
+    {
+      "entity": "湖南植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "卫矛",
+      "type": "药材"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "带翅嫩枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝翅",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "翅状物",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫积腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经过多",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶露不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩中漏下",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "孕妇",
+      "type": "疾病"
+    },
+    {
+      "entity": "气虚崩漏者",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹内包块",
+      "type": "应用实例"
+    },
+    {
+      "entity": "月经不调",
+      "type": "应用实例"
+    },
+    {
+      "entity": "卫矛",
+      "type": "药材"
+    },
+    {
+      "entity": "赤芍",
+      "type": "药材"
+    },
+    {
+      "entity": "红花",
+      "type": "药材"
+    },
+    {
+      "entity": "赤木",
+      "type": "药材"
+    },
+    {
+      "entity": "辽宁常用中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "湖南植物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "卫矛",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "药用部位为",
+      "tail": "带翅嫩枝"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "药用部位为",
+      "tail": "枝翅"
+    },
+    {
+      "head": "鬼箭羽",
+      "predicate": "具有性味",
+      "tail": "卫矛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "产后瘀血腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "虫积腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "月经过多"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "疝气"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "恶露不下"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "崩中漏下"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "跌打伤痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "腹内包块"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "赤芍"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "红花"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "赤木"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "记载于文献",
+      "tail": "辽宁常用中草药手册"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "红糖"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "记载于文献",
+      "tail": "湖南植物志"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "药用部位为",
+      "tail": "带翅嫩枝"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "药用部位为",
+      "tail": "枝翅"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "采收加工",
+      "tail": "收集其翅状物，晒干"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "产后瘀血腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "虫积腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "月经过多"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "疝气"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "恶露不下"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "崩中漏下"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "跌打伤痛"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "治疗",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "入丸散"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "研末敷"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "煎水涂"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "用法",
+      "tail": "鲜品捣敷"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "孕妇"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "具有性味",
+      "tail": "气虚崩漏者"
+    },
+    {
+      "head": "腹内包块",
+      "predicate": "应用实例",
+      "tail": "卫矛6克，赤芍9克，红花9克，赤木3克。水煎服"
+    },
+    {
+      "head": "月经不调",
+      "predicate": "应用实例",
+      "tail": "卫矛茎枝15克。水煎，兑红糖服"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "记载于文献",
+      "tail": "辽宁常用中草药手册"
+    },
+    {
+      "head": "卫矛",
+      "predicate": "记载于文献",
+      "tail": "湖南植物志"
+    }
+  ]
+}

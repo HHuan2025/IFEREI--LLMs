@@ -1,0 +1,329 @@
+{
+  "entities": [
+    {
+      "entity": "仪花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "仪花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "铁罗伞",
+      "type": "药材"
+    },
+    {
+      "entity": "冬、春季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "挖根，洗净，鲜用或切片，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦、辛，温",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛，消肿止血",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "广西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "广西民间常用草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "大力王根",
+      "type": "药材"
+    },
+    {
+      "entity": "透骨消",
+      "type": "药材"
+    },
+    {
+      "entity": "铁罗伞叶",
+      "type": "药材"
+    },
+    {
+      "entity": "仪花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "仪花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "铁罗伞",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止血",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "大力王根",
+      "type": "药材"
+    },
+    {
+      "entity": "透骨消",
+      "type": "药材"
+    },
+    {
+      "entity": "广西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "广西民间常用草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仪花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "仪花",
+      "predicate": "属于属",
+      "tail": "仪花属"
+    },
+    {
+      "head": "仪花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "仪花",
+      "predicate": "中药名",
+      "tail": "铁罗伞"
+    },
+    {
+      "head": "仪花",
+      "predicate": "采收时间",
+      "tail": "冬、春季"
+    },
+    {
+      "head": "仪花",
+      "predicate": "采收加工",
+      "tail": "挖根，洗净，鲜用或切片，晒干"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "苦、辛，温"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有功能",
+      "tail": "活血止痛，消肿止血"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "仪花",
+      "predicate": "用法",
+      "tail": "煎汤，15-30克；或浸酒"
+    },
+    {
+      "head": "仪花",
+      "predicate": "用法",
+      "tail": "适量，捣敷"
+    },
+    {
+      "head": "仪花",
+      "predicate": "记载于文献",
+      "tail": "广西中草药"
+    },
+    {
+      "head": "仪花",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用草药手册"
+    },
+    {
+      "head": "仪花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "仪花",
+      "predicate": "属于属",
+      "tail": "仪花属"
+    },
+    {
+      "head": "仪花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "铁罗伞"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "仪花",
+      "predicate": "具有功能",
+      "tail": "消肿止血"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "仪花",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "具有性味",
+      "tail": "大力王根"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "具有性味",
+      "tail": "透骨消"
+    },
+    {
+      "head": "跌打损伤",
+      "predicate": "记载于文献",
+      "tail": "广西中草药"
+    },
+    {
+      "head": "外伤出血",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用草药手册"
+    }
+  ]
+}

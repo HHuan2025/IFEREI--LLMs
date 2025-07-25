@@ -1,0 +1,152 @@
+{
+  "entities": [
+    {
+      "entity": "凤仙花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤仙花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤仙花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤仙根",
+      "type": "中药名"
+    },
+    {
+      "entity": "凤仙透骨草",
+      "type": "中药名"
+    },
+    {
+      "entity": "急性子",
+      "type": "中药名"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑伤损筋骨",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血未尽",
+      "type": "疾病"
+    },
+    {
+      "entity": "木瓜",
+      "type": "其他"
+    },
+    {
+      "entity": "威灵仙",
+      "type": "其他"
+    },
+    {
+      "entity": "桑枝",
+      "type": "其他"
+    },
+    {
+      "entity": "当归尾",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤仙花",
+      "predicate": "属于科",
+      "tail": "凤仙花科"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "属于属",
+      "tail": "凤仙花属"
+    },
+    {
+      "head": "根",
+      "predicate": "药用部位",
+      "tail": "凤仙花"
+    },
+    {
+      "head": "茎",
+      "predicate": "药用部位",
+      "tail": "凤仙花"
+    },
+    {
+      "head": "花",
+      "predicate": "药用部位",
+      "tail": "凤仙花"
+    },
+    {
+      "head": "种子",
+      "predicate": "药用部位",
+      "tail": "凤仙花"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "中药名",
+      "tail": "根"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "中药名",
+      "tail": "茎"
+    },
+    {
+      "head": "急性子",
+      "predicate": "中药名",
+      "tail": "种子"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "跌扑伤损筋骨"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "经闭腹痛"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "产后瘀血未尽"
+    }
+  ]
+}

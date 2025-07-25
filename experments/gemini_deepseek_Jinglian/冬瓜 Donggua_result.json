@@ -1,0 +1,641 @@
+{
+  "entities": [
+    {
+      "entity": "冬瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "冬瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "食用冬瓜",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "暑热口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便短赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "疾病"
+    },
+    {
+      "entity": "营养不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "全身浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "西瓜皮",
+      "type": "疾病"
+    },
+    {
+      "entity": "白茅根",
+      "type": "疾病"
+    },
+    {
+      "entity": "玉蜀黍蕊",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤豆",
+      "type": "疾病"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    },
+    {
+      "entity": "损伤腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "酒服3克",
+      "type": "用法"
+    },
+    {
+      "entity": "生生编",
+      "type": "文献"
+    },
+    {
+      "entity": "冬瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "冬瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "洗净，削去外层果皮，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "暑热口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便短赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "营养不良而致之虚肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "全身浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "冬瓜皮18克，西瓜皮18克，白茅根18克，玉蜀黍蕊12克，赤豆90克。水煎，一日三回分服",
+      "type": "疾病"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    },
+    {
+      "entity": "损伤腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "冬瓜皮烧研，酒服3克",
+      "type": "疾病"
+    },
+    {
+      "entity": "生生编",
+      "type": "文献"
+    },
+    {
+      "entity": "冬瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "冬瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "利尿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "水肿胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "暑热口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便短赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "全身浮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "西瓜皮",
+      "type": "药材"
+    },
+    {
+      "entity": "白茅根",
+      "type": "药材"
+    },
+    {
+      "entity": "玉蜀黍蕊",
+      "type": "药材"
+    },
+    {
+      "entity": "赤豆",
+      "type": "药材"
+    },
+    {
+      "entity": "损伤腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "生生编",
+      "type": "文献"
+    },
+    {
+      "entity": "现代实用中药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于属",
+      "tail": "冬瓜属"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "药用部位为",
+      "tail": "外层果皮"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "采收加工",
+      "tail": "食用冬瓜"
+    },
+    {
+      "head": "甘",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "凉",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "水肿胀满"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "伪尾实体480"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "小便短赤"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "内服",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "外用",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "伪尾实体15"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "伪尾实体923"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "伪尾实体868"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "应用举例",
+      "tail": "小便不利"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "应用举例",
+      "tail": "全身浮肿"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "包含中药",
+      "tail": "冬瓜皮"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "包含中药",
+      "tail": "西瓜皮"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "包含中药",
+      "tail": "白茅根"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "治疗",
+      "tail": "玉蜀黍蕊"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "包含中药",
+      "tail": "赤豆"
+    },
+    {
+      "head": "肾炎",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "应用举例",
+      "tail": "损伤腰痛"
+    },
+    {
+      "head": "损伤腰痛",
+      "predicate": "包含中药",
+      "tail": "冬瓜皮"
+    },
+    {
+      "head": "损伤腰痛",
+      "predicate": "用法",
+      "tail": "酒服3克"
+    },
+    {
+      "head": "损伤腰痛",
+      "predicate": "记载于文献",
+      "tail": "生生编"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于属",
+      "tail": "冬瓜属"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "药用部位为",
+      "tail": "外层果皮"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "中药名",
+      "tail": "冬瓜皮"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "采收加工",
+      "tail": "洗净，削去外层果皮，晒干"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "水肿胀满"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "暑热口渴"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "小便短赤"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "用法",
+      "tail": "15-30克"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "外用",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "治疗",
+      "tail": "营养不良而致之虚肿"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "应用实例",
+      "tail": "冬瓜皮18克，西瓜皮18克，白茅根18克，玉蜀黍蕊12克，赤豆90克。水煎，一日三回分服"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "应用实例",
+      "tail": "冬瓜皮烧研，酒服3克"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "记载于文献",
+      "tail": "生生编"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "属于属",
+      "tail": "冬瓜属"
+    },
+    {
+      "head": "冬瓜",
+      "predicate": "药用部位为",
+      "tail": "外层果皮"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "具有性味",
+      "tail": "中药名"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "具有功能",
+      "tail": "利尿消肿"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "水肿胀满"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "暑热口渴"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "小便短赤"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "肾炎"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "全身浮肿"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "治疗",
+      "tail": "损伤腰痛"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "记载于文献",
+      "tail": "生生编"
+    },
+    {
+      "head": "冬瓜皮",
+      "predicate": "记载于文献",
+      "tail": "现代实用中药"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "entity": "党参",
+      "type": "药材"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "党参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "补中益气",
+      "type": "功能"
+    },
+    {
+      "entity": "健脾益肺",
+      "type": "功能"
+    },
+    {
+      "entity": "脾肺虚弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "气短心悸",
+      "type": "疾病"
+    },
+    {
+      "entity": "食少便溏",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚喘咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "内热消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿自汗症",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄芪",
+      "type": "药材"
+    },
+    {
+      "entity": "小儿口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄柏",
+      "type": "药材"
+    },
+    {
+      "entity": "脱肛",
+      "type": "疾病"
+    },
+    {
+      "entity": "升麻",
+      "type": "药材"
+    },
+    {
+      "entity": "甘草",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "党参",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "党参",
+      "predicate": "属于属",
+      "tail": "党参属"
+    },
+    {
+      "head": "党参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "党参",
+      "predicate": "别名",
+      "tail": "东党"
+    },
+    {
+      "head": "党参",
+      "predicate": "别名",
+      "tail": "潞党"
+    },
+    {
+      "head": "党参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "党参",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "党参",
+      "predicate": "具有功能",
+      "tail": "补中益气"
+    },
+    {
+      "head": "党参",
+      "predicate": "具有功能",
+      "tail": "健脾益肺"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "脾肺虚弱"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "气短心悸"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "食少便溏"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "虚喘咳嗽"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "内热消渴"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿自汗症"
+    },
+    {
+      "head": "党参",
+      "predicate": "与",
+      "tail": "黄芪"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿口疮"
+    },
+    {
+      "head": "党参",
+      "predicate": "与",
+      "tail": "黄柏"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "脱肛"
+    },
+    {
+      "head": "党参",
+      "predicate": "与",
+      "tail": "升麻"
+    },
+    {
+      "head": "党参",
+      "predicate": "与",
+      "tail": "甘草"
+    }
+  ]
+}

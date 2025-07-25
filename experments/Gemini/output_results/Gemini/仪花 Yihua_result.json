@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "entity": "仪花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "仪花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "铁罗伞",
+      "type": "中药名"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "大力王根",
+      "type": "其他"
+    },
+    {
+      "entity": "透骨消",
+      "type": "其他"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仪花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "仪花",
+      "predicate": "属于属",
+      "tail": "仪花属"
+    },
+    {
+      "head": "仪花",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "仪花",
+      "predicate": "中药名",
+      "tail": "铁罗伞"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "药用部位",
+      "tail": "叶"
+    }
+  ]
+}

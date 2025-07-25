@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "entity": "千年健",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "千年健属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名:千年健",
+      "type": "中药名"
+    },
+    {
+      "entity": "风气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈瘘疮疽",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千年健",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "千年健",
+      "predicate": "属于属",
+      "tail": "千年健属"
+    },
+    {
+      "head": "千年健",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "风气痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "痈瘘疮疽"
+    }
+  ]
+}

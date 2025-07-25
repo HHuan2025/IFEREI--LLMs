@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "entity": "佛甲草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "景天科",
+      "type": "科"
+    },
+    {
+      "entity": "景天属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉廯",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈红肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "蒲公英",
+      "type": "药材"
+    },
+    {
+      "entity": "金银花",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佛甲草",
+      "predicate": "属于科",
+      "tail": "景天科"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "属于属",
+      "tail": "景天属"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "喉廯"
+    },
+    {
+      "head": "佛甲草",
+      "predicate": "治疗",
+      "tail": "乳痈红肿"
+    }
+  ]
+}

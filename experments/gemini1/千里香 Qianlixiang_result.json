@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "entity": "千里香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "九里香属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "带叶嫩枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "九里香",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "行气活血",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "脘腹气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮肤瘙痒",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "虫蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "煅瓦楞子",
+      "type": "药材"
+    },
+    {
+      "entity": "香港中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "小毒",
+      "type": "禁忌"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千里香",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "千里香",
+      "predicate": "属于属",
+      "tail": "九里香属"
+    },
+    {
+      "head": "千里香",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "千里香",
+      "predicate": "药用部位为",
+      "tail": "带叶嫩枝"
+    },
+    {
+      "head": "九里香",
+      "predicate": "别名",
+      "tail": "千里香"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有性",
+      "tail": "温"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有功能",
+      "tail": "行气活血"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "脘腹气痛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "疥疮"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "皮肤瘙痒"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "千里香",
+      "predicate": "治疗",
+      "tail": "虫蛇咬伤"
+    },
+    {
+      "head": "九里香",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "九里香",
+      "predicate": "记载于文献",
+      "tail": "福建中草药"
+    },
+    {
+      "head": "九里香",
+      "predicate": "可与",
+      "tail": "煅瓦楞子"
+    },
+    {
+      "head": "九里香",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "九里香",
+      "predicate": "记载于文献",
+      "tail": "香港中草药"
+    },
+    {
+      "head": "千里香",
+      "predicate": "具有毒性",
+      "tail": "小毒"
+    }
+  ]
+}

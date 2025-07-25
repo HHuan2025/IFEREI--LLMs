@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "entity": "中华猕猴桃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃科",
+      "type": "科"
+    },
+    {
+      "entity": "猕猴桃属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "藤",
+      "type": "药用部位"
+    },
+    {
+      "entity": "汁液",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "天花粉",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苎麻根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "石灰",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃藤",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃枝叶",
+      "type": "药用植物"
+    },
+    {
+      "entity": "猕猴桃",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中华猕猴桃",
+      "predicate": "属于科",
+      "tail": "猕猴桃科"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "属于属",
+      "tail": "猕猴桃属"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位",
+      "tail": "藤"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位",
+      "tail": "汁液"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位",
+      "tail": "枝叶"
+    },
+    {
+      "head": "中华猕猴桃",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "治疗",
+      "tail": "消渴"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "治疗",
+      "tail": "淋浊"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "猕猴桃根",
+      "predicate": "属于",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃藤",
+      "predicate": "属于",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃枝叶",
+      "predicate": "属于",
+      "tail": "中华猕猴桃"
+    },
+    {
+      "head": "猕猴桃",
+      "predicate": "属于",
+      "tail": "中华猕猴桃"
+    }
+  ]
+}

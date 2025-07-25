@@ -1,0 +1,404 @@
+{
+  "entities": [
+    {
+      "entity": "华南紫萁",
+      "type": "药用植物"
+    },
+    {
+      "entity": "紫萁科",
+      "type": "科"
+    },
+    {
+      "entity": "紫萁属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶柄的髓部",
+      "type": "药用部位"
+    },
+    {
+      "entity": "华南紫萁贯众",
+      "type": "药材"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛湿舒筋",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋脉拘挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠道寄生虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "白背叶根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "金樱根",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药用孢子植物",
+      "type": "文献"
+    },
+    {
+      "entity": "华南紫萁",
+      "type": "药用植物"
+    },
+    {
+      "entity": "紫萁科",
+      "type": "科"
+    },
+    {
+      "entity": "紫萁属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎及叶柄的髓部",
+      "type": "药用部位"
+    },
+    {
+      "entity": "华南紫萁贯众",
+      "type": "药材"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛湿舒筋",
+      "type": "功能"
+    },
+    {
+      "entity": "驱虫",
+      "type": "功能"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋脉拘挛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠道寄生虫病",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药用孢子植物",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南紫萁",
+      "predicate": "属于科",
+      "tail": "紫萁科"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "属于属",
+      "tail": "紫萁属"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "药用部位为",
+      "tail": "叶柄的髓部"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "华南紫萁贯众"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "祛湿舒筋"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "妇女带下"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "筋脉拘挛"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "肠道寄生虫病"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "白带",
+      "predicate": "具有性味",
+      "tail": "华南紫萁"
+    },
+    {
+      "head": "白带",
+      "predicate": "具有性味",
+      "tail": "白背叶根"
+    },
+    {
+      "head": "白带",
+      "predicate": "具有性味",
+      "tail": "金樱根"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "属于科",
+      "tail": "紫萁科"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "属于属",
+      "tail": "紫萁属"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "药用部位为",
+      "tail": "根茎及叶柄的髓部"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "华南紫萁贯众"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "祛湿舒筋"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "具有功能",
+      "tail": "驱虫"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "痈肿疮疖"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "妇女带下"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "筋脉拘挛"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "治疗",
+      "tail": "肠道寄生虫病"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "用法",
+      "tail": "30-60克"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "用法",
+      "tail": "研末敷"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "应用实例",
+      "tail": "白带"
+    },
+    {
+      "head": "华南紫萁",
+      "predicate": "记载于文献",
+      "tail": "中国药用孢子植物"
+    }
+  ]
+}

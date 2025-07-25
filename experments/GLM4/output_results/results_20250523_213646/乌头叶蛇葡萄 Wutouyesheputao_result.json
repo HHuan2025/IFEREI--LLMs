@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "entity": "乌头叶蛇葡萄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葡萄科",
+      "type": "科"
+    },
+    {
+      "entity": "蛇葡萄属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "过山龙",
+      "type": "药材"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于科",
+      "tail": "葡萄科"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于属",
+      "tail": "蛇葡萄属"
+    },
+    {
+      "head": "过山龙",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    }
+  ]
+}

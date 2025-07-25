@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "entity": "卷丹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "百合属",
+      "type": "属"
+    },
+    {
+      "entity": "鳞茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "百合",
+      "type": "药材"
+    },
+    {
+      "entity": "百合花",
+      "type": "药材"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "养阴润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "清心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "清热润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "宁心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "阴虚久嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰中带血",
+      "type": "疾病"
+    },
+    {
+      "entity": "热病后期",
+      "type": "疾病"
+    },
+    {
+      "entity": "余热未清",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚烦惊悸",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠多梦",
+      "type": "疾病"
+    },
+    {
+      "entity": "精神恍惚",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽痰少或粘",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜寐不安",
+      "type": "疾病"
+    },
+    {
+      "entity": "天疱湿疮",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "卷丹",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "属于属",
+      "tail": "百合属"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "药用部位为",
+      "tail": "鳞茎"
+    },
+    {
+      "head": "卷丹",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "中药名",
+      "tail": "百合"
+    },
+    {
+      "head": "花",
+      "predicate": "中药名",
+      "tail": "百合花"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "花",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有功能",
+      "tail": "养阴润肺"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "具有功能",
+      "tail": "清心安神"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "清热润肺"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "宁心安神"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "阴虚久嗽"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "痰中带血"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "热病后期"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "余热未清"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "虚烦惊悸"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "失眠多梦"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "精神恍惚"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "鳞茎",
+      "predicate": "治疗",
+      "tail": "湿疮"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "咳嗽痰少或粘"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "眩晕"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "夜寐不安"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "天疱湿疮"
+    }
+  ]
+}

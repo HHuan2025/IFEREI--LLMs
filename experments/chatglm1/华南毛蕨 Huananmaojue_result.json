@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "华南毛蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "金星蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "毛蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "感冒",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南毛蕨",
+      "predicate": "属于科",
+      "tail": "金星蕨科"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "属于属",
+      "tail": "毛蕨属"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "具有功能",
+      "tail": "祛风"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "治疗",
+      "tail": "感冒"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "华南毛蕨",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    }
+  ]
+}

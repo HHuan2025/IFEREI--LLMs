@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "千年健",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "千年健属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "千年健",
+      "type": "中药名"
+    },
+    {
+      "entity": "风气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "药酒",
+      "type": "药物类型"
+    },
+    {
+      "entity": "柑园小识",
+      "type": "文献"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "痈瘘疮疽",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草再新",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千年健",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "千年健",
+      "predicate": "属于属",
+      "tail": "千年健属"
+    },
+    {
+      "head": "千年健",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "千年健",
+      "predicate": "中药名",
+      "tail": "千年健"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "风气痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "药物类型",
+      "tail": "药酒"
+    },
+    {
+      "head": "柑园小识",
+      "predicate": "文献记载",
+      "tail": "千年健"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "纲目拾遗",
+      "predicate": "文献记载",
+      "tail": "千年健"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "痈瘘疮疽"
+    },
+    {
+      "head": "本草再新",
+      "predicate": "文献记载",
+      "tail": "千年健"
+    }
+  ]
+}

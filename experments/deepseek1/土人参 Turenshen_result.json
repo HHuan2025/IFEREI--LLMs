@@ -1,0 +1,190 @@
+{
+  "entities": [
+    {
+      "entity": "土人参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马齿苋科",
+      "type": "科"
+    },
+    {
+      "entity": "土人参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "补气润肺",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "调经",
+      "type": "功能"
+    },
+    {
+      "entity": "气虚劳倦",
+      "type": "疾病"
+    },
+    {
+      "entity": "食少",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨咳血",
+      "type": "疾病"
+    },
+    {
+      "entity": "眩晕",
+      "type": "疾病"
+    },
+    {
+      "entity": "潮热",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "产妇乳汁不足",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "土人参",
+      "predicate": "属于科",
+      "tail": "马齿苋科"
+    },
+    {
+      "head": "土人参",
+      "predicate": "属于属",
+      "tail": "土人参属"
+    },
+    {
+      "head": "土人参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "补气润肺"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "土人参",
+      "predicate": "具有功能",
+      "tail": "调经"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "气虚劳倦"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "食少"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "肺痨咳血"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "眩晕"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "潮热"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "土人参",
+      "predicate": "治疗",
+      "tail": "产妇乳汁不足"
+    }
+  ]
+}

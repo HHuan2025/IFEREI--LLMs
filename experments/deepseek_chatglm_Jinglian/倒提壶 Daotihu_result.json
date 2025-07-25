@@ -1,0 +1,717 @@
+{
+  "entities": [
+    {
+      "entity": "倒提壶",
+      "type": "药用植物"
+    },
+    {
+      "entity": "紫草科",
+      "type": "科"
+    },
+    {
+      "entity": "琉璃草属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗屎花(蓝布裙)",
+      "type": "药材"
+    },
+    {
+      "entity": "狗屎花根",
+      "type": "药材"
+    },
+    {
+      "entity": "春、秋采挖，洗凈，切片，晒干或鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "8-10月挖根，鲜用或切片晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦，凉",
+      "type": "性味"
+    },
+    {
+      "entity": "苦，平",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "补虚",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "刀伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "倒提壶",
+      "type": "药材"
+    },
+    {
+      "entity": "紫草科",
+      "type": "科"
+    },
+    {
+      "entity": "琉璃草属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "狗屎花",
+      "type": "药材"
+    },
+    {
+      "entity": "狗屎花根",
+      "type": "药材"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "秋",
+      "type": "采收时间"
+    },
+    {
+      "entity": "8-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清肺化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀止血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "补虚",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "刀伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚劳咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用量"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用量"
+    },
+    {
+      "entity": "适量",
+      "type": "用量"
+    },
+    {
+      "entity": "捣烂敷",
+      "type": "用量"
+    },
+    {
+      "entity": "研末撒",
+      "type": "用量"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "倒提壶",
+      "predicate": "属于科",
+      "tail": "紫草科"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "属于属",
+      "tail": "琉璃草属"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位为",
+      "tail": "地上部分"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "中药名",
+      "tail": "狗屎花(蓝布裙)"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "中药名",
+      "tail": "狗屎花根"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "采收加工",
+      "tail": "春、秋采挖，洗凈，切片，晒干或鲜用"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "采收加工",
+      "tail": "8-10月挖根，鲜用或切片晒干"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有性味",
+      "tail": "苦，凉"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有性味",
+      "tail": "苦，平"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "清肺化痰"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "补虚"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "尿痛"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "刀伤"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "虚劳咳喘"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "疝气"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "用法",
+      "tail": "内服:煎汤，30-60克"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "用法",
+      "tail": "外用:适量，鲜品捣烂敷；或干品研末撒"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "用法",
+      "tail": "内服:煎汤，15-30克"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "用法",
+      "tail": "适量，捣敷；或研末撒"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "记载于文献",
+      "tail": "四川中药志"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "属于科",
+      "tail": "紫草科"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "属于属",
+      "tail": "琉璃草属"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位为",
+      "tail": "地上部分"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "中药名",
+      "tail": "狗屎花"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "狗屎花根"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "清肺化痰"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "散瘀止血"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "补虚"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "尿痛"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "刀伤"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肝炎"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "虚劳咳喘"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疝气"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "白带"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法",
+      "tail": "30-60克"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法",
+      "tail": "适量"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "地上部分",
+      "predicate": "用法",
+      "tail": "研末撒"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "15-30克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "适量"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "捣烂敷"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "研末撒"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    },
+    {
+      "head": "倒提壶",
+      "predicate": "记载于文献",
+      "tail": "四川中药志"
+    }
+  ]
+}

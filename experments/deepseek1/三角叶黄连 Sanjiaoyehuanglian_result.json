@@ -1,0 +1,193 @@
+{
+  "entities": [
+    {
+      "entity": "三角叶黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "黄连属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "燥湿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "热病邪入心经之高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "谵妄",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃虚呕恶",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更肾泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "心经实热",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤寒发狂",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤白痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄柏",
+      "type": "药用植物"
+    },
+    {
+      "entity": "栀子仁",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于属",
+      "tail": "黄连属"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "燥湿解毒"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "热病邪入心经之高热"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "烦燥"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "谵妄"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "吐衄"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "胃虚呕恶"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "五更肾泻"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "心经实热"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "伤寒发狂"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "赤白痢"
+    }
+  ]
+}

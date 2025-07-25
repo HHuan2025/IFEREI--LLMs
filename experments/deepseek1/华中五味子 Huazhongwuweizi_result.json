@@ -1,0 +1,216 @@
+{
+  "entities": [
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "五味子属",
+      "type": "属"
+    },
+    {
+      "entity": "华中五味子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南五味子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "收敛固涩",
+      "type": "功能"
+    },
+    {
+      "entity": "益气生津",
+      "type": "功能"
+    },
+    {
+      "entity": "补肾宁心",
+      "type": "功能"
+    },
+    {
+      "entity": "久嗽虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "梦遗滑精",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗尿尿频",
+      "type": "疾病"
+    },
+    {
+      "entity": "久泻不止",
+      "type": "疾病"
+    },
+    {
+      "entity": "自汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "盗汗",
+      "type": "疾病"
+    },
+    {
+      "entity": "津伤口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "短气脉虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "内热消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸失眼",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺虚寒",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰嗽并喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿暴嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "五味子",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华中五味子",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "属于属",
+      "tail": "五味子属"
+    },
+    {
+      "head": "华中五味子",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有功能",
+      "tail": "收敛固涩"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有功能",
+      "tail": "益气生津"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "具有功能",
+      "tail": "补肾宁心"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "久嗽虚喘"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "梦遗滑精"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "遗尿尿频"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "久泻不止"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "自汗"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "盗汗"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "津伤口渴"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "短气脉虚"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "内热消渴"
+    },
+    {
+      "head": "南五味子",
+      "predicate": "治疗",
+      "tail": "心悸失眼"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "肺虚寒"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "痰嗽并喘"
+    },
+    {
+      "head": "五味子",
+      "predicate": "治疗",
+      "tail": "小儿暴嗽"
+    }
+  ]
+}

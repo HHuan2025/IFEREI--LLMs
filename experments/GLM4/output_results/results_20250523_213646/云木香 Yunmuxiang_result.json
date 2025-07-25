@@ -1,0 +1,86 @@
+{
+  "entities": [
+    {
+      "entity": "云木香",
+      "type": "药材"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "药材"
+    },
+    {
+      "entity": "气不和",
+      "type": "疾病"
+    },
+    {
+      "entity": "走注痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳香",
+      "type": "药材"
+    },
+    {
+      "entity": "没药",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "气不和"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "走注痛"
+    },
+    {
+      "head": "木香",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    },
+    {
+      "head": "乳香",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    },
+    {
+      "head": "没药",
+      "predicate": "治疗",
+      "tail": "腹痛"
+    }
+  ]
+}

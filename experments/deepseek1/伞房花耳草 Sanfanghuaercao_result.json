@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "entity": "伞房花耳草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "茜草科",
+      "type": "科"
+    },
+    {
+      "entity": "耳草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "水线草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "常山",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马鞭草",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于科",
+      "tail": "茜草科"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "属于属",
+      "tail": "耳草属"
+    },
+    {
+      "head": "伞房花耳草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "水线草",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "肠痈"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    },
+    {
+      "head": "水线草",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    }
+  ]
+}

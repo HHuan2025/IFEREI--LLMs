@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "三色堇",
+      "type": "药用植物"
+    },
+    {
+      "entity": "堇菜科",
+      "type": "科"
+    },
+    {
+      "entity": "堇菜属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三色堇",
+      "predicate": "属于科",
+      "tail": "堇菜科"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "属于属",
+      "tail": "堇菜属"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "主治疾病",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "主治疾病",
+      "tail": "小儿湿疹"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "主治疾病",
+      "tail": "小儿瘰疬"
+    },
+    {
+      "head": "三色堇",
+      "predicate": "主治疾病",
+      "tail": "咳嗽"
+    }
+  ]
+}

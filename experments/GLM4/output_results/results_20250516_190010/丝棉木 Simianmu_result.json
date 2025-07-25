@@ -1,0 +1,270 @@
+{
+  "entities": [
+    {
+      "entity": "丝棉木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "血栓闭塞性脉管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "漆疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血通络",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒止血",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "天目山药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "浙江民间常用草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝棉木",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血通络"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒止血"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "活血通络"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "解毒止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "腰痛"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "血栓闭塞性脉管炎"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "肺痈"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "衄血"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "主治疾病",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "漆疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "痈肿"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "记载于文献",
+      "tail": "天目山药用植物志"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "记载于文献",
+      "tail": "浙江民间常用草药"
+    }
+  ]
+}

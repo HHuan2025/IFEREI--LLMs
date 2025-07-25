@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "entity": "变叶树参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "疾病"
+    },
+    {
+      "entity": "树参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枫荷梨",
+      "type": "药材"
+    },
+    {
+      "entity": "秋、冬",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "器官"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "偏瘫",
+      "type": "器官"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "内服"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "45克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "外用",
+      "type": "外用"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "偏坠",
+      "type": "疾病"
+    },
+    {
+      "entity": "睾丸-侧肿痛",
+      "type": "其他"
+    },
+    {
+      "entity": "半荷枫根",
+      "type": "其他"
+    },
+    {
+      "entity": "野南瓜根",
+      "type": "其他"
+    },
+    {
+      "entity": "猪瘦肉",
+      "type": "其他"
+    },
+    {
+      "entity": "战备草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "铁锹树根",
+      "type": "化学物质"
+    },
+    {
+      "entity": "贵州民间药物",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "变叶树参",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "属于属",
+      "tail": "树参属"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "伪尾实体693"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "枫荷梨",
+      "predicate": "包含于",
+      "tail": "变叶树参"
+    },
+    {
+      "head": "秋、冬",
+      "predicate": "采收时间",
+      "tail": "变叶树参"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有功能",
+      "tail": "伪尾实体906"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "活血消肿"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "伪尾实体36"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "偏瘫"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "伪尾实体475"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "相关基因",
+      "tail": "疮肿"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "治疗",
+      "tail": "45克"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "位于",
+      "tail": "伪尾实体859"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "变叶树参",
+      "predicate": "位于",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "战备草药手册",
+      "predicate": "应用举例",
+      "tail": "偏坠"
+    },
+    {
+      "head": "贵州民间药物",
+      "predicate": "应用举例",
+      "tail": "疮毒"
+    }
+  ]
+}

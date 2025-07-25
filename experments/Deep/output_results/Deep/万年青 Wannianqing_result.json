@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "entity": "万年青",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万年青属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "万年青",
+      "type": "药物类型"
+    },
+    {
+      "entity": "万年青叶",
+      "type": "药物类型"
+    },
+    {
+      "entity": "万年青花",
+      "type": "药物类型"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国苗族药物彩色图集",
+      "type": "文献"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "八爪金龙",
+      "type": "药物类型"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万年青",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "万年青",
+      "predicate": "属于属",
+      "tail": "万年青属"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位",
+      "tail": "根及根茎"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "中药名",
+      "tail": "万年青"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "万年青叶"
+    },
+    {
+      "head": "花",
+      "predicate": "中药名",
+      "tail": "万年青花"
+    },
+    {
+      "head": "万年青",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "万年青",
+      "predicate": "文献记载",
+      "tail": "中国苗族药物彩色图集"
+    },
+    {
+      "head": "万年青",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "八爪金龙",
+      "predicate": "文献记载",
+      "tail": "中国苗族药物彩色图集"
+    }
+  ]
+}

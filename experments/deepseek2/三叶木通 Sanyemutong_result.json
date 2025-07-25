@@ -1,0 +1,308 @@
+{
+  "entities": [
+    {
+      "entity": "三叶木通",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木通科",
+      "type": "科"
+    },
+    {
+      "entity": "木通属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥根藤茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木通",
+      "type": "药材"
+    },
+    {
+      "entity": "干燥近成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "预知子",
+      "type": "药材"
+    },
+    {
+      "entity": "八月札",
+      "type": "药材"
+    },
+    {
+      "entity": "八月瓜",
+      "type": "药材"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "截取茎部，除去细枝，阴干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "夏、秋二季果实绿黄时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干，或置沸水中略烫后晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦，微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "苦，寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清心火，利小便，通经下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "舒肝理气，活血止痛，利尿，杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "胸中烦热",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痹咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿赤",
+      "type": "疾病"
+    },
+    {
+      "entity": "五淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "周身挛痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭乳少",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘胁胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "小便不利",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "医宗必读",
+      "type": "文献"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "四川中药志",
+      "type": "文献"
+    },
+    {
+      "entity": "中药志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三叶木通",
+      "predicate": "属于科",
+      "tail": "木通科"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "属于属",
+      "tail": "木通属"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "药用部位为",
+      "tail": "干燥根藤茎"
+    },
+    {
+      "head": "三叶木通",
+      "predicate": "药用部位为",
+      "tail": "干燥近成熟果实"
+    },
+    {
+      "head": "干燥根藤茎",
+      "predicate": "中药名",
+      "tail": "木通"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "中药名",
+      "tail": "预知子"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "中药名",
+      "tail": "八月札"
+    },
+    {
+      "head": "干燥近成熟果实",
+      "predicate": "中药名",
+      "tail": "八月瓜"
+    },
+    {
+      "head": "木通",
+      "predicate": "采收时间",
+      "tail": "秋季"
+    },
+    {
+      "head": "木通",
+      "predicate": "采收加工",
+      "tail": "截取茎部，除去细枝，阴干"
+    },
+    {
+      "head": "预知子",
+      "predicate": "采收时间",
+      "tail": "夏、秋二季果实绿黄时"
+    },
+    {
+      "head": "预知子",
+      "predicate": "采收加工",
+      "tail": "晒干，或置沸水中略烫后晒干"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有性味",
+      "tail": "苦，微寒"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有性味",
+      "tail": "苦，寒"
+    },
+    {
+      "head": "木通",
+      "predicate": "具有功能",
+      "tail": "清心火，利小便，通经下乳"
+    },
+    {
+      "head": "预知子",
+      "predicate": "具有功能",
+      "tail": "舒肝理气，活血止痛，利尿，杀虫"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "胸中烦热"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "喉痹咽痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "尿赤"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "五淋"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "周身挛痛"
+    },
+    {
+      "head": "木通",
+      "predicate": "治疗",
+      "tail": "经闭乳少"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "脘胁胀痛"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "经闭痛经"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "小便不利"
+    },
+    {
+      "head": "预知子",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "木通",
+      "predicate": "用法",
+      "tail": "内服:煎汤，3-6克；或入丸、散"
+    },
+    {
+      "head": "预知子",
+      "predicate": "用法",
+      "tail": "内服:煎汤，9-15克；大剂量可用30-60克；或浸酒"
+    },
+    {
+      "head": "木通",
+      "predicate": "应用实例",
+      "tail": "医宗必读"
+    },
+    {
+      "head": "木通",
+      "predicate": "应用实例",
+      "tail": "普济方"
+    },
+    {
+      "head": "木通",
+      "predicate": "应用实例",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "预知子",
+      "predicate": "应用实例",
+      "tail": "四川中药志"
+    },
+    {
+      "head": "预知子",
+      "predicate": "应用实例",
+      "tail": "中药志"
+    }
+  ]
+}

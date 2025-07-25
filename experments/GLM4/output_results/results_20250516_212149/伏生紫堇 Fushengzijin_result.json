@@ -1,0 +1,293 @@
+{
+  "entities": [
+    {
+      "entity": "伏生紫堇",
+      "type": "药用植物"
+    },
+    {
+      "entity": "罂粟科",
+      "type": "科"
+    },
+    {
+      "entity": "紫堇属",
+      "type": "属"
+    },
+    {
+      "entity": "块茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "夏天无",
+      "type": "中药名"
+    },
+    {
+      "entity": "春季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "初夏",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "中风偏瘫",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌扑损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰腿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "各型高血压",
+      "type": "疾病"
+    },
+    {
+      "entity": "研末冲服",
+      "type": "用法"
+    },
+    {
+      "entity": "二至四克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "钩藤",
+      "type": "中药名"
+    },
+    {
+      "entity": "桑白皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "夏枯草",
+      "type": "中药名"
+    },
+    {
+      "entity": "煎服",
+      "type": "剂型"
+    },
+    {
+      "entity": "中草药学",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "夏天无粉",
+      "type": "中药名"
+    },
+    {
+      "entity": "三钱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "日二次",
+      "type": "用法"
+    },
+    {
+      "entity": "腰肌劳损",
+      "type": "疾病"
+    },
+    {
+      "entity": "夏天无全草",
+      "type": "中药名"
+    },
+    {
+      "entity": "五钱",
+      "type": "用法用量"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "伏生紫堇",
+      "predicate": "属于科",
+      "tail": "罂粟科"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "属于属",
+      "tail": "紫堇属"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "药用部位为",
+      "tail": "块茎"
+    },
+    {
+      "head": "块茎",
+      "predicate": "包含中药",
+      "tail": "夏天无"
+    },
+    {
+      "head": "春季",
+      "predicate": "采收时间",
+      "tail": "伏生紫堇"
+    },
+    {
+      "head": "初夏",
+      "predicate": "采收时间",
+      "tail": "伏生紫堇"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有性味",
+      "tail": "微辛"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "主治疾病",
+      "tail": "中风偏瘫"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "主治疾病",
+      "tail": "头痛"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "主治疾病",
+      "tail": "跌扑损伤"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "伏生紫堇",
+      "predicate": "主治疾病",
+      "tail": "腰腿疼痛"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "主治疾病",
+      "tail": "各型高血压"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "用法",
+      "tail": "研末冲服"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "用法用量",
+      "tail": "二至四克"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "包含中药",
+      "tail": "钩藤"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "包含中药",
+      "tail": "桑白皮"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "包含中药",
+      "tail": "夏枯草"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "剂型",
+      "tail": "煎服"
+    },
+    {
+      "head": "夏天无",
+      "predicate": "记载于文献",
+      "tail": "中草药学"
+    },
+    {
+      "head": "夏天无粉",
+      "predicate": "主治疾病",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "夏天无粉",
+      "predicate": "用法用量",
+      "tail": "三钱"
+    },
+    {
+      "head": "夏天无粉",
+      "predicate": "用法",
+      "tail": "日二次"
+    },
+    {
+      "head": "夏天无全草",
+      "predicate": "主治疾病",
+      "tail": "腰肌劳损"
+    },
+    {
+      "head": "夏天无全草",
+      "predicate": "用法用量",
+      "tail": "五钱"
+    },
+    {
+      "head": "夏天无全草",
+      "predicate": "剂型",
+      "tail": "煎服"
+    }
+  ]
+}

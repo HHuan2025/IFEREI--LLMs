@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "entity": "千日红",
+      "type": "药用植物"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "千日红属",
+      "type": "属"
+    },
+    {
+      "entity": "花序",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "千日红",
+      "type": "中药名"
+    },
+    {
+      "entity": "气喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "中国药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千日红",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "千日红",
+      "predicate": "属于属",
+      "tail": "千日红属"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位",
+      "tail": "花序"
+    },
+    {
+      "head": "千日红",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "千日红",
+      "predicate": "中药名",
+      "tail": "千日红"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "气喘"
+    },
+    {
+      "head": "中国药用植物志",
+      "predicate": "文献记载",
+      "tail": "千日红"
+    },
+    {
+      "head": "千日红",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "安徽中草药",
+      "predicate": "文献记载",
+      "tail": "千日红"
+    }
+  ]
+}

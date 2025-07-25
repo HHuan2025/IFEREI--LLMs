@@ -1,0 +1,356 @@
+{
+  "entities": [
+    {
+      "entity": "中国沙棘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡颓子科",
+      "type": "科"
+    },
+    {
+      "entity": "沙棘属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "止咳化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白葡萄干",
+      "type": "药用植物"
+    },
+    {
+      "entity": "栀子",
+      "type": "药用植物"
+    },
+    {
+      "entity": "广木香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "冰片",
+      "type": "药用植物"
+    },
+    {
+      "entity": "中国沙棘",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡颓子科",
+      "type": "科"
+    },
+    {
+      "entity": "沙棘属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "止咳化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "健胃消食",
+      "type": "功能"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "消化不良",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "闭经",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "内蒙古中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "中国沙棘",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "沙棘",
+      "predicate": "别名",
+      "tail": "中国沙棘"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "止咳化痰"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "咳嗽痰多"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "食积腹痛"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "甘草"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "白葡萄干"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "栀子"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "广木香"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "沙棘"
+    },
+    {
+      "head": "咳嗽痰多",
+      "predicate": "与",
+      "tail": "冰片"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "属于科",
+      "tail": "胡颓子科"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "属于属",
+      "tail": "沙棘属"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "止咳化痰"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "健胃消食"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "咳嗽痰多"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "消化不良"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "食积腹痛"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "肠炎"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "闭经"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "中国沙棘",
+      "predicate": "记载于文献",
+      "tail": "内蒙古中草药"
+    }
+  ]
+}

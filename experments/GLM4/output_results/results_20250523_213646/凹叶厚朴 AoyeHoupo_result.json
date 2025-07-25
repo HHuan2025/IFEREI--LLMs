@@ -1,0 +1,130 @@
+{
+  "entities": [
+    {
+      "entity": "凹叶厚朴",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "木兰属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "厚朴",
+      "type": "药材"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "药材"
+    },
+    {
+      "entity": "腹满痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "大便闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰惊",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "梅核气",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凹叶厚朴",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "凹叶厚朴",
+      "predicate": "属于属",
+      "tail": "木兰属"
+    },
+    {
+      "head": "凹叶厚朴",
+      "predicate": "药用部位",
+      "tail": "干皮"
+    },
+    {
+      "head": "凹叶厚朴",
+      "predicate": "药用部位",
+      "tail": "根皮"
+    },
+    {
+      "head": "凹叶厚朴",
+      "predicate": "药用部位",
+      "tail": "枝皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "腹满痛"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "大便闭"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "吐泻"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "胃虚"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "痰惊"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "咳"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "梅核气"
+    }
+  ]
+}

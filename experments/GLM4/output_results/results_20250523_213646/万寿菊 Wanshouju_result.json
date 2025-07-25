@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "entity": "万寿菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "万寿菊属",
+      "type": "属"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万寿菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "属于属",
+      "tail": "万寿菊属"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "气管炎"
+    },
+    {
+      "head": "万寿菊",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    }
+  ]
+}

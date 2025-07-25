@@ -1,0 +1,268 @@
+{
+  "entities": [
+    {
+      "entity": "冬青卫矛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大叶黄杨根",
+      "type": "药材"
+    },
+    {
+      "entity": "大叶黄杨",
+      "type": "药材"
+    },
+    {
+      "entity": "大叶黄杨叶",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血调经",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "强筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "孕妇",
+      "type": "人群"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬青卫矛",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "茎皮"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "枝"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "大叶黄杨根",
+      "predicate": "别名",
+      "tail": "根"
+    },
+    {
+      "head": "大叶黄杨",
+      "predicate": "别名",
+      "tail": "茎皮"
+    },
+    {
+      "head": "大叶黄杨叶",
+      "predicate": "别名",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血调经"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有功能",
+      "tail": "强筋骨"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "具有功能",
+      "tail": "活血止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "治疗",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "治疗",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "茎皮",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    }
+  ]
+}

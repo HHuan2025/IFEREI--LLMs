@@ -1,0 +1,471 @@
+{
+  "entities": [
+    {
+      "entity": "南酸枣",
+      "type": "药用植物"
+    },
+    {
+      "entity": "漆树科",
+      "type": "科"
+    },
+    {
+      "entity": "南酸枣属",
+      "type": "属"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果核",
+      "type": "药用部位"
+    },
+    {
+      "entity": "五眼果树皮",
+      "type": "中药名"
+    },
+    {
+      "entity": "9-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "酸",
+      "type": "性味"
+    },
+    {
+      "entity": "涩",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "祛湿",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "行气活血",
+      "type": "功能"
+    },
+    {
+      "entity": "养心安神",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫火伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴囊湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "白带",
+      "type": "疾病"
+    },
+    {
+      "entity": "疥癣",
+      "type": "疾病"
+    },
+    {
+      "entity": "气滞血瘀",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸气短",
+      "type": "疾病"
+    },
+    {
+      "entity": "神经衰弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "食滞腹满",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "熬膏涂",
+      "type": "用法"
+    },
+    {
+      "entity": "30-60克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "2-3枚",
+      "type": "用法用量"
+    },
+    {
+      "entity": "嚼食",
+      "type": "用法"
+    },
+    {
+      "entity": "15-24克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "果核煅炭研未",
+      "type": "其他"
+    },
+    {
+      "entity": "调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "酸枣树二重皮180克，虎根60克，毛冬青根二重皮60克",
+      "type": "其他"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "食滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南酸枣",
+      "predicate": "属于科",
+      "tail": "漆树科"
+    },
+    {
+      "head": "南酸枣",
+      "predicate": "属于属",
+      "tail": "南酸枣属"
+    },
+    {
+      "head": "树皮",
+      "predicate": "药用部位为",
+      "tail": "南酸枣"
+    },
+    {
+      "head": "果实",
+      "predicate": "药用部位为",
+      "tail": "南酸枣"
+    },
+    {
+      "head": "果核",
+      "predicate": "药用部位为",
+      "tail": "南酸枣"
+    },
+    {
+      "head": "五眼果树皮",
+      "predicate": "包含于",
+      "tail": "树皮"
+    },
+    {
+      "head": "9-10月",
+      "predicate": "采收时间",
+      "tail": "果实"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "涩"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "祛湿"
+    },
+    {
+      "head": "树皮",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "行气活血"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "养心安神"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "疮疡"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "阴囊湿疹"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "痢疾"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "白带"
+    },
+    {
+      "head": "树皮",
+      "predicate": "主治疾病",
+      "tail": "疥癣"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "气滞血瘀"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "胸痛"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "心悸气短"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "神经衰弱"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "失眠"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "食滞腹满"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "腹泻"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "疝气"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "烫火伤"
+    },
+    {
+      "head": "树皮",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "树皮",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "树皮",
+      "predicate": "用法",
+      "tail": "熬膏涂"
+    },
+    {
+      "head": "果实",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "30-60克"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "2-3枚"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "嚼食"
+    },
+    {
+      "head": "果实",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "15-24克"
+    },
+    {
+      "head": "果实",
+      "predicate": "外用",
+      "tail": "适量"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "调敷"
+    },
+    {
+      "head": "烫火伤",
+      "predicate": "应用举例",
+      "tail": "酸枣树二重皮180克，虎根60克，毛冬青根二重皮60克"
+    },
+    {
+      "head": "酸枣树二重皮180克，虎根60克，毛冬青根二重皮60克",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "食滞腹痛",
+      "predicate": "应用举例",
+      "tail": "果实"
+    },
+    {
+      "head": "浙江药用植物志",
+      "predicate": "记载于文献",
+      "tail": "果实"
+    }
+  ]
+}

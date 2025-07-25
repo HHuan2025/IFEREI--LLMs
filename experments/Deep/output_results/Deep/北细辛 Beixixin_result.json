@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "北细辛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "马兜铃科",
+      "type": "科"
+    },
+    {
+      "entity": "细辛属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "细辛",
+      "type": "中药名"
+    },
+    {
+      "entity": "饮食不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "本草纲目",
+      "type": "文献"
+    },
+    {
+      "entity": "风入腹，切痛烦冤",
+      "type": "疾病"
+    },
+    {
+      "entity": "元和纪用经",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北细辛",
+      "predicate": "属于科",
+      "tail": "马兜铃科"
+    },
+    {
+      "head": "北细辛",
+      "predicate": "属于属",
+      "tail": "细辛属"
+    },
+    {
+      "head": "北细辛",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "北细辛",
+      "predicate": "中药名",
+      "tail": "细辛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "治疗",
+      "tail": "饮食不下"
+    },
+    {
+      "head": "本草纲目",
+      "predicate": "文献记载",
+      "tail": "细辛"
+    },
+    {
+      "head": "细辛",
+      "predicate": "治疗",
+      "tail": "风入腹，切痛烦冤"
+    },
+    {
+      "head": "元和纪用经",
+      "predicate": "文献记载",
+      "tail": "细辛"
+    }
+  ]
+}

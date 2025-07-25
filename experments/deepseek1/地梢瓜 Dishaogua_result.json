@@ -1,0 +1,154 @@
+{
+  "entities": [
+    {
+      "entity": "地梢瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "萝藦科",
+      "type": "科"
+    },
+    {
+      "entity": "鹅绒藤属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "清虚火",
+      "type": "功能"
+    },
+    {
+      "entity": "益气",
+      "type": "功能"
+    },
+    {
+      "entity": "生津",
+      "type": "功能"
+    },
+    {
+      "entity": "下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "气阴不足",
+      "type": "疾病"
+    },
+    {
+      "entity": "神疲健忘",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚烦口渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "头昏失眠",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后体虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不足",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "地梢瓜",
+      "predicate": "属于科",
+      "tail": "萝藦科"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "属于属",
+      "tail": "鹅绒藤属"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有功能",
+      "tail": "清虚火"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有功能",
+      "tail": "益气"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有功能",
+      "tail": "生津"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "具有功能",
+      "tail": "下乳"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "咽喉疼痛"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "气阴不足"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "神疲健忘"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "虚烦口渴"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "头昏失眠"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "产后体虚"
+    },
+    {
+      "head": "地梢瓜",
+      "predicate": "治疗",
+      "tail": "乳汁不足"
+    }
+  ]
+}

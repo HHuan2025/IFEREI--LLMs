@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "entity": "千年健",
+      "type": "药用植物"
+    },
+    {
+      "entity": "天南星科",
+      "type": "科"
+    },
+    {
+      "entity": "千年健属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "壮筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢节酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "柑园小识",
+      "type": "文献"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "本草再新",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "千年健",
+      "predicate": "属于科",
+      "tail": "天南星科"
+    },
+    {
+      "head": "千年健",
+      "predicate": "属于属",
+      "tail": "千年健属"
+    },
+    {
+      "head": "千年健",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有性",
+      "tail": "温"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "壮筋骨"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "肢节酸痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "筋骨痿软"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "千年健",
+      "predicate": "治疗",
+      "tail": "痈疽疮肿"
+    },
+    {
+      "head": "治风气痛",
+      "predicate": "记载于文献",
+      "tail": "柑园小识"
+    },
+    {
+      "head": "止胃痛",
+      "predicate": "记载于文献",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "治痈瘘疮疽",
+      "predicate": "记载于文献",
+      "tail": "本草再新"
+    }
+  ]
+}

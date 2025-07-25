@@ -1,0 +1,710 @@
+{
+  "entities": [
+    {
+      "entity": "三角叶黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "黄连属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "10-11月间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "燥湿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "热病邪入心经之高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "谵妄",
+      "type": "疾病"
+    },
+    {
+      "entity": "热盛迫血妄行之吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "黄连1.5-3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "每次0.3-0.6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "疾病"
+    },
+    {
+      "entity": "散",
+      "type": "疾病"
+    },
+    {
+      "entity": "外用适量",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃虚呕恶",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更肾泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "慎服",
+      "type": "疾病"
+    },
+    {
+      "entity": "局方泻心汤",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒水石",
+      "type": "疾病"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "黄柏",
+      "type": "药材"
+    },
+    {
+      "entity": "栀子仁",
+      "type": "疾病"
+    },
+    {
+      "entity": "龙门石窟方",
+      "type": "文献"
+    },
+    {
+      "entity": "三角叶黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "黄连属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄连",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "药用部位"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "燥湿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "热病邪入心经之高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "谵妄",
+      "type": "疾病"
+    },
+    {
+      "entity": "热盛迫血妄行之吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃虚呕恶",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更肾泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "心经实热",
+      "type": "疾病"
+    },
+    {
+      "entity": "伤寒发狂",
+      "type": "疾病"
+    },
+    {
+      "entity": "赤白痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "三角叶黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "黄连属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "黄连",
+      "type": "药用植物"
+    },
+    {
+      "entity": "10-11月间",
+      "type": "采收时间"
+    },
+    {
+      "entity": "清热泻火",
+      "type": "功能"
+    },
+    {
+      "entity": "燥湿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "无毒",
+      "type": "性味"
+    },
+    {
+      "entity": "热病邪入心经之高热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦燥",
+      "type": "疾病"
+    },
+    {
+      "entity": "谵妄",
+      "type": "疾病"
+    },
+    {
+      "entity": "热盛迫血妄行之吐衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    },
+    {
+      "entity": "胃虚呕恶",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "五更肾泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "局方泻心汤",
+      "type": "文献"
+    },
+    {
+      "entity": "普济方",
+      "type": "文献"
+    },
+    {
+      "entity": "龙门石窟方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于属",
+      "tail": "黄连属"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "根茎"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "包含中药",
+      "tail": "黄连"
+    },
+    {
+      "head": "10-11月间",
+      "predicate": "采收时间",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "无毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "燥湿解毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热病邪入心经之高热"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "烦燥"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "谵妄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热盛迫血妄行之吐衄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法用量",
+      "tail": "黄连1.5-3克"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "研末"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法用量",
+      "tail": "每次0.3-0.6克"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "伪尾实体379"
+    },
+    {
+      "head": "胃虚呕恶",
+      "predicate": "具有性味",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "脾虚泄泻",
+      "predicate": "具有性味",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "五更肾泻",
+      "predicate": "具有性味",
+      "tail": "三角叶黄连"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "心经实热"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "伤寒发狂"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "伪尾实体419"
+    },
+    {
+      "head": "普济方",
+      "predicate": "包含中药",
+      "tail": "寒水石"
+    },
+    {
+      "head": "龙门石窟方",
+      "predicate": "包含中药",
+      "tail": "黄柏"
+    },
+    {
+      "head": "龙门石窟方",
+      "predicate": "包含中药",
+      "tail": "伪尾实体713"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于属",
+      "tail": "黄连属"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "黄连"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "无毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "燥湿解毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热病邪入心经之高热"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热盛迫血妄行之吐衄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "胃虚呕恶"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有性味",
+      "tail": "五更肾泻"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "心经实热"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "伤寒发狂"
+    },
+    {
+      "head": "黄连",
+      "predicate": "治疗",
+      "tail": "赤白痢"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "属于属",
+      "tail": "黄连属"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "黄连",
+      "predicate": "具有性味",
+      "tail": "苦，寒，无毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "清热泻火"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "具有功能",
+      "tail": "燥湿解毒"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热病邪入心经之高热"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "烦燥"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "谵妄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "热盛迫血妄行之吐衄"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "胃虚呕恶"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "治疗",
+      "tail": "五更肾泻"
+    },
+    {
+      "head": "黄连",
+      "predicate": "记载于文献",
+      "tail": "局方泻心汤"
+    },
+    {
+      "head": "黄连",
+      "predicate": "记载于文献",
+      "tail": "普济方"
+    },
+    {
+      "head": "黄连",
+      "predicate": "记载于文献",
+      "tail": "龙门石窟方"
+    },
+    {
+      "head": "三角叶黄连",
+      "predicate": "采收加工",
+      "tail": "10-11月间采收，连根抓起，去掉泥土，剪去须根和叶，取根茎在黄连炕上烘炕干燥"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "三叉苦",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "吴茱萸属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三叉虎",
+      "type": "中药名"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "皮炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "创伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "止血埋口",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三叉苦",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "三叉苦",
+      "predicate": "属于属",
+      "tail": "吴茱萸属"
+    },
+    {
+      "head": "三叉苦",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "三叉苦",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "三叉苦",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "三叉苦",
+      "predicate": "中药名",
+      "tail": "三叉虎"
+    },
+    {
+      "head": "三叉虎",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "三叉虎",
+      "predicate": "治疗",
+      "tail": "皮炎"
+    },
+    {
+      "head": "三叉虎",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "三叉虎",
+      "predicate": "治疗",
+      "tail": "创伤"
+    },
+    {
+      "head": "三叉虎",
+      "predicate": "治疗",
+      "tail": "止血埋口"
+    }
+  ]
+}

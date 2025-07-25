@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "entity": "丝棉木",
+      "type": "药用植物"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "丝棉木叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "风湿性关节炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "桃叶卫矛",
+      "type": "中药名"
+    },
+    {
+      "entity": "牛膝",
+      "type": "中药名"
+    },
+    {
+      "entity": "老鹳草",
+      "type": "中药名"
+    },
+    {
+      "entity": "膝关节酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "红牛膝",
+      "type": "中药名"
+    },
+    {
+      "entity": "苋科",
+      "type": "科"
+    },
+    {
+      "entity": "钻地枫",
+      "type": "中药名"
+    },
+    {
+      "entity": "腰痛",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝棉木",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位",
+      "tail": "树皮"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "丝棉木",
+      "predicate": "中药名",
+      "tail": "丝棉木"
+    },
+    {
+      "head": "丝棉木叶",
+      "predicate": "中药名",
+      "tail": "丝棉木叶"
+    },
+    {
+      "head": "桃叶卫矛",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "牛膝",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "老鹳草",
+      "predicate": "治疗",
+      "tail": "风湿性关节炎"
+    },
+    {
+      "head": "丝棉木根",
+      "predicate": "治疗",
+      "tail": "膝关节酸痛"
+    },
+    {
+      "head": "红牛膝",
+      "predicate": "属于科",
+      "tail": "苋科"
+    },
+    {
+      "head": "红牛膝",
+      "predicate": "治疗",
+      "tail": "膝关节酸痛"
+    },
+    {
+      "head": "钻地枫",
+      "predicate": "治疗",
+      "tail": "膝关节酸痛"
+    },
+    {
+      "head": "丝棉木树皮",
+      "predicate": "治疗",
+      "tail": "腰痛"
+    }
+  ]
+}

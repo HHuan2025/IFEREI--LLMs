@@ -1,0 +1,735 @@
+{
+  "entities": [
+    {
+      "entity": "刺楸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "刺楸属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺楸树根",
+      "type": "药材"
+    },
+    {
+      "entity": "刺楸树皮",
+      "type": "药材"
+    },
+    {
+      "entity": "刺楸树叶",
+      "type": "药材"
+    },
+    {
+      "entity": "7-8月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "切片或者削取根皮切片，鲜用或晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "栽后15-20年，胸围达20厘米以上，才能采伐。全年均可采，削取树皮，晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "6-10月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "多鲜用",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦，平",
+      "type": "性味"
+    },
+    {
+      "entity": "辛、苦，平",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉血散瘀，祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风，除湿，活血，杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒，祛风，活血",
+      "type": "功能"
+    },
+    {
+      "entity": "肠风下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿痛或溃破",
+      "type": "疾病"
+    },
+    {
+      "entity": "风疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾胃虚寒或者孕妇慎服",
+      "type": "禁忌"
+    },
+    {
+      "entity": "孕妇慎服",
+      "type": "禁忌"
+    },
+    {
+      "entity": "鲜刺楸根60克，杜衡3克，鸡血藤30克。水煎服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "鸟不停叶一两，甘草五钱。好酒二碗，煎一碗，一次或分二次服",
+      "type": "应用实例"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "刺楸",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "刺楸属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "凉血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血",
+      "type": "功能"
+    },
+    {
+      "entity": "杀虫",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "肠风下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿骨痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾胃虚寒",
+      "type": "性味"
+    },
+    {
+      "entity": "孕妇",
+      "type": "性味"
+    },
+    {
+      "entity": "筋骨痛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "杜衡",
+      "type": "应用实例"
+    },
+    {
+      "entity": "鸡血藤",
+      "type": "应用实例"
+    },
+    {
+      "entity": "难产",
+      "type": "应用实例"
+    },
+    {
+      "entity": "鸟不停叶",
+      "type": "应用实例"
+    },
+    {
+      "entity": "甘草",
+      "type": "应用实例"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺楸",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "属于属",
+      "tail": "刺楸属"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "中药名",
+      "tail": "刺楸树根"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "中药名",
+      "tail": "刺楸树皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "中药名",
+      "tail": "刺楸树叶"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "采收时间",
+      "tail": "7-8月"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "采收加工",
+      "tail": "切片或者削取根皮切片，鲜用或晒干"
+    },
+    {
+      "head": "刺楸树皮",
+      "predicate": "采收加工",
+      "tail": "栽后15-20年，胸围达20厘米以上，才能采伐。全年均可采，削取树皮，晒干"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "采收时间",
+      "tail": "6-10月"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "采收加工",
+      "tail": "多鲜用"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "具有性味",
+      "tail": "苦，平"
+    },
+    {
+      "head": "刺楸树皮",
+      "predicate": "具有性味",
+      "tail": "辛、苦，平"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "具有功能",
+      "tail": "凉血散瘀，祛风除湿"
+    },
+    {
+      "head": "刺楸树皮",
+      "predicate": "具有功能",
+      "tail": "祛风，除湿，活血，杀虫"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "具有功能",
+      "tail": "解毒，祛风，活血"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "肠风下血"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "刺楸树皮",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "刺楸树皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿痛或溃破"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "治疗",
+      "tail": "风疹"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "应用实例",
+      "tail": "鲜刺楸根60克，杜衡3克，鸡血藤30克。水煎服"
+    },
+    {
+      "head": "刺楸树根",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "应用实例",
+      "tail": "鸟不停叶一两，甘草五钱。好酒二碗，煎一碗，一次或分二次服"
+    },
+    {
+      "head": "刺楸树叶",
+      "predicate": "记载于文献",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "属于属",
+      "tail": "刺楸属"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "刺楸",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "凉血散瘀"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "祛风"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有功能",
+      "tail": "杀虫"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "祛风"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "活血"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "肠风下血"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痔疮"
+    },
+    {
+      "head": "根皮",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "根皮",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮疡肿痛或溃破"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "风疹"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "风湿骨痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "跌打肿痛"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "泡酒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "泡酒"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根皮",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "捣烂炒热敷"
+    },
+    {
+      "head": "筋骨痛",
+      "predicate": "应用实例",
+      "tail": "刺楸"
+    },
+    {
+      "head": "筋骨痛",
+      "predicate": "应用实例",
+      "tail": "杜衡"
+    },
+    {
+      "head": "筋骨痛",
+      "predicate": "应用实例",
+      "tail": "鸡血藤"
+    },
+    {
+      "head": "难产",
+      "predicate": "应用实例",
+      "tail": "鸟不停叶"
+    },
+    {
+      "head": "难产",
+      "predicate": "应用实例",
+      "tail": "甘草"
+    },
+    {
+      "head": "难产",
+      "predicate": "应用实例",
+      "tail": "好酒"
+    },
+    {
+      "head": "江西草药手册",
+      "predicate": "记载于文献",
+      "tail": "筋骨痛"
+    },
+    {
+      "head": "纲目拾遗",
+      "predicate": "记载于文献",
+      "tail": "难产"
+    }
+  ]
+}

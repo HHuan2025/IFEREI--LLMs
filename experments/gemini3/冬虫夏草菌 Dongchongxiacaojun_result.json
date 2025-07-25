@@ -1,0 +1,282 @@
+{
+  "entities": [
+    {
+      "entity": "麦角菌科",
+      "type": "科"
+    },
+    {
+      "entity": "虫草属",
+      "type": "属"
+    },
+    {
+      "entity": "冬虫夏草菌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "蝙蝠蛾科",
+      "type": "科"
+    },
+    {
+      "entity": "幼虫",
+      "type": "其他"
+    },
+    {
+      "entity": "子座",
+      "type": "药用部位"
+    },
+    {
+      "entity": "幼虫尸体",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬虫夏草",
+      "type": "药材"
+    },
+    {
+      "entity": "夏初",
+      "type": "采收时间"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "补肺益肾",
+      "type": "功能"
+    },
+    {
+      "entity": "止血化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "久咳虚喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "劳嗽咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "阳痿遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "5-10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "剂型"
+    },
+    {
+      "entity": "鸡",
+      "type": "其他"
+    },
+    {
+      "entity": "鸭",
+      "type": "其他"
+    },
+    {
+      "entity": "有表邪者慎服",
+      "type": "不宜与"
+    },
+    {
+      "entity": "虚喘",
+      "type": "器官"
+    },
+    {
+      "entity": "15-30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "老雄鸭",
+      "type": "其他"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "贫血",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "15-31克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "炖肉",
+      "type": "动物"
+    },
+    {
+      "entity": "炖鸡",
+      "type": "其他"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "属于科",
+      "tail": "麦角菌科"
+    },
+    {
+      "head": "冬虫夏草菌",
+      "predicate": "具有颜色",
+      "tail": "虫草属"
+    },
+    {
+      "head": "子座",
+      "predicate": "药用部位为",
+      "tail": "冬虫夏草菌"
+    },
+    {
+      "head": "幼虫尸体",
+      "predicate": "药用部位为",
+      "tail": "冬虫夏草菌"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "位于",
+      "tail": "夏初"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有功能",
+      "tail": "补肺益肾"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "具有功能",
+      "tail": "止血化痰"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "久咳虚喘"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "劳嗽咯血"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "阳痿遗精"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "治疗",
+      "tail": "腰膝酸痛"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "用法用量",
+      "tail": "5-10克"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "不宜与",
+      "tail": "有表邪者慎服"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "应用举例",
+      "tail": "虚喘"
+    },
+    {
+      "head": "虚喘",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "虚喘",
+      "predicate": "包含中药",
+      "tail": "冬虫夏草"
+    },
+    {
+      "head": "虚喘",
+      "predicate": "记载于文献",
+      "tail": "伪尾实体223"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "应用举例",
+      "tail": "贫血"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "应用举例",
+      "tail": "阳痿"
+    },
+    {
+      "head": "冬虫夏草",
+      "predicate": "应用举例",
+      "tail": "遗精"
+    },
+    {
+      "head": "贫血",
+      "predicate": "用法用量",
+      "tail": "15-31克"
+    },
+    {
+      "head": "贫血",
+      "predicate": "包含中药",
+      "tail": "冬虫夏草"
+    },
+    {
+      "head": "贫血",
+      "predicate": "具有颜色",
+      "tail": "云南中草药"
+    }
+  ]
+}

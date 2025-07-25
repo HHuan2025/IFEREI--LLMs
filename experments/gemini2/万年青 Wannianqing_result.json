@@ -1,0 +1,324 @@
+{
+  "entities": [
+    {
+      "entity": "万年青",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万年青属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "苦涩",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "强心利尿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "祛瘀止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "补肾",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白喉",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿臌胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "肾虚腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "八爪金龙",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "万年青",
+      "predicate": "药用部位为",
+      "tail": "花"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "微甘"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦涩"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "小毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "强心利尿"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "强心利尿"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "祛瘀止痛"
+    },
+    {
+      "head": "花",
+      "predicate": "具有功能",
+      "tail": "补肾"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "白喉"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "水肿臌胀"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "咯血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "疮毒"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "蛇咬伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "花",
+      "predicate": "治疗",
+      "tail": "肾虚腰痛"
+    },
+    {
+      "head": "万年青根",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "万年青根",
+      "predicate": "与",
+      "tail": "八爪金龙"
+    }
+  ]
+}

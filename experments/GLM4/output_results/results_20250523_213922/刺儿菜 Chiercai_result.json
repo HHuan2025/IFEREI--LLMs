@@ -1,0 +1,138 @@
+{
+  "entities": [
+    {
+      "entity": "刺儿菜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "蓟属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "小蓟",
+      "type": "中药名"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "大蓟",
+      "type": "中药名"
+    },
+    {
+      "entity": "侧柏叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "仙鹤草",
+      "type": "中药名"
+    },
+    {
+      "entity": "焦栀子",
+      "type": "中药名"
+    },
+    {
+      "entity": "崩中下血",
+      "type": "疾病"
+    },
+    {
+      "entity": "地黄汁",
+      "type": "其他"
+    },
+    {
+      "entity": "白朮",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺儿菜",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "刺儿菜",
+      "predicate": "属于属",
+      "tail": "蓟属"
+    },
+    {
+      "head": "刺儿菜",
+      "predicate": "药用部位",
+      "tail": "地上部分"
+    },
+    {
+      "head": "小蓟",
+      "predicate": "中药名",
+      "tail": "小蓟"
+    },
+    {
+      "head": "大蓟",
+      "predicate": "中药名",
+      "tail": "大蓟"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "中药名",
+      "tail": "侧柏叶"
+    },
+    {
+      "head": "仙鹤草",
+      "predicate": "中药名",
+      "tail": "仙鹤草"
+    },
+    {
+      "head": "焦栀子",
+      "predicate": "中药名",
+      "tail": "焦栀子"
+    },
+    {
+      "head": "白朮",
+      "predicate": "中药名",
+      "tail": "白朮"
+    },
+    {
+      "head": "大蓟",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "小蓟",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "侧柏叶",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "仙鹤草",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "焦栀子",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "小蓟",
+      "predicate": "治疗",
+      "tail": "崩中下血"
+    },
+    {
+      "head": "白朮",
+      "predicate": "治疗",
+      "tail": "崩中下血"
+    }
+  ]
+}

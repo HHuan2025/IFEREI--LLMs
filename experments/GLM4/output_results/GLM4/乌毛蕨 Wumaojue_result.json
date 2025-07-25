@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "entity": "乌毛蕨",
+      "type": "药用植物"
+    },
+    {
+      "entity": "乌毛蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "乌毛蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "乌毛蕨贯众",
+      "type": "中药名"
+    },
+    {
+      "entity": "流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "乙脑",
+      "type": "疾病"
+    },
+    {
+      "entity": "板蓝根",
+      "type": "中药名"
+    },
+    {
+      "entity": "大青叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "海金沙藤",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌毛蕨",
+      "predicate": "属于科",
+      "tail": "乌毛蕨科"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "属于属",
+      "tail": "乌毛蕨属"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "药用部位",
+      "tail": "根茎"
+    },
+    {
+      "head": "乌毛蕨",
+      "predicate": "中药名",
+      "tail": "乌毛蕨贯众"
+    },
+    {
+      "head": "乌毛蕨贯众",
+      "predicate": "治疗",
+      "tail": "流感"
+    },
+    {
+      "head": "乌毛蕨贯众",
+      "predicate": "治疗",
+      "tail": "乙脑"
+    },
+    {
+      "head": "乌毛蕨贯众",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "entities": [
+    {
+      "entity": "代代花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "花蕾",
+      "type": "化学物质"
+    },
+    {
+      "entity": "代代花",
+      "type": "药材"
+    },
+    {
+      "entity": "5-6月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "干燥",
+      "type": "动物"
+    },
+    {
+      "entity": "甘",
+      "type": "动物"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "理气宽胸",
+      "type": "功能"
+    },
+    {
+      "entity": "开胃",
+      "type": "功能"
+    },
+    {
+      "entity": "胸腹闷胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积不化",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "脱肛",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "1.5-2.5克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "泡茶",
+      "type": "剂型"
+    },
+    {
+      "entity": "脘腹胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "玫瑰花",
+      "type": "其他"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "其他"
+    },
+    {
+      "entity": "3克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎服",
+      "type": "用法"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "胃脘作痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "制香附",
+      "type": "药材"
+    },
+    {
+      "entity": "川楝子",
+      "type": "药材"
+    },
+    {
+      "entity": "白芍",
+      "type": "药材"
+    },
+    {
+      "entity": "9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "每日一次",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "代代花",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "代代花",
+      "predicate": "属于属",
+      "tail": "柑橘属"
+    },
+    {
+      "head": "代代花",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "代代花",
+      "predicate": "采收时间",
+      "tail": "5-6月"
+    },
+    {
+      "head": "代代花",
+      "predicate": "采收加工",
+      "tail": "干燥"
+    },
+    {
+      "head": "代代花",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "代代花",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "代代花",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "代代花",
+      "predicate": "具有功能",
+      "tail": "理气宽胸"
+    },
+    {
+      "head": "代代花",
+      "predicate": "位于",
+      "tail": "开胃"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "胸腹闷胀"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "食积不化"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "伪尾实体919"
+    },
+    {
+      "head": "代代花",
+      "predicate": "治疗",
+      "tail": "脱肛"
+    },
+    {
+      "head": "代代花",
+      "predicate": "内服",
+      "tail": "1.5-2.5克"
+    },
+    {
+      "head": "1.5-2.5克",
+      "predicate": "位于",
+      "tail": "煎汤"
+    },
+    {
+      "head": "1.5-2.5克",
+      "predicate": "剂型",
+      "tail": "泡茶"
+    },
+    {
+      "head": "代代花",
+      "predicate": "应用举例",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "脘腹胀满",
+      "predicate": "包含中药",
+      "tail": "代代花"
+    },
+    {
+      "head": "脘腹胀满",
+      "predicate": "包含中药",
+      "tail": "玫瑰花"
+    },
+    {
+      "head": "脘腹胀满",
+      "predicate": "包含中药",
+      "tail": "厚朴花"
+    },
+    {
+      "head": "代代花",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    },
+    {
+      "head": "代代花",
+      "predicate": "应用举例",
+      "tail": "伪尾实体674"
+    },
+    {
+      "head": "胃脘作痛",
+      "predicate": "包含中药",
+      "tail": "代代花"
+    },
+    {
+      "head": "胃脘作痛",
+      "predicate": "包含中药",
+      "tail": "制香附"
+    },
+    {
+      "head": "胃脘作痛",
+      "predicate": "包含中药",
+      "tail": "川楝子"
+    },
+    {
+      "head": "胃脘作痛",
+      "predicate": "包含中药",
+      "tail": "伪尾实体452"
+    },
+    {
+      "head": "胃脘作痛",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    }
+  ]
+}

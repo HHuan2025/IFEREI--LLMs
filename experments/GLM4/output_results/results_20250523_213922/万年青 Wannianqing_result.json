@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "entity": "万年青",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "万年青属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "心力衰竭",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "八爪金龙",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "万年青",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "万年青",
+      "predicate": "属于属",
+      "tail": "万年青属"
+    },
+    {
+      "head": "根及根茎",
+      "predicate": "药用部位",
+      "tail": "万年青"
+    },
+    {
+      "head": "叶",
+      "predicate": "药用部位",
+      "tail": "万年青"
+    },
+    {
+      "head": "花",
+      "predicate": "药用部位",
+      "tail": "万年青"
+    },
+    {
+      "head": "万年青",
+      "predicate": "治疗",
+      "tail": "心力衰竭"
+    },
+    {
+      "head": "万年青",
+      "predicate": "治疗",
+      "tail": "咽喉肿痛"
+    }
+  ]
+}

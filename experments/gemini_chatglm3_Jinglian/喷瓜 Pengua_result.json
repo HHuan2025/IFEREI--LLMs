@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "entity": "喷瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "喷瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "果液",
+      "type": "药用部位"
+    },
+    {
+      "entity": "喷瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "喷瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "果液",
+      "type": "药用部位"
+    },
+    {
+      "entity": "喷瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "喷瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "果液",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "喷瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "属于属",
+      "tail": "喷瓜属"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "药用部位为",
+      "tail": "果液"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "属于属",
+      "tail": "喷瓜属"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "药用部位为",
+      "tail": "果液"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "属于属",
+      "tail": "喷瓜属"
+    },
+    {
+      "head": "喷瓜",
+      "predicate": "药用部位为",
+      "tail": "果液"
+    }
+  ]
+}

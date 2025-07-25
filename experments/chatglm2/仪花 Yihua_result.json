@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "entity": "仪花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "豆科",
+      "type": "科"
+    },
+    {
+      "entity": "仪花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "铁罗伞",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿止血",
+      "type": "功能"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "广西中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "广西民间常用草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仪花",
+      "predicate": "属于科",
+      "tail": "豆科"
+    },
+    {
+      "head": "仪花",
+      "predicate": "属于属",
+      "tail": "仪花属"
+    },
+    {
+      "head": "仪花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有功能",
+      "tail": "活血止痛"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "具有功能",
+      "tail": "消肿止血"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "骨折"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "记载于文献",
+      "tail": "广西中草药"
+    },
+    {
+      "head": "铁罗伞",
+      "predicate": "记载于文献",
+      "tail": "广西民间常用草药手册"
+    }
+  ]
+}

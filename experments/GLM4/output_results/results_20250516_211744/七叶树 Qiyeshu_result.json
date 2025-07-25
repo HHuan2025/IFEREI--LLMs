@@ -1,0 +1,279 @@
+{
+  "entities": [
+    {
+      "entity": "七叶树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "七叶树科",
+      "type": "科"
+    },
+    {
+      "entity": "七叶树属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥成熟种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "娑罗子",
+      "type": "中药名"
+    },
+    {
+      "entity": "秋季果实成熟时",
+      "type": "采收时间"
+    },
+    {
+      "entity": "晒干",
+      "type": "采收加工"
+    },
+    {
+      "entity": "低温干燥",
+      "type": "采收加工"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "疏肝",
+      "type": "功能"
+    },
+    {
+      "entity": "理气",
+      "type": "功能"
+    },
+    {
+      "entity": "宽中",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳房胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "5-10克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "烧灰冲酒",
+      "type": "用法"
+    },
+    {
+      "entity": "气阴虚患者",
+      "type": "不宜与"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "纲目拾遗",
+      "type": "文献"
+    },
+    {
+      "entity": "百草镜",
+      "type": "文献"
+    },
+    {
+      "entity": "九种心痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "杨春涯验方",
+      "type": "文献"
+    },
+    {
+      "entity": "乳房小叶增生",
+      "type": "疾病"
+    },
+    {
+      "entity": "苏罗子",
+      "type": "中药名"
+    },
+    {
+      "entity": "9-15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "水煎代茶饮",
+      "type": "用法"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "七叶树",
+      "predicate": "属于科",
+      "tail": "七叶树科"
+    },
+    {
+      "head": "七叶树",
+      "predicate": "属于属",
+      "tail": "七叶树属"
+    },
+    {
+      "head": "七叶树",
+      "predicate": "药用部位为",
+      "tail": "干燥成熟种子"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "采收时间",
+      "tail": "秋季果实成熟时"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "采收加工",
+      "tail": "晒干"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "采收加工",
+      "tail": "低温干燥"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "疏肝"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "理气"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "宽中"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "胸胁胀痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "乳房胀痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "痛经"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "用法用量",
+      "tail": "5-10克"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "内服",
+      "tail": "烧灰冲酒"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "不宜与",
+      "tail": "气阴虚患者"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "胃痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "记载于文献",
+      "tail": "纲目拾遗"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "记载于文献",
+      "tail": "百草镜"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "主治疾病",
+      "tail": "九种心痛"
+    },
+    {
+      "head": "娑罗子",
+      "predicate": "记载于文献",
+      "tail": "杨春涯验方"
+    },
+    {
+      "head": "苏罗子",
+      "predicate": "主治疾病",
+      "tail": "乳房小叶增生"
+    },
+    {
+      "head": "苏罗子",
+      "predicate": "用法用量",
+      "tail": "9-15克"
+    },
+    {
+      "head": "苏罗子",
+      "predicate": "内服",
+      "tail": "水煎代茶饮"
+    },
+    {
+      "head": "苏罗子",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    }
+  ]
+}

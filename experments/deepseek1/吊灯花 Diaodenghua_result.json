@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "entity": "吊灯花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "锦葵科",
+      "type": "科"
+    },
+    {
+      "entity": "木槿属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "凉",
+      "type": "性味"
+    },
+    {
+      "entity": "消食行滞",
+      "type": "功能"
+    },
+    {
+      "entity": "拔毒生肌",
+      "type": "功能"
+    },
+    {
+      "entity": "食积",
+      "type": "疾病"
+    },
+    {
+      "entity": "腋疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "肿毒",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "吊灯花",
+      "predicate": "属于科",
+      "tail": "锦葵科"
+    },
+    {
+      "head": "吊灯花",
+      "predicate": "属于属",
+      "tail": "木槿属"
+    },
+    {
+      "head": "吊灯花",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "吊灯花",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "吊灯花叶",
+      "predicate": "别名",
+      "tail": "吊灯花"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "消食行滞"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "凉"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "拔毒生肌"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "食积"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "腋疮"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "肿毒"
+    }
+  ]
+}

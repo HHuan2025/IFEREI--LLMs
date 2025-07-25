@@ -1,0 +1,383 @@
+{
+  "entities": [
+    {
+      "entity": "南天竹",
+      "type": "药用植物"
+    },
+    {
+      "entity": "小檗科",
+      "type": "科"
+    },
+    {
+      "entity": "南天竹属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南天竹根",
+      "type": "药材"
+    },
+    {
+      "entity": "茎枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南天竹梗",
+      "type": "药材"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南天竹叶",
+      "type": "药材"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "南天竹子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "有小毒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风化痰",
+      "type": "功能"
+    },
+    {
+      "entity": "清湿热",
+      "type": "功能"
+    },
+    {
+      "entity": "降逆气",
+      "type": "功能"
+    },
+    {
+      "entity": "止咳",
+      "type": "功能"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "泻火解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "敛肺止咳平喘",
+      "type": "功能"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "泻痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "热淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "目赤肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "百日咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "久咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "喘息",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南天竹",
+      "predicate": "属于科",
+      "tail": "小檗科"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "属于属",
+      "tail": "南天竹属"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "中药名",
+      "tail": "南天竹根"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "茎枝"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "中药名",
+      "tail": "南天竹梗"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "中药名",
+      "tail": "南天竹叶"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "中药名",
+      "tail": "南天竹子"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有性味",
+      "tail": "有小毒"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "具有性味",
+      "tail": "酸"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "除湿"
+    },
+    {
+      "head": "南天竹根",
+      "predicate": "具有功能",
+      "tail": "祛风化痰"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "具有功能",
+      "tail": "清湿热"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "具有功能",
+      "tail": "降逆气"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "止咳"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "南天竹叶",
+      "predicate": "具有功能",
+      "tail": "泻火解毒"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "具有功能",
+      "tail": "敛肺止咳平喘"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "湿热黄疸"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "腹泻"
+    },
+    {
+      "head": "南天竹",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "治疗",
+      "tail": "湿热黄疸"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "治疗",
+      "tail": "泻痢"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "治疗",
+      "tail": "热淋"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "治疗",
+      "tail": "目赤肿痛"
+    },
+    {
+      "head": "南天竹茎枝",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "治疗",
+      "tail": "百日咳"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "治疗",
+      "tail": "久咳"
+    },
+    {
+      "head": "南天竹果实",
+      "predicate": "治疗",
+      "tail": "喘息"
+    }
+  ]
+}

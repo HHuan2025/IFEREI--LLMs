@@ -1,0 +1,247 @@
+{
+  "entities": [
+    {
+      "entity": "化州柚",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "未成熟或近成熟的干燥外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "化橘红",
+      "type": "药材"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "沸水",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "5或7瓣",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "果瓤",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "中果皮",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "散寒燥湿",
+      "type": "功能"
+    },
+    {
+      "entity": "利气消痰",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痒痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积伤酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕恶痞闷",
+      "type": "疾病"
+    },
+    {
+      "entity": "3-6克",
+      "type": "用量"
+    },
+    {
+      "entity": "丸",
+      "type": "主治用法形式"
+    },
+    {
+      "entity": "散",
+      "type": "主治用法形式"
+    },
+    {
+      "entity": "气虚",
+      "type": "不宜服人群"
+    },
+    {
+      "entity": "阴虚",
+      "type": "不宜服人群"
+    },
+    {
+      "entity": "燥痰",
+      "type": "不宜服人群"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "功能"
+    },
+    {
+      "entity": "石串莲",
+      "type": "应用实例"
+    },
+    {
+      "entity": "青竹标",
+      "type": "应用实例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "化州柚",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "属于属",
+      "tail": "柑橘属"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "药用部位为",
+      "tail": "未成熟或近成熟的干燥外层果皮"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "药材",
+      "tail": "化橘红"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "采收时间为",
+      "tail": "夏季"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "采收加工",
+      "tail": "置沸水中略烫后，将果皮割成5或7瓣，除去果瓤及部分中果皮，压制成形，干燥"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有功能",
+      "tail": "散寒燥湿"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有功能",
+      "tail": "利气消痰"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "喉痒痰多"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "食积伤酒"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "呕恶痞闷"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "主治用法用量",
+      "tail": "3-6克"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "主治用法形式",
+      "tail": "丸"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "主治用法形式",
+      "tail": "散"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "不宜服人群",
+      "tail": "气虚"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "不宜服人群",
+      "tail": "阴虚"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "不宜服人群",
+      "tail": "燥痰"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含药物",
+      "tail": "石串莲"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "包含药物",
+      "tail": "青竹标"
+    },
+    {
+      "head": "应用举例",
+      "predicate": "应用实例",
+      "tail": "支气管炎"
+    }
+  ]
+}

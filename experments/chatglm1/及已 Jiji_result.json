@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "entity": "及已",
+      "type": "药用植物"
+    },
+    {
+      "entity": "金粟兰科",
+      "type": "科"
+    },
+    {
+      "entity": "金粟兰属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "有毒",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "活血散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "舒筋活络",
+      "type": "功能"
+    },
+    {
+      "entity": "风湿腰腿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "及已",
+      "predicate": "属于科",
+      "tail": "金粟兰科"
+    },
+    {
+      "head": "及已",
+      "predicate": "属于属",
+      "tail": "金粟兰属"
+    },
+    {
+      "head": "及已",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有性味",
+      "tail": "辛苦"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有性味",
+      "tail": "有毒"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "活血散瘀"
+    },
+    {
+      "head": "及已",
+      "predicate": "具有功能",
+      "tail": "舒筋活络"
+    },
+    {
+      "head": "及已",
+      "predicate": "治疗",
+      "tail": "风湿腰腿痛"
+    },
+    {
+      "head": "及已",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "及已",
+      "predicate": "治疗",
+      "tail": "痔疮肿毒"
+    },
+    {
+      "head": "及已",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    }
+  ]
+}

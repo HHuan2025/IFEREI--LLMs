@@ -1,0 +1,266 @@
+{
+  "entities": [
+    {
+      "entity": "乌头叶蛇葡萄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葡萄科",
+      "type": "科"
+    },
+    {
+      "entity": "蛇葡萄属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "过山龙",
+      "type": "药材"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "热",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "陕西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "乌头叶蛇葡萄",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葡萄科",
+      "type": "科"
+    },
+    {
+      "entity": "蛇葡萄属",
+      "type": "属"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "过山龙",
+      "type": "药材"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒湿痹",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打瘀肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "研末",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "疮疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "陕西草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于科",
+      "tail": "葡萄科"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于属",
+      "tail": "蛇葡萄属"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "根皮",
+      "predicate": "具有性味",
+      "tail": "过山龙"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有性味",
+      "tail": "热"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有功能",
+      "tail": "散瘀消肿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "痈疽肿痛"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "记载于文献",
+      "tail": "陕西草药手册"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "疮疖"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于科",
+      "tail": "葡萄科"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "属于属",
+      "tail": "蛇葡萄属"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "根皮",
+      "predicate": "治疗",
+      "tail": "过山龙"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有性味",
+      "tail": "辛、热"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "具有功能",
+      "tail": "散瘀消肿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "风寒湿痹"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "跌打瘀肿"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "治疗",
+      "tail": "痈疽肿痛"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "用法",
+      "tail": "研末"
+    },
+    {
+      "head": "乌头叶蛇葡萄",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "过山龙",
+      "predicate": "记载于文献",
+      "tail": "陕西草药手册"
+    },
+    {
+      "head": "疮疖",
+      "predicate": "应用实例",
+      "tail": "过山龙鲜根皮适量，捣烂敷患处"
+    }
+  ]
+}

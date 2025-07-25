@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "entity": "二色补血草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "白花丹科",
+      "type": "科"
+    },
+    {
+      "entity": "补血草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "中药名:二色补血草",
+      "type": "中药名"
+    },
+    {
+      "entity": "子宫功能型出血",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "二色补血草",
+      "predicate": "属于科",
+      "tail": "白花丹科"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "属于属",
+      "tail": "补血草属"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "二色补血草",
+      "predicate": "治疗",
+      "tail": "子宫功能型出血"
+    }
+  ]
+}

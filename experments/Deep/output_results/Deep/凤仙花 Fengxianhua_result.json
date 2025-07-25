@@ -1,0 +1,192 @@
+{
+  "entities": [
+    {
+      "entity": "凤仙花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤仙花科",
+      "type": "科"
+    },
+    {
+      "entity": "凤仙花属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "花",
+      "type": "药用部位"
+    },
+    {
+      "entity": "种子",
+      "type": "药用部位"
+    },
+    {
+      "entity": "凤仙根",
+      "type": "中药名"
+    },
+    {
+      "entity": "凤仙透骨草",
+      "type": "中药名"
+    },
+    {
+      "entity": "急性子",
+      "type": "中药名"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "泉州本草",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "透骨草",
+      "type": "中药名"
+    },
+    {
+      "entity": "木瓜",
+      "type": "中药名"
+    },
+    {
+      "entity": "威灵仙",
+      "type": "中药名"
+    },
+    {
+      "entity": "桑枝",
+      "type": "中药名"
+    },
+    {
+      "entity": "湖北中草药志",
+      "type": "文献"
+    },
+    {
+      "entity": "跌扑伤损筋骨",
+      "type": "疾病"
+    },
+    {
+      "entity": "当归尾",
+      "type": "中药名"
+    },
+    {
+      "entity": "兰台集",
+      "type": "文献"
+    },
+    {
+      "entity": "经闭腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀血未尽",
+      "type": "疾病"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤仙花",
+      "predicate": "属于科",
+      "tail": "凤仙花科"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "属于属",
+      "tail": "凤仙花属"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位",
+      "tail": "茎"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位",
+      "tail": "花"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "药用部位",
+      "tail": "种子"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "凤仙根"
+    },
+    {
+      "head": "茎",
+      "predicate": "中药名",
+      "tail": "凤仙透骨草"
+    },
+    {
+      "head": "种子",
+      "predicate": "中药名",
+      "tail": "急性子"
+    },
+    {
+      "head": "凤仙根",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "泉州本草",
+      "predicate": "文献记载",
+      "tail": "凤仙根"
+    },
+    {
+      "head": "凤仙透骨草",
+      "predicate": "治疗",
+      "tail": "风湿关节痛"
+    },
+    {
+      "head": "湖北中草药志",
+      "predicate": "文献记载",
+      "tail": "凤仙透骨草"
+    },
+    {
+      "head": "凤仙花",
+      "predicate": "治疗",
+      "tail": "跌扑伤损筋骨"
+    },
+    {
+      "head": "兰台集",
+      "predicate": "文献记载",
+      "tail": "凤仙花"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "经闭腹痛"
+    },
+    {
+      "head": "急性子",
+      "predicate": "治疗",
+      "tail": "产后瘀血未尽"
+    },
+    {
+      "head": "安徽中草药",
+      "predicate": "文献记载",
+      "tail": "急性子"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "黑面神属",
+      "type": "属"
+    },
+    {
+      "entity": "嫩枝叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "一叶萩根",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一叶萩",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "属于属",
+      "tail": "黑面神属"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "药用部位",
+      "tail": "嫩枝叶"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "一叶萩根",
+      "predicate": "治疗",
+      "tail": "阳痿"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "entity": "云木香",
+      "type": "中药名"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "风毛菊属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "木香",
+      "type": "中药名"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "调中导滞",
+      "type": "功能"
+    },
+    {
+      "entity": "胸胁胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾后重",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "丸",
+      "type": "用法"
+    },
+    {
+      "entity": "散",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "云木香",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "云木香",
+      "predicate": "属于属",
+      "tail": "风毛菊属"
+    },
+    {
+      "head": "云木香",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "木香",
+      "predicate": "性味",
+      "tail": "辛"
+    },
+    {
+      "head": "木香",
+      "predicate": "性味",
+      "tail": "苦"
+    },
+    {
+      "head": "木香",
+      "predicate": "性味",
+      "tail": "温"
+    },
+    {
+      "head": "木香",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "木香",
+      "predicate": "具有功能",
+      "tail": "调中导滞"
+    },
+    {
+      "head": "木香",
+      "predicate": "主治疾病",
+      "tail": "胸胁胀满"
+    },
+    {
+      "head": "木香",
+      "predicate": "主治疾病",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "木香",
+      "predicate": "主治疾病",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "木香",
+      "predicate": "主治疾病",
+      "tail": "痢疾后重"
+    },
+    {
+      "head": "木香",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "木香",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "木香",
+      "predicate": "用法",
+      "tail": "散"
+    }
+  ]
+}

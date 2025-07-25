@@ -1,0 +1,431 @@
+{
+  "entities": [
+    {
+      "entity": "列当",
+      "type": "药用植物"
+    },
+    {
+      "entity": "列当科",
+      "type": "科"
+    },
+    {
+      "entity": "列当属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "味甘",
+      "type": "性味"
+    },
+    {
+      "entity": "性温",
+      "type": "性味"
+    },
+    {
+      "entity": "补肾壮阳",
+      "type": "功能"
+    },
+    {
+      "entity": "强筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "润肠",
+      "type": "功能"
+    },
+    {
+      "entity": "肾虚阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "宫冷不孕",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿佝偻病",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "盘骨软弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "浸洒",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤洗",
+      "type": "用法"
+    },
+    {
+      "entity": "食医心镜",
+      "type": "文献"
+    },
+    {
+      "entity": "吉林中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "春、夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "列当",
+      "type": "药材"
+    },
+    {
+      "entity": "列当科",
+      "type": "科"
+    },
+    {
+      "entity": "列当属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "春、夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "味甘",
+      "type": "性味"
+    },
+    {
+      "entity": "性温",
+      "type": "性味"
+    },
+    {
+      "entity": "补肾壮阳",
+      "type": "功能"
+    },
+    {
+      "entity": "强筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "润肠",
+      "type": "功能"
+    },
+    {
+      "entity": "肾虚阳痿",
+      "type": "疾病"
+    },
+    {
+      "entity": "遗精",
+      "type": "疾病"
+    },
+    {
+      "entity": "宫冷不孕",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿佝偻病",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝冷痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "盘骨软弱",
+      "type": "疾病"
+    },
+    {
+      "entity": "肠燥便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿肠炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用量"
+    },
+    {
+      "entity": "浸酒",
+      "type": "用法"
+    },
+    {
+      "entity": "适量",
+      "type": "用量"
+    },
+    {
+      "entity": "煎汤洗",
+      "type": "用法"
+    },
+    {
+      "entity": "治阳事不兴",
+      "type": "应用实例"
+    },
+    {
+      "entity": "食医心镜",
+      "type": "文献"
+    },
+    {
+      "entity": "治肾寒腰痛",
+      "type": "应用实例"
+    },
+    {
+      "entity": "吉林中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "列当",
+      "predicate": "属于科",
+      "tail": "列当科"
+    },
+    {
+      "head": "列当",
+      "predicate": "属于属",
+      "tail": "列当属"
+    },
+    {
+      "head": "列当",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有性味",
+      "tail": "味甘"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "补肾壮阳"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "强筋骨"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "润肠"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "肾虚阳痿"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "遗精"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "宫冷不孕"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "小儿佝偻病"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "腰膝冷痛"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "盘骨软弱"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "小儿肠炎"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "煎汤"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "浸洒"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "煎汤洗"
+    },
+    {
+      "head": "列当",
+      "predicate": "应用实例",
+      "tail": "食医心镜"
+    },
+    {
+      "head": "列当",
+      "predicate": "应用实例",
+      "tail": "吉林中草药"
+    },
+    {
+      "head": "列当",
+      "predicate": "采收时间",
+      "tail": "春、夏季"
+    },
+    {
+      "head": "列当",
+      "predicate": "属于科",
+      "tail": "列当科"
+    },
+    {
+      "head": "列当",
+      "predicate": "属于属",
+      "tail": "列当属"
+    },
+    {
+      "head": "列当",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有性味",
+      "tail": "味甘"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "补肾壮阳"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "强筋骨"
+    },
+    {
+      "head": "列当",
+      "predicate": "具有功能",
+      "tail": "润肠"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "肾虚阳痿"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "遗精"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "宫冷不孕"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "小儿佝偻病"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "腰膝冷痛"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "盘骨软弱"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "肠燥便秘"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "小儿肠炎"
+    },
+    {
+      "head": "列当",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "列当",
+      "predicate": "用法",
+      "tail": "3-9克"
+    },
+    {
+      "head": "列当",
+      "predicate": "用法",
+      "tail": "浸酒"
+    },
+    {
+      "head": "列当",
+      "predicate": "用法",
+      "tail": "适量"
+    },
+    {
+      "head": "列当",
+      "predicate": "治疗",
+      "tail": "煎汤洗"
+    },
+    {
+      "head": "治阳事不兴",
+      "predicate": "记载于文献",
+      "tail": "食医心镜"
+    },
+    {
+      "head": "治肾寒腰痛",
+      "predicate": "记载于文献",
+      "tail": "吉林中草药"
+    }
+  ]
+}

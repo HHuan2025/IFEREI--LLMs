@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "entity": "华南远志",
+      "type": "药用植物"
+    },
+    {
+      "entity": "远志科",
+      "type": "科"
+    },
+    {
+      "entity": "远志属",
+      "type": "属"
+    },
+    {
+      "entity": "带根全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "大金牛草",
+      "type": "药材"
+    },
+    {
+      "entity": "春",
+      "type": "采收时间"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "切段晒干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "祛痰",
+      "type": "功能"
+    },
+    {
+      "entity": "消积",
+      "type": "功能"
+    },
+    {
+      "entity": "散瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "咳嗽咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿疳积",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "毒蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "紫背金牛",
+      "type": "药用植物"
+    },
+    {
+      "entity": "癫痫",
+      "type": "疾病"
+    },
+    {
+      "entity": "金不换",
+      "type": "药用植物"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "华南远志",
+      "predicate": "属于科",
+      "tail": "远志科"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "属于属",
+      "tail": "远志属"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "药用部位为",
+      "tail": "带根全草"
+    },
+    {
+      "head": "带根全草",
+      "predicate": "中药名",
+      "tail": "大金牛草"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "采收季节",
+      "tail": "春"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "采收季节",
+      "tail": "夏季"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "采收加工",
+      "tail": "切段晒干"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "祛痰"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "消积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "散瘀"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "咳嗽咽痛"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "瘰疬"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "痈肿"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "治疗",
+      "tail": "毒蛇咬伤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "外用",
+      "tail": "捣敷"
+    },
+    {
+      "head": "华南远志",
+      "predicate": "外用",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "紫背金牛",
+      "predicate": "应用实例",
+      "tail": "小儿疳积"
+    },
+    {
+      "head": "金不换",
+      "predicate": "应用实例",
+      "tail": "癫痫"
+    }
+  ]
+}

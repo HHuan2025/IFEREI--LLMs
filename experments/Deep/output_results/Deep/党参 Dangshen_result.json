@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "entity": "党参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "桔梗科",
+      "type": "科"
+    },
+    {
+      "entity": "党参属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "党参",
+      "type": "中药名"
+    },
+    {
+      "entity": "东党",
+      "type": "中药名"
+    },
+    {
+      "entity": "潞党",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿自汗症",
+      "type": "疾病"
+    },
+    {
+      "entity": "江苏中医",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "青海省中医验方汇编",
+      "type": "文献"
+    },
+    {
+      "entity": "脱肛",
+      "type": "疾病"
+    },
+    {
+      "entity": "全国中草药汇编",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "党参",
+      "predicate": "属于科",
+      "tail": "桔梗科"
+    },
+    {
+      "head": "党参",
+      "predicate": "属于属",
+      "tail": "党参属"
+    },
+    {
+      "head": "党参",
+      "predicate": "药用部位",
+      "tail": "干燥根"
+    },
+    {
+      "head": "党参",
+      "predicate": "中药名",
+      "tail": "党参"
+    },
+    {
+      "head": "党参",
+      "predicate": "中药名",
+      "tail": "东党"
+    },
+    {
+      "head": "党参",
+      "predicate": "中药名",
+      "tail": "潞党"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿自汗症"
+    },
+    {
+      "head": "江苏中医",
+      "predicate": "文献记载",
+      "tail": "小儿自汗症"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "小儿口疮"
+    },
+    {
+      "head": "青海省中医验方汇编",
+      "predicate": "文献记载",
+      "tail": "小儿口疮"
+    },
+    {
+      "head": "党参",
+      "predicate": "治疗",
+      "tail": "脱肛"
+    },
+    {
+      "head": "全国中草药汇编",
+      "predicate": "文献记载",
+      "tail": "脱肛"
+    }
+  ]
+}

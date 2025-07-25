@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "刺五加",
+      "type": "药用植物"
+    },
+    {
+      "entity": "五加科",
+      "type": "科"
+    },
+    {
+      "entity": "五加属",
+      "type": "属"
+    },
+    {
+      "entity": "根及根茎或茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "刺五加",
+      "type": "中药名"
+    },
+    {
+      "entity": "小儿筋骨痿软",
+      "type": "疾病"
+    },
+    {
+      "entity": "宁夏中草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "风湿疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "甘肃中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "刺五加",
+      "predicate": "属于科",
+      "tail": "五加科"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "属于属",
+      "tail": "五加属"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "药用部位",
+      "tail": "根及根茎或茎"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "中药名",
+      "tail": "刺五加"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "小儿筋骨痿软"
+    },
+    {
+      "head": "宁夏中草药手册",
+      "predicate": "文献记载",
+      "tail": "刺五加"
+    },
+    {
+      "head": "刺五加",
+      "predicate": "治疗",
+      "tail": "风湿疼痛"
+    },
+    {
+      "head": "甘肃中草药手册",
+      "predicate": "文献记载",
+      "tail": "刺五加"
+    }
+  ]
+}

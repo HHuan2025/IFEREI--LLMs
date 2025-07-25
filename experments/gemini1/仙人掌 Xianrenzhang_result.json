@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "entity": "仙人掌",
+      "type": "药用植物"
+    },
+    {
+      "entity": "仙人掌科",
+      "type": "科"
+    },
+    {
+      "entity": "仙人掌属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "行气活血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "胃痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痞块",
+      "type": "疾病"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺痨咯血",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡疔疖",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳痈",
+      "type": "疾病"
+    },
+    {
+      "entity": "痄腮",
+      "type": "疾病"
+    },
+    {
+      "entity": "癣疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "烫伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "冻伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "急性菌痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "广州部队《常用中草药手册》",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "仙人掌",
+      "predicate": "属于科",
+      "tail": "仙人掌科"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "属于属",
+      "tail": "仙人掌属"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "具有功能",
+      "tail": "行气活血"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "胃痈"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "痞块"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "喉痛"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "肺痨咯血"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "痔血"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "疮疡疔疖"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "乳痈"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "痄腮"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "癣疾"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "烫伤"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "冻伤"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "治疗",
+      "tail": "急性菌痢"
+    },
+    {
+      "head": "仙人掌",
+      "predicate": "记载于文献",
+      "tail": "广州部队《常用中草药手册》"
+    }
+  ]
+}

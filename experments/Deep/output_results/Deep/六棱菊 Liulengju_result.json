@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "entity": "六棱菊",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "六棱菊属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "鹿耳翎",
+      "type": "中药名"
+    },
+    {
+      "entity": "鹿耳翎根",
+      "type": "中药名"
+    },
+    {
+      "entity": "风寒咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "久年头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后风痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "青竹蛇咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "江西草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "六棱菊",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "属于属",
+      "tail": "六棱菊属"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "药用部位",
+      "tail": "根"
+    },
+    {
+      "head": "全草",
+      "predicate": "中药名",
+      "tail": "鹿耳翎"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "鹿耳翎根"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽"
+    },
+    {
+      "head": "福建中草药",
+      "predicate": "文献记载",
+      "tail": "六棱菊"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "治疗",
+      "tail": "久年头痛"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "治疗",
+      "tail": "产后风痛"
+    },
+    {
+      "head": "福建药物志",
+      "predicate": "文献记载",
+      "tail": "六棱菊"
+    },
+    {
+      "head": "六棱菊",
+      "predicate": "治疗",
+      "tail": "青竹蛇咬伤"
+    },
+    {
+      "head": "江西草药",
+      "predicate": "文献记载",
+      "tail": "六棱菊"
+    }
+  ]
+}

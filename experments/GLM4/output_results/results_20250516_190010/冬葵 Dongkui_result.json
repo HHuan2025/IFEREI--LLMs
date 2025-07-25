@@ -1,0 +1,495 @@
+{
+  "entities": [
+    {
+      "entity": "冬葵",
+      "type": "药用植物"
+    },
+    {
+      "entity": "锦葵科",
+      "type": "科"
+    },
+    {
+      "entity": "锦葵属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "嫩苗",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬葵子",
+      "type": "中药名"
+    },
+    {
+      "entity": "冬葵叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "冬葵根",
+      "type": "中药名"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "利水通淋",
+      "type": "功能"
+    },
+    {
+      "entity": "滑肠通便",
+      "type": "功能"
+    },
+    {
+      "entity": "下乳",
+      "type": "功能"
+    },
+    {
+      "entity": "清热",
+      "type": "功能"
+    },
+    {
+      "entity": "利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "滑肠",
+      "type": "功能"
+    },
+    {
+      "entity": "通乳",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "淋病",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "大便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汗不行",
+      "type": "疾病"
+    },
+    {
+      "entity": "肺热咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "热毒下痢",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿热黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "二便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳汁不下",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疖痈肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "丹毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法用量"
+    },
+    {
+      "entity": "散剂",
+      "type": "用法用量"
+    },
+    {
+      "entity": "外用",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法用量"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法用量"
+    },
+    {
+      "entity": "煎水含漱",
+      "type": "用法用量"
+    },
+    {
+      "entity": "小儿小便不通",
+      "type": "应用举例"
+    },
+    {
+      "entity": "时行黄病",
+      "type": "应用举例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬葵",
+      "predicate": "属于科",
+      "tail": "锦葵科"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "属于属",
+      "tail": "锦葵属"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位为",
+      "tail": "嫩苗"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "冬葵",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "果实",
+      "predicate": "中药名",
+      "tail": "冬葵子"
+    },
+    {
+      "head": "叶",
+      "predicate": "中药名",
+      "tail": "冬葵叶"
+    },
+    {
+      "head": "根",
+      "predicate": "中药名",
+      "tail": "冬葵根"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "利水通淋"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "滑肠通便"
+    },
+    {
+      "head": "果实",
+      "predicate": "具有功能",
+      "tail": "下乳"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "清热"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "利湿"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "滑肠"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "通乳"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "清热利水"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "淋病"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "大便不通"
+    },
+    {
+      "head": "果实",
+      "predicate": "主治疾病",
+      "tail": "乳汗不行"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "肺热咳嗽"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "咽喉肿痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "热毒下痢"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "湿热黄疸"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "二便不通"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "乳汁不下"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "疮疖痈肿"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "丹毒"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "水肿"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "热淋"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "带下"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "乳痈"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "疳疮"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "6-15克"
+    },
+    {
+      "head": "果实",
+      "predicate": "用法用量",
+      "tail": "散剂"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "煎汤"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "10-30克"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "鲜品可用至60克"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "捣汁"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "捣敷"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "煎水含漱"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "15-30克"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "捣汁"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "外用"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "适量"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "小儿小便不通",
+      "predicate": "应用举例",
+      "tail": "冬葵子1升，以水2升，煮取1升，分服，入滑石末6铢"
+    },
+    {
+      "head": "时行黄病",
+      "predicate": "应用举例",
+      "tail": "用葵叶煮汁饮之"
+    }
+  ]
+}

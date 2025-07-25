@@ -1,0 +1,248 @@
+{
+  "entities": [
+    {
+      "entity": "化州柚",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "柑橘属",
+      "type": "属"
+    },
+    {
+      "entity": "未成熟或近成熟的干燥外层果皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "化橘红",
+      "type": "药材"
+    },
+    {
+      "entity": "夏季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "散寒燥湿",
+      "type": "功能"
+    },
+    {
+      "entity": "利气消痰",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "喉痒痰多",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积伤酒",
+      "type": "疾病"
+    },
+    {
+      "entity": "呕恶痞闷",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-6克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "散",
+      "type": "器官"
+    },
+    {
+      "entity": "气虚及阴虚有燥痰者",
+      "type": "不宜与"
+    },
+    {
+      "entity": "支气管炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "石串莲",
+      "type": "其他"
+    },
+    {
+      "entity": "30克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "15克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "青竹标",
+      "type": "其他"
+    },
+    {
+      "entity": "12克",
+      "type": "疾病"
+    },
+    {
+      "entity": "云南中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "化州柚",
+      "predicate": "具有颜色",
+      "tail": "芸香科"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "属于属",
+      "tail": "伪尾实体182"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "药用部位为",
+      "tail": "未成熟或近成熟的干燥外层果皮"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "包含中药",
+      "tail": "化橘红"
+    },
+    {
+      "head": "夏季",
+      "predicate": "采收时间",
+      "tail": "化州柚"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "相关基因",
+      "tail": "苦"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有功能",
+      "tail": "伪尾实体733"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "具有功能",
+      "tail": "利气消痰"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "风寒咳嗽"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "喉痒痰多"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "食积伤酒"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "治疗",
+      "tail": "呕恶痞闷"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "煎汤",
+      "predicate": "治疗",
+      "tail": "3-6克"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "内服",
+      "tail": "丸"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "内服",
+      "tail": "散"
+    },
+    {
+      "head": "化州柚",
+      "predicate": "不宜与",
+      "tail": "气虚及阴虚有燥痰者"
+    },
+    {
+      "head": "石串莲",
+      "predicate": "位于",
+      "tail": "化橘红"
+    },
+    {
+      "head": "石串莲",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "石串莲",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    },
+    {
+      "head": "青竹标",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "青竹标",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    },
+    {
+      "head": "化橘红",
+      "predicate": "治疗",
+      "tail": "支气管炎"
+    },
+    {
+      "head": "化橘红",
+      "predicate": "记载于文献",
+      "tail": "云南中草药"
+    }
+  ]
+}

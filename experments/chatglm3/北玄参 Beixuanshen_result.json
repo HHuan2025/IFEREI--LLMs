@@ -1,0 +1,578 @@
+{
+  "entities": [
+    {
+      "entity": "北玄参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "玄参科",
+      "type": "科"
+    },
+    {
+      "entity": "玄参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "咸",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "功能"
+    },
+    {
+      "entity": "清热凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "滋阴降火",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒散结",
+      "type": "功能"
+    },
+    {
+      "entity": "温热病热和营血",
+      "type": "疾病"
+    },
+    {
+      "entity": "身热",
+      "type": "疾病"
+    },
+    {
+      "entity": "烦渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "舌绛",
+      "type": "疾病"
+    },
+    {
+      "entity": "发斑",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨蒸劳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚烦不寤",
+      "type": "疾病"
+    },
+    {
+      "entity": "津伤便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "目涩昏花",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉喉肿痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "瘰疬痰核",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈疽疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "重型流感",
+      "type": "疾病"
+    },
+    {
+      "entity": "流行性脑脊髓膜炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "败血证",
+      "type": "疾病"
+    },
+    {
+      "entity": "生石膏",
+      "type": "药材"
+    },
+    {
+      "entity": "知母",
+      "type": "药材"
+    },
+    {
+      "entity": "玄参",
+      "type": "药材"
+    },
+    {
+      "entity": "生地黄",
+      "type": "药材"
+    },
+    {
+      "entity": "麦门冬",
+      "type": "药材"
+    },
+    {
+      "entity": "温病条辨",
+      "type": "文献"
+    },
+    {
+      "entity": "北玄参",
+      "type": "药材"
+    },
+    {
+      "entity": "玄参科",
+      "type": "科"
+    },
+    {
+      "entity": "玄参属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "咸",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热凉血",
+      "type": "功能"
+    },
+    {
+      "entity": "滋阴降火",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒散结",
+      "type": "功能"
+    },
+    {
+      "entity": "身热",
+      "type": "功能"
+    },
+    {
+      "entity": "烦渴",
+      "type": "功能"
+    },
+    {
+      "entity": "舌绛",
+      "type": "功能"
+    },
+    {
+      "entity": "发斑",
+      "type": "功能"
+    },
+    {
+      "entity": "骨蒸劳嗽",
+      "type": "功能"
+    },
+    {
+      "entity": "虚烦不寤",
+      "type": "功能"
+    },
+    {
+      "entity": "津伤便秘",
+      "type": "功能"
+    },
+    {
+      "entity": "目涩昏花",
+      "type": "功能"
+    },
+    {
+      "entity": "咽喉喉肿痛",
+      "type": "功能"
+    },
+    {
+      "entity": "瘰疬痰核",
+      "type": "功能"
+    },
+    {
+      "entity": "痈疽疮毒",
+      "type": "功能"
+    },
+    {
+      "entity": "重型流感",
+      "type": "应用实例"
+    },
+    {
+      "entity": "流行性脑脊髓膜炎",
+      "type": "应用实例"
+    },
+    {
+      "entity": "败血证",
+      "type": "应用实例"
+    },
+    {
+      "entity": "生石膏",
+      "type": "应用实例"
+    },
+    {
+      "entity": "知母",
+      "type": "应用实例"
+    },
+    {
+      "entity": "玄参",
+      "type": "应用实例"
+    },
+    {
+      "entity": "生地黄",
+      "type": "应用实例"
+    },
+    {
+      "entity": "麦门冬",
+      "type": "应用实例"
+    },
+    {
+      "entity": "温病条辨",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北玄参",
+      "predicate": "属于科",
+      "tail": "玄参科"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "属于属",
+      "tail": "玄参属"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "咸"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "清热凉血"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "滋阴降火"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "解毒散结"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "温热病热和营血"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "身热"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "烦渴"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "舌绛"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "发斑"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "骨蒸劳嗽"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "虚烦不寤"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "津伤便秘"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "目涩昏花"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "咽喉喉肿痛"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "瘰疬痰核"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "痈疽疮毒"
+    },
+    {
+      "head": "生石膏",
+      "predicate": "具有性味",
+      "tail": "重型流感"
+    },
+    {
+      "head": "知母",
+      "predicate": "具有性味",
+      "tail": "重型流感"
+    },
+    {
+      "head": "玄参",
+      "predicate": "具有性味",
+      "tail": "重型流感"
+    },
+    {
+      "head": "生地黄",
+      "predicate": "具有性味",
+      "tail": "重型流感"
+    },
+    {
+      "head": "麦门冬",
+      "predicate": "具有性味",
+      "tail": "重型流感"
+    },
+    {
+      "head": "重型流感",
+      "predicate": "记载于文献",
+      "tail": "温病条辨"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "属于科",
+      "tail": "玄参科"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "属于属",
+      "tail": "玄参属"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "咸"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "清热凉血"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "滋阴降火"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "具有功能",
+      "tail": "解毒散结"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "温热病热和营血"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "身热"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "烦渴"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "舌绛"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "发斑"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "骨蒸劳嗽"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "虚烦不寤"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "津伤便秘"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "目涩昏花"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "咽喉喉肿痛"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "瘰疬痰核"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "治疗",
+      "tail": "痈疽疮毒"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "丸"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "散"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "重型流感"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "流行性脑脊髓膜炎"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "败血证"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "生石膏"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "知母"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "玄参"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "生地黄"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "应用实例",
+      "tail": "麦门冬"
+    },
+    {
+      "head": "北玄参",
+      "predicate": "记载于文献",
+      "tail": "温病条辨"
+    }
+  ]
+}

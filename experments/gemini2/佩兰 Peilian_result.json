@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "entity": "佩兰",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "泽兰属",
+      "type": "属"
+    },
+    {
+      "entity": "地上部分",
+      "type": "药用部位"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "平",
+      "type": "性味"
+    },
+    {
+      "entity": "解暑化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "辟秽和中",
+      "type": "功能"
+    },
+    {
+      "entity": "感受暑湿",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒热头痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿润内蕴",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘痞不饥",
+      "type": "疾病"
+    },
+    {
+      "entity": "恶心呕吐",
+      "type": "疾病"
+    },
+    {
+      "entity": "口中甜腻",
+      "type": "疾病"
+    },
+    {
+      "entity": "消渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "阴虚血燥",
+      "type": "人群"
+    },
+    {
+      "entity": "气虚者",
+      "type": "人群"
+    },
+    {
+      "entity": "藿香叶",
+      "type": "药材"
+    },
+    {
+      "entity": "陈皮",
+      "type": "药材"
+    },
+    {
+      "entity": "半夏",
+      "type": "药材"
+    },
+    {
+      "entity": "大腹皮",
+      "type": "药材"
+    },
+    {
+      "entity": "厚朴",
+      "type": "药材"
+    },
+    {
+      "entity": "薄荷叶",
+      "type": "药材"
+    },
+    {
+      "entity": "青蒿",
+      "type": "药材"
+    },
+    {
+      "entity": "菊花",
+      "type": "药材"
+    },
+    {
+      "entity": "绿豆衣",
+      "type": "药材"
+    },
+    {
+      "entity": "时病论",
+      "type": "文献"
+    },
+    {
+      "entity": "青岛中草药手册",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "佩兰",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "属于属",
+      "tail": "泽兰属"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "药用部位为",
+      "tail": "地上部分"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "具有性味",
+      "tail": "平"
+    },
+    {
+      "head": "解暑化湿",
+      "predicate": "具有功能",
+      "tail": "佩兰"
+    },
+    {
+      "head": "辟秽和中",
+      "predicate": "具有功能",
+      "tail": "佩兰"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "感受暑湿"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "寒热头痛"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "湿润内蕴"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "脘痞不饥"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "恶心呕吐"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "口中甜腻"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "治疗",
+      "tail": "消渴"
+    },
+    {
+      "head": "藿香叶",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "陈皮",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "半夏",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "大腹皮",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "薄荷叶",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "记载于文献",
+      "tail": "时病论"
+    },
+    {
+      "head": "青蒿",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "菊花",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "绿豆衣",
+      "predicate": "与",
+      "tail": "佩兰"
+    },
+    {
+      "head": "佩兰",
+      "predicate": "记载于文献",
+      "tail": "青岛中草药手册"
+    }
+  ]
+}

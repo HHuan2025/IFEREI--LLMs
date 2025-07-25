@@ -1,0 +1,1080 @@
+{
+  "entities": [
+    {
+      "entity": "假蒟",
+      "type": "药用植物"
+    },
+    {
+      "entity": "胡椒科",
+      "type": "科"
+    },
+    {
+      "entity": "胡椒属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果",
+      "type": "药用部位"
+    },
+    {
+      "entity": "假蒟根",
+      "type": "药材"
+    },
+    {
+      "entity": "假蒟子",
+      "type": "药材"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "活络",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "截虐",
+      "type": "功能"
+    },
+    {
+      "entity": "温中散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后脚肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒湿腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "哮喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "柠檬叶",
+      "type": "药材"
+    },
+    {
+      "entity": "常用中草药",
+      "type": "文献"
+    },
+    {
+      "entity": "跌打劳伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "钻骨风根",
+      "type": "药材"
+    },
+    {
+      "entity": "云南中草药选",
+      "type": "文献"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "疾病"
+    },
+    {
+      "entity": "钻骨风果",
+      "type": "药材"
+    },
+    {
+      "entity": "腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "假蒟",
+      "type": "药材"
+    },
+    {
+      "entity": "胡椒科",
+      "type": "科"
+    },
+    {
+      "entity": "胡椒属",
+      "type": "属"
+    },
+    {
+      "entity": "茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果",
+      "type": "药用部位"
+    },
+    {
+      "entity": "味苦",
+      "type": "性味"
+    },
+    {
+      "entity": "性温",
+      "type": "性味"
+    },
+    {
+      "entity": "祛风散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "行气止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "活络",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风除湿",
+      "type": "功能"
+    },
+    {
+      "entity": "止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "截疟",
+      "type": "功能"
+    },
+    {
+      "entity": "温中散寒",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "风寒咳喘",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后脚肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打损伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "脚气",
+      "type": "疾病"
+    },
+    {
+      "entity": "妊娠水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "牙痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡",
+      "type": "疾病"
+    },
+    {
+      "entity": "痔肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "疟疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹胀痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "寒湿腹泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "捣敷",
+      "type": "用法"
+    },
+    {
+      "entity": "泡酒",
+      "type": "用法"
+    },
+    {
+      "entity": "煎水洗",
+      "type": "用法"
+    },
+    {
+      "entity": "含漱",
+      "type": "用法"
+    },
+    {
+      "entity": "哮喘",
+      "type": "功能"
+    },
+    {
+      "entity": "云南中草药选",
+      "type": "文献"
+    },
+    {
+      "entity": "常用中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "假蒟",
+      "predicate": "属于科",
+      "tail": "胡椒科"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "属于属",
+      "tail": "胡椒属"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "果"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "活络"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "泄泻痢疾"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "产后脚肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "截虐"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "妊娠水肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痔肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "温中散寒"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "化湿消肿"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "寒湿腹泻"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "哮喘",
+      "predicate": "治疗",
+      "tail": "假蒟"
+    },
+    {
+      "head": "哮喘",
+      "predicate": "治疗",
+      "tail": "柠檬叶"
+    },
+    {
+      "head": "常用中草药",
+      "predicate": "记载于文献",
+      "tail": "哮喘"
+    },
+    {
+      "head": "风湿痛",
+      "predicate": "治疗",
+      "tail": "钻骨风根"
+    },
+    {
+      "head": "跌打劳伤",
+      "predicate": "治疗",
+      "tail": "钻骨风根"
+    },
+    {
+      "head": "云南中草药选",
+      "predicate": "记载于文献",
+      "tail": "钻骨风根"
+    },
+    {
+      "head": "胃痛",
+      "predicate": "治疗",
+      "tail": "钻骨风果"
+    },
+    {
+      "head": "腹胀",
+      "predicate": "治疗",
+      "tail": "钻骨风果"
+    },
+    {
+      "head": "食欲不振",
+      "predicate": "治疗",
+      "tail": "钻骨风果"
+    },
+    {
+      "head": "云南中草药选",
+      "predicate": "记载于文献",
+      "tail": "钻骨风果"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "属于科",
+      "tail": "胡椒科"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "属于属",
+      "tail": "胡椒属"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "茎"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "假蒟",
+      "predicate": "药用部位为",
+      "tail": "果"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "味苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "味辛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有性味",
+      "tail": "性温"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "活络"
+    },
+    {
+      "head": "茎",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "活络"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "祛风散寒"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "活络"
+    },
+    {
+      "head": "全草",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风除湿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "止痛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "解毒"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "截疟"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "温中散寒"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "行气止痛"
+    },
+    {
+      "head": "果",
+      "predicate": "具有功能",
+      "tail": "化湿消肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "泄泻痢疾"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "产后脚肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "泄泻痢疾"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "产后脚肿"
+    },
+    {
+      "head": "叶",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风寒咳喘"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "脘腹胀满"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "泄泻痢疾"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "产后脚肿"
+    },
+    {
+      "head": "全草",
+      "predicate": "治疗",
+      "tail": "跌打损伤"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "脚气"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "妊娠水肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疮疡"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "痔肿"
+    },
+    {
+      "head": "根",
+      "predicate": "治疗",
+      "tail": "疟疾"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "脘腹胀痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "寒湿腹泻"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "牙痛"
+    },
+    {
+      "head": "果",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "茎",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "茎",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "全草",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "泡酒"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "煎水洗"
+    },
+    {
+      "head": "根",
+      "predicate": "用法",
+      "tail": "含漱"
+    },
+    {
+      "head": "果",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "果",
+      "predicate": "用法",
+      "tail": "煎水含漱"
+    },
+    {
+      "head": "哮喘",
+      "predicate": "应用实例",
+      "tail": "假蒟"
+    },
+    {
+      "head": "云南中草药选",
+      "predicate": "记载于文献",
+      "tail": "假蒟"
+    },
+    {
+      "head": "常用中草药",
+      "predicate": "记载于文献",
+      "tail": "假蒟"
+    }
+  ]
+}

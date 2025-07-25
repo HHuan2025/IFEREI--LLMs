@@ -1,0 +1,72 @@
+{
+  "entities": [
+    {
+      "entity": "九里香",
+      "type": "药用植物"
+    },
+    {
+      "entity": "芸香科",
+      "type": "科"
+    },
+    {
+      "entity": "九里香属",
+      "type": "属"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "带叶嫩枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "湿疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "九里香鲜枝叶",
+      "type": "中药名"
+    },
+    {
+      "entity": "九里香叶",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "九里香",
+      "predicate": "属于科",
+      "tail": "芸香科"
+    },
+    {
+      "head": "九里香",
+      "predicate": "属于属",
+      "tail": "九里香属"
+    },
+    {
+      "head": "九里香",
+      "predicate": "药用部位",
+      "tail": "叶"
+    },
+    {
+      "head": "九里香",
+      "predicate": "药用部位",
+      "tail": "带叶嫩枝"
+    },
+    {
+      "head": "九里香鲜枝叶",
+      "predicate": "治疗",
+      "tail": "湿疹"
+    },
+    {
+      "head": "九里香叶",
+      "predicate": "治疗",
+      "tail": "胃痛"
+    }
+  ]
+}

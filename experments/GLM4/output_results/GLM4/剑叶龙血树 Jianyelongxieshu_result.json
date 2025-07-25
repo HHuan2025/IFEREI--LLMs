@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "entity": "剑叶龙血树",
+      "type": "药用植物"
+    },
+    {
+      "entity": "百合科",
+      "type": "科"
+    },
+    {
+      "entity": "龙血树属",
+      "type": "属"
+    },
+    {
+      "entity": "树脂",
+      "type": "药用部位"
+    },
+    {
+      "entity": "龙血竭",
+      "type": "中药名"
+    },
+    {
+      "entity": "鼻衄",
+      "type": "疾病"
+    },
+    {
+      "entity": "蒲黄",
+      "type": "中药名"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "剑叶龙血树",
+      "predicate": "属于科",
+      "tail": "百合科"
+    },
+    {
+      "head": "剑叶龙血树",
+      "predicate": "属于属",
+      "tail": "龙血树属"
+    },
+    {
+      "head": "剑叶龙血树",
+      "predicate": "药用部位",
+      "tail": "树脂"
+    },
+    {
+      "head": "树脂",
+      "predicate": "中药名",
+      "tail": "龙血竭"
+    },
+    {
+      "head": "龙血竭",
+      "predicate": "治疗",
+      "tail": "鼻衄"
+    }
+  ]
+}

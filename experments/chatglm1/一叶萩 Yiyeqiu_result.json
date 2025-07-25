@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "entity": "一叶萩",
+      "type": "药用植物"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "黑面神属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "风湿腰痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "补肾强筋",
+      "type": "功能"
+    },
+    {
+      "entity": "四肢麻木",
+      "type": "疾病"
+    },
+    {
+      "entity": "湖南药物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "一叶萩",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "属于属",
+      "tail": "黑面神属"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "具有毒性",
+      "tail": "有小毒"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "具有功能",
+      "tail": "补肾强筋"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "治疗",
+      "tail": "四肢麻木"
+    },
+    {
+      "head": "一叶萩",
+      "predicate": "记载于文献",
+      "tail": "湖南药物志"
+    }
+  ]
+}

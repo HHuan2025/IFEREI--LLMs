@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "entity": "三白草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "三白草科",
+      "type": "科"
+    },
+    {
+      "entity": "三白草属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "疔疮炎肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "绣球风",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "三白草",
+      "predicate": "属于科",
+      "tail": "三白草科"
+    },
+    {
+      "head": "三白草",
+      "predicate": "属于属",
+      "tail": "三白草属"
+    },
+    {
+      "head": "三白草",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "疔疮炎肿"
+    },
+    {
+      "head": "三白草",
+      "predicate": "治疗",
+      "tail": "绣球风"
+    }
+  ]
+}

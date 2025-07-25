@@ -1,0 +1,541 @@
+{
+  "entities": [
+    {
+      "entity": "厚朴",
+      "type": "药用植物"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "木兰属",
+      "type": "属"
+    },
+    {
+      "entity": "干皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "厚朴花",
+      "type": "药用植物"
+    },
+    {
+      "entity": "花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿消痰",
+      "type": "功能"
+    },
+    {
+      "entity": "下气除满",
+      "type": "功能"
+    },
+    {
+      "entity": "理气",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "湿滞伤中",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘痞吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积气滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸脘痞闷胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "纳谷不香",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹满痛大便闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "小儿吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "胃虚",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰惊",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳而脉浮",
+      "type": "疾病"
+    },
+    {
+      "entity": "梅核气",
+      "type": "疾病"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    },
+    {
+      "entity": "厚朴",
+      "type": "药材"
+    },
+    {
+      "entity": "木兰科",
+      "type": "科"
+    },
+    {
+      "entity": "木兰属",
+      "type": "属"
+    },
+    {
+      "entity": "干燥干皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "枝皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "干燥花蕾",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿消痰",
+      "type": "功能"
+    },
+    {
+      "entity": "下气除满",
+      "type": "功能"
+    },
+    {
+      "entity": "湿滞伤中",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘痞吐泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "食积气滞",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹胀便秘",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮喘咳",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸脘痞闷胀满",
+      "type": "疾病"
+    },
+    {
+      "entity": "纳谷不香",
+      "type": "疾病"
+    },
+    {
+      "entity": "理气",
+      "type": "功能"
+    },
+    {
+      "entity": "化湿",
+      "type": "功能"
+    },
+    {
+      "entity": "4-6月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "根皮及枝皮直接阴干",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "干皮置沸水中微煮后，堆置阴湿处，‘发汗’至内表面变紫褐色或棕褐色时，蒸软，取出，巻成筒状，干燥",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "春季花未开放时采摘",
+      "type": "采收时间"
+    },
+    {
+      "entity": "稍蒸后，晒干或低温干燥",
+      "type": "采收加工方法"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "金匮要略",
+      "type": "文献"
+    },
+    {
+      "entity": "小儿药证直诀",
+      "type": "文献"
+    },
+    {
+      "entity": "浙江药用植物志",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "厚朴",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "属于属",
+      "tail": "木兰属"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "干皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "枝皮"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "药用部位为",
+      "tail": "花蕾"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "燥湿消痰"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "下气除满"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "理气"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "化湿"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "湿滞伤中"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "脘痞吐泻"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "食积气滞"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "腹胀便秘"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "痰饮喘咳"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "胸脘痞闷胀满"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "纳谷不香"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "梅核气"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "属于科",
+      "tail": "木兰科"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "属于属",
+      "tail": "木兰属"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "干燥干皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "根皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "药用部位为",
+      "tail": "枝皮"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "燥湿消痰"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "具有功能",
+      "tail": "下气除满"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "湿滞伤中"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "脘痞吐泻"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "食积气滞"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "腹胀便秘"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "治疗",
+      "tail": "痰饮喘咳"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "理气"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "具有功能",
+      "tail": "化湿"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "胸脘痞闷胀满"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "治疗",
+      "tail": "纳谷不香"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "内服"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "3-10克"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "入丸、散"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "燥湿、泄满宜生用"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "用法",
+      "tail": "止呕宜姜汁炒用"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "采收时间",
+      "tail": "4-6月"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "采收加工",
+      "tail": "根皮及枝皮直接阴干"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "采收加工",
+      "tail": "干皮置沸水中微煮后，堆置阴湿处，‘发汗’至内表面变紫褐色或棕褐色时，蒸软，取出，巻成筒状，干燥"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "采收时间",
+      "tail": "春季花未开放时采摘"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "采收加工",
+      "tail": "稍蒸后，晒干或低温干燥"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "记载于文献",
+      "tail": "金匮要略"
+    },
+    {
+      "head": "厚朴",
+      "predicate": "记载于文献",
+      "tail": "小儿药证直诀"
+    },
+    {
+      "head": "厚朴花",
+      "predicate": "记载于文献",
+      "tail": "浙江药用植物志"
+    }
+  ]
+}

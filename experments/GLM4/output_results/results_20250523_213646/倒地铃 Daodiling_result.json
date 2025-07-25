@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "entity": "倒地铃",
+      "type": "药用植物"
+    },
+    {
+      "entity": "无患子科",
+      "type": "科"
+    },
+    {
+      "entity": "倒地铃属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "三角泡",
+      "type": "药材"
+    },
+    {
+      "entity": "诸淋",
+      "type": "疾病"
+    },
+    {
+      "entity": "金钱薄荷",
+      "type": "药材"
+    },
+    {
+      "entity": "大小便不通",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄酒",
+      "type": "药材"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "倒地铃",
+      "predicate": "属于科",
+      "tail": "无患子科"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "属于属",
+      "tail": "倒地铃属"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "药用部位",
+      "tail": "全草"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "药用部位",
+      "tail": "果实"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "诸淋"
+    },
+    {
+      "head": "倒地铃",
+      "predicate": "治疗",
+      "tail": "大小便不通"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "entities": [
+    {
+      "entity": "冬青卫矛",
+      "type": "中药名"
+    },
+    {
+      "entity": "卫矛科",
+      "type": "科"
+    },
+    {
+      "entity": "卫矛属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "茎皮及枝",
+      "type": "药用部位"
+    },
+    {
+      "entity": "叶",
+      "type": "药用部位"
+    },
+    {
+      "entity": "冬季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "全年",
+      "type": "采收时间"
+    },
+    {
+      "entity": "春季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "温",
+      "type": "性味"
+    },
+    {
+      "entity": "微温",
+      "type": "性味"
+    },
+    {
+      "entity": "活血调经",
+      "type": "功能"
+    },
+    {
+      "entity": "祛风湿",
+      "type": "功能"
+    },
+    {
+      "entity": "强筋骨",
+      "type": "功能"
+    },
+    {
+      "entity": "活血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "解毒消肿",
+      "type": "功能"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "风湿痹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "腰膝酸软",
+      "type": "疾病"
+    },
+    {
+      "entity": "跌打伤肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "骨折",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮疡肿毒",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "冬青卫矛",
+      "predicate": "属于科",
+      "tail": "卫矛科"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "属于属",
+      "tail": "卫矛属"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "茎皮及枝"
+    },
+    {
+      "head": "冬青卫矛",
+      "predicate": "药用部位为",
+      "tail": "叶"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "根",
+      "predicate": "具有性味",
+      "tail": "温"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有性味",
+      "tail": "微温"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "活血调经"
+    },
+    {
+      "head": "根",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有功能",
+      "tail": "祛风湿"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有功能",
+      "tail": "强筋骨"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "具有功能",
+      "tail": "活血止血"
+    },
+    {
+      "head": "叶",
+      "predicate": "具有功能",
+      "tail": "解毒消肿"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "月经不调"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "痛经"
+    },
+    {
+      "head": "根",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "主治疾病",
+      "tail": "风湿痹痛"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "主治疾病",
+      "tail": "腰膝酸软"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "主治疾病",
+      "tail": "跌打伤肿"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "主治疾病",
+      "tail": "骨折"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "主治疾病",
+      "tail": "吐血"
+    },
+    {
+      "head": "叶",
+      "predicate": "主治疾病",
+      "tail": "疮疡肿毒"
+    },
+    {
+      "head": "根",
+      "predicate": "采收时间",
+      "tail": "冬季"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "采收时间",
+      "tail": "全年"
+    },
+    {
+      "head": "叶",
+      "predicate": "采收时间",
+      "tail": "春季"
+    },
+    {
+      "head": "根",
+      "predicate": "用法用量",
+      "tail": "煎汤，15-30克"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "用法用量",
+      "tail": "煎汤，15-30克"
+    },
+    {
+      "head": "茎皮及枝",
+      "predicate": "用法用量",
+      "tail": "浸酒"
+    },
+    {
+      "head": "叶",
+      "predicate": "用法用量",
+      "tail": "外用:适量，鲜品捣敷"
+    },
+    {
+      "head": "根",
+      "predicate": "不宜与",
+      "tail": "孕妇"
+    }
+  ]
+}

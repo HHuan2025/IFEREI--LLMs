@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "entity": "人心果",
+      "type": "药材"
+    },
+    {
+      "entity": "山榄科",
+      "type": "科"
+    },
+    {
+      "entity": "人心果属",
+      "type": "属"
+    },
+    {
+      "entity": "果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "树皮",
+      "type": "药用部位"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "胃脘痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "急性肠胃炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "扁桃体炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "人心果",
+      "predicate": "属于科",
+      "tail": "山榄科"
+    },
+    {
+      "head": "人心果",
+      "predicate": "属于属",
+      "tail": "人心果属"
+    },
+    {
+      "head": "人心果",
+      "predicate": "药用部位为",
+      "tail": "果实"
+    },
+    {
+      "head": "人心果",
+      "predicate": "药用部位为",
+      "tail": "树皮"
+    },
+    {
+      "head": "人心果",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "人心果",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "人心果",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "人心果",
+      "predicate": "治疗",
+      "tail": "胃脘痛"
+    },
+    {
+      "head": "人心果",
+      "predicate": "治疗",
+      "tail": "急性肠胃炎"
+    },
+    {
+      "head": "人心果",
+      "predicate": "治疗",
+      "tail": "扁桃体炎"
+    },
+    {
+      "head": "人心果",
+      "predicate": "用法",
+      "tail": "煎汤"
+    }
+  ]
+}

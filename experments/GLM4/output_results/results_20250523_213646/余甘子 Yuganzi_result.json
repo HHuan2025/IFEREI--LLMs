@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "entity": "余甘子",
+      "type": "药材"
+    },
+    {
+      "entity": "大戟科",
+      "type": "科"
+    },
+    {
+      "entity": "叶下珠属",
+      "type": "属"
+    },
+    {
+      "entity": "成熟果实",
+      "type": "药用部位"
+    },
+    {
+      "entity": "感冒发热",
+      "type": "疾病"
+    },
+    {
+      "entity": "咳嗽",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽喉痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "口干烦渴",
+      "type": "疾病"
+    },
+    {
+      "entity": "维生素C缺乏症",
+      "type": "疾病"
+    },
+    {
+      "entity": "高血压",
+      "type": "疾病"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "余甘子",
+      "predicate": "属于科",
+      "tail": "大戟科"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "属于属",
+      "tail": "叶下珠属"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "药用部位",
+      "tail": "成熟果实"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "感冒发热"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "咳嗽"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "咽喉痛"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "口干烦渴"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "维生素C缺乏症"
+    },
+    {
+      "head": "余甘子",
+      "predicate": "治疗",
+      "tail": "高血压"
+    }
+  ]
+}

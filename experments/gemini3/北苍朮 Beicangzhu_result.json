@@ -1,0 +1,313 @@
+{
+  "entities": [
+    {
+      "entity": "北苍朮",
+      "type": "药用植物"
+    },
+    {
+      "entity": "菊科",
+      "type": "科"
+    },
+    {
+      "entity": "苍朮属",
+      "type": "属"
+    },
+    {
+      "entity": "根茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苍朮",
+      "type": "药材"
+    },
+    {
+      "entity": "9月上旬至11月上旬或翌年2-3月",
+      "type": "采收时间"
+    },
+    {
+      "entity": "味辛、苦，性温",
+      "type": "性味"
+    },
+    {
+      "entity": "燥湿健脾，祛风湿，明目",
+      "type": "功能"
+    },
+    {
+      "entity": "湿困脾胃",
+      "type": "疾病"
+    },
+    {
+      "entity": "倦怠嗜卧",
+      "type": "疾病"
+    },
+    {
+      "entity": "胸痞腹胀",
+      "type": "疾病"
+    },
+    {
+      "entity": "食欲不振",
+      "type": "器官"
+    },
+    {
+      "entity": "呕吐泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "痰饮",
+      "type": "疾病"
+    },
+    {
+      "entity": "湿肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "表证夹湿",
+      "type": "疾病"
+    },
+    {
+      "entity": "头身重痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "痹证湿胜",
+      "type": "疾病"
+    },
+    {
+      "entity": "肢节酸痛重着",
+      "type": "疾病"
+    },
+    {
+      "entity": "痿躄",
+      "type": "疾病"
+    },
+    {
+      "entity": "夜盲",
+      "type": "疾病"
+    },
+    {
+      "entity": "内服",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤",
+      "type": "剂型"
+    },
+    {
+      "entity": "3-9克",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸、散",
+      "type": "剂型"
+    },
+    {
+      "entity": "阴虚内热，气虚多汗者禁服",
+      "type": "不宜与"
+    },
+    {
+      "entity": "时暑暴泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "神曲",
+      "type": "药材"
+    },
+    {
+      "entity": "米饮",
+      "type": "其他"
+    },
+    {
+      "entity": "局方",
+      "type": "文献"
+    },
+    {
+      "entity": "飧泄",
+      "type": "疾病"
+    },
+    {
+      "entity": "小椒",
+      "type": "药材"
+    },
+    {
+      "entity": "醋糊丸",
+      "type": "剂型"
+    },
+    {
+      "entity": "温水",
+      "type": "其他"
+    },
+    {
+      "entity": "保命集",
+      "type": "文献"
+    },
+    {
+      "entity": "湿气身痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "白汤",
+      "type": "其他"
+    },
+    {
+      "entity": "简便单方",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "北苍朮",
+      "predicate": "属于科",
+      "tail": "菊科"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "属于属",
+      "tail": "苍朮属"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "药用部位为",
+      "tail": "根茎"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "采收时间",
+      "tail": "9月上旬至11月上旬或翌年2-3月"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "具有性味",
+      "tail": "味辛、苦，性温"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "具有功能",
+      "tail": "燥湿健脾，祛风湿，明目"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "湿困脾胃"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "倦怠嗜卧"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "胸痞腹胀"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "食欲不振"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "呕吐泄泻"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "痰饮"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "湿肿"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "表证夹湿"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "头身重痛"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "痹证湿胜"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "肢节酸痛重着"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "痿躄"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "治疗",
+      "tail": "夜盲"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "内服",
+      "tail": "煎汤"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "用法用量",
+      "tail": "3-9克"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "内服",
+      "tail": "丸、散"
+    },
+    {
+      "head": "北苍朮",
+      "predicate": "不宜与",
+      "tail": "阴虚内热，气虚多汗者禁服"
+    },
+    {
+      "head": "神曲",
+      "predicate": "位于",
+      "tail": "苍朮"
+    },
+    {
+      "head": "时暑暴泻",
+      "predicate": "应用举例",
+      "tail": "神曲"
+    },
+    {
+      "head": "局方",
+      "predicate": "记载于文献",
+      "tail": "神曲"
+    },
+    {
+      "head": "苍朮",
+      "predicate": "包含中药",
+      "tail": "小椒"
+    },
+    {
+      "head": "飧泄",
+      "predicate": "应用举例",
+      "tail": "苍朮"
+    },
+    {
+      "head": "保命集",
+      "predicate": "记载于文献",
+      "tail": "苍朮"
+    },
+    {
+      "head": "湿气身痛",
+      "predicate": "应用举例",
+      "tail": "苍朮"
+    },
+    {
+      "head": "简便单方",
+      "predicate": "相关基因",
+      "tail": "苍朮"
+    }
+  ]
+}

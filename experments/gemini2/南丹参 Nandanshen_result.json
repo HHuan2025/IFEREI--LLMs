@@ -1,0 +1,212 @@
+{
+  "entities": [
+    {
+      "entity": "南丹参",
+      "type": "药用植物"
+    },
+    {
+      "entity": "唇形科",
+      "type": "科"
+    },
+    {
+      "entity": "鼠尾草属",
+      "type": "属"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "活血化瘀",
+      "type": "功能"
+    },
+    {
+      "entity": "调经止痛",
+      "type": "功能"
+    },
+    {
+      "entity": "胸痹绞痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "心烦",
+      "type": "疾病"
+    },
+    {
+      "entity": "心悸",
+      "type": "疾病"
+    },
+    {
+      "entity": "脘腹疼痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "月经不调",
+      "type": "疾病"
+    },
+    {
+      "entity": "痛经",
+      "type": "疾病"
+    },
+    {
+      "entity": "经闭",
+      "type": "疾病"
+    },
+    {
+      "entity": "产后瘀滞腹痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩漏",
+      "type": "疾病"
+    },
+    {
+      "entity": "肝脾肿大",
+      "type": "疾病"
+    },
+    {
+      "entity": "关节痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疝气痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "疮肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "乌豆",
+      "type": "药材"
+    },
+    {
+      "entity": "福建药物志",
+      "type": "文献"
+    },
+    {
+      "entity": "南丹参15克，乌豆30克。水煎服",
+      "type": "方剂"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "南丹参",
+      "predicate": "属于科",
+      "tail": "唇形科"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "属于属",
+      "tail": "鼠尾草属"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "具有性味",
+      "tail": "苦"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "具有功能",
+      "tail": "活血化瘀"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "具有功能",
+      "tail": "调经止痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "胸痹绞痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "心烦"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "心悸"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "脘腹疼痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "月经不调"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "痛经"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "经闭"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "产后瘀滞腹痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "崩漏"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "肝脾肿大"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "关节痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "疝气痛"
+    },
+    {
+      "head": "南丹参",
+      "predicate": "治疗",
+      "tail": "疮肿"
+    },
+    {
+      "head": "痛经",
+      "predicate": "药方",
+      "tail": "南丹参15克，乌豆30克。水煎服"
+    },
+    {
+      "head": "南丹参15克，乌豆30克。水煎服",
+      "predicate": "记载于文献",
+      "tail": "福建药物志"
+    }
+  ]
+}

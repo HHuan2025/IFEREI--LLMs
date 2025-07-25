@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "entity": "丝瓜",
+      "type": "药用植物"
+    },
+    {
+      "entity": "葫芦科",
+      "type": "科"
+    },
+    {
+      "entity": "丝瓜属",
+      "type": "属"
+    },
+    {
+      "entity": "丝瓜络",
+      "type": "药材"
+    },
+    {
+      "entity": "妇女经痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "水肿",
+      "type": "疾病"
+    },
+    {
+      "entity": "腹水",
+      "type": "疾病"
+    },
+    {
+      "entity": "成熟果实的维管束",
+      "type": "药用部位"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "丝瓜",
+      "predicate": "属于科",
+      "tail": "葫芦科"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "属于属",
+      "tail": "丝瓜属"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "妇女经痛"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "水肿"
+    },
+    {
+      "head": "丝瓜络",
+      "predicate": "治疗",
+      "tail": "腹水"
+    },
+    {
+      "head": "丝瓜",
+      "predicate": "药用部位",
+      "tail": "成熟果实的维管束"
+    }
+  ]
+}

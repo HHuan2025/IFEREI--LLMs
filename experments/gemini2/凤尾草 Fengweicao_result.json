@@ -1,0 +1,302 @@
+{
+  "entities": [
+    {
+      "entity": "凤尾草",
+      "type": "药用植物"
+    },
+    {
+      "entity": "凤尾蕨科",
+      "type": "科"
+    },
+    {
+      "entity": "凤尾蕨属",
+      "type": "属"
+    },
+    {
+      "entity": "全草",
+      "type": "药用部位"
+    },
+    {
+      "entity": "根",
+      "type": "药用部位"
+    },
+    {
+      "entity": "淡",
+      "type": "性味"
+    },
+    {
+      "entity": "微苦",
+      "type": "性味"
+    },
+    {
+      "entity": "寒",
+      "type": "性味"
+    },
+    {
+      "entity": "清热利湿",
+      "type": "功能"
+    },
+    {
+      "entity": "凉血止血",
+      "type": "功能"
+    },
+    {
+      "entity": "消肿解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "痢疾",
+      "type": "疾病"
+    },
+    {
+      "entity": "泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋浊",
+      "type": "疾病"
+    },
+    {
+      "entity": "带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "黄疸",
+      "type": "疾病"
+    },
+    {
+      "entity": "疔疮肿毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "淋巴结核",
+      "type": "疾病"
+    },
+    {
+      "entity": "腮腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "乳腺炎",
+      "type": "疾病"
+    },
+    {
+      "entity": "高热抽搐",
+      "type": "疾病"
+    },
+    {
+      "entity": "蛇虫咬伤",
+      "type": "疾病"
+    },
+    {
+      "entity": "吐血",
+      "type": "疾病"
+    },
+    {
+      "entity": "衄血",
+      "type": "疾病"
+    },
+    {
+      "entity": "尿血",
+      "type": "疾病"
+    },
+    {
+      "entity": "便血",
+      "type": "疾病"
+    },
+    {
+      "entity": "外伤出血",
+      "type": "疾病"
+    },
+    {
+      "entity": "虚寒证",
+      "type": "人群"
+    },
+    {
+      "entity": "江西草药手册",
+      "type": "文献"
+    },
+    {
+      "entity": "尿路结石",
+      "type": "疾病"
+    },
+    {
+      "entity": "白花蛇舌草",
+      "type": "药材"
+    },
+    {
+      "entity": "车前草",
+      "type": "药材"
+    },
+    {
+      "entity": "金钱草",
+      "type": "药材"
+    },
+    {
+      "entity": "安徽中草药",
+      "type": "文献"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "凤尾草",
+      "predicate": "属于科",
+      "tail": "凤尾蕨科"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "属于属",
+      "tail": "凤尾蕨属"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "药用部位为",
+      "tail": "全草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "药用部位为",
+      "tail": "根"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有性味",
+      "tail": "淡"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有性味",
+      "tail": "微苦"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有性味",
+      "tail": "寒"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有功能",
+      "tail": "清热利湿"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有功能",
+      "tail": "凉血止血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "具有功能",
+      "tail": "消肿解毒"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "痢疾"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "泄泻"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "淋浊"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "带下"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "黄疸"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "疔疮肿毒"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "淋巴结核"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "腮腺炎"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "乳腺炎"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "高热抽搐"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "蛇虫咬伤"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "吐血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "衄血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "尿血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "便血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "外伤出血"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "记载于文献",
+      "tail": "江西草药手册"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "治疗",
+      "tail": "尿路结石"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "与",
+      "tail": "白花蛇舌草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "与",
+      "tail": "车前草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "与",
+      "tail": "金钱草"
+    },
+    {
+      "head": "凤尾草",
+      "predicate": "记载于文献",
+      "tail": "安徽中草药"
+    }
+  ]
+}

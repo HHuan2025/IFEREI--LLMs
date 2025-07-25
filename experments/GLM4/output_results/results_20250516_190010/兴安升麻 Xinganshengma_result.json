@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "entity": "兴安升麻",
+      "type": "中药名"
+    },
+    {
+      "entity": "毛茛科",
+      "type": "科"
+    },
+    {
+      "entity": "升麻属",
+      "type": "属"
+    },
+    {
+      "entity": "根状茎",
+      "type": "药用部位"
+    },
+    {
+      "entity": "秋季",
+      "type": "采收时间"
+    },
+    {
+      "entity": "辛",
+      "type": "性味"
+    },
+    {
+      "entity": "甘",
+      "type": "性味"
+    },
+    {
+      "entity": "微寒",
+      "type": "性味"
+    },
+    {
+      "entity": "发表透疹",
+      "type": "功能"
+    },
+    {
+      "entity": "清热解毒",
+      "type": "功能"
+    },
+    {
+      "entity": "升阳举陷",
+      "type": "功能"
+    },
+    {
+      "entity": "斑疹",
+      "type": "疾病"
+    },
+    {
+      "entity": "头痛寒热",
+      "type": "疾病"
+    },
+    {
+      "entity": "痈肿疮毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "时疫火毒",
+      "type": "疾病"
+    },
+    {
+      "entity": "口疮",
+      "type": "疾病"
+    },
+    {
+      "entity": "咽痛",
+      "type": "疾病"
+    },
+    {
+      "entity": "中气下陷",
+      "type": "疾病"
+    },
+    {
+      "entity": "脾虚泄泻",
+      "type": "疾病"
+    },
+    {
+      "entity": "久痢下重",
+      "type": "疾病"
+    },
+    {
+      "entity": "崩中",
+      "type": "疾病"
+    },
+    {
+      "entity": "妇女带下",
+      "type": "疾病"
+    },
+    {
+      "entity": "煎汤",
+      "type": "用法"
+    },
+    {
+      "entity": "酒炒",
+      "type": "用法用量"
+    },
+    {
+      "entity": "蜜炙",
+      "type": "用法用量"
+    },
+    {
+      "entity": "生用",
+      "type": "用法用量"
+    },
+    {
+      "entity": "丸散",
+      "type": "用法"
+    },
+    {
+      "entity": "研末调敷",
+      "type": "用法"
+    },
+    {
+      "entity": "煎汤含漱",
+      "type": "用法"
+    },
+    {
+      "entity": "淋洗",
+      "type": "用法"
+    },
+    {
+      "entity": "阴虚阳浮",
+      "type": "不宜与"
+    },
+    {
+      "entity": "喘满气逆",
+      "type": "不宜与"
+    },
+    {
+      "entity": "麻疹已透",
+      "type": "不宜与"
+    },
+    {
+      "entity": "口疮",
+      "type": "应用举例"
+    },
+    {
+      "entity": "升麻",
+      "type": "应用举例"
+    },
+    {
+      "entity": "黄柏",
+      "type": "应用举例"
+    },
+    {
+      "entity": "大青",
+      "type": "应用举例"
+    },
+    {
+      "entity": "卒肿毒起",
+      "type": "应用举例"
+    },
+    {
+      "entity": "升麻磨醋",
+      "type": "应用举例"
+    }
+  ],
+  "relationships": [
+    {
+      "head": "兴安升麻",
+      "predicate": "属于科",
+      "tail": "毛茛科"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "属于属",
+      "tail": "升麻属"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "药用部位为",
+      "tail": "根状茎"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "辛"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "甘"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有性味",
+      "tail": "微寒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "发表透疹"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "清热解毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "具有功能",
+      "tail": "升阳举陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "斑疹"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "头痛寒热"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "痈肿疮毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "时疫火毒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "口疮"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "咽痛"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "中气下陷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "脾虚泄泻"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "久痢下重"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "崩中"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "主治疾病",
+      "tail": "妇女带下"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "采收加工",
+      "tail": "秋季采挖"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "煎汤"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "3-6克"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "宜酒炒"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "蜜炙"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "生用"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "15克"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法用量",
+      "tail": "宜生用"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "丸散"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "研末调敷"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "煎汤含漱"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "用法",
+      "tail": "淋洗"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "不宜与",
+      "tail": "阴虚阳浮"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "不宜与",
+      "tail": "喘满气逆"
+    },
+    {
+      "head": "兴安升麻",
+      "predicate": "不宜与",
+      "tail": "麻疹已透"
+    },
+    {
+      "head": "口疮",
+      "predicate": "应用举例",
+      "tail": "升麻"
+    },
+    {
+      "head": "口疮",
+      "predicate": "应用举例",
+      "tail": "黄柏"
+    },
+    {
+      "head": "口疮",
+      "predicate": "应用举例",
+      "tail": "大青"
+    },
+    {
+      "head": "卒肿毒起",
+      "predicate": "应用举例",
+      "tail": "升麻磨醋"
+    }
+  ]
+}
